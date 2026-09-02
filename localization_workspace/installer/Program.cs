@@ -16,6 +16,7 @@ namespace MortalShell2Arabic
 {
     static class Program
     {
+        public const string Version = "1.0.0";
         const string AppId = "2584270";            // Mortal Shell II (Steam install dir "Sparta")
         static readonly string[] ModFiles =
         {
@@ -280,6 +281,15 @@ namespace MortalShell2Arabic
             close.MouseLeave += (s, e) => { close.ForeColor = Ui.Muted; };
             Controls.Add(close);
 
+            var ver = new Label
+            {
+                Text = "v" + Program.Version, Font = new Font("Segoe UI", 9f), ForeColor = Ui.Muted,
+                AutoSize = false, Size = new Size(80, 30), Location = new Point(ClientSize.Width - 92, 14),
+                TextAlign = ContentAlignment.MiddleRight, RightToLeft = RightToLeft.No, BackColor = Color.Transparent
+            };
+            ver.MouseDown += DragStart;
+            Controls.Add(ver);
+
             var logo = new PictureBox
             {
                 Image = Ui.LoadLogo(), SizeMode = PictureBoxSizeMode.Zoom, BackColor = Color.Transparent,
@@ -290,7 +300,7 @@ namespace MortalShell2Arabic
 
             var subtitle = new Label
             {
-                Text = "التعريب العربي الكامل", Font = Ui.F(18f, FontStyle.Bold), ForeColor = Ui.Gold,
+                Text = "التعريب الكامل", Font = Ui.F(18f, FontStyle.Bold), ForeColor = Ui.Gold,
                 AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
                 Size = new Size(ClientSize.Width, 58), Location = new Point(0, 242), BackColor = Color.Transparent
             };
@@ -327,7 +337,7 @@ namespace MortalShell2Arabic
             btnUninstall = new RoundButton
             {
                 Text = "إزالة اللغة العربية", Font = Ui.F(12f, FontStyle.Bold), Size = new Size(480, 52),
-                Location = new Point((ClientSize.Width - 480) / 2, 514), Base = Color.FromArgb(28, Ui.Gold), Hover = Color.FromArgb(60, Ui.Gold),
+                Location = new Point((ClientSize.Width - 480) / 2, 514), Base = Color.FromArgb(26, 30, 34), Hover = Color.FromArgb(40, 46, 52),
                 Fg = Ui.Gold, Outline = Color.FromArgb(150, Ui.Gold), Radius = 14
             };
             btnUninstall.Click += OnUninstall; Controls.Add(btnUninstall);
@@ -350,8 +360,8 @@ namespace MortalShell2Arabic
             var kofi = new RoundButton
             {
                 Text = "أعجبك التعريب؟ ادعمني على Ko-fi", Font = Ui.F(10.5f, FontStyle.Bold), Size = new Size(440, 46),
-                Location = new Point((ClientSize.Width - 440) / 2, 676), Base = Color.FromArgb(22, Ui.Gold), Hover = Color.FromArgb(55, Ui.Gold),
-                Fg = Ui.Text, Outline = Color.FromArgb(120, Ui.Gold), Radius = 23
+                Location = new Point((ClientSize.Width - 440) / 2, 676), Base = Color.FromArgb(22, 26, 30), Hover = Color.FromArgb(36, 42, 48),
+                Fg = Ui.Text, Outline = Color.FromArgb(120, Ui.Gold), Radius = 14
             };
             kofi.Click += (s, e) => { try { Process.Start(new ProcessStartInfo("https://ko-fi.com/kindiboy") { UseShellExecute = true }); } catch { } };
             Controls.Add(kofi);
