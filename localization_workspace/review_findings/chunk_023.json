@@ -1,0 +1,60 @@
+{
+ "chunk": 23,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/54D116C240821139AC61A386A0190B2C",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Allow Vratko to Wash Your Feet",
+   "ar": "السماح لفراتكو بغسل قدميك",
+   "issue": "Vratko is frozen as ڤراتكو (V -> ڤ, one of the nine V-name rows in the glossary). This row spells it فراتكو, which reads as 'Fratko' and does not match the character's name anywhere else in the build.",
+   "suggested_ar": "السماح لڤراتكو بغسل قدميك"
+  },
+  {
+   "key": "/474E2D1C4EE60A9C448DFB9A2B3BF3E5",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "A harbinger was given purpose, only to find fulfilling it did nothing to end its search for meaning.",
+   "ar": "وُهب النذير غايةً، فلم يزده بلوغها إلا بحثًا لا ينتهي عن المعنى.",
+   "issue": "Two problems in one line. (1) 'A harbinger' is indefinite and generic — the sibling Memory blurb in this same block keeps its subject indefinite ('A being' -> كائنٌ). النذير is the frozen proper name of the player character, so the Arabic asserts this is about the Harbinger himself. (2) 'did nothing to END its search' becomes 'only INCREASED his endless search' — the English says fulfilment left the search untouched, not that it intensified it.",
+   "suggested_ar": "وُهب نذيرٌ غايةً، فلم يُنهِ بلوغُها بحثَه عن المعنى."
+  },
+  {
+   "key": "/73AA55FA4E26588652C0AF94C858449F",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "A being crawled its way through an injured womb to be guided as a foundling to find that perserverence brought true purpose.",
+   "ar": "زحف كائنٌ عبر رحمٍ جريح، مقودًا كلقيطٍ، ليجد أنّ المثابرة وحدها تهب الغاية الحقّة.",
+   "issue": "وحدها ('alone') is not in the English — it turns 'perseverance brought true purpose' into an exclusive claim the source does not make.",
+   "suggested_ar": "زحف كائنٌ عبر رحمٍ جريح، مقودًا كلقيطٍ، ليجد أنّ المثابرة تهب الغاية الحقّة."
+  },
+  {
+   "key": "/96C9EEDD44A7F7F1E94B27BE4652F25A",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "A true heir will be born of the Sacred Passenger’s seed. It will take root in the Blessed Mether’s flesh. And what is the result of this most heavenly union? An end, finally, a world without the Revered.",
+   "ar": "سيولد وارثٌ حقٌّ من بذرة الراكب المقدّس، فيتجذّر في لحم الأمَّهة المباركة. وما ثمرة هذا الاتحاد السماويّ؟ نهايةٌ، أخيرًا، عالمٌ بلا مُكرَّمين.",
+   "issue": "Frozen Mether = الأُمَّهة (damma on the alif — the diacritic is what marks it as the warped classical form, not ordinary الأمّهة). This row and 0112.../E95F64E4... write الأمَّهة without it. Also 'the Revered' (singular frozen title المُكرَّم) is pluralised to مُكرَّمين, which changes it from a title into a class of people.",
+   "suggested_ar": "سيولد وارثٌ حقٌّ من بذرة الراكب المقدّس، فيتجذّر في لحم الأُمَّهة المباركة. وما ثمرة هذا الاتحاد السماويّ؟ نهايةٌ، أخيرًا، عالمٌ بلا المُكرَّم."
+  },
+  {
+   "key": "/E95F64E443051B4A38C4209D5C560228",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "And yet, let this be a lesson. For the first to believe were also the first to betray her. One ovum was not enough. They desired more. They broke open the Beacons and built larger, cruder temples in the Blessed Mether’s name.",
+   "ar": "ولتكن هذه عبرة: فأول من آمن بها كان أول من خانها. لم تكفهم بيضةٌ واحدة، بل طمعوا في المزيد، ففتحوا المنارات عنوةً، وشيّدوا معابد أضخم وأخشن باسم الأمَّهة المباركة.",
+   "issue": "Same frozen-term slip: الأمَّهة written without the damma that distinguishes the frozen الأُمَّهة.",
+   "suggested_ar": "ولتكن هذه عبرة: فأول من آمن بها كان أول من خانها. لم تكفهم بيضةٌ واحدة، بل طمعوا في المزيد، ففتحوا المنارات عنوةً، وشيّدوا معابد أضخم وأخشن باسم الأُمَّهة المباركة."
+  },
+  {
+   "key": "/0112A6924484F29FF8661BA50DA4F3F2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Answer Disciple",
+   "ar": "الرد على المريد",
+   "issue": "المُريد is the frozen rendering of Acolyte, Tiel's Shell title. Using it for a generic 'Disciple' in a prompt label makes the button read as 'Answer the Acolyte (Tiel)'.",
+   "suggested_ar": "الرد على التابع"
+  }
+ ]
+}

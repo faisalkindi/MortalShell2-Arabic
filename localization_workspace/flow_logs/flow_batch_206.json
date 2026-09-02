@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_WeaponCultist_OnInteract/C315875A46B79E0DF95843981485871F",
+  "before": "أنا مستعد وطائع، أيها النذير.",
+  "after": "أنا مستعدٌّ وراغب، أيها النذير.",
+  "why": "'willing' is راغب; طائع means obedient"
+ },
+ {
+  "key": "Dialogue_Dlg_WeaponCultist_OnInteract/31416F3B4668FB3DB685FF858BA3F498",
+  "before": "وماذا غير ذلك يمكنك أن تقدّم؟",
+  "after": "وماذا أيضًا يمكنك أن تقدّم؟",
+  "why": "tighter order; غير ذلك was doing the work of أيضًا"
+ }
+]

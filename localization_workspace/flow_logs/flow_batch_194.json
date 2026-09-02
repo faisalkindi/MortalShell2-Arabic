@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheTreasure_DrinkNektar_06/9B67C3A9482DFBB8FE6B57903A4BD903",
+  "before": "... خطأ.",
+  "after": "... خاطئ.",
+  "why": "agrees with the إنه... كله... it completes"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheTreasure_GetLockpick_03/8DB200B44B98FECD26FD18B96ED66670",
+  "before": "مفتاح واحد كما وُعِدت تمامًا.",
+  "after": "مفتاحٌ واحد، تمامًا كما وُعِدت.",
+  "why": "rhythm: تمامًا belongs before the comparison"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheTreasure_SeeNektar_05/C102C9634D7CAC20CA601CB9B6571F15",
+  "before": "النِّكتار... إنه حقيقي.",
+  "after": "الرَّحيق... إنه حقيقي.",
+  "why": "Nektar is frozen as الرَّحيق; النكتار is the transliteration the glossary forbids"
+ }
+]

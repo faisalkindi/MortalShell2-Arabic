@@ -1,0 +1,98 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_02/30A81FDF4B7EF7E392CB0EA1A123DE70",
+  "before": "متأكد أن الفطر سيصنع العجائب.",
+  "after": "لا شك أن الفطر سيصنع العجائب.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_02/9F092921409EF24FA7573BB9504D4569",
+  "before": "حسنًا، ثمّة عللٌ أسوأ يقينًا.",
+  "after": "حسنًا، ثمّة أدواءٌ أسوأ بالتأكيد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_02/3AF80B774438006B231F96BF9DAEF424",
+  "before": "ماذا لو كانت هذه العلّة علّة في العقل؟",
+  "after": "ماذا لو كان دائي هذا داءً في العقل؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_03/56A56DF6480519E46776BC961078C5B5",
+  "before": "نسيتُ أن أردّ لطفك.",
+  "after": "نسيتُ أن أردّ لك جميلك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_03/3172B40F4D97E6C118B58A9412E47D8F",
+  "before": "ربما يكون هذا المُقوّي علاجًا لكل عللي؟",
+  "after": "ربما كان هذا الشراب دواءً لكل أدوائي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_03/7CDA2C3C41C8F8160D9A4D9000217A50",
+  "before": "بالتأكيد سيجذب هذا رفيقةً محتملة.",
+  "after": "لا بد أن يستهوي ذلك عشيقةً محتملة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_04/5CC7CFA54B26BC40D740D6BF8467B9F6",
+  "before": "(جرعة) ملم… شكرًا لك، يا صديقي. تفضّل.",
+  "after": "(يزدرد) ملم… شكرًا لك، يا صديقي. تفضّل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_07/959BF9884EF2D35E0409E1844A72725E",
+  "before": "... (جرعة)",
+  "after": "... (يزدرد)",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_04/EC3E03F543F9FA2B1DA76CBE9143BD54",
+  "before": "أعرف المكان بالضبط.",
+  "after": "أعرف المكان تمامًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_05/9962E57043AEF6D452DDF3A0A47AD75F",
+  "before": "بعد أن «أتقيّأ» مكافأة بالطبع. (تجشّؤ)",
+  "after": "بعد أن «أسعُل» لك مكافأة، بالطبع. (تجشّؤ)",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_05/69912CE24953CE2D9CE70AA208B3936E",
+  "before": "بالتأكيد يوجد هنا أكثر من مجانين.",
+  "after": "لا بد أن في هذا المكان أحدًا غير المجانين.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_06/7C9C10564012FB45A0302DAD3C545BE5",
+  "before": "فقط… اتركني.",
+  "after": "دعني... وشأني.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_06/BDFEDFBE45B53D33549789BC8A9881A7",
+  "before": "إنها رحمةٌ لطيفة.",
+  "after": "إنها رحمةٌ كريمة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_07/1DA10D21448A557659AB3FA111CA1228",
+  "before": "إنه يرتاح الآن.",
+  "after": "لقد استراح الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_09/F1C5A52542BBD03283819D85D97068D2",
+  "before": "الآن… أيمكننا الحصول على بعض الخصوصية؟",
+  "after": "الآن… أتتركنا وشأننا قليلًا؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_10/F173BB5345F472AC32E587B5ECB2FB9C",
+  "before": "أو الجرعات اللذيذة.",
+  "after": "ولا إلى الجرعات الشهية.",
+  "why": "flow"
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "chunk": 72,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_02_20",
+   "type": "mistranslation",
+   "severity": "high",
+   "source_en": "I must be exquisitely corpulent",
+   "ar": "لا بدّ أنّي بديعُ البدانة",
+   "issue": "MODALITY FLIP. The line continues into 02_30 'for my triumphant return', a purpose adjunct, so 'must' here is deontic/purposive — he has to be fattened up for the occasion (cf. Interact_12_10 'Stop feeding me', Interact_Lazlo_06_20 'Locked away like this'). لا بدّ أنّي is epistemic — 'I must surely BE exquisitely fat' — an inference about his present state, which cannot govern a purpose clause. The Arabic reads as vanity about how fat he already is instead of the black joke that he is being fattened deliberately.",
+   "suggested_ar": "عليّ أن أكون بديعَ البدانة"
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_09_10_Neg",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "No matter how small.",
+   "ar": "مهما كان صغيرًا.",
+   "issue": "Same node family as 09_10_Pos. The implied subject of 'how small' is the tribute/offering, and every Arabic noun used for it in this corpus is feminine (جزية، عطيّة، مساهمة). Masculine صغيرًا has no antecedent it can agree with.",
+   "suggested_ar": "مهما صَغُرت."
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_11_30",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "How I’ve… matured.",
+   "ar": "كم… نضجت.",
+   "issue": "Unvocalised نضجت is readable as نضجتَ ('how YOU have matured') as easily as نضجتُ ('how I have matured'), and the preceding line 11_20 is addressed to Lazlo ('Go and tell him what you’ve seen'), which actively primes the second-person reading. That inverts who the boast is about.",
+   "suggested_ar": "كم… نضجتُ."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_QuestionTishina/E84641084969FC64D091FB8CE9651BA2",
+  "before": "إذن... أَماتكا هي إلهك أم هو؟",
+  "after": "إذن... أماتكا إلهُكِ أم هو؟",
+  "why": "addressee is Sester Tishina - feminine; also cut the stranded هي"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_QuestionTishina/9EE8D67545A13E9045E3C08FCDE7EAAD",
+  "before": "من الذي منحك هذه السلطة... لتقرري أيّ إلهٍ حقيقي؟",
+  "after": "ومن ذا الذي منحكِ هذه السلطة... لتقرري إلهَ مَن هو الحقّ؟",
+  "why": "'whose god is real' is about the worshipper, not which of several gods; feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_QuestionTishina/2F47D64F4713CBF41F319C9169AB8C67",
+  "before": "تكفرين مجددًا.",
+  "after": "تُجدِّفين مجددًا.",
+  "why": "blasphemy = تجديف, consistent with the same charge elsewhere in this memory"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_Rise/CE41F8614F5A8F0E379D8489B577816D",
+  "before": "أرجوك، لا تتوقف الآن.",
+  "after": "أرجوكِ، لا تتوقفي الآن.",
+  "why": "Smert is begging Tishina, who is beating him - feminine imperative"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_FightDialogue/721E508A4E9A21344CC4998E8502C2CB",
+  "before": "ضرباتك تفتقر إلى الإيمان.",
+  "after": "ضرباتك تفتقر إلى اليقين.",
+  "why": "conviction here is اليقين; الإيمان is already carrying 'faith' in this scene"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_FightPause/5FB9B14A45C12147400AA0AB7D2EDB3F",
+  "before": "لا... لا أستطيع فعل ذلك.",
+  "after": "أنا... لا أستطيع فعل ذلك.",
+  "why": "the source stammers 'I… I', not 'No… no'"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_WalkToGloomPit/CAFBAD75494918BE1D9A47B86CA62579",
+  "before": "وعلى شفاهٍ هامسة.",
+  "after": "وعلى شفاهٍ متمتمة.",
+  "why": "muttering is تمتمة, not whispering"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_WalkToGloomPit/71A312194F5F1709DBAE758E08D5B4AF",
+  "before": "لكن لا مزيد من ذلك.",
+  "after": "لكن ليس بعد اليوم.",
+  "why": "'but no more' ends the era; لا مزيد من ذلك read as a quantity"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Commotion/F126791F4043BE6536DBD180716DAD81",
+  "before": "دع ماتكا تقرر.",
+  "after": "لتقرر ماتكا.",
+  "why": "jussive لـ is the liturgical shape here, matching فلتملأك elsewhere"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Commotion/297218FA4E985BBE622FE7AC7DAC0956",
+  "before": "ربما الأفضل أن نرحل.",
+  "after": "لعلّ الأفضل أن نرحل.",
+  "why": "لعلّ is the Arabic hedge in a cautious suggestion"
+ }
+]

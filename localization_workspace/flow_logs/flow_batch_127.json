@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_PyreMobFire/570F0B8D4D6E4F964BF2F6AA2818A76A",
+  "before": "ارتَح جيدًا، أيها اللقيط.",
+  "after": "نَم قريرًا، أيها اللقيط.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_TakeTorch/AB4D10D3489BB56F9F7F14B402AAB49F",
+  "before": "قمنا بدورنا.",
+  "after": "أدّينا دورنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_AfterTurning/10FFEC4A49A222F9A21ABC84D759B12E",
+  "before": "أُخَيّاتي—",
+  "after": "أيتها الأُخَيّات—",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_Intro/6A3182A54D5C96D5B50441A8A2F1CE12",
+  "before": "أخشى أننا انفصلنا كثيرًا.",
+  "after": "أخشى أننا تباعدنا أكثر من اللازم.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/AE44AD9541A0B209223D58B64690ABDC",
+  "before": "رأيتُ ما ينتظر.",
+  "after": "رأيتُ ما هو آتٍ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/7329EAA64F166BD22CB99C9196F3C1D0",
+  "before": "إن لم تستطيعي الموافقة على هذا…",
+  "after": "إن عجزتِ عن قبول هذا…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/EC2B08CA48C8055F3F59649CB6DD9A53",
+  "before": "لا فرق في ذلك.",
+  "after": "لا فرق.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/D24677F34580B77B5E437E9CFF9ED575",
+  "before": "لا أحد.",
+  "after": "لا خيار.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/15578B3C452B3A4427C8348B82DC641D",
+  "before": "قُضي أمرُ مصيرنا منذ زمن بعيد.",
+  "after": "قُضي في مصيرنا منذ أمدٍ بعيد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/224690F5427BFA8E4CDE78A3042F869E",
+  "before": "قُضي أمرُ مصيرنا منذ زمن بعيد.",
+  "after": "قُضي في مصيرنا منذ أمدٍ بعيد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/38DF592540E92909323AF2B2B6E84C8A",
+  "before": "إذن سنُريكِ خطأ طريقك.",
+  "after": "إذن سنجعلكِ ترين ضلالَ طريقكِ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_02_SpeakUp/DDD323F3488DBE37B813D9A2A3F61FC3",
+  "before": "أيّ خيار لديّ؟",
+  "after": "وأيّ خيار لي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheReunion_01_CombatEscalate/E2F7ED984D4ED78BDF4D3FB1507E2B9F",
+  "before": "تعالَي.",
+  "after": "هيّا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheReunion_01_CombatEscalate/3E1F36C8429F57EBFD9887918974A25B",
+  "before": "إنه مستقبلكِ في مواجهة مستقبلي.",
+  "after": "مستقبلكِ في مواجهة مستقبلي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheReunion_01_ReleaseYourSesters_Continue/DF4CF49D48F8BDD2286E82897B48BD92",
+  "before": "مهما حمل المستقبل.",
+  "after": "مهما يحمل المستقبل.",
+  "why": "flow"
+ }
+]

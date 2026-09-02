@@ -1,0 +1,24 @@
+{
+ "chunk": 101,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_QuestionTishina/2CE4C60F4F093F3C4B621CB51E59B377",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "The First Hierarch, of course.",
+   "ar": "الهيرارك الأول، بالطبع.",
+   "issue": "Hierarch is now frozen as الكاهن الأكبر. This row keeps the bare transliteration الهيرارك, so the cult's highest office is named one way here and another wherever the frozen term is applied.",
+   "suggested_ar": "الكاهن الأكبر الأول، بالطبع."
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_Rise/6F4E93834EB1686D62C38BAFAABF1109",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "You’re not a heretic.",
+   "ar": "لست زنديقًا.",
+   "issue": "Undiacriticized لست زنديقًا reads equally as لستَ (you are not a heretic) and لستُ (I am not a heretic). Both are live in this scene - Tishina is judging Smert and Smert is defending himself - so the reader cannot tell who is being acquitted.",
+   "suggested_ar": "لستَ زنديقًا."
+  }
+ ]
+}

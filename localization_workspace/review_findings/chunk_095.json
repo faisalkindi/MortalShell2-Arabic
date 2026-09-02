@@ -1,0 +1,15 @@
+{
+ "chunk": 95,
+ "rows_reviewed": 87,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Shellkeeper_Interact_01/286A90FC47EBC7873955C0A485613E8C",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "I am Zhirelle, the Shellkeeper.",
+   "ar": "أنا زيريل، حارسة الهَياكل.",
+   "issue": "Reporting for a ruling, not asserting an error. The frozen form is حارس الهَياكل (glossary: 'Shellkeeper, character, حارس الهَياكل, Zhirelle's title'); this row feminises it to حارسة. Since the title belongs to a female character the feminine is arguably the correct application, but the frozen string is masculine, so the glossary entry should either be updated to حارسة الهَياكل or this row aligned to it. Whichever is chosen, it must match every other Shellkeeper row.",
+   "suggested_ar": "أنا زيريل، حارس الهَياكل."
+  }
+ ]
+}

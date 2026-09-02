@@ -1,0 +1,116 @@
+[
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/FD4A13234D639FA385D83E99BD91A8E4",
+  "before": "(يضحك) ظننت أننا سنبقى صديقين إلى الأبد.",
+  "after": "(يضحك) ظننت أننا سنصير أعزّ صديقين إلى الأبد.",
+  "why": "'best friends' nuance was lost in 'صديقين'"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/EDBB588E41187206713A75B43D9B7569",
+  "before": "في البداية… كانت أوقاتًا طيّبة.",
+  "after": "في البداية… كان الأمر ممتعًا.",
+  "why": "'كانت أوقاتًا طيّبة' is ungrammatical (kāna + fem. with acc. plural predicate); natural idiom instead"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/36EC03534B6227066E223C962921A2FD",
+  "before": "لكن بلا حظّ.",
+  "after": "لكن دون جدوى.",
+  "why": "'بلا حظّ' is a calque of 'no luck'; دون جدوى is the Arabic idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/14B769CC44D18480CC66EBBC094DC269",
+  "before": "لكن لا يمكنك أكل هذا العدد من الفئران.",
+  "after": "لكن كم فأرًا يستطيع المرء أن يأكل؟",
+  "why": "calque 'هذا العدد من الفئران' only parses via English; rhetorical question carries the same sense"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/5442FC3F400A794912F15FB46F3C7622",
+  "before": "لكن… رحل هو.",
+  "after": "لكنه… رحل.",
+  "why": "English-driven word order 'رحل هو'"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/A9375A184A902C5420B26EBD4F6A2684",
+  "before": "همم… أتعرف؟",
+  "after": "همم… أتدري ماذا؟",
+  "why": "'أتعرف؟' drops the 'you know what' turn-opener"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/155B4EA54091F3BB3B69A1A27D71DF49",
+  "before": "أعني انظر إلى حالك.",
+  "after": "أعني، انظر إلى نفسك.",
+  "why": "'انظر إلى حالك' reads as an insult; line is admiring"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/5DBB94A745DFABC5A36B9CB8BCEB870B",
+  "before": "أحتاج شيئًا أكثر.",
+  "after": "أحتاج إلى ما هو أكثر.",
+  "why": "'شيئًا أكثر' is bare English structure"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/52D1E89D49A216755D03F6A7228F50CB",
+  "before": "حاولت أن أرمي نفسي من فوق الجرف…",
+  "after": "حاولت أن أرمي نفسي من الجرف…",
+  "why": "'من فوق الجرف' redundant in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/2DF6552C447C6FFE5840AEA3AC14FAAC",
+  "before": "كنت فقط أمزح بكل هذا… الأمر.",
+  "after": "كنت أعبث فحسب… بكل هذه الحكاية.",
+  "why": "'أمزح بكل هذا الأمر' is not an Arabic collocation"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/98291E4D4E3CEFA135238B86BCE394FB",
+  "before": "مجرد رحلة شاقة للصعود مجددًا.",
+  "after": "مجرد صعودٍ طويلٍ للعودة.",
+  "why": "'رحلة شاقة للصعود مجددًا' overtranslates a clipped beat"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/BF2461E6427D230451F750AE93AEDDCA",
+  "before": "يبدو أنني لا أُجيد لا العيش ولا الموت.",
+  "after": "يبدو أنني لا أُجيد العيش ولا الموت.",
+  "why": "stacked لا…لا after a negated verb is ungrammatical"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/63CDECEE42F029FFA7612693DF13888B",
+  "before": "أوه، ها، لن تراني مجددًا.",
+  "after": "آه، اسمع، لن تراني بعد اليوم.",
+  "why": "'ها' is a transliterated filler with no Arabic function"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/AD45B81B480DDF51D97E6EA7717603C4",
+  "before": "أوي، آه… أصغِ إليّ!",
+  "after": "يا هذا، آه… أصغِ!",
+  "why": "'أوي' transliterates an English interjection instead of rendering it"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/315093A7457772D209056493239D0D1F",
+  "before": "شخصٌ لا يعرف شيئًا حقًا.",
+  "after": "شخصٌ لا يعرف شيئًا البتّة.",
+  "why": "'لا يعرف شيئًا حقًا' is ambiguous; البتّة gives the emphatic 'really nothing'"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/99BBDD64484C5DEAC22B6691D10ADBEA",
+  "before": "هذا لن ينجح أبدًا.",
+  "after": "لن ينجح هذا أبدًا.",
+  "why": "verb-initial reads naturally here"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/F6AF2B33463A9FD331B9EEA443C68CCD",
+  "before": "حسنًا، لا… انسَ الأمر.",
+  "after": "أجل… لا، انسَ الأمر.",
+  "why": "'حسنًا' misses the self-interrupting 'Yeah, nah'"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/0DAFC7184E248ACD63E3919865E59672",
+  "before": "يمكن أن تكون خليفتي.",
+  "after": "قد تكون أنت خليفتي.",
+  "why": "'يمكن أن تكون' is flat modal calque; تقديم of أنت carries the offer"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/57993EBD462C29D95DEEB9B8A8D80A12",
+  "before": "يجب أن تحلّ محلّي.",
+  "after": "عليك أن تحلّ محلّي.",
+  "why": "'يجب أن' is heavier than the casual English"
+ }
+]

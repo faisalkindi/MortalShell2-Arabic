@@ -1,0 +1,164 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_04_20",
+  "before": "سأسمح لك بالكلام.",
+  "after": "سآذن لك بالكلام.",
+  "why": "'سأسمح' is bureaucratic permission; أذِن is the courtly grant a Grand-Prince uses"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_01_20",
+  "before": "(يضحك) أنا أمزح.",
+  "after": "(يضحك بخفة) إنّما أمزح.",
+  "why": "chuckles != laughs (house form يضحك بخفة); إنّما أمزح is the Arabic idiom, not the calqued أنا أمزح"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_17_10",
+  "before": "(يئنّ) أنت الفائز، لازلو.",
+  "after": "(يئنّ) غلبتَني يا لازلو.",
+  "why": "'You win' as concession is غلبتني in Arabic; أنت الفائز is a scoreboard, not a concession"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_03_40",
+  "before": "(يضحك) هذا يكفي تقريبًا.",
+  "after": "(يضحك) تفي بالغرض.",
+  "why": "'Close enough' calqued as هذا يكفي تقريبًا; تفي بالغرض is the real idiom"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_03_30",
+  "before": "(يستهزئ) أين كنّا؟",
+  "after": "(يستهزئ) والآن، أين كنّا؟",
+  "why": "'Now' was dropped; والآن restores the resumptive beat"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Repeated_10",
+  "before": "(يتنهد)",
+  "after": "(يتنهّد)",
+  "why": "stage-direction shadda"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_01_00",
+  "before": "(يتنهد)",
+  "after": "(يتنهّد)",
+  "why": "stage-direction shadda"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_NoPoison_RepeatedEnd_10",
+  "before": "(يتنهد) أظنّ لا.",
+  "after": "(يتنهّد) لا، على ما أظنّ.",
+  "why": "'أظنّ لا' is not Arabic word order; shadda fix"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_05_20",
+  "before": "(يتنهد) لماذا؟",
+  "after": "(يتنهّد) لماذا؟",
+  "why": "stage-direction shadda"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_07_15",
+  "before": "...كأنّني مجرم عاديّ.",
+  "after": "…كأنّني مجرمٌ وضيع.",
+  "why": "'common criminal' in Egon's classist mouth is وضيع, not the flat عاديّ; ellipsis normalized"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_11_30",
+  "before": "...مقارنةً بنبيلٍ واحد؟",
+  "after": "…في مقابل نبيلٍ واحد؟",
+  "why": "مقارنةً بـ is a statistics word; في مقابل carries the worth-weighing sense; ellipsis normalized"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_08_30",
+  "before": "...تمامًا كما أنت الآن.",
+  "after": "…تمامًا كما أنت الآن.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_05_15",
+  "before": "...بادرة تقدير.",
+  "after": "…بادرة تقدير.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_KillThief_Lazlo_09_10",
+  "before": "حكم مناسب.",
+  "after": "حكمٌ لائق.",
+  "why": "'fitting' rendered لائق in the sibling tribute line; unify"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_01_20b",
+  "before": "أفارس أنت؟ أم فلّاح يرتدي درعًا؟",
+  "after": "أفارسٌ أنت؟ أم فلّاحٌ في درع؟",
+  "why": "'يرتدي درعًا' is a limp relative clause; في درع keeps the two-beat sneer of the paired line"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_NoClean_03_10",
+  "before": "أهم. ألا تنسى شيئًا؟",
+  "after": "أهِمْ. أما نسيتَ شيئًا؟",
+  "why": "undiacriticized أهم reads as 'most important'; أما نسيتَ is the Arabic reproach form"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_13_20",
+  "before": "كل هذا بسبب بضعة فلّاحين موتى؟",
+  "after": "أكلّ هذا من أجل بضعة فلّاحين قتلى؟",
+  "why": "interrogative alif front-loads the incredulity; massacre dead are قتلى, not موتى"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_15_10",
+  "before": "وانظر إلى أين أوصلني ذلك.",
+  "after": "وانظر إلى ما آل إليه أمري.",
+  "why": "'انظر إلى أين أوصلني ذلك' is an English shape; ما آل إليه أمري is the Arabic one"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_03_30",
+  "before": "وقد تركوا فوضى.",
+  "after": "وقد خلّفوا فوضى.",
+  "why": "خلّف is the verb Arabic uses for leaving a mess behind"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_10_20",
+  "before": "ومع ذلك أرسلني أبي بعيدًا.",
+  "after": "ومع ذلك أبعدني أبي.",
+  "why": "'أرسلني بعيدًا' is a two-word calque of 'sent away'; أبعدني says it in one"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_10_40",
+  "before": "ومع ذلك تمشي حرًّا طليقًا.",
+  "after": "ومع ذلك تمشي طليقًا.",
+  "why": "حرًّا طليقًا is a doubled synonym for a bare 'freely'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Repeated_10_Pos",
+  "before": "أانتهينا هنا؟",
+  "after": "أفرغنا من هذا؟",
+  "why": "'أانتهينا' is an unreadable alif cluster; أفرغنا من هذا is idiomatic and haughty"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_01_20",
+  "before": "كما يقول...",
+  "after": "كما يقول…",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_12_20",
+  "before": "لكنّني أحتاج منك أن تُبلّغ أبي.",
+  "after": "لكنّي أريدك أن تُبلّغ أبي.",
+  "why": "'أحتاج منك أن' is translationese; أريدك أن is the Arabic construction"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Thief_Lazlo_09_20",
+  "before": "لكن ربما ترى طريقًا آخر؟",
+  "after": "لكن لعلّك ترى سبيلًا آخر؟",
+  "why": "لعلّ over ربما and سبيل over طريق lift the line into Egon's mock-courtly register"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_14_20",
+  "before": "لكنّك قد تندم على ذلك.",
+  "after": "لكنّك قد تندم.",
+  "why": "'على ذلك' is implied by the verb in Arabic"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_08_10",
+  "before": "يا ابن العمّ! انتابني وحيٌ آخر.",
+  "after": "يا ابن العمّ! لقد أتاني وحيٌ آخر.",
+  "why": "انتاب is for feelings seizing someone, not for a revelation arriving"
+ }
+]

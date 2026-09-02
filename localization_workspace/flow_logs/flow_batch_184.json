@@ -1,0 +1,98 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions/498132784B636A2351B9D7B4B7A738CA",
+  "before": "مجنونًا كنتَ أم لا، سأُخضعك، يا أُخَيّ سميرت.",
+  "after": "مجنونًا كنتَ أم لا، سأُخضعك يا أُخَيّ سميرت.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions/3332A3C544AAE633D7178C81086324CF",
+  "before": "أمسك يدك، يا أُخَيّ... وإلا.",
+  "after": "كُفّ يدك يا أُخَيّ... وإلا.",
+  "why": "كُفّ يدك is the Arabic idiom for 'stay your hand'; vocative comma removed"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions/052F8626489D604B6768ECB621295098",
+  "before": "هذا هو!",
+  "after": "هكذا!",
+  "why": "'هذا هو' is a literal rendering of encouragement"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions_2/98F3AAA94CC17BE100933D87895EE2FF",
+  "before": "مجنونًا كنتَ أم لا، سأُخضعك، يا أُخَيّ سميرت.",
+  "after": "مجنونًا كنتَ أم لا، سأُخضعك يا أُخَيّ سميرت.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions_2/284B2F1B4D526C5760F3C8AE2BBE323B",
+  "before": "هذا هو!",
+  "after": "هكذا!",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_Intro/E4846F3241D84A474A77F29AF9D6F2B0",
+  "before": "هذا سخيف، يا أُخَيّ سميرت.",
+  "after": "هذا عبث يا أُخَيّ سميرت.",
+  "why": "سخيف is 'silly'; absurd here is عبث. vocative comma removed"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_IntroContinued/C533410F47581E74634874B8DDD40EB8",
+  "before": "إذًا سـ«أُشجّعك».",
+  "after": "إذًا «سأُشجّعك».",
+  "why": "the سـ prefix stranded outside the quotation marks"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_SmertLoses/06D52F12468DF3984C4607B00E167E9D",
+  "before": "انهض، يا أُخَيّ سميرت.",
+  "after": "انهض يا أُخَيّ سميرت.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_SmertLoses/725F09CA455832EB19FB07B0D2B1E989",
+  "before": "أجل، هذا هو! لقد فعلتها.",
+  "after": "أجل، هكذا! لقد فعلتها.",
+  "why": "matches the encouragement idiom used elsewhere in the scene"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_Taunts/A5E914C247ED086A407AA489DE4E01B7",
+  "before": "ومع ذلك فالعاهرة، على الأقل، تُقدّم بعض النفع للعالم.",
+  "after": "ومع ذلك فالعاهرة، على الأقل، تنفع العالم بشيء.",
+  "why": "'تُقدّم بعض النفع' is a nominal calque of 'provides some benefit'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_Taunts/CE89F56B4F3966F24E4D4BA0425F1BB8",
+  "before": "تقول كل الكلمات الصحيحة... وتتظاهر بالتقوى.",
+  "after": "تقول ما يُقال تمامًا... وتتصنّع التقوى.",
+  "why": "'كل الكلمات الصحيحة' is word-for-word; تتصنّع is sharper than تتظاهر here"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_Taunts/92EF0EB847754F9238B3BBBEFF4B8633",
+  "before": "تقضي وقتًا راكعًا أكثر مما تقضيه أي عاهرة عادية.",
+  "after": "تقضي على ركبتيك وقتًا أطول مما تقضيه عاهرة رخيصة.",
+  "why": "recast so the crude double meaning of 'on your knees' lands as it does in English"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_03_Interact/224E398A415059F736888A868746912C",
+  "before": "في الظلام، وجدتني هي.",
+  "after": "في الظلام، هي من وجدتني.",
+  "why": "the point is who found whom; the trailing هي buries it"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_03_Intro/D0EC92F64436E9D147FB399D8F2E8E88",
+  "before": "أنا-انزلقتُ إلى الظلام.",
+  "after": "ا-انزلقتُ إلى الظلام.",
+  "why": "'أنا-انزلقتُ' turns a stutter into a pronoun"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_03_Intro/18B545784EC5F5E38FEED4909922DE87",
+  "before": "لا حاجة. أعرف بالفعل.",
+  "after": "لا حاجة. أعرف سلفًا.",
+  "why": "'بالفعل' is looser than سلفًا for 'already'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_03_Intro/D57D61464350CDE44781059650A42FE2",
+  "before": "لا داعي لقول المزيد.",
+  "after": "لا تزد.",
+  "why": "matches the same line rendered elsewhere in this range"
+ }
+]

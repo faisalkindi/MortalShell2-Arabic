@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Dialogue_Dlg_Prologue_ChildCultist_Archway/EA58000145F1B70D09F1CFA6D41D19A4",
+  "before": "(همسًا) آه، لقد استيقظ.",
+  "after": "(يهمس) آه، لقد استيقظ.",
+  "why": "stage directions are verb form throughout"
+ },
+ {
+  "key": "Dialogue_Dlg_Prologue_DeerMercyKill/A0D9A4B64AD2F4FBF443198F3D800B89",
+  "before": "كيف تجرؤ؟",
+  "after": "كيف أمكنك ذلك؟",
+  "why": "'كيف تجرؤ' is 'how dare you'; this line is reproach, not challenge"
+ },
+ {
+  "key": "Dialogue_Dlg_Prologue_DeerMercyKill/F6C4A9EF4DFD6A151189408C0B4E7945",
+  "before": "نحتاج دمه للطقس.",
+  "after": "نحتاج إلى دمه للطقس.",
+  "why": "احتاج governs إلى"
+ },
+ {
+  "key": "Dialogue_Dlg_Prologue_FlowerGatherer/F26BF6444F456F7785DB4DA2AC2FC25E",
+  "before": "لكن... أنا فقط أستمتع بجمالها.",
+  "after": "لكن... أنا أستمتع بجمالها فحسب.",
+  "why": "fronted 'فقط' is English adverb placement"
+ },
+ {
+  "key": "Dialogue_Dlg_Prologue_PreEggClaim/FD1969FB4AEC16CF0C3BF49B87C33196",
+  "before": "حان وقت أخذ ما هو لك.",
+  "after": "حان وقت أن تأخذ ما هو لك.",
+  "why": "'وقت أخذ' was a nominal pileup"
+ }
+]

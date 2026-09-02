@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_TheReunion_01_ThirdDefeat/C1FEDEA3457CE18914BD4DA348EA327C",
+  "before": "جرّبي القدر.",
+  "after": "اختبري القدر.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheReunion_01_UseTheCenser/F7DE8A27461981113A1C76997011D70F",
+  "before": "لماذا... لماذا تعفين عنّي؟",
+  "after": "ماذا… لِمَ تعفين عنّي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_AfterCombatLoss/002A6A944AA401A55D70659449144F36",
+  "before": "ربما تكون أنت النذير حقًا.",
+  "after": "ربما تكون أنت النذير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_GenericGreeting_BeforeTraining/A66B70A44046BE1122B1C28589AB0208",
+  "before": "أهذا… حبيبي؟",
+  "after": "أهذا... حبيبي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Intro/DBD3E5C747E1F1AFEF578D92BBD6B740",
+  "before": "أهذا… حبيبي؟",
+  "after": "أهذا... حبيبي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_GiveCenser/BEB701F5438556A0D80CBF8BE7F04D3A",
+  "before": "كنتُ آمل ألا أراه مجددًا.",
+  "after": "كنتُ آمل ألا أراها مجددًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_GiveCenser/8EF110A84844CCB29D10BBA0EE1C4A54",
+  "before": "وجدتَه.",
+  "after": "وجدتَها.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_02/BB0A6BEB47041F8A635E569D45BDF69F",
+  "before": "أين، وكيف، وجدتَه؟",
+  "after": "أين وجدتَها؟ وكيف؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_01/29F8B67744D730A0EA22C1ABF7CB9EEB",
+  "before": "أما زال فيه بعض القتال؟",
+  "after": "أما زال فيه رمقُ قتال؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_01/BC1C60C443C562E6B33669B7D8178957",
+  "before": "لا بد أن يكون.",
+  "after": "لا بدّ أن يكون.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_02/0F6A67304D68F962979D259575B1157E",
+  "before": "ربما... يمكننا تغيير المسار في النهاية.",
+  "after": "ربما أستطيعُ... ربما نستطيع تغيير المسار في النهاية.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_02/16EC820C47C52AC97C198186134A7570",
+  "before": "حسنًا. القرار لك.",
+  "after": "حسنًا. الخيار لك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_02/23BED2854AF4B6F5ACA5E3A17A83F4BC",
+  "before": "عدتَ لمزيدٍ، أيها النذير؟",
+  "after": "عدتَ للمزيد، أيها النذير؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_Interact_Generic/BA6C70AC476B46B9B725CBA451281A7E",
+  "before": "عدتَ لمزيدٍ، أيها النذير؟",
+  "after": "عدتَ للمزيد، أيها النذير؟",
+  "why": "flow"
+ }
+]

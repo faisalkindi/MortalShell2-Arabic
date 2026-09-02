@@ -1,0 +1,24 @@
+{
+ "chunk": 71,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Egon/Egon_Gift_03_40",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "(laughs) Close enough.",
+   "ar": "(يضحك) تفي بالغرض.",
+   "issue": "Scene order is Gift_03_10 'Such useless “gifts”' → 03_20 'take them away' → 03_30 'They call me “Revered.”' → 03_40 '(laughs) Close enough.' 'Close enough' therefore judges the ACCURACY of the title Revered ('near enough to the truth'), which is Egon's mock-modest vanity. تفي بالغرض means 'it serves the purpose' — adequacy of an object, not accuracy of a description — so the joke lands on the wrong target.",
+   "suggested_ar": "(يضحك) قريبٌ من الحقيقة."
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_09_10_Pos",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Especially, one so generous.",
+   "ar": "خصوصًا حين يكون كريمًا هكذا.",
+   "issue": "'one' is a pro-form for the tribute — the sibling variants under the same node (09_10_Neu 'This is perfectly adequate', 09_10_Neg 'No matter how small') are all reactions to a tribute. The Arabic recasts it as a temporal clause about a PERSON being generous (حين يكون كريمًا, masculine), which moves the compliment from the gift to the giver. Every candidate Arabic antecedent here (جزية، عطيّة، مساهمة) is feminine.",
+   "suggested_ar": "ولا سيّما إن كانت بهذا الكرم."
+  }
+ ]
+}

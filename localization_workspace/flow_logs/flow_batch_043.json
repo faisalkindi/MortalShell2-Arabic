@@ -1,0 +1,26 @@
+[
+ {
+  "key": "/7CB7E9114E075FAC83CCDE8686E5498A",
+  "before": "عن كل <Bold>{X}</> في الحقيبة، يمنح <Bold>+{Y}</> من مقاومة <Burn>الحريق</> لجميع الشخصيات",
+  "after": "عن كل <Bold>{X}</> في الحقيبة، يمنح <Bold>+{Y}</> من مقاومة <Burn>الحرق</> لجميع الشخصيات",
+  "why": "Burn is الحرق everywhere else in the corpus (all of Lazlo's tree); الحريق broke the one term across a seven-row mitigation block."
+ },
+ {
+  "key": "/03B6C78046D025AC8D00CC989A5B4CA1",
+  "before": "عن كل <Bold>{X}</> في الحقيبة، يمنح <Bold>+{Y}</> من مقاومة <Poison>السمّ</> لجميع الشخصيات",
+  "after": "عن كل <Bold>{X}</> في الحقيبة، يمنح <Bold>+{Y}</> من مقاومة <Poison>السم</> لجميع الشخصيات",
+  "why": "Frozen glossary spelling Poison = السم, matching its six sibling rows in the same block."
+ },
+ {
+  "key": "/916D1FEF47391B35B12481998B35102B",
+  "before": "انهض",
+  "after": "النهوض",
+  "why": "Its sibling prompt 'Help Up' is the verbal noun المساعدة على النهوض; the imperative broke the pair."
+ },
+ {
+  "key": "/C10BC74F407623276E2F978023A82E1C",
+  "before": "انهض",
+  "after": "النهوض",
+  "why": "Duplicate of the row above; kept identical."
+ }
+]

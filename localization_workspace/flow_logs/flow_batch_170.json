@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_TarGolem/DCBC8A6140EF50CE7DE7E4A9D6F1966E",
+  "before": "شيء ما خاطئ.",
+  "after": "ثمة خطب ما.",
+  "why": "'شيء ما خاطئ' is a calque of 'something's wrong'"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_TarGolem_Interact/2B43676D477A5599499F1191B0CD6F82",
+  "before": "لا... أستطيع تفسير الأمر.",
+  "after": "أنا... لا أستطيع تفسيره.",
+  "why": "the pause falls after 'I' in the English, not inside the negation"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_TarGolem_Interact/CE830F0C49580F7E61377399B6BC3778",
+  "before": "شيء ما خاطئ.",
+  "after": "ثمة خطب ما.",
+  "why": "same line as row 4"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_TarGolem_Interact/56894DEB4EFF615B30FD9D8DA61A2407",
+  "before": "شيء ينبغي أن أتذكّره.",
+  "after": "...ينبغي أن أتذكّره.",
+  "why": "completes row 5's dangling 'هناك شيئًا' instead of repeating شيء"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_ToxicDwarf_Interact/58BED6514DACC9497057DEA6554B40BA",
+  "before": "حكم لقرن كامل.",
+  "after": "حكم قرنًا من الزمان.",
+  "why": "'كامل' was an addition"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_ToxicDwarf_Interact/E3FCFFB748D916FEB5D2E59CBD3221F0",
+  "before": "خاطوه معًا من جديد.",
+  "after": "أعادوا خياطة أوصاله.",
+  "why": "'معًا من جديد' doubled the same idea; أوصال is the Arabic image for stitched-back limbs"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Hub_Generic/F3277C654BF61EDF1C1F3C9661EE2F4E",
+  "before": "هناك المزيد من البُيوض.",
+  "after": "ثمة بيوض أخرى في الخارج.",
+  "why": "'out there' is part of the meaning - the eggs are scattered in the world"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Hub_ReactToCorruption/16C2395343124B13E834FEB1C95E788B",
+  "before": "وأنت الدواء.",
+  "after": "وأنت العلاج.",
+  "why": "cure is العلاج throughout Ruk's lines"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Hub_ReactToCorruption/EF1D9E1740605DA0DB8EC384EEACADB3",
+  "before": "لكن واحدة فقط منها ذات أهمية.",
+  "after": "لكن واحدًا منها فقط هو ما يهمّ.",
+  "why": "'ذات أهمية' disagreed with دروب and read as a report, not a warning"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Interact_00/73DB9F574DC3A399D0C65BB92DE9FFBB",
+  "before": "وأقل منها ما هو بلا حراسة.",
+  "after": "وأقلّ من ذلك ما لا حارس له.",
+  "why": "recast to follow row 35's new shape"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Interact_00/E0F07A1242B2A1A0F3CF1E9E23D4DB74",
+  "before": "لكن قليل منها بقي.",
+  "after": "لكن لم يبقَ منها إلا قليل.",
+  "why": "verb-initial with the إلا exception reads as Arabic; 'قليل منها بقي' did not"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Interact_Generic/929B26C546BABC93CD848E8B23609811",
+  "before": "تقدّم إذًا.",
+  "after": "هيا، تحرّك!",
+  "why": "'already' is impatience; the old line was identical to row 50's calmer 'Go on then'"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Interact_Generic/9A2DABB74B4D7A72FAA8058985DC9DC0",
+  "before": "هناك المزيد من البُيوض.",
+  "after": "ثمة بيوض أخرى في الخارج.",
+  "why": "same line as row 22"
+ }
+]

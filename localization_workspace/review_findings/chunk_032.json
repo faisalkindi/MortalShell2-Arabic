@@ -1,0 +1,51 @@
+{
+ "chunk": 32,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_01_Interact/35978F0F4483845AB74E27B102675171",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "What is it that you herald?",
+   "ar": "بماذا تُبشّر؟",
+   "issue": "'herald' is rendered تُبشّر (to bring GOOD news). The line taunts the Harbinger by playing on his own title, which is frozen as النذير - the one who WARNS. تُبشّر inverts the valence and severs the pun with the title.",
+   "suggested_ar": "بماذا تُنذر؟"
+  },
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_02_AfterHeartTaken/F546B15B4C3D03C8B4D7AE9825DE18DF",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Yes… hold it close.",
+   "ar": "نعم… ضُمَّه إليك.",
+   "issue": "Same 'it' as the rest of the scene, but the pronoun gender flips. Rows 16/18 name the referent الهدية (feminine) and row 17 agrees with it (دفئها); this row switches to masculine ضُمَّه, so the two lines appear to point at different objects.",
+   "suggested_ar": "نعم… ضُمَّها إليك."
+  },
+  {
+   "key": "Dialogue_Dlg_BelligerentDrunk/ACEEA36444AF8050297E91A3960CBB2A",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "You wanna fight, brev?",
+   "ar": "أتريد الشجار يا صاحبي؟",
+   "issue": "'brev' is a frozen glossary term (brev -> يا صاح). Rendered يا صاحبي here.",
+   "suggested_ar": "أتريد الشجار يا صاح؟"
+  },
+  {
+   "key": "Dialogue_Dlg_BelligerentDrunk/1F51B846433EEDF111C8BA8097597C3C",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(incomprehensible drunken mumbling)",
+   "ar": "(تمتمة ثمِلة غير مفهومة)",
+   "issue": "The identical English stage direction is rendered (تمتمة سكران غير مفهومة) for the MumblingDrunk speaker elsewhere in the corpus and (تمتمة ثمِلة غير مفهومة) here. One English form should have one Arabic form.",
+   "suggested_ar": "(تمتمة سكران غير مفهومة)"
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_GainUpgrade_01/25D49F454AAADB161C8BADA36ECFBD5C",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "She hungers for more.",
+   "ar": "إنها تتوق إلى المزيد.",
+   "issue": "'hungers' softened to تتوق (yearns). Hunger is Franz's characterising verb for the Tarforge ('She's hungerin' fiercely'); the appetite is the point.",
+   "suggested_ar": "إنها تجوع للمزيد."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_Memory_EmberOfRebirth_01/32C78E6349CD2A84CDA742B4BA2890DB",
+  "before": "وماذا عن روحك؟",
+  "after": "فماذا عن روحك؟",
+  "why": "ف of succession links the reply to the flesh line before it"
+ },
+ {
+  "key": "Dialogue_Dlg_Memory_EmberOfRebirth_03/F5089E9342153B720630C8A4AC531135",
+  "before": "عانق الألم. فهو جمرة الميلاد الجديد.",
+  "after": "عانق المعاناة. فهي جمرة الميلاد الجديد.",
+  "why": "suffering is المعاناة; الألم is pain and weakens the aphorism"
+ },
+ {
+  "key": "Dialogue_Dlg_Memory_EmberOfRebirth_04/DDA881A449500289EBAB0E8E90B5CCBA",
+  "before": "(يئنّ من الألم)",
+  "after": "(يجهد نفسه متألمًا)",
+  "why": "strains is effort, not the moan that يئنّ names"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_09_10",
+  "before": "سأتأمّل حكمك.",
+  "after": "سأنظر في حكمك.",
+  "why": "نظر في is the verb that collocates with حكم; تأمّل is contemplation of a scene"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_NoPoison_RepeatedEnd_10",
+  "before": "أ... أهذا كل شيء؟",
+  "after": "أ… أهذا كل شيء؟",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_01_10",
+  "before": "لا بدّ أنه كان أبي.",
+  "after": "لا بدّ أنه أبي.",
+  "why": "'أنه كان أبي' carries an English copula Arabic does not need"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_15_10",
+  "before": "الأمر ليس لأنك كنتَ طفلًا.",
+  "after": "ليس السبب أنك كنتَ طفلًا.",
+  "why": "'الأمر ليس لأنك' is an ungrammatical carry-over of 'It's not because'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Repeated_30",
+  "before": "ليس آمنًا هنا.",
+  "after": "ليس المكان آمنًا هنا.",
+  "why": "'ليس آمنًا هنا' has no subject in Arabic"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_11_10",
+  "before": "سآخذ صمتك موافقة.",
+  "after": "سأعدّ صمتك موافقة.",
+  "why": "أخذ does not take this sense in Arabic; عدّ / اعتبر does"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_07_10",
+  "before": "أُجبَرتُ على الاختباء...",
+  "after": "أُجبَرتُ على الاختباء…",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_07_20",
+  "before": "طالما فكّرتُ مليًّا.",
+  "after": "لقد أطلتُ التفكير مليًّا.",
+  "why": "طالما فكّرت reads as 'as long as I thought'; أطلتُ التفكير is 'long and hard'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_06_10",
+  "before": "كان لديّ وقت طويل للتفكير.",
+  "after": "أُتيح لي وقتٌ طويل للتفكير.",
+  "why": "'كان لديّ وقت' is the English have-construction; أُتيح لي is the Arabic one"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_06_10",
+  "before": "واصل هكذا وقد تكسب لقبًا.",
+  "after": "واصل على هذا النحو، فقد تنال لقبًا.",
+  "why": "ف of consequence instead of a bare و; a لقب is نالَ, not كسبَ"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_01_30",
+  "before": "خفّف من حدّتك، يا ابن العمّ.",
+  "after": "أرخِ أعصابك، يا ابن العمّ.",
+  "why": "'خفّف من حدّتك' is a description; أرخِ أعصابك is the idiom for 'lighten up'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_09_20",
+  "before": "وفيّ حتى النهاية المريرة، أليس كذلك؟",
+  "after": "وفيٌّ حتى الرمق الأخير، همم؟",
+  "why": "'النهاية المريرة' is a calque of 'the bitter end'; Arabic says حتى الرمق الأخير; hm normalized to همم as elsewhere"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_11_20",
+  "before": "لا بدّ أنك تملّقتَ طريقك إلى هنا.",
+  "after": "لا بدّ أنك تملّقتَ حتى دخلت.",
+  "why": "'تملّقت طريقك' carries the English 'your way' object into Arabic, where it is meaningless"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_15_20",
+  "before": "لا، كان أنا.",
+  "after": "لا، بل أنا.",
+  "why": "'كان أنا' is ungrammatical; بل is the connector this correction wants"
+ }
+]

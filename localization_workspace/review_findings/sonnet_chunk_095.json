@@ -1,0 +1,6 @@
+{"chunk": 95, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_03_InteractEnd/9139C94C4C0F6DE19A63F0B071BF7E58", "type": "term_violation", "severity": "minor",
+   "source_en": "I am your disciple now.", "ar": "أنا مريدك الآن.",
+   "issue": "Generic 'disciple' (declaring devotion/followership, not Tiel's Acolyte title) rendered مريدك. Same recurring pattern flagged across chunks 079/081/084/086/088: generic disciples/followers should use أتباع-family wording, not المُريد (reserved for Tiel).",
+   "suggested_ar": "أنا من أتباعك الآن."}
+]}

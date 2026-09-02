@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_Tavern_Temp/000BC01949017FAB9DDB7A93018B8F39",
+  "before": "(تنهّد) حسنًا. أحضر لي مانجو وسأرى ما بوسعي فعله.",
+  "after": "(يتنهّد) حسنًا. أحضر لي مانجو وسأرى ما بوسعي فعله.",
+  "why": "stage direction normalised to the corpus verb form (يتنهّد)"
+ },
+ {
+  "key": "Dialogue_Dlg_Tavern_Temp/A9A0BB664D83E6A936CEA88430093237",
+  "before": "ما توقعت غير ذلك.",
+  "after": "ما ظننتُ ذلك.",
+  "why": "echoes the question it answers instead of an unrelated idiom"
+ }
+]

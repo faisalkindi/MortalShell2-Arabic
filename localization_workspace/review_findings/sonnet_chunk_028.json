@@ -1,0 +1,25 @@
+{"chunk": 28, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/F23A04EE43660CC8FA1D6A8FE59436A4",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Hexapod.", "ar": "الهكسابود.",
+   "issue": "Glossary freezes 'Hexapod' as السداسيّ الأرجل; this row uses the unapproved transliteration.",
+   "suggested_ar": "السداسيّ الأرجل."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchSomething_04/F77B6FD44F3847C16B24DA82663BDDFB",
+   "type": "term_violation", "severity": "major",
+   "source_en": "But why? What did the, uh, Hexapod do to you?", "ar": "لكن لماذا؟ ماذا فعل بك ذلك... الهكسابود؟",
+   "issue": "Same Hexapod transliteration violation.",
+   "suggested_ar": "لكن لماذا؟ ماذا فعل بك ذلك... السداسيّ الأرجل؟"},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_MerrickWalking_03/8692F5114EEE2FC1EEA388BD0B6A959A",
+   "type": "gender_error", "severity": "minor",
+   "source_en": "You made a bad “deal.”", "ar": "لقد عقدتَ «صفقة» سيئة.",
+   "issue": "In sequence, this follows Proxima explaining what her own culture would do to her ('my grafted armor would be reclaimed') - Merrick is responding to her, so the addressee is Proxima (female), but the verb is masculine عقدتَ.",
+   "suggested_ar": "لقد عقدتِ «صفقة» سيئة."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_Intro_01/B19FCC714DF0D8CB5E14129FB57CC71A",
+   "type": "gender_error", "severity": "major",
+   "source_en": "Can’t you just stick that… probe in me again?", "ar": "ألا يمكنك أن تغرزي فيّ ذلك... المسبار مرة أخرى؟",
+   "issue": "Proxima (the injured speaker, 'I am severely injured') is asking Merrick (male) to use the probe on her again; the verb uses feminine تغرزي, addressing the wrong gender.",
+   "suggested_ar": "ألا يمكنك أن تغرز فيّ ذلك... المسبار مرة أخرى؟"}
+]}

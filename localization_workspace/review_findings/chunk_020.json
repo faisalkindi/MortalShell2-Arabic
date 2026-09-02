@@ -1,0 +1,114 @@
+{
+ "chunk": 20,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Skills_Lazlo/LazloSkillInnerFire_Effect_2",
+   "type": "negation_flip",
+   "severity": "high",
+   "source_en": "Lazlo has <Burn>Burn</> <Bold>damage</> immunity",
+   "ar": "لا يلحق لازلو من <Burn>الحرق</> أي <Bold>ضرر</>.",
+   "issue": "With لازلو as the subject of يُلحق this reads 'Lazlo inflicts no Burn damage' — the opposite of an immunity, which is a defensive property. The intended passive reading ('no Burn damage reaches Lazlo') would need an accusative لازلو, and the name is indeclinable, so the sentence cannot disambiguate itself. Every sibling immunity row in the build uses the unambiguous لدى X مناعة (Eredrim/Frost, Gragu/Bloodcurse, Genessa/Stasis).",
+   "suggested_ar": "لا يُصيب <Burn>الحرق</> لازلو بأي <Bold>ضرر</>."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillGloomBoost",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Gragu kills grant {X} additional <Bold>Gloom</>",
+   "ar": "يمنح قتل غراغو {X} إضافيًا من <Bold>القَتام</>.",
+   "issue": "'قتل غراغو' is an ambiguous iḍāfa: read as an objective genitive it means 'killing Gragu', i.e. the reward is granted for killing the player's own Shell. The English is unambiguous — these are kills BY Gragu. The sibling row GraguSkillHeartless_Effect_1 avoids it correctly with a verb ('يقتلهم غراغو').",
+   "suggested_ar": "يمنحك كل عدوٍّ يقتله غراغو {X} إضافيًا من <Bold>القَتام</>."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillResolveGainBoost",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Gragu kills grant {Y} additional <Resolve>Resolve</>",
+   "ar": "يمنح قتل غراغو {Y} إضافيًا من <Resolve>العزيمة</>.",
+   "issue": "'قتل غراغو' is an ambiguous iḍāfa: read as an objective genitive it means 'killing Gragu', i.e. the reward is granted for killing the player's own Shell. The English is unambiguous — these are kills BY Gragu. The sibling row GraguSkillHeartless_Effect_1 avoids it correctly with a verb ('يقتلهم غراغو').",
+   "suggested_ar": "يمنحك كل عدوٍّ يقتله غراغو {Y} إضافيًا من <Resolve>العزيمة</>."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillRestoreHealth",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Gragu kills restore {Z} <Health>Health</>",
+   "ar": "يستعيد قتل غراغو {Z} من <Health>الصحة</>.",
+   "issue": "'قتل غراغو' is an ambiguous iḍāfa: read as an objective genitive it means 'killing Gragu', i.e. the reward is granted for killing the player's own Shell. The English is unambiguous — these are kills BY Gragu. The sibling row GraguSkillHeartless_Effect_1 avoids it correctly with a verb ('يقتلهم غراغو').",
+   "suggested_ar": "يستعيد غراغو {Z} من <Health>الصحة</> عن كل عدوٍّ يقتله."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillName_10",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Heartless",
+   "ar": "القسوة",
+   "issue": "The skill is literally about hearts — its own description (GraguSkillHeartlessDesc) says Staggering Blow 'rips out the victim's heart', and the neighbouring skill Heartwork is kept as عمل القلب. القسوة ('cruelty') keeps only the figurative half and loses the pun the name is built on.",
+   "suggested_ar": "بلا قلب"
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimPersistence_Effect_2",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Only {Y} of <Slaughterer>Slaughterer</> stacks are removed upon being <Bold>severed</>",
+   "ar": "لا يُزال سوى {Y} من تراكمات <Slaughterer>السفّاح</> عند <Bold>الانفصال</>.",
+   "issue": "'Severed' is the series' term for being knocked out of your Shell — it pairs with Shell = الهَيكل and is not a generic 'separation'. الانفصال gives the player no way to know which event this is. The term is not in the glossary and needs an owner ruling.",
+   "suggested_ar": "لا يُزال سوى {Y} من تراكمات <Slaughterer>السفّاح</> عند <Bold>الانسلاخ عن الهَيكل</>."
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimTank_Effect_1",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "{X} damage reduction per stack",
+   "ar": "{X} من خفض الضرر لكل تراكم",
+   "issue": "'Damage Reduction' is تقليل الضرر everywhere else in the build (ID_Support_DamageReductionDesc, TarstoneEffect_DamageReduction, TarstoneEffect_Support_OnKill_Protection). خفض الضرر is a second wording for the same stat, and both appear on Eredrim's and Lazlo's trees.",
+   "suggested_ar": "{X} من تقليل الضرر لكل طبقة"
+  },
+  {
+   "key": "ST_Skills_Lazlo/ShellSkillLazloFurnace_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Damage reduction increases by {Y}",
+   "ar": "يزداد خفض الضرر بمقدار {Y}.",
+   "issue": "'Damage Reduction' is تقليل الضرر everywhere else in the build (ID_Support_DamageReductionDesc, TarstoneEffect_DamageReduction, TarstoneEffect_Support_OnKill_Protection). خفض الضرر is a second wording for the same stat, and both appear on Eredrim's and Lazlo's trees.",
+   "suggested_ar": "يزداد تقليل الضرر بمقدار {Y}."
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimRadiance_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Ethereal Diapason inflicts {Z} <Fragile>Fragile</> stacks to all enemies in range",
+   "ar": "يُلحق النغم الأثيري {Z} تراكمات <Fragile>الهشاشة</> بجميع الأعداء ضمن مداه.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and batch 009's Shell ability text uses طبقات for 'stacks'. These rows use تُلحق + تراكمات, so the same counter is worded two ways across adjacent screens.",
+   "suggested_ar": "يُنزل النغم الأثيري {Z} طبقات <Fragile>الهشاشة</> بجميع الأعداء ضمن مداه."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillAnger_Effect_1",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Staggering Blow</> inflicts {X} <Weak>Weak</> stacks",
+   "ar": "تُلحق <Bold>ضربة الترنيح</> {X} تراكمات <Weak>الضعف</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and batch 009's Shell ability text uses طبقات for 'stacks'. These rows use تُلحق + تراكمات, so the same counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُنزل <Bold>ضربة الترنيح</> {X} طبقات <Weak>الضعف</>."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillAnger_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Staggering Blow</> inflicts {Y} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق <Bold>ضربة الترنيح</> {Y} تراكمات <Fragile>الهشاشة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and batch 009's Shell ability text uses طبقات for 'stacks'. These rows use تُلحق + تراكمات, so the same counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُنزل <Bold>ضربة الترنيح</> {Y} طبقات <Fragile>الهشاشة</>."
+  },
+  {
+   "key": "ST_Skills_Gragu/GraguSkillBloodcurse_Effect_3",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "When inflicting <Bleed>Bloodcurse</> Gragu has {Y} chance to fully replenish <Bold>Revered Heart</>",
+   "ar": "عند إلحاق <Bleed>لعنة الدم</>، لدى غراغو احتمال قدره {Y} لتجديد <Bold>القلب المُكرَّم</> كاملًا.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and batch 009's Shell ability text uses طبقات for 'stacks'. These rows use تُلحق + تراكمات, so the same counter is worded two ways across adjacent screens.",
+   "suggested_ar": "عند إنزال <Bleed>لعنة الدم</>، لدى غراغو احتمال قدره {Y} لتجديد <Bold>القلب المُكرَّم</> كاملًا."
+  }
+ ]
+}

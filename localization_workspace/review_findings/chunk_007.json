@@ -1,0 +1,42 @@
+{
+ "chunk": 7,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Tutorials/Tutorial_VatraSeal_4",
+   "type": "mistranslation",
+   "severity": "major",
+   "source_en": "When harden is broken by damage, your current attack quickly resumes.",
+   "ar": "إذا كسر الضررُ تحجُّرك، استأنف هجومك الحالي سريعًا.",
+   "issue": "The English states what the game does automatically; unvowelled استأنف reads first as an imperative ('resume your current attack quickly'), turning an automatic behaviour into an instruction to the player.",
+   "suggested_ar": "إذا كسر الضررُ تحجُّرك، عاد هجومك الحالي سريعًا."
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_VulnerabilityDesc",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Some enemies are more <bold>vulnerable</> to certain attacks. \n\nTry experimenting with attack types such as <bold>Light</>, <bold>Heavy</>, and <bold>Ranged</> against your adversaries.",
+   "ar": "بعض الأعداء أكثر <bold>هشاشة</> أمام هجمات بعينها.\n\nجرّب أنواع الهجوم <bold>الخفيف</> و<bold>القوي</> و<bold>البعيد</> على خصومك.",
+   "issue": "هشاشة is the frozen name of the Fragile status effect, so a bolded 'more هشاشة' reads as the status rather than as generic vulnerability; the sibling tutorial title renders Vulnerability as نقاط الضعف.",
+   "suggested_ar": "بعض الأعداء أكثر <bold>عرضةً</> لهجمات بعينها.\n\nجرّب أنواع الهجوم <bold>الخفيف</> و<bold>القوي</> و<bold>البعيد</> على خصومك."
+  },
+  {
+   "key": "ST_Core_Tutorials/Tooltip_Smert_Beatdown",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Press <Action ID=\"WeaponBuff\"/> to execute <Bold>Ground Punch</>",
+   "ar": "اضغط <Action ID=\"WeaponBuff\"/> لتنفيذ <Bold>لكمة أرضية</>",
+   "issue": "Glossary freezes Ground Punch as لكمة الأرض; لكمة أرضية is a different rendering of the frozen ability name.",
+   "suggested_ar": "اضغط <Action ID=\"WeaponBuff\"/> لتنفيذ <Bold>لكمة الأرض</>"
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EndGame",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Sending the Ova will conclude this part of the story and advance the <Bold>new game plus</> cycle.",
+   "ar": "وإرسال البُيوض يختم هذا الفصل من الحكاية ويبدأ دورة <Bold>اللعبة الجديدة +</>.",
+   "issue": "Glossary freezes New Game+ with no space before the plus, and the sibling row TutorialNewGamePlusStarted_Body in this same chunk writes اللعبة الجديدة+; the space also risks the + detaching in RTL layout.",
+   "suggested_ar": "وإرسال البُيوض يختم هذا الفصل من الحكاية ويبدأ دورة <Bold>اللعبة الجديدة+</>."
+  }
+ ]
+}

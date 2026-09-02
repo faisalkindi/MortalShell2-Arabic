@@ -1,0 +1,50 @@
+[
+ {
+  "key": "ST_Settings_Advanced/ST_LowHPVignette_On",
+  "before": "يضيف تشويشًا حول أطراف الشاشة حين تنخفض صحتك إلى حد حرج.",
+  "after": "يضيف تشويهًا حول أطراف الشاشة حين تنخفض صحتك إلى حد حرج.",
+  "why": "تشويش collides with the frozen status effect Confusion = التشويش; screen distortion is تشويه"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_DamageNumbers_FloatingDesc",
+  "before": "يعرض أرقام الإصابة صاعدة ثم متلاشية بعد الضربة.",
+  "after": "يعرض أرقام الضرر صاعدة ثم متلاشية بعد الضربة.",
+  "why": "siblings say أرقام الضرر; this row alone said أرقام الإصابة"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_AimingInputStyle_Hold",
+  "before": "استمرار الضغط",
+  "after": "الضغط المطوّل",
+  "why": "frozen Hold convention (اضغط مطوّلا) in its nominal option-label form"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_TargetSteering_OffDesc",
+  "before": "توجَّه ضربات الاشتباك بإدخال اللاعب وحده",
+  "after": "يوجّه اللاعب ضربات الاشتباك وحده",
+  "why": "'player input' calque replaced; recast verb-initial"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_DodgeStylePress",
+  "before": "تُنفَّذ المراوغة لحظة الضغط على زرها. واستخدام هذا الإعداد يعيد ربط الركض إلى الوضع الافتراضي تلقائيًا.",
+  "after": "تُنفَّذ المراوغة لحظة الضغط على زرها. ويعيد هذا الإعداد ربط الركض إلى الوضع الافتراضي تلقائيًا.",
+  "why": "cut the 'using this setting' filler that English needs and Arabic does not"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_DodgeStyleRelease",
+  "before": "تُنفَّذ المراوغة عند الضغط على زرها ثم رفعه سريعًا. واستخدام هذا الإعداد يربط الركض تلقائيًا بزر المراوغة.",
+  "after": "تُنفَّذ المراوغة عند الضغط على زرها ثم إفلاته سريعًا. ويربط هذا الإعداد الركض بزر المراوغة تلقائيًا.",
+  "why": "frozen Release = أفلت (was رفعه); same filler cut"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_CameraStyle_ImmersionDesc",
+  "before": "تقدّم الانغماس والأجواء بلقطة أقرب تتمحور حول الشخصية.",
+  "after": "تعطي الأولوية للانغماس والأجواء بلقطة أقرب تتمحور حول الشخصية.",
+  "why": "'prioritize' standardised to يعطي الأولوية, matching the Target Steering rows"
+ },
+ {
+  "key": "ST_Settings_Advanced/ST_LowHPVignette_Off",
+  "before": "يزيل تشويش انخفاض الصحة، فتبقى الشاشة صافية مهما كانت صحتك.",
+  "after": "يزيل تشويه انخفاض الصحة، فتبقى الشاشة صافية مهما كانت صحتك.",
+  "why": "same term fix, kept in step with its sibling"
+ }
+]

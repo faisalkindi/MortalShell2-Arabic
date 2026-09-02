@@ -1,0 +1,6 @@
+{"chunk": 53, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Hub_EggCultist_GenericGreeting/B7DF00FD40736D3C3192C880E2C02C68","type":"term_violation","severity":"minor",
+   "source_en":"Eggbringer.","ar":"حامل البيض.",
+   "issue":"This nickname for the Harbinger refers to the same sacred Ova he carries/recovers throughout the game, which is consistently rendered البُيوض elsewhere (frozen in 05_glossary.csv: Ova = البُيوض, NOT a generic word). Here the generic/mundane البيض ('eggs' as food) is used instead, breaking consistency with the sacred-egg register used for this exact concept everywhere else in the corpus.",
+   "suggested_ar":"حامل البُيوض."}
+]}

@@ -1,0 +1,15 @@
+{
+ "chunk": 42,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheFuneral_01_Outro/1E9E9CE74720FA2F69B6DCA3D06BE284",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "For us. For you.",
+   "ar": "من أجلنا. من أجلك.",
+   "issue": "Unvowelled من أجلك defaults to a masculine addressee. The Funeral scene is Sester Prime addressing the sesters (every neighbouring line is feminine: أطلتِ، خذي مكانكِ، كنتِ تعلمين).",
+   "suggested_ar": "من أجلنا. من أجلكِ."
+  }
+ ]
+}

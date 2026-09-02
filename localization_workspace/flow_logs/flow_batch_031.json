@@ -1,0 +1,122 @@
+[
+ {
+  "key": "ST_Skills_Eredrim/EredrimSkillSealImprovements",
+  "before": "كل مستوى يمنح إردريم تحسينات متنوعة على <Bold>الخواتِم</>.",
+  "after": "يمنح كل مستوى إردريم تحسينات متنوعة على <Bold>الخواتِم</>.",
+  "why": "Verb-initial across the whole 'Each level…' family, which runs through every Shell's skill tree."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimApathyDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Frost>الصقيع</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Frost>الصقيع</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimRadianceDesc",
+  "before": "كل مستوى يُحسِّن <Bold>النغم الأثيري</>.",
+  "after": "يُحسِّن كل مستوى <Bold>النغم الأثيري</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimExecutionerGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>الجلّاد</>.",
+  "after": "يُحسِّن كل مستوى <Bold>الجلّاد</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimShoulderBashGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>نطحة الكتف</>.",
+  "after": "يُحسِّن كل مستوى <Bold>نطحة الكتف</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimAlacrityDesc",
+  "before": "كل مستوى يخفّض تكلفة <Resolve>العزيمة</> لقدرات إردريم.",
+  "after": "يخفّض كل مستوى ما تتطلبه قدرات إردريم من <Resolve>العزيمة</>.",
+  "why": "تكلفة العزيمة لقدرات إردريم is a stacked English genitive; Arabic says it with ما تتطلبه … من."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimApathy_Effect_3",
+  "before": "يُلحق إردريم {Y} ضررًا بالأعداء <Frost>المتجمّدين</>.",
+  "after": "يُلحق إردريم ضررًا قدره {Y} بالأعداء <Frost>المتجمّدين</>.",
+  "why": "Matches the ضررًا قدره {X} shape used by every sibling damage row."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimRadiance_Effect_1",
+  "before": "يُلحق النغم الأثيري {X} ضررًا، و{Y} من <Break>ضرر الكَسر</>، بجميع الأعداء ضمن مداه.",
+  "after": "يُلحق النغم الأثيري بجميع الأعداء ضمن مداه ضررًا قدره {X}، و{Y} من <Break>ضرر الكَسر</>.",
+  "why": "Three comma-separated chunks in English order; Arabic puts the recipient early and lets the two figures land together at the end."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimCarnage_Effect_1",
+  "before": "الأعداء الذين يُجهَز عليهم ينفجرون بعنف، فيتطاير الدم مُلحقًا {X} ضررًا انتشاريًا.",
+  "after": "الأعداء الذين يُجهَز عليهم ينفجرون بعنف، فيتطاير الدم مُلحقًا ضررًا انتشاريًا قدره {X}.",
+  "why": "ضررًا قدره shape, consistent with the rest of the damage rows."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimMassacre_Effect_2",
+  "before": "قتل عدو بـ<Bold>ضربة مضادة</> يمنح {Y} تراكمات <Slaughterer>السفّاح</>.",
+  "after": "يمنح قتلُ عدوٍّ بـ<Bold>ضربة مضادة</> {Y} تراكمات <Slaughterer>السفّاح</>.",
+  "why": "Verb-initial; the verbal-noun subject up front was English word order."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimAlacrity_Effect_1",
+  "before": "{X} من تكلفة <Bold>نطحة الكتف</> من <Resolve>العزيمة</>",
+  "after": "{X} من تكلفة <Bold>نطحة الكتف</> بـ<Resolve>العزيمة</>",
+  "why": "Two chained من made the phrase unparsable; cost-in-Resolve takes بـ."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimAlacrity_Effect_3",
+  "before": "{Z} من تكلفة <Bold>النغم الأثيري</> من <Resolve>العزيمة</>",
+  "after": "{Z} من تكلفة <Bold>النغم الأثيري</> بـ<Resolve>العزيمة</>",
+  "why": "Sibling row, same fix."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillHeartlessDesc",
+  "before": "تنتزع <Bold>ضربة الترنيح</> قلب الضحية حين تُستخدم ضد أشباه البشر <Bold>الصغار</> و<Bold>المتوسطين</>، و:",
+  "after": "تنتزع <Bold>ضربة الترنيح</> قلب الضحية حين تُستخدم ضد أشباه البشر <Bold>الصغار</> و<Bold>المتوسطين</>:",
+  "why": "English's 'and:' before a list is dead weight in Arabic; the colon alone carries it — the trailing ‹، و:› read as a broken sentence."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillReveredHeartRefill",
+  "before": "كل قتل يجدد <Bold>القلب المُكرَّم</> بمقدار {X} إضافي.",
+  "after": "يجدد كل قتل <Bold>القلب المُكرَّم</> بمقدار {X} إضافي.",
+  "why": "Verb-initial, matching the 'Each …' family."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillBloodcurseDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Bleed>لعنة الدم</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Bleed>لعنة الدم</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillReveredHeartGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>القلب المُكرَّم</>.",
+  "after": "يُحسِّن كل مستوى <Bold>القلب المُكرَّم</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillStaggerPunchGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>ضربة الترنيح</>.",
+  "after": "يُحسِّن كل مستوى <Bold>ضربة الترنيح</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillHealthInrease",
+  "before": "كل مستوى يزيد <Health>الصحة القصوى</> لغراغو.",
+  "after": "يزيد كل مستوى <Health>الصحة القصوى</> لغراغو.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillResolveCost",
+  "before": "كل مستوى يخفّض تكلفة <Resolve>العزيمة</> لـ<Bold>ضربة الترنيح</>.",
+  "after": "يخفّض كل مستوى من <Resolve>العزيمة</> التي تتطلبها <Bold>ضربة الترنيح</>.",
+  "why": "Verb-initial and the stacked genitive تكلفة العزيمة لـ… unwound into a relative clause; tag order preserved."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillHeartless_Effect_3",
+  "before": "ينفجر الأعداء إلى ضباب دموي يُلحق {Y} ضررًا انتشاريًا.",
+  "after": "ينفجر الأعداء ضبابًا دمويًا يُلحق ضررًا انتشاريًا قدره {Y}.",
+  "why": "'explode into' calqued as انفجر إلى; Arabic takes the resulting state as an accusative, no preposition."
+ }
+]

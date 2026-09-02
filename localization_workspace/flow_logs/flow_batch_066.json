@@ -1,0 +1,116 @@
+[
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_DemandParasite_06/88FAAD4E45590B2AE6D23CABA0F97841",
+  "before": "دعني أنا التجربة.",
+  "after": "دعني أكون أنا التجربة.",
+  "why": "دعني أنا التجربة had no verb"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_DemandParasite_07/3E81386F4BE0BE0488B4F99BA6AA9695",
+  "before": "(يلهث من الصدمة)",
+  "after": "(يشهق مصدومًا)",
+  "why": "gasp is a shocked intake of breath, not panting"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_DemandParasite_07/2596AE2644E295CB2C35F6BC712EBEB6",
+  "before": "دعني أنا التجربة.",
+  "after": "دعني أكون أنا التجربة.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_GetUp_02/192079004F5F506279A41B85794283C6",
+  "before": "أما يكفي هذا؟",
+  "after": "أوَليس ذلك كافيًا؟",
+  "why": "أوَليس is the Arabic rhetorical negative question"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_GetUp_02/654A1F71452C1BDAB3E2FF93A16C1706",
+  "before": "هذا البحث... انظر ماذا فعل بك.",
+  "after": "هذا البحث... انظر ما فعله بك.",
+  "why": "انظر ماذا فعل is a spoken-English clause shape; Arabic takes ما فعله"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_Intro_01/88F191A9451C5A311AC773BA5DBDDBFA",
+  "before": "لم يكن الجميع... محظوظين مثلك.",
+  "after": "لم يكن الجميع بهذا... الحظّ.",
+  "why": "مثلك was an addition; 'so lucky' is a degree, which بهذا الحظ carries"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_SearchSpecimen_03/D0FDF3A442BCB2B587D25090F7050408",
+  "before": "هذا مكانها الصحيح.",
+  "after": "إنها حيث يجب أن تكون.",
+  "why": "'where it belongs' is a place-clause, not a possessive claim"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_SearchSpecimenAgain_04/49AB72C64C7A352BD8A4CBA8B0509AE4",
+  "before": "(باستياء) إذن ماذا؟ أتريدني أن أموت؟ أهذا كل شيء؟",
+  "after": "(باستياء) وماذا في ذلك؟ أتريدني أن أموت؟ أهذا هو الأمر؟",
+  "why": "'So what?' is dismissal (وماذا في ذلك), not 'then what?'; 'Is that it?' is not أهذا كل شيء"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_SearchSpecimenAgain_04/276BE8B04E48975F0F3DAEB4CF3DF7DC",
+  "before": "تخيّل لو استطعنا شفاء حال الفناء.",
+  "after": "تخيّل لو قدرنا على شفاء داء الفناء.",
+  "why": "'the mortal condition' is an affliction - داء الفناء; حال الفناء was vague"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_EnterHatchedOvum_05/976D49594A3AABE3E42C2EAD61C8E1D3",
+  "before": "كل شيء لا بد أن ينتهي.",
+  "after": "لا بدّ لكل شيء أن ينتهي.",
+  "why": "aphorism shape: لا بدّ لـ…أن, which is how Arabic states a maxim"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_EnterHatchedOvum_05/9DD7F01447EA66308E43DBA0B131D3C4",
+  "before": "يمكن أن نصبح آلهة.",
+  "after": "قد نغدو آلهة.",
+  "why": "tighter, and sets up the parallel with the next line"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_EnterHatchedOvum_05/C2FE646241244BA48C2878B3F38A6B8B",
+  "before": "يمكن أن نصبح بلا كلل، بلا عمر، بلا نهاية.",
+  "after": "قد نغدو بلا كلل، ولا هرم، ولا نهاية.",
+  "why": "three parallel bare negations with و - the rhythm the English triple is built on; ageless = لا هرم"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_ExamineHatchedOvum_02/FD2EC18049962D6A6451F18FFC149150",
+  "before": "أتكرهني؟ لما فعلته بك.",
+  "after": "أتكرهني؟ لأجل ما فعلته بك.",
+  "why": "لما was ambiguous between 'for what' and 'why'"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_Intro_01/8DABFC20463598468FF8908A7311B670",
+  "before": "لم يكن إيجاده سهلًا...",
+  "after": "لم يكن العثور عليها سهلًا...",
+  "why": "the referent is البيضة (feminine) in the adjacent line"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_QuestionRook_03/EC8BF9E44940D64EBC4CF08EF20A1D1A",
+  "before": "يمكن أن نصبح آلهة.",
+  "after": "قد نغدو آلهة.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_QuestionRook_03/7D1A9E234B72618C35B69083191EBA21",
+  "before": "يمكن أن نصبح بلا كلل، بلا عمر، بلا نهاية.",
+  "after": "قد نغدو بلا كلل، ولا هرم، ولا نهاية.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S2_Intro_01/6E95CD4646104DEEA3694DA1C46CD8A6",
+  "before": "مصدر متاعبنا جميعًا.",
+  "after": "مصدر كل متاعبنا.",
+  "why": "جميعًا attached ambiguously to 'us' instead of 'troubles'"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S2_VillagerBeg_02/2E5B61A14D254CB3F6EF61A80E8EFB12",
+  "before": "(يلهث) أرجوك... لا تؤذني.",
+  "after": "(يشهق) أرجوك... لا تؤذني.",
+  "why": "gasp = شهقة"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheEgg_S2_VillagerBeg_02/92BD3D8143EC4F413E22BFBB06D1B1FD",
+  "before": "(صوت غريب أشبه بصوت الوحوش)",
+  "after": "(صوت غريب وحشيّ)",
+  "why": "cut the padded simile; the source is two adjectives"
+ }
+]

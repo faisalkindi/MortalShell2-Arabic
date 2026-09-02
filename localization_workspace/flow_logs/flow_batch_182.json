@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_Confess/67F2EACA4EBCFBCCE4F637875982E817",
+  "before": "لكني سأفعلها بالطريقة الصحيحة.",
+  "after": "لكني سأفعلها كما ينبغي.",
+  "why": "'بالطريقة الصحيحة' is a calque of 'the right way'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_Confess/50B561AF454213E979F52692EBAC0091",
+  "before": "سأجعلك فخورًا... أعدك.",
+  "after": "سأكون لك مفخرة... أعدك.",
+  "why": "'أجعلك فخورًا' carries the English causative; Arabic says the son is the pride"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_Execute/FC95338146EE5CDF643523BD23C38FC0",
+  "before": "كانا سُذّجًا، ضعيفين، متهوّرين.",
+  "after": "كانا ساذجَين، ضعيفَين، متهوّرَين.",
+  "why": "number error: كانا is dual but سُذّجًا is plural"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_Intro/B020B0BC422638FD4EE7F88EA2A733EE",
+  "before": "ليس عبثًا، آمل ذلك. (يسعل)",
+  "after": "عسى ألا يكون عبثًا. (يسعل)",
+  "why": "'ليس عبثًا، آمل ذلك' is English word order with the hope tacked on"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_LookBlade/C43455CE475BB22FCCA05090A98AAAFF",
+  "before": "على يد ذويك... اللورد ڤيلن.",
+  "after": "على يد ذويك... أيها اللورد ڤيلن.",
+  "why": "vocative needs أيها, as in the sibling Lord Agne lines"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_LookBlade/6EE1FEA04FF1136692C84A9090043AF2",
+  "before": "ظلم واحد لن (يسعل) يُبطل ظلمًا آخر.",
+  "after": "ظلمٌ لن (يسعل) يُبطل ظلمًا آخر.",
+  "why": "'ظلم واحد' renders the English article as a numeral"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_LookMask/63A00BD74F667773C28B7685B5782F3D",
+  "before": "لكني سأفعلها بالطريقة الصحيحة.",
+  "after": "لكني سأفعلها كما ينبغي.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_LookMask/AF1A883E4ADFD4C56B2BB2904F089DE8",
+  "before": "سأجعلك فخورًا... أعدك.",
+  "after": "سأكون لك مفخرة... أعدك.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_LookMask/F1ACABC64570F02F34310CBA2D059E55",
+  "before": "نزيه. لا يُهادَن. لا يُعرَف كنهه.",
+  "after": "لا يحابي. لا يلين. لا يُعرَف.",
+  "why": "the source is a three-beat creed; the Arabic mixed one adjective with two clauses and lost the cadence"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedEmpty/ED954E1F495ADBB0329E4D8DCF44245D",
+  "before": "حسنًا، ربما هناك شيء واحد بمقدورك فعله.",
+  "after": "حسنًا، لعلّ ثمّة أمرًا واحدًا بوسعك فعله.",
+  "why": "'ربما هناك شيء واحد بمقدورك' is stacked English hedging"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedEvenMoreGloom/562D113D471EBB946B2091A9121426B6",
+  "before": "أفعل، يا إيغون.",
+  "after": "بلى يا إيغون.",
+  "why": "bare 'أفعل' is not an answer in Arabic; بلى affirms whatever was asked"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedGloom/6A5BF1F34E93C297625CDEB7D46698FD",
+  "before": "مممم... أجل، ماذا عن القليل أكثر؟",
+  "after": "مممم... أجل، ما رأيك في مزيدٍ قليل؟",
+  "why": "'القليل أكثر' is not Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/799E59F64BF5E487D67138827863BDAF",
+  "before": "يحكّني، يؤلمني احتكاكه، ولا أستطيع تحريك إصبع.",
+  "after": "يحكّني، يسحج جلدي، ولا أقوى على تحريك إصبع.",
+  "why": "'يؤلمني احتكاكه' unpacks chafe into a clause; يسحج is the verb"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_InspectCage/AE0A171B4BEB3B9F75FCC39785739BED",
+  "before": "إنه يبقيني آمنًا.",
+  "after": "إنه يحفظني.",
+  "why": "'يبقيني آمنًا' is a keep+adjective calque"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_InspectCage/8BA1455F44C39FED6A598481352AFA5F",
+  "before": "ما هذا الجهاز؟",
+  "after": "ما هذه الآلة العجيبة؟",
+  "why": "'الجهاز' is neutral tech vocabulary; contraption is derisive"
+ }
+]

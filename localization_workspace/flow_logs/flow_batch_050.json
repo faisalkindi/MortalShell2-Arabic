@@ -1,0 +1,44 @@
+[
+ {
+  "key": "/80FFD3B444897AEE38A09B887DFB9D7A",
+  "before": "أسلحة المدى",
+  "after": "الأسلحة بعيدة المدى",
+  "why": "Frozen glossary term: ranged = بعيد المدى; أسلحة المدى is not a phrase."
+ },
+ {
+  "key": "/E635799C4E3151C2D7AB92A210EE1C9F",
+  "before": "أسلحة المدى",
+  "after": "الأسلحة بعيدة المدى",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/7F837DFD418E82E07E81F680AAF16605",
+  "before": "مدّ اليد إلى الأدغال",
+  "after": "مدّ اليد في الأجمة",
+  "why": "الأدغال is jungle; a single bush is أجمة, and مدّ اليد takes في."
+ },
+ {
+  "key": "/EE8C7D20491A75CD6B7E6F8C5A07E1CA",
+  "before": "استرداد الهيكل",
+  "after": "استرداد الهَيكل",
+  "why": "Frozen Shell = الهَيكل carries its diacritic everywhere else in the corpus."
+ },
+ {
+  "key": "/76FD0B84486732DD61916F87077D31DC",
+  "before": "إحياء الهيكل",
+  "after": "إحياء الهَيكل",
+  "why": "Same frozen-term diacritic, sibling row."
+ },
+ {
+  "key": "/5E1941044BB81406930423A00AAA2CC8",
+  "before": "استعد {Shell Name} لاستدعائه.",
+  "after": "استرجع {Shell Name} لاستدعائه.",
+  "why": "استعدّ reads first as 'get ready' — exactly the wrong instruction; استرجع is unambiguous for recovering a lost Shell."
+ },
+ {
+  "key": "/65AEB89F41545514F24F71952E3DF526",
+  "before": "أطلق سراح أُخَيّاتك",
+  "after": "إطلاق سراح أُخَيّاتك",
+  "why": "Its sibling prompt two rows up is إطلاق سراح الغريب; the imperative broke the pair."
+ }
+]

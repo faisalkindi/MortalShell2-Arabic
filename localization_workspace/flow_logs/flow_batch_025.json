@@ -1,0 +1,26 @@
+[
+  {
+    "key": "ST_Core_Dungeons/LI_Tomb_Medium_Layout_13",
+    "before": "الحُفرة الكبيرة وحسب",
+    "after": "الحُفرة الكبيرة",
+    "why": "الاسم لا يحتمل حشوًا؛ «وحسب» زائدة"
+  },
+  {
+    "key": "ST_Core_Dungeons/LI_Tomb_Medium_Layout_14",
+    "before": "المجارير المركزية",
+    "after": "المجاري المركزية",
+    "why": "«المجارير» جمع غير مستعمل؛ الفصيح الشائع «المجاري»"
+  },
+  {
+    "key": "ST_Core_Dungeons/LI_Tomb_Medium_Layout_23",
+    "before": "أرض الافتراس",
+    "after": "مَرتَع الافتراس",
+    "why": "توحيد Feeding Grounds مع «مَرتَع الطفل» في الدفعة الشقيقة"
+  },
+  {
+    "key": "ST_Core_Dungeons/LI_Tomb_Layout_01",
+    "before": "قبر الحارس",
+    "after": "قبر الرقيب",
+    "why": "Sentry = الرقيب؛ «الحارس» محجوزة لـWarden/Guardian"
+  }
+]

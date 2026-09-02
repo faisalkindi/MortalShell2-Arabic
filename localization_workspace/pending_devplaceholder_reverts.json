@@ -1,0 +1,80 @@
+[
+ {
+  "file": "batch_008.json",
+  "key": "ST_Core_Interactions/HoldInteraction",
+  "en": "[Hold]",
+  "ar": "[ضغط مطوّل]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/0657275B4D09867F47FDBAB84A70E242",
+  "en": "[Hold]",
+  "ar": "[اضغط مطولًا]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/2788E73F4EC4E3211B27C2AFA4C9F9B3",
+  "en": "[Hold]",
+  "ar": "[اضغط مطولًا]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/61100CFF40B714D5044F18AE992C746C",
+  "en": "[Hold]",
+  "ar": "[اضغط مطولًا]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/73EC4F284F4E359169B90D889B4F7CEF",
+  "en": "[Hold]",
+  "ar": "[اضغط مطولًا]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/B64FF4324569ADFEB1644FB33224A2AA",
+  "en": "[Hold]",
+  "ar": "[اضغط مطولًا]"
+ },
+ {
+  "file": "batch_057.json",
+  "key": "/6CA1F16A49A6BC01205708B01157B4F5",
+  "en": "[Press]",
+  "ar": "[اضغط]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/4BB5E5664409D9E59BEEF6BE10659F65",
+  "en": "[Post-Quest Completed]",
+  "ar": "[بعد إتمام المهمة]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/7668472448A78FC61626A89EFB0155AC",
+  "en": "[Quest Completed]",
+  "ar": "[المهمة مكتملة]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/86B7D1544C2053919313B1AD7F5E414C",
+  "en": "[Quest Not Accepted - Repeatable]",
+  "ar": "[المهمة غير مقبولة - قابلة للتكرار]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/A4A0CFB8416D05C2A821EE9A61E6CE94",
+  "en": "[Quest Not Started Dialogue]",
+  "ar": "[حوار قبل بدء المهمة]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/63F1095A43B23A6351A23390180A98AF",
+  "en": "[Quest Started, Not Complete, Repeatable]",
+  "ar": "[المهمة بدأت ولم تكتمل - قابلة للتكرار]"
+ },
+ {
+  "file": "batch_119.json",
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/9BD53F454A4F65768DE1D98FCA1A494F",
+  "en": "[Quest Started, Not Complete]",
+  "ar": "[المهمة بدأت ولم تكتمل]"
+ }
+]

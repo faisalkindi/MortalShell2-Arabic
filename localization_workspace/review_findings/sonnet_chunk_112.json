@@ -1,0 +1,44 @@
+{"chunk": 112, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_ShellMemory_MiniBosses/HeavyCultist",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Hierarch Michal", "ar": "الهيرارك ميخال",
+   "issue": "Glossary freezes 'Hierarch' (Smert's cult title) as الكاهن الأكبر; this row transliterates it instead as الهيرارك.",
+   "suggested_ar": "الكاهن الأكبر ميخال"},
+
+  {"key": "ST_Core_ShellMemory_MiniBosses/Lord_Vellen",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Lord Vellen, High Lord of Mammon", "ar": "اللورد ڤيلن، سيد مامون الأعظم",
+   "issue": "Glossary explicitly freezes 'High Lord' as السيد الأعلى and says 'not السيد الأعظم' - this row uses exactly the forbidden phrase.",
+   "suggested_ar": "اللورد ڤيلن، سيد مامون الأعلى"},
+
+  {"key": "ST_Core_Menu_Shellkeeper/ShellkeeperMenuSubName",
+   "type": "gender_error", "severity": "major",
+   "source_en": "The Shellkeeper", "ar": "حارس الهَياكل",
+   "issue": "Glossary now freezes Shellkeeper as حارسة الهَياكل (feminine, Zhirelle is female) 'throughout'; this row uses the masculine حارس.",
+   "suggested_ar": "حارسة الهَياكل"},
+
+  {"key": "ST_Core_Menu_Shellkeeper/ShellkeeperName",
+   "type": "gender_error", "severity": "major",
+   "source_en": "Shellkeeper", "ar": "حارس الهَياكل",
+   "issue": "Same feminine-title violation as the sibling ShellkeeperMenuSubName row.",
+   "suggested_ar": "حارسة الهَياكل"},
+
+  {"key": "ST_Core_Menu_Shellkeeper/LocateShellConfirmationPromptText",
+   "type": "gender_error", "severity": "minor",
+   "source_en": "The Shellkeeper can help you locate this Shell and mark it on your Map.",
+   "ar": "يمكن لحارس الهَياكل مساعدتك في تحديد موقع هذا الهَيكل وتمييزه على خريطتك.",
+   "issue": "Same masculine-instead-of-feminine Shellkeeper title.",
+   "suggested_ar": "يمكن لحارسة الهَياكل مساعدتك في تحديد موقع هذا الهَيكل وتمييزه على خريطتك."},
+
+  {"key": "ST_Core_ShellMemory_MiniBosses/Brigand_King",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Larreth, the Brigand King", "ar": "لارِث، ملك اللصوص",
+   "issue": "Glossary freezes 'Brigand' as قاطع طريق (pl. قُطّاع الطرق) and says 'never اللصوص'; this row uses exactly the forbidden word.",
+   "suggested_ar": "لارِث، ملك قُطّاع الطرق"},
+
+  {"key": "ST_Core_Notify/NewClothingUnlockedNotify",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "New Mortal Clothing Unlocked", "ar": "زيّ فانٍ جديد مفتوح",
+   "issue": "Glossary freezes 'Mortal Clothing' as the fixed compound زيّ الفانين; this row uses the adjectival زيّ فانٍ ('a mortal garment') instead of the frozen phrase.",
+   "suggested_ar": "زيّ الفانين الجديد مفتوح"}
+]}

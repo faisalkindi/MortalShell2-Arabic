@@ -1,0 +1,110 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Father/6408AC9A4B2831BCC0A24E871BA45DBC",
+  "before": "فمٌ واحد أقل لإطعامه.",
+  "after": "فمٌ أقلُّ نُطعِمه.",
+  "why": "'فم واحد أقل لإطعامه' is a word-order calque"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Father/1B3F46D94A22B2BD1851DA834C791626",
+  "before": "حسنًا جدًا. أقبل جزيتك.",
+  "after": "لِيكن. أقبل عُشرك.",
+  "why": "'حسنًا جدًا' calques 'very well'; tithe unified to العُشر"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Father/CD2AAE8D48D994B60230EDB6CE3FE1DB",
+  "before": "أتتخلّى عن ابنك بنفسك؟ هكذا فحسب؟",
+  "after": "أتُسلّم ابنك من صلبك؟ هكذا ببساطة؟",
+  "why": "'بنفسك' renders 'own' wrongly; من صلبك is the Arabic for one's own son"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Objects/F586FB73439CC32BC7CF7DA881E11DBA",
+  "before": "كما يُفترض أن يفعل أبوك.",
+  "after": "كما يفعل أبوك، زعمًا.",
+  "why": "'يُفترض أن يفعل' is limp; زعمًا carries the sneer of 'supposedly'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Objects/80083FBB42477805453385918CCCE308",
+  "before": "فقط... اتركونا وشأننا أخيرًا.",
+  "after": "كفى... اتركونا وشأننا.",
+  "why": "'فقط...' + 'أخيرًا' are both calques; كفى carries the exasperation of 'already'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Objects/734021234FBD9AC6ADE55CB9FE7987B0",
+  "before": "لست فارسًا!",
+  "after": "ما أنت بفارس!",
+  "why": "classical negation lands the accusation; 'لست فارسًا' is flat"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_01_Approach/92E15A8C404B1349A14E328B4FCC26A2",
+  "before": "لكن من الداخل، أنت ممزّق... محطّم.",
+  "after": "لكنك في داخلك ممزّق... محطّم.",
+  "why": "drops the English fronted adverbial and its comma"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_01_Approach/CDDECE504E8044DC328F088A14629734",
+  "before": "جراحي لا شيء.",
+  "after": "جراحي لا تُذكر.",
+  "why": "'لا شيء' is literal; لا تُذكر is the Arabic dismissal"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_01_Intro/75EB7B7A4C3425F57AD29289DFC61322",
+  "before": "أما من مزيد تفعله؟",
+  "after": "ألا تقدر على المزيد؟",
+  "why": "'أما من مزيد تفعله' is contorted"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_01_Intro/45D9E6014F3F2C8C7E2A629C89BDC3D3",
+  "before": "أميت هو؟",
+  "after": "أهو ميت؟",
+  "why": "'أميت هو؟' is stilted word order"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_01_Intro/4EB512EA4F89B63C059302B6DD43C40D",
+  "before": "لقد اعتنيتُ بجراحه،",
+  "after": "لقد ضمّدتُ جراحه،",
+  "why": "ضمّد is the precise verb for dressing wounds"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_End/7C3B619642F227AF0A21FF8C7F953F30",
+  "before": "ادعُ أن تمرّ الليلة سريعًا.",
+  "after": "ادعُ أن تنقضي الليلة سريعًا.",
+  "why": "انقضى is the verb Arabic uses of a night passing"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_FocusWeltcap/0BAA34FD4B0592F7D3E8A29C5CBBE83D",
+  "before": "لحم أحمر... علامة جيدة.",
+  "after": "اللحم أحمر... علامة طيبة.",
+  "why": "indefinite 'لحم أحمر' reads as a butcher's label, not an inspection of a wound"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/EC8880584A3D8622F92065A66BAAA9F6",
+  "before": "إنه يقول الحق. كُل.",
+  "after": "صدق. كُل.",
+  "why": "'إنه يقول الحق' is four words for what Arabic says in one"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/E0F6BAE243DDFAA7D6339DA0238311F4",
+  "before": "لستَ تحاول قتلي—أليس كذلك؟",
+  "after": "أنت لا تحاول قتلي—أليس كذلك؟",
+  "why": "'لستَ تحاول' is an unnatural negation here"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_InteractTarwine/4EF2369D44D86C9DADC3FE8BAF183B24",
+  "before": "أعطني إياه.",
+  "after": "هاته.",
+  "why": "'أعطني إياه' is heavy for a two-word demand"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_InteractWeltcap/E40732304B8AB067670F51BB90D1F61B",
+  "before": "سأفعل أو آكل أيًّا كان ما يلزم.",
+  "after": "سأفعل أو آكل ما يلزم، مهما كان.",
+  "why": "'أيًّا كان ما يلزم' stacks two relatives Arabic doesn't need"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_Intro/17772FBE4A6A517804BAD5928DDA44C2",
+  "before": "وجبة ستفيده.",
+  "after": "وجبةٌ تنفعه.",
+  "why": "'ستفيده' over-specifies a conditional the Arabic carries in the indefinite"
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "chunk": 104,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_TakeAnotherBottle_05/4A10376444C5A038981127A9157F0B6E",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "What are you talking about?",
+   "ar": "عمّ تتحدث؟",
+   "issue": "عمّ تتحدث؟ is masculine, so it reads as Genessa asking Tiel. But the confused party in this node is Tiel: Genessa states the accusation (رأيت ما ينتظرك / يجب أن يتوقف هذا) and Tiel's other two lines here are both feminine-addressed (انتظري, twice). Addressee should be Genessa.",
+   "suggested_ar": "عمّ تتحدثين؟"
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheRash_S1_ExamineWindow_01/E40292C546E47496D6A162BFADA5810A",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Locked.",
+   "ar": "مقفل.",
+   "issue": "The key is ExamineWindow, so the thing that is locked is النافذة, which is feminine. The sibling bare-status line in the same memory gets this right ((sigh) Empty -> فارغة, agreeing with الزجاجة).",
+   "suggested_ar": "مقفلة."
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheRash_S1_EnterTheDwelling_03/4C7CA0D4448F33B166CDB995B2C42A08",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "There you are.",
+   "ar": "ها أنت ذا.",
+   "issue": "Uncertain, flagging rather than asserting. Tiel is the one moving through this scene (Locked. / Anybody home? / entering the dwelling), so 'There you are' is most likely him finding the dwelling's occupant - the woman he later addresses as انظري إليّ. If so this should be feminine. It stays masculine only if the occupant is the one who spots Tiel.",
+   "suggested_ar": "ها أنتِ ذي."
+  }
+ ]
+}

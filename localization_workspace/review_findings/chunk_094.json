@@ -1,0 +1,24 @@
+{
+ "chunk": 94,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_HitReactions/C6CD97284562AA21B15F219296BEA213",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Or what?",
+   "ar": "أم ماذا؟",
+   "issue": "This is the dare that completes the threat carried by another bark in the same namespace - 'Stay your hand, brether... or else.' أم ماذا؟ is the 'or what else?' of an alternative question and reads as a request for options, not a challenge. (Co-location in the HitReactions bark set, not row order - these keys are hash-tailed.)",
+   "suggested_ar": "وإلا ماذا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_WakeUpEgon/7639025543427801B73A3EBCB02C0D3B",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "You’ve come to make me the High Lord of Mammon?",
+   "ar": "أجئتَ لتجعلني اللورد الأعلى لمامون؟",
+   "issue": "Second instance of the Mammon spelling split (the other is in chunk 093). It is مَمُّون everywhere else in this range - 'عرش مَمُّون', 'عملة مَمُّون', 'خريطة مَمُّون'.",
+   "suggested_ar": "أجئتَ لتجعلني اللورد الأعلى لمَمُّون؟"
+  }
+ ]
+}

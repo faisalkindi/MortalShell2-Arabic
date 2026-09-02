@@ -1,0 +1,80 @@
+[
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_01_30",
+  "before": "أصابني نقيقٌ في حلقي.",
+  "after": "ما بي سوى ضفدعٍ في حلقي.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_GenericReturn_02_20",
+  "before": "أيمكنني المشاركة في شرابك مجددًا؟",
+  "after": "أتأذن لي برشفةٍ من شرابك مجددًا؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_01_40",
+  "before": "لا داعي للانزعاج. (يصفّي حلقه) اقفز وامضِ!",
+  "after": "لا داعي للجلبة. (يصفّي حلقه) اقفز وامضِ!",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_07_20_Hilga",
+  "before": "انصرف الآن. إنه يرتاح.",
+  "after": "انصرف الآن. لقد استراح.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_04_10",
+  "before": "آه، إنه أنت مجددًا.",
+  "after": "آه، أنت مجددًا.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_04_20",
+  "before": "آسف، الأمر فقط…",
+  "after": "آسف، الأمر أنّ…",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_GenericReturn_04_20",
+  "before": "ذلك المُقوّي الذي تحمله هو…",
+  "after": "ذلك الشراب الذي تحمله…",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Corpse_06_30",
+  "before": "تجادلوا حول من سـ… ",
+  "after": "تجادلوا فيمن سـ… ",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_07_20_Hilga",
+  "before": "وسيمٌ جدًا، لكن أحمق جدًا.",
+  "after": "وسيمٌ جدًا، لكنه أحمق.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_04_30",
+  "before": "حسنًا، حلقي جافٌّ جدًا.",
+  "after": "حسنًا، حلقي جافٌّ بعض الشيء.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Frog_04_50",
+  "before": "نحن كأننا نوعٌ مختلف تمامًا.",
+  "after": "نكاد نكون نوعًا مختلفًا.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_HilgaItem_08_30",
+  "before": "نعم، الكثير من المراهم والجرعات.",
+  "after": "نعم، مراهمُ ومشاربُ لا تُحصى.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_02_30",
+  "before": "… علّةٌ في العقل؟",
+  "after": "… داءٌ في العقل؟",
+  "why": "flow"
+ }
+]

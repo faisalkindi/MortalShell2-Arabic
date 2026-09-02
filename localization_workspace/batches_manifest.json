@@ -1,0 +1,1479 @@
+[
+ {
+  "batch": 1,
+  "group": "ui_settings",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 2,
+  "group": "ui_settings",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 3,
+  "group": "ui_settings",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 4,
+  "group": "ui_settings",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 5,
+  "group": "ui_settings",
+  "speaker": null,
+  "register": "plain",
+  "rows": 38
+ },
+ {
+  "batch": 6,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 7,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 8,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 9,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 10,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 59
+ },
+ {
+  "batch": 11,
+  "group": "ui_tutorial",
+  "speaker": null,
+  "register": "plain",
+  "rows": 27
+ },
+ {
+  "batch": 12,
+  "group": "system_misc",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 13,
+  "group": "system_misc",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 14,
+  "group": "system_misc",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 15,
+  "group": "system_misc",
+  "speaker": null,
+  "register": "plain",
+  "rows": 36
+ },
+ {
+  "batch": 16,
+  "group": "item_equipment",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 17,
+  "group": "item_equipment",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 57
+ },
+ {
+  "batch": 18,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 19,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 20,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 21,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 22,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 23,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 24,
+  "group": "item_tarstone",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 43
+ },
+ {
+  "batch": 25,
+  "group": "location_name",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 26,
+  "group": "location_name",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 27,
+  "group": "location_name",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 58
+ },
+ {
+  "batch": 28,
+  "group": "npc_name",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 29,
+  "group": "npc_name",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 59
+ },
+ {
+  "batch": 30,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 31,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 32,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 33,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 34,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 35,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 36,
+  "group": "skill",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 23
+ },
+ {
+  "batch": 37,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 38,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 39,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 40,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 41,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 42,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 43,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 44,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 45,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 46,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 47,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 48,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 49,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 50,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 51,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 52,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 53,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 54,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 45
+ },
+ {
+  "batch": 55,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 56,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 57,
+  "group": "flavor_or_lore_untagged",
+  "speaker": null,
+  "register": "elevated",
+  "rows": 26
+ },
+ {
+  "batch": 58,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 59,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 60,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 61,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 62,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 63,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 64,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 65,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 66,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 67,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 68,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 69,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 70,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 71,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 72,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 73,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 74,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 75,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 76,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 77,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 78,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 45
+ },
+ {
+  "batch": 79,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 44
+ },
+ {
+  "batch": 80,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 81,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 82,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 83,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 84,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 85,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 86,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 18
+ },
+ {
+  "batch": 87,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 88,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 89,
+  "group": "other",
+  "speaker": null,
+  "register": "plain",
+  "rows": 39
+ },
+ {
+  "batch": 90,
+  "group": "dialogue__Baghead",
+  "speaker": "Baghead",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 91,
+  "group": "dialogue__Baghead",
+  "speaker": "Baghead",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 92,
+  "group": "dialogue__Baghead",
+  "speaker": "Baghead",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 93,
+  "group": "dialogue__Baghead",
+  "speaker": "Baghead",
+  "register": "plain",
+  "rows": 28
+ },
+ {
+  "batch": 94,
+  "group": "dialogue__BanishedCultist",
+  "speaker": "BanishedCultist",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 95,
+  "group": "dialogue__BanishedCultist",
+  "speaker": "BanishedCultist",
+  "register": "elevated",
+  "rows": 29
+ },
+ {
+  "batch": 96,
+  "group": "dialogue__BelligerentDrunk",
+  "speaker": "BelligerentDrunk",
+  "register": "plain",
+  "rows": 6
+ },
+ {
+  "batch": 97,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 98,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 99,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 100,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 101,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 102,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 103,
+  "group": "dialogue__Blacksmith",
+  "speaker": "Blacksmith",
+  "register": "plain",
+  "rows": 6
+ },
+ {
+  "batch": 104,
+  "group": "dialogue__BlisterBoi",
+  "speaker": "BlisterBoi",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 105,
+  "group": "dialogue__BlisterBoi",
+  "speaker": "BlisterBoi",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 106,
+  "group": "dialogue__BlisterBoi",
+  "speaker": "BlisterBoi",
+  "register": "plain",
+  "rows": 4
+ },
+ {
+  "batch": 107,
+  "group": "dialogue__BrigMerchant",
+  "speaker": "BrigMerchant",
+  "register": "plain",
+  "rows": 14
+ },
+ {
+  "batch": 108,
+  "group": "dialogue__CaptiveBossDefeated",
+  "speaker": "CaptiveBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 109,
+  "group": "dialogue__ConquerorBossDefeated",
+  "speaker": "ConquerorBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 110,
+  "group": "dialogue__CrazedHorde",
+  "speaker": "CrazedHorde",
+  "register": "plain",
+  "rows": 5
+ },
+ {
+  "batch": 111,
+  "group": "dialogue__DesperateVillager",
+  "speaker": "DesperateVillager",
+  "register": "plain",
+  "rows": 6
+ },
+ {
+  "batch": 112,
+  "group": "dialogue__Dog",
+  "speaker": "Dog",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 113,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 114,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 115,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 116,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 117,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 118,
+  "group": "dialogue__Egon",
+  "speaker": "Egon",
+  "register": "elevated",
+  "rows": 9
+ },
+ {
+  "batch": 119,
+  "group": "dialogue__Eredrim",
+  "speaker": "Eredrim",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 120,
+  "group": "dialogue__Eredrim",
+  "speaker": "Eredrim",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 121,
+  "group": "dialogue__Eredrim",
+  "speaker": "Eredrim",
+  "register": "elevated",
+  "rows": 51
+ },
+ {
+  "batch": 122,
+  "group": "dialogue__FriendlyDrunk",
+  "speaker": "FriendlyDrunk",
+  "register": "plain",
+  "rows": 3
+ },
+ {
+  "batch": 123,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 124,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 125,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 126,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 127,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 128,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 129,
+  "group": "dialogue__Genessa",
+  "speaker": "Genessa",
+  "register": "elevated",
+  "rows": 11
+ },
+ {
+  "batch": 130,
+  "group": "dialogue__Gorf",
+  "speaker": "Gorf",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 131,
+  "group": "dialogue__Gorf",
+  "speaker": "Gorf",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 132,
+  "group": "dialogue__Gorf",
+  "speaker": "Gorf",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 133,
+  "group": "dialogue__Gorf",
+  "speaker": "Gorf",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 134,
+  "group": "dialogue__Gorf",
+  "speaker": "Gorf",
+  "register": "plain",
+  "rows": 54
+ },
+ {
+  "batch": 135,
+  "group": "dialogue__Gragu",
+  "speaker": "Gragu",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 136,
+  "group": "dialogue__Gragu",
+  "speaker": "Gragu",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 137,
+  "group": "dialogue__Gragu",
+  "speaker": "Gragu",
+  "register": "elevated",
+  "rows": 13
+ },
+ {
+  "batch": 138,
+  "group": "dialogue__Greeting",
+  "speaker": "Greeting",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 139,
+  "group": "dialogue__Grisha",
+  "speaker": "Grisha",
+  "register": "plain",
+  "rows": 22
+ },
+ {
+  "batch": 140,
+  "group": "dialogue__HexapodBossDefeated",
+  "speaker": "HexapodBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 141,
+  "group": "dialogue__Hilga",
+  "speaker": "Hilga",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 142,
+  "group": "dialogue__Hilga",
+  "speaker": "Hilga",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 143,
+  "group": "dialogue__Hilga",
+  "speaker": "Hilga",
+  "register": "elevated",
+  "rows": 36
+ },
+ {
+  "batch": 144,
+  "group": "dialogue__HilgaTransformed",
+  "speaker": "HilgaTransformed",
+  "register": "plain",
+  "rows": 17
+ },
+ {
+  "batch": 145,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 146,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 147,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 148,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 149,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 150,
+  "group": "dialogue__Hub",
+  "speaker": "Hub",
+  "register": "plain",
+  "rows": 22
+ },
+ {
+  "batch": 151,
+  "group": "dialogue__HubCultist",
+  "speaker": "HubCultist",
+  "register": "elevated",
+  "rows": 46
+ },
+ {
+  "batch": 152,
+  "group": "dialogue__Hunter",
+  "speaker": "Hunter",
+  "register": "plain",
+  "rows": 41
+ },
+ {
+  "batch": 153,
+  "group": "dialogue__ImmortalBrigand",
+  "speaker": "ImmortalBrigand",
+  "register": "plain",
+  "rows": 59
+ },
+ {
+  "batch": 154,
+  "group": "dialogue__Interact",
+  "speaker": "Interact",
+  "register": "plain",
+  "rows": 5
+ },
+ {
+  "batch": 155,
+  "group": "dialogue__IntroCultist",
+  "speaker": "IntroCultist",
+  "register": "plain",
+  "rows": 21
+ },
+ {
+  "batch": 156,
+  "group": "dialogue__Lazlo",
+  "speaker": "Lazlo",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 157,
+  "group": "dialogue__Lazlo",
+  "speaker": "Lazlo",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 158,
+  "group": "dialogue__Lazlo",
+  "speaker": "Lazlo",
+  "register": "elevated",
+  "rows": 6
+ },
+ {
+  "batch": 159,
+  "group": "dialogue__LoTWBossDefeated",
+  "speaker": "LoTWBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 160,
+  "group": "dialogue__Memory",
+  "speaker": "Memory",
+  "register": "plain",
+  "rows": 11
+ },
+ {
+  "batch": 161,
+  "group": "dialogue__Merchant",
+  "speaker": "Merchant",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 162,
+  "group": "dialogue__Merchant",
+  "speaker": "Merchant",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 163,
+  "group": "dialogue__Merchant",
+  "speaker": "Merchant",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 164,
+  "group": "dialogue__Merchant",
+  "speaker": "Merchant",
+  "register": "plain",
+  "rows": 13
+ },
+ {
+  "batch": 165,
+  "group": "dialogue__MouthBossDefeated",
+  "speaker": "MouthBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 166,
+  "group": "dialogue__MumblingDrunk",
+  "speaker": "MumblingDrunk",
+  "register": "plain",
+  "rows": 6
+ },
+ {
+  "batch": 167,
+  "group": "dialogue__Prologue",
+  "speaker": "Prologue",
+  "register": "plain",
+  "rows": 37
+ },
+ {
+  "batch": 168,
+  "group": "dialogue__PrologueCultist",
+  "speaker": "PrologueCultist",
+  "register": "plain",
+  "rows": 13
+ },
+ {
+  "batch": 169,
+  "group": "dialogue__Ruk",
+  "speaker": "Ruk",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 170,
+  "group": "dialogue__Ruk",
+  "speaker": "Ruk",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 171,
+  "group": "dialogue__Ruk",
+  "speaker": "Ruk",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 172,
+  "group": "dialogue__Ruk",
+  "speaker": "Ruk",
+  "register": "plain",
+  "rows": 45
+ },
+ {
+  "batch": 173,
+  "group": "dialogue__Sariel",
+  "speaker": "Sariel",
+  "register": "elevated",
+  "rows": 4
+ },
+ {
+  "batch": 174,
+  "group": "dialogue__SarielMemory",
+  "speaker": "SarielMemory",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 175,
+  "group": "dialogue__ScholarPrinceBossDefeated",
+  "speaker": "ScholarPrinceBossDefeated",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 176,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 177,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 178,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 179,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 180,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 181,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 182,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 183,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 184,
+  "group": "dialogue__ShellMemory",
+  "speaker": "ShellMemory",
+  "register": "plain",
+  "rows": 55
+ },
+ {
+  "batch": 185,
+  "group": "dialogue__Shellkeeper",
+  "speaker": "Shellkeeper",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 186,
+  "group": "dialogue__Shellkeeper",
+  "speaker": "Shellkeeper",
+  "register": "plain",
+  "rows": 3
+ },
+ {
+  "batch": 187,
+  "group": "dialogue__SidearmCultist",
+  "speaker": "SidearmCultist",
+  "register": "plain",
+  "rows": 4
+ },
+ {
+  "batch": 188,
+  "group": "dialogue__Tarforge",
+  "speaker": "Tarforge",
+  "register": "plain",
+  "rows": 32
+ },
+ {
+  "batch": 189,
+  "group": "dialogue__Tavern",
+  "speaker": "Tavern",
+  "register": "plain",
+  "rows": 11
+ },
+ {
+  "batch": 190,
+  "group": "dialogue__Thestus",
+  "speaker": "Thestus",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 191,
+  "group": "dialogue__Thestus",
+  "speaker": "Thestus",
+  "register": "plain",
+  "rows": 20
+ },
+ {
+  "batch": 192,
+  "group": "dialogue__Tiel",
+  "speaker": "Tiel",
+  "register": "elevated",
+  "rows": 28
+ },
+ {
+  "batch": 193,
+  "group": "dialogue__TielMemory",
+  "speaker": "TielMemory",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 194,
+  "group": "dialogue__TielMemory",
+  "speaker": "TielMemory",
+  "register": "plain",
+  "rows": 15
+ },
+ {
+  "batch": 195,
+  "group": "dialogue__UnderMether",
+  "speaker": "UnderMether",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 196,
+  "group": "dialogue__UnderMether",
+  "speaker": "UnderMether",
+  "register": "plain",
+  "rows": 13
+ },
+ {
+  "batch": 197,
+  "group": "dialogue__Undermehter",
+  "speaker": "Undermehter",
+  "register": "plain",
+  "rows": 3
+ },
+ {
+  "batch": 198,
+  "group": "dialogue__Undermether",
+  "speaker": "Undermether",
+  "register": "elevated",
+  "rows": 28
+ },
+ {
+  "batch": 199,
+  "group": "dialogue__UnfriendlyDrunk",
+  "speaker": "UnfriendlyDrunk",
+  "register": "plain",
+  "rows": 7
+ },
+ {
+  "batch": 200,
+  "group": "dialogue__Villager",
+  "speaker": "Villager",
+  "register": "plain",
+  "rows": 29
+ },
+ {
+  "batch": 201,
+  "group": "dialogue__Vlas",
+  "speaker": "Vlas",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 202,
+  "group": "dialogue__Vlas",
+  "speaker": "Vlas",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 203,
+  "group": "dialogue__Vlas",
+  "speaker": "Vlas",
+  "register": "elevated",
+  "rows": 7
+ },
+ {
+  "batch": 204,
+  "group": "dialogue__VlasEvent",
+  "speaker": "VlasEvent",
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 205,
+  "group": "dialogue__VlasEvent",
+  "speaker": "VlasEvent",
+  "register": "plain",
+  "rows": 26
+ },
+ {
+  "batch": 206,
+  "group": "dialogue__WeaponCultist",
+  "speaker": "WeaponCultist",
+  "register": "plain",
+  "rows": 5
+ },
+ {
+  "batch": 207,
+  "group": "dialogue__WeepingVillager",
+  "speaker": "WeepingVillager",
+  "register": "plain",
+  "rows": 5
+ },
+ {
+  "batch": 208,
+  "group": "dialogue__Wormfish",
+  "speaker": "Wormfish",
+  "register": "plain",
+  "rows": 1
+ },
+ {
+  "batch": 209,
+  "group": "credits",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 210,
+  "group": "credits",
+  "speaker": null,
+  "register": "plain",
+  "rows": 60
+ },
+ {
+  "batch": 211,
+  "group": "credits",
+  "speaker": null,
+  "register": "plain",
+  "rows": 29
+ }
+]

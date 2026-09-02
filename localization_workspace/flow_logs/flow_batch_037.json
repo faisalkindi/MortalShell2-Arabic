@@ -1,0 +1,56 @@
+[
+ {
+  "key": "/7562D2254F47E6A972D5A38AB2FA97E0",
+  "before": "\nعند موتك، ستُبعث عند منارة.\n\nما جمعته من قَتام يسقط في مكان موتك.\n\nوإذا متّ مرة أخرى قبل استرداده، فسد وضاع إلى الأبد.\n",
+  "after": "\nعند موتك، ستُبعث عند منارة.\n\nيسقط ما جمعته من قَتام في مكان موتك.\n\nوإذا متّ مرة أخرى قبل استرداده، فسد وضاع إلى الأبد.\n",
+  "why": "Middle line was nominal-initial while the lines around it are verb-initial; the three-beat tutorial passage now moves in one rhythm."
+ },
+ {
+  "key": "/4D4A3CD54EAA22566F7EC7830677A20C",
+  "before": "<Confusion>الارتباك</>",
+  "after": "<Confusion>التشويش</>",
+  "why": "Frozen glossary term: Confusion = التشويش. الارتباك was a stray synonym."
+ },
+ {
+  "key": "/E90C37244AAB6A4687C707968FA985FB",
+  "before": "يتيح لحامله إيقاظ جينيسا، التائهة",
+  "after": "يتيح لحامله إيقاظ جينيسا، الشارِدة",
+  "why": "Frozen glossary term: Wayward = الشارِدة, not التائهة."
+ },
+ {
+  "key": "/792DEEA14823A1718B0473B00D001073",
+  "before": "يتيح لحامله إيقاظ لازلو، القاضي.",
+  "after": "يتيح لحامله إيقاظ لازلو، المُقتَصّ.",
+  "why": "Frozen glossary term: Justiciar = المُقتَصّ, not القاضي."
+ },
+ {
+  "key": "/3929BED344508B3C2097B0B9FCEA5ABF",
+  "before": "يتيح لحامله إيقاظ سميرت، المرتدّ.",
+  "after": "يتيح لحامله إيقاظ سميرت، المُرتَدّ.",
+  "why": "Frozen glossary spelling of Apostate carries the light diacritic; unified with the other Shell titles in the set."
+ },
+ {
+  "key": "/73AE2CB5425249EB735FB78C61BB82C9",
+  "before": "يتيح لحامله إيقاظ هاروس، التابع.",
+  "after": "يتيح لحامله إيقاظ هاروس، التابِع.",
+  "why": "Same: the frozen التابِع, so the five sibling 'wake up X, the Y' rows carry identical title forms."
+ },
+ {
+  "key": "/426B811F49E57BBD7626C8B45D3A2204",
+  "before": "مستخلصٌ عجيبٌ من هذه النبتة. بقليل من التطويع، يغدو أكثر من مرهم شافٍ. أرى علامات نموٍّ حقيقيّ في خاضعنا للتجربة. وسيلزم بالطبع مزيدٌ من الاختبار.",
+  "after": "مستخلصٌ عجيبٌ من هذه النبتة. بقليل من التطويع، يغدو أكثر من مرهم شافٍ. أرى علامات نموٍّ حقيقيّ لدى موضوع تجربتنا. وسيلزم بالطبع مزيدٌ من الاختبار.",
+  "why": "خاضعنا للتجربة is a possessive-participle construction Arabic doesn't make; موضوع تجربتنا is how a lab note actually says 'our subject'."
+ },
+ {
+  "key": "/4B2863BB45F6A4D50097BFB0E9AD7FB3",
+  "before": "أدخلني رجلٌ غريب الأطوار بيته، يهذي بحديث سيدة الغابة. زعم أنها عادت، لكن وصفه لم يكن يستقيم.",
+  "after": "أدخلني رجلٌ غريب الأطوار بيته، يهذي عن سيدة الغابة. زعم أنها عادت، لكن وصفه لم يكن يستقيم.",
+  "why": "يهذي بحديث X reads as 'raves with the talk of X'; يهذي عن is the plain collocation."
+ },
+ {
+  "key": "/8C7B79424763BAFDBA36BEB37956C6CD",
+  "before": "فنحتنا معابدها من هذي الجدران عينها، لننشر بُيوضها ونحميها.",
+  "after": "فنحتنا معابدها من هذه الجدران عينها، لننشر بُيوضها ونحميها.",
+  "why": "هذي is a colloquial contraction inside an elevated liturgical passage."
+ }
+]

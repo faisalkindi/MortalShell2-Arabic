@@ -1,0 +1,6 @@
+{"chunk": 59, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Merchant_Interact_Proxima/087BA25243C4162370BD4EB0CFFFD83E","type":"term_violation","severity":"major",
+   "source_en":"The… Hexapod.","ar":"...السداسيّ الأرجل.",
+   "issue":"Second occurrence in this corpus of the explicitly forbidden term. 05_glossary.csv freezes Hexapod as الهكسابود specifically because Merrick's dialogue runs a mishearing gag on that transliterated stem, and explicitly says 'NOT السداسيّ الأرجل'. This row uses the forbidden literal translation (see also chunk_058 finding at Dialogue_Dlg_Merchant_HexapodKilled/F028CD7A...) — this is a repeated, systemic substitution, not a one-off.",
+   "suggested_ar":"...الهكسابود."}
+]}

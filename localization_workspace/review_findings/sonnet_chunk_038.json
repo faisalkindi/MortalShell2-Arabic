@@ -1,0 +1,6 @@
+{"chunk": 38, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_BlisterBoi_Goodbye_Test/8F672D964943E4C3AAA6D884BB5B3BD5","type":"omission","severity":"major",
+   "source_en":"A pittance, but it's a start. Bring more and I will reward you handsomely.","ar":"نزرٌ يسير، لكنّه بداية.",
+   "issue":"Second sentence entirely dropped — the promise 'Bring more and I will reward you handsomely' is missing from the Arabic, which only covers the first sentence.",
+   "suggested_ar":"نزرٌ يسير، لكنّه بداية. أحضر المزيد وسأكافئك أيّما مكافأة."}
+]}

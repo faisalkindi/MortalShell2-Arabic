@@ -1,0 +1,10 @@
+{"chunk": 5, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_Player_Abilities/DefaultSmertPassive", "type": "term_violation", "severity": "major",
+   "source_en": "Deadly Revelation", "ar": "الكشف القاتل",
+   "issue": "Frozen glossary term 'Deadly Revelation' is approved as الوحي المُميت (05_glossary.csv); this row uses a different, non-approved rendering الكشف القاتل for Smert's named ability.",
+   "suggested_ar": "الوحي المُميت"},
+  {"key": "ST_Core_Player_Abilities/DefaultProximaAbility", "type": "term_violation", "severity": "major",
+   "source_en": "Biosampler", "ar": "المِجسّ الحيوي",
+   "issue": "Frozen glossary term 'Biosampler' (Proxima's ability) is approved as جامع العينات الحيوية; this row uses a different, non-approved rendering المِجسّ الحيوي.",
+   "suggested_ar": "جامع العينات الحيوية"}
+]}

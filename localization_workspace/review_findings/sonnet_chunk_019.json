@@ -1,0 +1,43 @@
+{"chunk": 19, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Faithful Doubles</> inflict {Y} <Phantom>Phantom</> stacks",
+   "ar": "يُلحق <Bold>القرناء المخلصون</> {Y} تراكمات <Phantom>الطيف</>.",
+   "issue": "Glossary keeps تُنزل for inflicting a status (distinct from تُلحق, reserved for damage). This inflicts a Phantom status stack but uses the damage verb يُلحق.",
+   "suggested_ar": "يُنزل <Bold>القرناء المخلصون</> {Y} تراكمات <Phantom>الطيف</>."},
+
+  {"key": "ST_Skill_Genessa/GenessaSkillDistraction_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Faithful Doubles</> struck by enemies burst into a shockwave that inflicts {Y} <Stasis>Stasis</> stacks",
+   "ar": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون موجةَ صدمة تُلحق {Y} تراكمات <Stasis>الركود</>.",
+   "issue": "Same status-vs-damage verb mix-up: inflicting a Stasis status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون موجةَ صدمة تُنزل {Y} تراكمات <Stasis>الركود</>."},
+
+  {"key": "ST_Skills_Eredrim/ShellSkillEredrimAnguish_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Shoulder Bash</> inflicts {Y} <Weak>Weak</> stacks",
+   "ar": "تُلحق <Bold>نطحة الكتف</> {Y} تراكمات <Weak>الضعف</>.",
+   "issue": "Inflicting a Weak status stack should use تُنزل per glossary, not the damage verb تُلحق.",
+   "suggested_ar": "تُنزل <Bold>نطحة الكتف</> {Y} تراكمات <Weak>الضعف</>."},
+
+  {"key": "ST_Skills_Eredrim/ShellSkillEredrimOppression_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Shoulder Bash</> releases a frontal shockwave that inflicts {Y} <Trauma>Trauma</> stacks but costs {Z} more <Resolve>Resolve</>",
+   "ar": "تُطلق <Bold>نطحة الكتف</> موجة صدمة أمامية تُلحق {Y} تراكمات <Trauma>الرَّضّ</>، لكنها تكلّف {Z} أكثر من <Resolve>العزيمة</>.",
+   "issue": "Inflicting a Trauma status stack should use تُنزل per glossary, not تُلحق.",
+   "suggested_ar": "تُطلق <Bold>نطحة الكتف</> موجة صدمة أمامية تُنزل {Y} تراكمات <Trauma>الرَّضّ</>، لكنها تكلّف {Z} أكثر من <Resolve>العزيمة</>."},
+
+  {"key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_3",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Stray Doubles</> melee attacks inflict {Z} <Weak>Weak</> stacks",
+   "ar": "تُلحق هجمات <Bold>القرناء الشاردين</> في الاشتباك {Z} تراكمات <Weak>الضعف</>.",
+   "issue": "Inflicting a Weak status stack should use تُنزل per glossary, not تُلحق.",
+   "suggested_ar": "تُنزل هجمات <Bold>القرناء الشاردين</> في الاشتباك {Z} تراكمات <Weak>الضعف</>."},
+
+  {"key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_4",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Stray Doubles</> ranged attacks inflict {W} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق هجمات <Bold>القرناء الشاردين</> بعيدة المدى {W} تراكمات <Fragile>الهشاشة</>.",
+   "issue": "Inflicting a Fragile status stack should use تُنزل per glossary, not تُلحق.",
+   "suggested_ar": "تُنزل هجمات <Bold>القرناء الشاردين</> بعيدة المدى {W} تراكمات <Fragile>الهشاشة</>."}
+]}

@@ -1,0 +1,42 @@
+{
+ "chunk": 103,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_InteractGraguReaction/123629FF4EBA8E1D3AE795AE39BBA753",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "(laughs) I hope not.",
+   "ar": "(يضحك) آمل ألّا يكون كذلك.",
+   "issue": "The barkeep is female: her own line 'I'm no tavern wench' is rendered لستُ نادلة حانة (feminine), and character_cards.yaml puts Hilga in the tavern-keeper role. Her stage directions are all masculine, so the same speaker is male in the parentheticals and female in the dialogue. This is a cross-cutting call - if the owner rules the Barkeep is a separate male NPC, all four rows stay as they are, but they cannot stay inconsistent with نادلة.",
+   "suggested_ar": "(تضحك) آمل ألّا يكون كذلك."
+  },
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact07/F3513BCD457A8EF79D77B4930E1BCAE9",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "(chuckles) A jest… drink up, brev.",
+   "ar": "(يضحك) مزحة فحسب... اشرب، يا صاح.",
+   "issue": "The barkeep is female: her own line 'I'm no tavern wench' is rendered لستُ نادلة حانة (feminine), and character_cards.yaml puts Hilga in the tavern-keeper role. Her stage directions are all masculine, so the same speaker is male in the parentheticals and female in the dialogue. This is a cross-cutting call - if the owner rules the Barkeep is a separate male NPC, all four rows stay as they are, but they cannot stay inconsistent with نادلة.",
+   "suggested_ar": "(تضحك) مزحة فحسب... اشرب، يا صاح."
+  },
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/A228CAD54AD45FF3246A88B2352D38B4",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "Like a nice long piss. (chuckles)",
+   "ar": "أشبه ببولٍ طويل ومريح. (يضحك)",
+   "issue": "The barkeep is female: her own line 'I'm no tavern wench' is rendered لستُ نادلة حانة (feminine), and character_cards.yaml puts Hilga in the tavern-keeper role. Her stage directions are all masculine, so the same speaker is male in the parentheticals and female in the dialogue. This is a cross-cutting call - if the owner rules the Barkeep is a separate male NPC, all four rows stay as they are, but they cannot stay inconsistent with نادلة.",
+   "suggested_ar": "أشبه ببولٍ طويل ومريح. (تضحك)"
+  },
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_PlayerNoCoin/8381253A49BEB2E2D5AEC4A0BA67E78C",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "Empty pockets? (grunts)",
+   "ar": "جيوب فارغة؟ (يتأفف)",
+   "issue": "The barkeep is female: her own line 'I'm no tavern wench' is rendered لستُ نادلة حانة (feminine), and character_cards.yaml puts Hilga in the tavern-keeper role. Her stage directions are all masculine, so the same speaker is male in the parentheticals and female in the dialogue. This is a cross-cutting call - if the owner rules the Barkeep is a separate male NPC, all four rows stay as they are, but they cannot stay inconsistent with نادلة.",
+   "suggested_ar": "جيوب فارغة؟ (تتأفف)"
+  }
+ ]
+}

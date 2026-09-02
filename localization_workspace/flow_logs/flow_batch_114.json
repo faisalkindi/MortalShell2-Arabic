@@ -1,0 +1,68 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_05_20",
+  "before": "أبي هو من دفعك لفعل هذا.",
+  "after": "أبي هو من أوعز إليك بهذا.",
+  "why": "'دفعك لفعل هذا' is plain; أوعز إليك fits a father's court intrigue"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_01_30",
+  "before": "الأول في تسلسل وراثة مقعد مامون.",
+  "after": "أول من يرث مقعد مامون.",
+  "why": "'الأول في تسلسل وراثة' is a bureaucratic gloss of 'first in line'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_03_20",
+  "before": "ابتعد عن ناظري.",
+  "after": "غِبْ عن وجهي.",
+  "why": "'ابتعد عن ناظري' is a calque; غِبْ عن وجهي is the Arabic dismissal"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Neutral_09_10",
+  "before": "جيد بما يكفي. في الوقت الراهن.",
+  "after": "لا بأس. في الوقت الراهن.",
+  "why": "'جيد بما يكفي' is word-for-word 'good enough'; لا بأس is what Arabic says"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_01_30",
+  "before": "همم... فرقٌ طفيف.",
+  "after": "همم… لا فرق يُذكر.",
+  "why": "'little difference' idiom; ellipsis normalized"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Decree_Lazlo_13_20",
+  "before": "أسأُعدَم…؟",
+  "after": "أنا… سأُعدَم؟",
+  "why": "'أسأُعدَم' stacks two alifs and buries the pause"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_10_30",
+  "before": "بدأ يُنهكني وجودك.",
+  "after": "لقد سئمتُ صحبتك.",
+  "why": "'بدأ يُنهكني وجودك' loses the weariness idiom; سئمتُ صحبتك matches 'grow weary of your company'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_09_20",
+  "before": "لديّ هنا لصّ، أُمسك متلبّسًا.",
+  "after": "لديّ هنا لصٌّ، ضُبط متلبّسًا.",
+  "why": "ضُبط متلبّسًا is the fixed Arabic collocation for caught red-handed"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_02_20",
+  "before": "لا بدّ أنني سمينٌ بامتياز",
+  "after": "لا بدّ أنّي بديعُ البدانة",
+  "why": "'exquisitely corpulent' is arch mock-courtly; سمين بامتياز is flat modern"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_NoPoison_Lazlo_18_10",
+  "before": "أظنّ لا.",
+  "after": "لا، على ما أظنّ.",
+  "why": "matches the sibling 'I suppose not' line; أظنّ لا is not Arabic order"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Thief_Lazlo_09_40",
+  "before": "كنتُ شبه جائع، لم أكن أفكّر بوضوح.",
+  "after": "كنتُ شبه ميتٍ من الجوع، ما كنتُ أعي ما أفعل.",
+  "why": "'half-starved' and 'not thinking straight' both calqued; these are the Arabic equivalents"
+ }
+]

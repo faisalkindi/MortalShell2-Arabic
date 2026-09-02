@@ -1,0 +1,33 @@
+{
+ "chunk": 111,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_FastTravel/PrologueAreaName",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Disciple's Pass",
+   "ar": "ممر التلميذ",
+   "issue": "'Disciple' is frozen as الحواريّ, and its glossary note explicitly rules out the neighbouring cult ranks (NOT تابع = Vassal, NOT المُريد = Acolyte, NOT عابد الطائفة = Cultist). التلميذ ('pupil/student') is a fourth unapproved word, and it is a map/area name the player sees repeatedly.",
+   "suggested_ar": "ممر الحواريّ"
+  },
+  {
+   "key": "ST_Core_DLCs/OpenBetaBonus_BrigandSac",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Brigand Sac",
+   "ar": "كيس اللصوص",
+   "issue": "'Brigand' is rendered قُطّاع طرق everywhere else in the corpus (brigand-swill, 'I think I've seen brigands drinking it', 'But these brigands…'). اللصوص ('thieves') is a different group, and the English is singular.",
+   "suggested_ar": "كيس قاطع الطريق"
+  },
+  {
+   "key": "ST_Core_FastTravel/FinalLevelAreaName",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "The Unfound Path",
+   "ar": "الدرب المجهول",
+   "issue": "'Unfound' means not yet discovered, not 'unknown'. المجهول is also already doing duty for 'Nameless' in this same batch set (The Nameless Captive = الأسير المجهول), so two distinct English words collapse onto one Arabic name.",
+   "suggested_ar": "الدرب الذي لم يُطرَق"
+  }
+ ]
+}

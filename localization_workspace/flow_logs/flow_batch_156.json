@@ -1,0 +1,56 @@
+[
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre01_ApproachFight/FCAB8E2144AD7B697E00C196E116146D",
+  "before": "سرقتَ أفضل معزاتي!",
+  "after": "سرقتَ خيرة ماعزي!",
+  "why": "معزاتي is a malformed plural; ماعز is the collective"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/95C86FDB4EC46C39D9BD5BAC12B26D9E",
+  "before": "وكأنهم يأبهون بمعزٍ مفقودة.",
+  "after": "وكأنهم يعبأون بماعز ضائعة قِيد شعرة.",
+  "why": "'يأبهون' alone lost the contempt of 'two shits'; قيد شعرة is the Arabic equivalent"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/8639ACB1474600A380C3C6978B5EB740",
+  "before": "أنتما الاثنان. خذا خصومتكما إلى المُقتَصّين.",
+  "after": "ارفعا خصومتكما إلى المُقتَصّين.",
+  "why": "calque of 'take'; a dispute is رُفع to a court in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre01_Intro/42284FC2484EA93BA87B64836AB51012",
+  "before": "لنتفضّل برعايانا بزيارة.",
+  "after": "لنتفضّل على رعايانا بزيارة.",
+  "why": "تفضّل governs على, not بـ"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre01_Intro/0B52F52D4B8451D82AD5ADA06DFD37CE",
+  "before": "أتمزح، بالتأكيد؟",
+  "after": "لا شكّ أنك تمزح؟",
+  "why": "'أتمزح، بالتأكيد؟' read as two contradictory questions"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre02_End/F18AA19840565D14ABFC52983EEDD89B",
+  "before": "ماذا نفعل الآن؟",
+  "after": "ماذا عسانا نفعل؟",
+  "why": "'الآن' was an addition; عسى carries the helplessness of 'are we to do'"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre02_Intro/7133A7CA4BC0BB432BD389BD1523F230",
+  "before": "إلى أين أيها اللورديّان الصغيران؟",
+  "after": "إلى أين، أيها اللوردان الصغيران؟",
+  "why": "اللورديّان is a nonsense dual"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre03_Interact/E7DA8E9C4D0DFB82687E52BD4321FC3A",
+  "before": "لعلّهم يستطيعون تشكيلك…",
+  "after": "لعلّهم يصوغونك…",
+  "why": "rows 55 and 59 are one sentence; صاغ joins to 'نبيلًا' without a second verb"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre03_Interact/896CF23B43980273A0AD20898CC95FF4",
+  "before": "…لتصير نبيلًا حقًا.",
+  "after": "…نبيلًا حقًا.",
+  "why": "completes row 55 as a single sentence instead of restarting with لتصير"
+ }
+]

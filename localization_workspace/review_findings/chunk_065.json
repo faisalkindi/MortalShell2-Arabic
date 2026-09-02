@@ -1,0 +1,24 @@
+{
+ "chunk": 65,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_UnderMether_Tower_Interact/4E25EC9C4313707F9F7310A1A95414AB",
+   "type": "wrong_referent",
+   "severity": "minor",
+   "source_en": "The last of your brood.",
+   "ar": "آخر مَن تبقّى من نسلك.",
+   "issue": "نسلك means your descendants/progeny, which inverts the generational direction: the Harbinger belongs to the brood, he does not father it. brood is also already rendered الحَضْنة in the frozen glossary (Broodseeker = طالبة الحَضْنة).",
+   "suggested_ar": "آخر مَن تبقّى من حَضْنتك."
+  },
+  {
+   "key": "Dialogue_Dlg_Villager_Slice1_LonelyWoman_01/9FBE80C54F779980DBE4E3A1E99E4361",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "(excited gasp) Who is it at such an hour?",
+   "ar": "(تلهث بحماس) مَن يكون في هذه الساعة؟",
+   "issue": "تلهث means pants / breathes heavily, not the sharp intake of breath a gasp denotes. The corpus already uses شهق for a modified gasp ((gasps in shock) = (تشهق مصدومة) / (يشهق مصدومًا)); this is the same defect flagged on (gasps) in chunk 060.",
+   "suggested_ar": "(تشهق بحماس) مَن يكون في هذه الساعة؟"
+  }
+ ]
+}

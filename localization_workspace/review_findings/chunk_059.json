@@ -1,0 +1,24 @@
+{
+ "chunk": 59,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Merchant_OnBuy_Moonshine/DC8738B143DFE162316EF491FDCEBD6E",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Ah... tastes like simpler times.",
+   "ar": "مذاقه مذاق زمن أبسط.",
+   "issue": "The 'Ah...' and its ellipsis are dropped. It is the beat where Merrick tastes the drink before he speaks, and the corpus preserves this character's interjections and ellipses elsewhere (e.g. 'But, uh, give me some time...' → 'لكن... أمهلني وقتًا').",
+   "suggested_ar": "آه... مذاقه مذاق زمن أبسط."
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_OnBuy_Bloodseed/F18CEFB74C9990A69B341FBA9CF646AA",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A delicasey… in some places.",
+   "ar": "طبق شهي... في بعض الأماكن.",
+   "issue": "The item being sold is a Bloodseed, and a sibling row in this namespace calls it 'more of a nut than a seed'. طبق is a served dish, which the item is not; 'delicacy' as a prized foodstuff is صنفٌ شهيّ.",
+   "suggested_ar": "صنفٌ شهيّ... في بعض الأماكن."
+  }
+ ]
+}

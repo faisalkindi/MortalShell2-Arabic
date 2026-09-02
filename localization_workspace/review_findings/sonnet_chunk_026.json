@@ -1,0 +1,21 @@
+{"chunk": 26, "rows_reviewed": 90, "findings": [
+  {"key": "/C69AF74B49337FC6DE9E73A03B750A51",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Disciple", "ar": "المريد",
+   "issue": "Generic Disciple NPC label using reserved-for-Tiel المُريد instead of the generic أتباع/تابِع.",
+   "suggested_ar": "التابِع"},
+
+  {"key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_PickUpMachineGun_04/1A7D91564546B3F6CD2FBC98A910CAA6",
+   "type": "term_violation", "severity": "major",
+   "source_en": "And I will kill the Hexapod.",
+   "ar": "وسأقتل الهكسابود.",
+   "issue": "Glossary freezes 'Hexapod' as السداسيّ الأرجل; this row uses the unapproved transliteration الهكسابود.",
+   "suggested_ar": "وسأقتل السداسيّ الأرجل."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_PickUpMachineGun_04/A6BDFA5A4AD6CE6ABD1A13A1C03C019C",
+   "type": "gender_error", "severity": "major",
+   "source_en": "You wouldn’t dare.",
+   "ar": "لن تجرئي.",
+   "issue": "Proxima ('I will continue. Alone.') is warning Merrick (male, casual 'I'm not missin' that') not to follow her, but the verb uses feminine تجرئي instead of masculine تجرؤ.",
+   "suggested_ar": "لن تجرؤ."}
+]}

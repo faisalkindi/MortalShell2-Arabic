@@ -1,0 +1,60 @@
+{
+ "chunk": 96,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_PickUpMachineGun_04/1A7D91564546B3F6CD2FBC98A910CAA6",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "And I will kill the Hexapod.",
+   "ar": "وسأقتل السداسيّ الأرجل.",
+   "issue": "Hexapod is frozen as الهكسابود, and this very chunk uses الهكسابود three rows later (TheEndeavor_S1_New_Merrick_02 'If the Hexapod returns...'). Here it is descriptively translated as السداسيّ الأرجل, so the same creature has two names inside one memory.",
+   "suggested_ar": "وسأقتل الهكسابود."
+  },
+  {
+   "key": "/VratkoFeetPic01_Name",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Vratko's Self-Study",
+   "ar": "دراسة ڤراتكو الذاتية",
+   "issue": "The key is VratkoFeetPic01 - this is a picture, so 'Self-Study' is the art sense (an artist's study of his own body), not autodidactic study. دراسة ... الذاتية reads as self-education.",
+   "suggested_ar": "دراسة ڤراتكو لذاته"
+  },
+  {
+   "key": "BlockLargeTut_3/BlockLargeTut_3",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "Running out of guard meter stuns your character.",
+   "ar": "إن نفد مقياس الصدّ أصابك ذهولٌ مؤقت.",
+   "issue": "مؤقت asserts the stun is temporary. The English says only that it stuns; the duration claim is not in the source.",
+   "suggested_ar": "إن نفد مقياس الصدّ أصابك الذهول."
+  },
+  {
+   "key": "BlockLargeTut_4/BlockLargeTut_4",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "The guard meter recharges when guard is released.",
+   "ar": "يعود المقياس إلى الامتلاء متى أفلتَّ الصدّ.",
+   "issue": "يعود إلى الامتلاء asserts the meter refills completely. The English says 'recharges', which does not commit to a full refill.",
+   "suggested_ar": "يُعاد شحن المقياس متى أفلتَّ الصدّ."
+  },
+  {
+   "key": "Dialogue_DLG_HubCultist_NewGameGreeting/3D34E3C643EAF9B83C9A2E87C5D12413",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "I see you’ve been left behind, too.",
+   "ar": "أرى أنك أيضًا تُركت خلفهم.",
+   "issue": "خلفهم supplies a 'them' the English does not name; 'left behind' is intransitive here and the cultist is including himself, not pointing at a third party.",
+   "suggested_ar": "أرى أنك خُلِّفتَ أنت أيضًا."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_RefuseMerricksHelp_07/4026BD1A4407B51998BAE484375FD527",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Now compromised.",
+   "ar": "وقد بطلت الآن.",
+   "issue": "بطلت asserts the contingency is now void. 'Compromised' says it has been undermined/exposed, which is weaker and leaves the plan technically standing - Proxima is reporting damage, not cancellation.",
+   "suggested_ar": "وقد أُفسدت الآن."
+  }
+ ]
+}

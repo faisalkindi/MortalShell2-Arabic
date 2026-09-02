@@ -1,0 +1,15 @@
+{
+ "chunk": 109,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "mortal_shell_meta_descriptions/1332010_name",
+   "type": "mistranslation",
+   "severity": "high",
+   "source_en": "Stray",
+   "ar": "الضالّة",
+   "issue": "Two faults in one row. (1) This is a _name row - the product title of the game Stray (appid 1332010); all 40-odd sibling _name rows in this chunk keep the English title verbatim. (2) الضالّة is a FROZEN Mortal Shell term (Stray = ضالّ / الضالّة, Genessa's transformed state, with Stray Genessa and Stray Sester built on it). Using it here attaches a load-bearing in-game term to an unrelated third-party game title.",
+   "suggested_ar": "Stray"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{"chunk": 82, "rows_reviewed": 90, "findings": [
+  {"key": "/E11F4C8B40578CB249AFA285D3C645F2", "type": "term_violation", "severity": "major",
+   "source_en": "Search Sentry's Corpse", "ar": "تفتيش جثة الحارس",
+   "issue": "Frozen glossary term 'Sentry' is approved as الرقيب, with the explicit note 'الحارس reserved for Warden/Guardian' (05_glossary.csv). This row uses الحارس for Sentry, the exact collision the glossary warns against.",
+   "suggested_ar": "تفتيش جثة الرقيب"},
+  {"key": "/C73AA5A6453237B54883C2A5768EECC8", "type": "mistranslation", "severity": "minor",
+   "source_en": "Rejoice! For our fair maiden, the Lady of the Woods, has returned. And what does she ask of us? No more than a small tribute, a share in all we harvest.",
+   "ar": "افرحوا! فعذراؤنا الجميلة، سيدة الغابة، قد عادت. وماذا تطلب منّا؟ لا أكثر من جزيةٍ يسيرة، نصيبٍ من كل ما نحصد.",
+   "issue": "Same recurring issue flagged in chunks 78/81: generic 'tribute' rendered with الجزية (the Islamic poll tax on non-Muslims), the same wrong-institution problem the glossary explicitly flags for 'tithes' (should be العُشور-style wording, not الجزية). This is now the third/fourth occurrence of the same systemic word-choice error across the corpus.",
+   "suggested_ar": "لا أكثر من إتاوةٍ يسيرة، نصيبٍ من كل ما نحصد."}
+]}

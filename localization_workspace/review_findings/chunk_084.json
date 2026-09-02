@@ -1,0 +1,24 @@
+{
+ "chunk": 84,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/F2B85FD4471BEF78A3CC81A8B810B28D",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "The origins of Mammon begin sometime in the Post-Arrival Era. Three duchies sprung up from the ashes of Fallgrim. These were crude backwater baronies. Their growth was stymied by constant conflict and feuding.",
+   "ar": "تبدأ أصول مَمُّون في زمنٍ ما من عصر ما بعد الوصول. نهضت ثلاث دوقيات من رماد فولغريم، وكانت إماراتٍ ريفيةً خشنة، أعاق نموّها الصراع والعداء الدائمان.",
+   "issue": "This chronicle is precise about rank (duchies, High Lord, Grand-Prince) and the Arabic keeps دوقيات for 'duchies' but renders 'baronies' as إمارات — a principality, which outranks a duchy and inverts the sentence's belittling point. 'Backwater' also flattens to ريفية (rural), losing the disdain.",
+   "suggested_ar": "تبدأ أصول مَمُّون في زمنٍ ما من عصر ما بعد الوصول. نهضت ثلاث دوقيات من رماد فولغريم، وكانت بارونيّاتٍ نائيةً خشنة، أعاق نموّها الصراع والعداء الدائمان."
+  },
+  {
+   "key": "/BCD41B1D47820B008D8074A7A12800F7",
+   "type": "register_break",
+   "severity": "minor",
+   "source_en": "There were meant to be worlds here. I can feel their hollows. Doors without sigils. Tomes without ink. Either the traveler has hidden their past, or some other hand has devoured it.",
+   "ar": "كان من المفترض أن تكون هنا عوالم. أستطيع أن أشعر بفراغاتها: أبوابٌ بلا رموز، ودفاترُ بلا حبر. إما أن يكون المسافر أخفى ماضيه، أو أن يدًا أخرى التهمته.",
+   "issue": "'Tomes' are heavy old volumes and the passage is elevated lore; دفاتر are notebooks/exercise books, a modern everyday word that sits badly beside أبواب بلا رموز in the same list.",
+   "suggested_ar": "كان من المفترض أن تكون هنا عوالم. أستطيع أن أشعر بفراغاتها: أبوابٌ بلا رموز، وأسفارٌ بلا حبر. إما أن يكون المسافر أخفى ماضيه، أو أن يدًا أخرى التهمته."
+  }
+ ]
+}

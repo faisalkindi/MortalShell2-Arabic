@@ -1,0 +1,38 @@
+[
+ {
+  "key": "ST_Core_Misc/MiscTalk",
+  "before": "تحدّث",
+  "after": "محادثة",
+  "why": "Same standardisation: the prompt list is verbal nouns (عبور، معاينة، تحريك); تحدّث was the odd imperative."
+ },
+ {
+  "key": "ST_Core_PPItems/PPItemActive_AddChargeSigular",
+  "before": "يُستخدَم <Bold>1</> مرة إضافية في كل استراحة",
+  "after": "يمكن استخدامه <Bold>1</> مرة إضافية في كل راحة",
+  "why": "'Can be used' is a possibility, not a statement of fact; per rest standardised to راحة, matching تُستعاد عند الراحة."
+ },
+ {
+  "key": "ST_Core_PPItems/PPItemActive_AddChargePlural",
+  "before": "يُستخدَم {W} مرات إضافية في كل استراحة",
+  "after": "يمكن استخدامه {W} مرات إضافية في كل راحة",
+  "why": "Sibling of the singular row - same frame."
+ },
+ {
+  "key": "ST_Core_PPItems/PPItem_DoesNothingEffect",
+  "before": "لا... يفعل شيئًا؟",
+  "after": "يفعل... لا شيء؟",
+  "why": "لا... يفعل شيئًا؟ splits the negation from its verb, which Arabic cannot do; the joke needs the pause before the punchline, not inside the grammar."
+ },
+ {
+  "key": "ST_Core_PPItems/Familiarity_FindXMoreSingular",
+  "before": "اعثر على <Bold>1</> غيره لكشف تفصيل أعمق عن هذا الغرض",
+  "after": "اعثر على <Bold>1</> آخر لكشف مزيد من التفاصيل عن هذا الغرض",
+  "why": "غيره/غيرها disagreed across the singular/plural pair; مزيد من التفاصيل is the idiom where تفصيل أعمق traces 'further detail'."
+ },
+ {
+  "key": "ST_Core_PPItems/Familiarity_FindXMorePlural",
+  "before": "اعثر على <Bold>{X}</> غيرها لكشف تفصيل أعمق عن هذا الغرض",
+  "after": "اعثر على <Bold>{X}</> أخرى لكشف مزيد من التفاصيل عن هذا الغرض",
+  "why": "Matched to the singular row."
+ }
+]

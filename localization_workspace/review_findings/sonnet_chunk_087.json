@@ -1,0 +1,6 @@
+{"chunk": 87, "rows_reviewed": 90, "findings": [
+  {"key": "/EternalCore", "type": "term_violation", "severity": "minor",
+   "source_en": "Endless Core", "ar": "النواة الأبدية",
+   "issue": "Same item name 'Endless Core' is translated النواة السَّرْمَدية elsewhere in the corpus (ST_Core_Tarforge/InfiniteForgeMode, 'Install Endless Core'). This row uses a different word (الأبدية 'eternal' instead of السَّرْمَدية 'endless') for the identical item, an internal inconsistency.",
+   "suggested_ar": "النواة السَّرْمَدية"}
+]}

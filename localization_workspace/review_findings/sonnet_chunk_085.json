@@ -1,0 +1,10 @@
+{"chunk": 85, "rows_reviewed": 90, "findings": [
+  {"key": "/FEE8372441394D5FB8E74B9D2A3F8379", "type": "term_violation", "severity": "major",
+   "source_en": "Use Biosampler", "ar": "استخدام المِجسّ الحيوي",
+   "issue": "Frozen glossary term 'Biosampler' (Proxima's ability) is approved as جامع العينات الحيوية; this row uses a different rendering المِجسّ الحيوي (same recurring mismatch found elsewhere in the corpus).",
+   "suggested_ar": "استخدام جامع العينات الحيوية"},
+  {"key": "/D30D44EE437401E728254D8B0DFC5C81", "type": "term_violation", "severity": "major",
+   "source_en": "Use Biosampler On Stranger", "ar": "استخدام المِجسّ الحيوي على الغريب",
+   "issue": "Same Biosampler mismatch as /FEE8372441394D5FB8E74B9D2A3F8379 — should be جامع العينات الحيوية per glossary.",
+   "suggested_ar": "استخدام جامع العينات الحيوية على الغريب"}
+]}

@@ -1,0 +1,24 @@
+{
+ "chunk": 44,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Gorf_Interact_03/0F18360E4B0FC3858FE7598433DA662A",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Here you are. (burps)",
+   "ar": "ها أنت ذا. (تجشّؤ)",
+   "issue": "Wrong sense of 'Here you are': Gorf is handing over a reward (the same node has 'I forgot to repay your kindness'). ها أنت ذا means 'there you are / you've arrived', addressed at the person's presence, not at an object being offered.",
+   "suggested_ar": "تفضّل. (تجشّؤ)"
+  },
+  {
+   "key": "Dialogue_Dlg_Gorf_Interact_04/5CC7CFA54B26BC40D740D6BF8467B9F6",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(gulp) Mmm… thank you, friend. Here.",
+   "ar": "(يزدرد) ملم… شكرًا لك، يا صديقي. تفضّل.",
+   "issue": "ملم is not a readable Arabic transcription of 'Mmm' (it reads as the word malam). The same interjection is rendered مم… elsewhere in this chunk.",
+   "suggested_ar": "(يزدرد) ممم… شكرًا لك، يا صديقي. تفضّل."
+  }
+ ]
+}

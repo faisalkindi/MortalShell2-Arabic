@@ -1,0 +1,19 @@
+{"chunk": 86, "rows_reviewed": 90, "findings": [
+  {"key": "/882F7F034FF49049F8A1EFAAFA6157B1", "type": "term_violation", "severity": "major",
+   "source_en": "We are the chosen few, the Disciples of the Blessed Mether.", "ar": "نحن القلة المختارة، مريدو الأُمَّهة المباركة.",
+   "issue": "'Disciples' (character type, capitalized) rendered مريدو using المُريد (Acolyte, Tiel's title) instead of the frozen الحواريّ / pl. الحواريّون (05_glossary.csv, Disciple).",
+   "suggested_ar": "نحن القلة المختارة، حواريّو الأُمَّهة المباركة."},
+  {"key": "/B6416B904809D8ED3AD273BAADD48882", "type": "term_violation", "severity": "major",
+   "source_en": "Weapon Cultist", "ar": "تابع الطائفة المسلَّح",
+   "issue": "Frozen glossary term 'Cultist' is approved as عابد الطائفة, explicitly NOT تابع الطائفة. Same recurring collision as chunks 080/083's 'Mad/Sidearm Cultist'.",
+   "suggested_ar": "عابد الطائفة المسلَّح"},
+  {"key": "/4DCEA9D541C97ABA23D3768964F7DA63", "type": "term_violation", "severity": "minor",
+   "source_en": "Welcome New Follower", "ar": "الترحيب بالتابع الجديد",
+   "issue": "Generic 'Follower' rendered التابع, the exact word the glossary reserves for Harros's frozen Vassal title (التابِع) — the same collision the glossary explicitly warns against for Cultist ('NOT تابع الطائفة - التابِع is frozen as Harros's Vassal title').",
+   "suggested_ar": "الترحيب بالمتّبِع الجديد"},
+  {"key": "/ProximaSpecimenFlavorText", "type": "term_violation", "severity": "major",
+   "source_en": "A small shred of flesh extracted by the Biosampler. The rare few who've studied this mechanism agree it appears to \"ingest\" the specimen. But what exactly happens to the extract is a source of great disagreement. Perhaps it's best not to know.",
+   "ar": "قطعةٌ صغيرة من اللحم استخلصها المِجسّ الحيوي. يتفق القلة النادرة ممن درسوا هذه الآلية على أنها «تبتلع» العينة، أما ما يحدث للمستخلَص بعد ذلك فمثارُ خلافٍ كبير. ولعلّ الأفضل ألا يُعرف.",
+   "issue": "'Biosampler' rendered المِجسّ الحيوي instead of the glossary-frozen جامع العينات الحيوية — same recurring mismatch found in chunks 005/085.",
+   "suggested_ar": "قطعةٌ صغيرة من اللحم استخلصها جامع العينات الحيوية. يتفق القلة النادرة ممن درسوا هذه الآلية على أنها «تبتلع» العينة، أما ما يحدث للمستخلَص بعد ذلك فمثارُ خلافٍ كبير. ولعلّ الأفضل ألا يُعرف."}
+]}

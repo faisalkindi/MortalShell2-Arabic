@@ -1,0 +1,122 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_04/0970FF3D470C209DAA8437A35798172B",
+  "before": "لكَ... ولها... ولكل قومك؟",
+  "after": "لك… ولها… ولكل قومك؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_04/87812B4B4FCB58831DE3A08A00266D22",
+  "before": "أما أعطيتُ ما فيه الكفاية؟",
+  "after": "أما أعطيتُ ما يكفي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_05/F3F71C9E40A55E2AD0330281FCDAA4E2",
+  "before": "لكن ربما... لا يزال بإمكاني أن ألعب دوري.",
+  "after": "لكن ربما… ما زال لي دورٌ أؤدّيه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_05/98A64F7446F6825A484F52A5F453C4B5",
+  "before": "ما أنا إلا ظلٌّ... لِلَهبٍ يخبو.",
+  "after": "ما أنا إلا ظلٌّ… لِلَهبٍ يخبو.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_06/7B0C34F7464151D1ECA6979FA715F5C0",
+  "before": "صنعتُ ذات مرة سجنًا... من نوع ما.",
+  "after": "صنعتُ يومًا سجنًا… من نوعٍ ما.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_07/C4521BFE44ED77B02A739F83C6CE88F1",
+  "before": "إبرةٌ لخيوط الأبدية اللانهائية.",
+  "after": "إبرةٌ لخيوط الأبدية التي لا تنتهي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_07/22492F1F417B735900F138B515BA5995",
+  "before": "ليس ما لم تحمل المفتاح.",
+  "after": "إلا أن تحمل المفتاح.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_InteractTiel/30407D2A42F52BC4BE259EBD38719FE7",
+  "before": "ما زال يفوح منه رائحة الشقيّ.",
+  "after": "ما زالت تفوح منه رائحة الوغد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_InteractTiel/8A8D7D304CD7AC9273EC2199B7757F58",
+  "before": "أما زال فيه بعض القتال؟",
+  "after": "أما زال فيه رمقُ قتال؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_InteractTiel/36823D6A4BFF6082FAC7C185D3FDFFDD",
+  "before": "لا بد أن يكون.",
+  "after": "لا بدّ أن يكون.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_MasterTree/75A464E64A8ABD95354DCF81AA3B1C1F",
+  "before": "[اختبار علاقة جينيسا]",
+  "after": "[Genessa Relationship Test]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_MasterTree/324494254352CAE2DF4604B7303FD6F9",
+  "before": "[حوار تمهيدي]",
+  "after": "[Intro Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_MasterTree/99EC4F9644297C8E92539AA49F05D991",
+  "before": "[حوار قبل بدء المهمة]",
+  "after": "[Quest Not Started Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_MasterTree/01E6AB814AB8402F1A487E870B2999A6",
+  "before": "[الحوار الثاني]",
+  "after": "[Second Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_AscensionReaction/96602A3D493B995628E663B2196149CF",
+  "before": "انظر.",
+  "after": "تأمّل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_AscensionReaction/154FCD0245DC0239A4D7B798E279858D",
+  "before": "إنه... تمامًا كما حلمتُ به أولًا.",
+  "after": "إنه... تمامًا كما حلمتُ أولَ مرة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_AscensionReaction/C01CFBBA48B1719DB61F41A67B1AF229",
+  "before": "اكتمل عملنا.",
+  "after": "انتهى عملنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_Interact/A7D30C2A4814AA986D24D6A728A89576",
+  "before": "كوني على ثقة، يا أُخَيّة.",
+  "after": "ثِقي، يا أُخَيّة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_Interact/8AB410DA424B163A368EB9B7BDC1200C",
+  "before": "أم... مخدوعين؟ أم...؟",
+  "after": "أم… مخدوعين؟ أم…؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_Interact/56C77A734383C354BAF38D86831A2266",
+  "before": "تعلمين كيف يمضي هذا الدرب.",
+  "after": "تعرفين إلى أين يفضي هذا الدرب.",
+  "why": "flow"
+ }
+]

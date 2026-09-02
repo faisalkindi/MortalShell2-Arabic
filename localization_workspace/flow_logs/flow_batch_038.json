@@ -1,0 +1,26 @@
+[
+ {
+  "key": "/EAE32E7743EFE7DD520FD2BB6B13BDAB",
+  "before": "كما نعلم اليوم، ظلت توتراتٌ قديمة تغلي بين عامة الناس الذين شعروا بالخيانة. وفوق ذلك، كثيرًا ما اختلف النبلاء مع الأسرة المالكة. هذه التوترات وغيرها ستُستقصى في مجلدات قادمة.",
+  "after": "كما نعلم اليوم، ظلت توتراتٌ قديمة تغلي بين عامة الناس الذين شعروا بالخيانة. وفوق ذلك، كثيرًا ما اختلف النبلاء مع الأسرة المالكة. وستُستقصى هذه التوترات وغيرها في مجلدات قادمة.",
+  "why": "The closing sentence was nominal-initial after two verb-initial ones; the chronicle's cadence now holds to the end."
+ },
+ {
+  "key": "/820882F2440A12909CAD7CBC0FDB66A3",
+  "before": "عند حيازة <Bold>{X}</> في الحقيبة، يمنح <Bold>حصانة كاملة</> من كل مصادر الضرر.",
+  "after": "عند حيازة <Bold>{X}</> في الحقيبة، تُمنح <Bold>حصانة كاملة</> من كل مصادر الضرر.",
+  "why": "يمنح left the granting subject dangling after a fronted adverbial; the passive is what Arabic uses for an item effect."
+ },
+ {
+  "key": "/36953F224581231D2246B49D5E099695",
+  "before": "تنفّس بعمق",
+  "after": "التنفّس بعمق",
+  "why": "Interaction prompts in this set are verbal nouns (قبول، الرد، تركيب، اقتحام); the lone imperative broke the column."
+ },
+ {
+  "key": "/EAD9DA0344049E1080C16C8D0AC6CDA2",
+  "before": "إيقاظ الهيكل",
+  "after": "إيقاظ الهَيكل",
+  "why": "Frozen Shell = الهَيكل carries its diacritic everywhere else in the corpus."
+ }
+]

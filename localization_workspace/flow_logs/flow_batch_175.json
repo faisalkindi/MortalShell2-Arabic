@@ -1,0 +1,8 @@
+[
+ {
+  "key": "Dialogue_Dlg_ScholarPrinceBossDefeated/1B1F22244D21C15C3DDDB59FA6B7A4AC",
+  "before": "الأمير العالم يرقد ميتًا. جيد.",
+  "after": "قضى الأمير العالِم. جيّد.",
+  "why": "'يرقد ميتًا' calques 'lies dead'; verb-initial قضى is how Arabic reports a death. Kasra on العالِم disambiguates it from العالَم"
+ }
+]

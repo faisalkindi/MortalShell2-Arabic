@@ -1,0 +1,56 @@
+[
+ {
+  "key": "/LegendaryArtifact",
+  "before": "مخطوطة موراديان",
+  "after": "مخطوطة مورادين",
+  "why": "Muradean is transliterated مورادين in the Muradean Actuator row; one name, one spelling."
+ },
+ {
+  "key": "/NoItemWarning",
+  "before": "لا شيء في المخزون",
+  "after": "لا شيء في الحقيبة",
+  "why": "The inventory is الحقيبة across the item-effect rows and the tab label."
+ },
+ {
+  "key": "/ChargesUpgrade",
+  "before": "غدة المُكرَّم",
+  "after": "الغدة المُكرَّمة",
+  "why": "The same English item name is الغدة المُكرَّمة in its other row; المُكرَّم must agree with the feminine غدة."
+ },
+ {
+  "key": "/UniqueScripture",
+  "before": "كتاب حامل البذور",
+  "after": "كتاب حامل البذرة",
+  "why": "Frozen glossary term: Seedbearer = حامل البذرة (singular)."
+ },
+ {
+  "key": "/TarcoreDescription",
+  "before": "رغم أنه مهمَل ومكسور، فهو ليس تذكارًا تافهًا؛ ففي بقاياه هدية معدنيّ ما زالت مطمورة.",
+  "after": "ورغم أنه مُهمَل ومكسور، فليس حليةً تافهة. تبقى هبة صانع المعادن مدفونةً في رفاته.",
+  "why": "Identical English to the other Tarcore description row, translated twice differently; unified on the wording that keeps the 'bauble'."
+ },
+ {
+  "key": "/MarshPearlDesc",
+  "before": "لا يزيد عن كتلةٍ رطبة نتنة، لكنه ثمينٌ عند من يُبجّلون فروغا العظيمة.",
+  "after": "لا يزيد عن كتلةٍ رطبة نتنة، لكنه ثمينٌ عند من يُبجّلون فروغا العظيم.",
+  "why": "Frozen glossary term: Great Frogga = فروغا العظيم, the frog-god, masculine."
+ },
+ {
+  "key": "/ChargesUpgradeFlavorText",
+  "before": "بقايا عضوٍ مقدّس، اُستُخرج يومًا من إله.",
+  "after": "بقايا عضوٍ مقدّس، استُخرج يومًا من إله.",
+  "why": "اُستُخرج carried a hamzat-waṣl with a stray vowel mark; the passive is استُخرج."
+ },
+ {
+  "key": "/VlasCageKeyFlavorText",
+  "before": "رطبة ولزجة قليلًا، لكنها لا تحمل أي سمة مميزة أخرى.",
+  "after": "رطب ولزج قليلًا، لكنه لا يحمل أي سمة مميزة أخرى.",
+  "why": "مفتاح is masculine but the description opened feminine and then switched to لكنه mid-sentence."
+ },
+ {
+  "key": "/ThestusFlameFlavorText",
+  "before": "يحترق اللهب على نحوٍ يستحيل تفسيره. تكبر الظلال وتتمدد في وهجه البارد. ومن يقبض عليه يكاد يشعر أن ليلًا يائسًا لا ينتهي سيطارد أصفى الأيام.",
+  "after": "يحترق اللهب على نحوٍ يستحيل تفسيره. تكبر الظلال وتتمدد في وهجه البارد. ومن يقبض عليه يكاد يشعر أن ليلًا يائسًا لا ينتهي سيهدّد أصفى الأيام.",
+  "why": "'threaten' became يطارد (chase); the flame's menace is a threat, not a pursuit."
+ }
+]

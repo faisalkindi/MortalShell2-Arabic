@@ -1,0 +1,132 @@
+{
+ "chunk": 21,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillBiohazard_Effect_1",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Biosampler</> deals {X} more damage",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> ضررًا إضافيًا قدره {X}.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يُلحق <Bold>جامع العينات الحيوية</> ضررًا إضافيًا قدره {X}."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillSeizure_Effect_2",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Biosampler</> deals {Y} splash damage and {Z} <Poise>Stagger Damage</> ",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> ضررًا انتشاريًا قدره {Y}، و{Z} من <Poise>ضرر الترنّح</>.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يُلحق <Bold>جامع العينات الحيوية</> ضررًا انتشاريًا قدره {Y}، و{Z} من <Poise>ضرر الترنّح</>."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillSeizure_Effect_1",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Biosampler</> inflicts {X} <Stasis>Stasis</> stacks",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> {X} تراكمات <Stasis>الركود</>.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يُنزل <Bold>جامع العينات الحيوية</> {X} تراكمات <Stasis>الركود</>."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillBiohazard_Effect_2",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Biosampler</> inflicts {Y} additional <Lightning>Lightning</> stacks",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> {Y} تراكمات إضافية من <Lightning>البرق</>.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يُنزل <Bold>جامع العينات الحيوية</> {Y} تراكمات إضافية من <Lightning>البرق</>."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillDischarge_Effect_1",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Biosampler</> knocks back the struck enemy and triggers a <Lightning>Lightning</> storm that lasts for {X}",
+   "ar": "يدفع <Bold>المِجسّ الحيوي</> العدو المصاب إلى الوراء، فيُطلق عاصفة <Lightning>برق</> تدوم {X}.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يدفع <Bold>جامع العينات الحيوية</> العدو المصاب إلى الوراء، فيُطلق عاصفة <Lightning>برق</> تدوم {X}."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillResolveCost_Effect_1",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Biosampler costs {X} less <Resolve>Resolve</>",
+   "ar": "تقلّ كلفة المِجسّ الحيوي من <Resolve>العزيمة</> بمقدار {X}.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "تقلّ كلفة جامع العينات الحيوية من <Resolve>العزيمة</> بمقدار {X}."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillBiosamplerGenericDesc",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Each level improves Proxima's <Bold>Biosampler</>",
+   "ar": "يُحسِّن كل مستوى <Bold>المِجسّ الحيوي</> لدى بروكسيما.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يُحسِّن كل مستوى <Bold>جامع العينات الحيوية</> لدى بروكسيما."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillResolveCost",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Each level reduces the <Resolve>Resolve</> cost of <Bold>Biosampler</>",
+   "ar": "يخفّض كل مستوى من <Resolve>العزيمة</> التي يتطلبها <Bold>المِجسّ الحيوي</>.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "يخفّض كل مستوى كلفة <Resolve>العزيمة</> لـ<Bold>جامع العينات الحيوية</>."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillExoshell_Effect_1",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Proxima has {X} mitigation chance while using <Bold>Biosampler</>",
+   "ar": "لدى بروكسيما احتمال تخفيف قدره {X} أثناء استخدام <Bold>المِجسّ الحيوي</>.",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "لدى بروكسيما احتمال تخفيف قدره {X} أثناء استخدام <Bold>جامع العينات الحيوية</>."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillSeizureDesc",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "When <Bold>Biosampler</> latches onto an enemy:",
+   "ar": "عندما يلتصق <Bold>المِجسّ الحيوي</> بعدو:",
+   "issue": "Frozen glossary term Biosampler = جامع العينات الحيوية is replaced by the unapproved المِجسّ الحيوي ('the bio-probe'). Affects every Biosampler row in Proxima's tree.",
+   "suggested_ar": "عندما يلتصق <Bold>جامع العينات الحيوية</> بعدو:"
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillEnergize_Effect_1",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "<Bold>Grafted Armor</> always mitigates damage for {X}",
+   "ar": "يخفّف <Bold>الدرع المطعَّم</> الضرر دائمًا بمقدار {X}.",
+   "issue": "'for {X}' is a duration everywhere else in this same tree (ignites the ground for {Y}, lasts for {X}, stay Cursed for {Y}), but the Arabic reads it as an amount (بمقدار). If {X} is a time value the line states the wrong mechanic.",
+   "suggested_ar": "يخفّف <Bold>الدرع المطعَّم</> الضرر دائمًا لمدة {X}."
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillName_6",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Biohunter",
+   "ar": "صائدة الأوبئة",
+   "issue": "'Biohunter' names the skill that hunts biological SAMPLES (its description: permanent damage increase against enemies she Biosamples). صائدة الأوبئة means 'plague/epidemic huntress' — a different concept.",
+   "suggested_ar": "الصائدة الحيوية"
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillName_7",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Seizure",
+   "ar": "الاستحواذ",
+   "issue": "The skill's own effects are Stasis stacks plus splash damage when the Biosampler latches on — 'Seizure' is the medical/convulsive sense. الاستحواذ means acquisition/takeover (economic register) and does not match the effect text.",
+   "suggested_ar": "النَّوبة"
+  },
+  {
+   "key": "ST_Skills_Proxima/ProximaSkillAmpereon_Effect_1",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Proxima has {X} <Lightning>Lightning</> mitigation",
+   "ar": "لدى بروكسيما {X} من مقاومة <Lightning>البرق</>.",
+   "issue": "'mitigation' is rendered تخفيف in the four sibling Exoshell/Fortress rows of this same tree but مقاومة (resistance) here — two different mechanics to a reader comparing nodes.",
+   "suggested_ar": "لدى بروكسيما {X} من تخفيف <Lightning>البرق</>."
+  }
+ ]
+}

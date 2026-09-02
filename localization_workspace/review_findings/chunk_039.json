@@ -1,0 +1,60 @@
+{
+ "chunk": 39,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheBattle_02_Intro/4BDAA00044B90E312A0C169E3572748F",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "He’s my squire. That’s all.",
+   "ar": "إنه حامل سلاحي، لا أكثر.",
+   "issue": "'squire' is a frozen glossary term (squire -> الوصيف) but is rendered حامل سلاحي (my arms-bearer) here.",
+   "suggested_ar": "إنه وصيفي، لا أكثر."
+  },
+  {
+   "key": "Dialogue_Dlg_FriendlyDrunk_01/A9BFF3A44F3B62C2BD9AD899C8319D61",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Ah... cheers, brev.",
+   "ar": "آه... في صحتك يا صاحبي.",
+   "issue": "'brev' is frozen as يا صاح; rendered يا صاحبي. Same deviation as the BrigMerchant and BelligerentDrunk lines.",
+   "suggested_ar": "آه... في صحتك يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_FriendlyDrunk_01/610B84B443FEFDEB88FB6DAC73EDAC6E",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Take a seat, brev.",
+   "ar": "اجلس يا صاحبي.",
+   "issue": "Same frozen-term deviation: brev -> يا صاحبي instead of يا صاح.",
+   "suggested_ar": "اجلس يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadSentry_DeadGrisha_Focus/FBDFEBF34DED4CFB828FA59513F2FB61",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Until the Grisha charged in.",
+   "ar": "حتى اقتحم الغريشا.",
+   "issue": "الغريشا takes a masculine verb here (اقتحم) and a masculine pronoun in the sibling row (طريقه, ...DeadGrisha_Interact/E580146C). Everywhere else in the corpus the creature is feminine - الغريشا الشاحبة, غريشا غاضبة, أم الغريشا, غريشتنا. One noun, two grammatical genders.",
+   "suggested_ar": "حتى اقتحمت الغريشا."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_AnswerDisciple/92E5E8D64B08EFBBFD33D8A0468B04FC",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Please, tell me what we can do.",
+   "ar": "أرجوك، أخبريني بما يمكننا فعله.",
+   "issue": "The addressee is Genessa, and the imperative is correctly feminine (أخبريني), but أرجوك in the same line is the masculine form. The neighbouring rows mark the feminine consistently (ذنبكِ, وجدتِه, غبتِ), so this one is out of step.",
+   "suggested_ar": "أرجوكِ، أخبريني بما يمكننا فعله."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheBattle_02_Willam_Interact/2FE52C3149EF5332962A679365E9610E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(weak groan)",
+   "ar": "(أنين ضعيف)",
+   "issue": "Groan cues are written as verbal nouns here - (أنين ضعيف), and (أنين من الألم) in Genessa_Funeral_01_SlapExert - while the same cue is a verb elsewhere, (يئنّ) / (يئنّ من الألم). The stage-direction set should be one form.",
+   "suggested_ar": "(يئنّ أنينًا ضعيفًا)"
+  }
+ ]
+}

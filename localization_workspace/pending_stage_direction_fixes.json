@@ -1,0 +1,597 @@
+[
+ {
+  "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_UseBiosampler_02/4E53819547BD95A2091CB3AB0CB69C8A",
+  "file": "batch_060.json",
+  "speaker": "",
+  "source_en": "(grunts) Are you drainin’ me?",
+  "ar": "(يئنّ) أتستنزفينني؟"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_Intro_01/98EACC7749516FCAB629708A9179AF86",
+  "file": "batch_063.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(يتنهّد)"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_FightPause/CB87F0004852E6C5D1CF2085E5A78F10",
+  "file": "batch_068.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_PunchExerts/608F9A994A6C85077DC3F3BCE16EF077",
+  "file": "batch_069.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/5131909848D4B0D4E5F11C80689A9828",
+  "file": "batch_070.json",
+  "speaker": "",
+  "source_en": "(chuckles) A jest… drink up, brev.",
+  "ar": "(يضحك) مزحة فحسب... اشرب، يا صاح."
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/A228CAD54AD45FF3246A88B2352D38B4",
+  "file": "batch_070.json",
+  "speaker": "",
+  "source_en": "Like a nice long piss. (chuckles)",
+  "ar": "أشبه ببولٍ طويل ومريح. (يضحك)"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact07/F3513BCD457A8EF79D77B4930E1BCAE9",
+  "file": "batch_070.json",
+  "speaker": "",
+  "source_en": "(chuckles) A jest… drink up, brev.",
+  "ar": "(يضحك) مزحة فحسب... اشرب، يا صاح."
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_PlayerNoCoin/8381253A49BEB2E2D5AEC4A0BA67E78C",
+  "file": "batch_071.json",
+  "speaker": "",
+  "source_en": "Empty pockets? (grunts)",
+  "ar": "جيوب فارغة؟ (يتأفف)"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/8569B49549DE9E33419C3CB9492F5E92",
+  "file": "batch_071.json",
+  "speaker": "",
+  "source_en": "(chuckles) I knew you were a lightweight.",
+  "ar": "(يضحك) عرفتُ أنك ضعيف التحمّل."
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheRash_S1_TakeBottle_04/A79C27BB4CD926F99C76AF99E128FD42",
+  "file": "batch_073.json",
+  "speaker": "",
+  "source_en": "(sigh) Empty.",
+  "ar": "(يتنهد) فارغة."
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/FD4A13234D639FA385D83E99BD91A8E4",
+  "file": "batch_090.json",
+  "speaker": "",
+  "source_en": "(chuckles) I thought we were gonna be best friends forever.",
+  "ar": "(يضحك) ظننت أننا سنصير أعزّ صديقين إلى الأبد."
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/4EE37FCF4B923970BF60EBBB41E34D5B",
+  "file": "batch_090.json",
+  "speaker": "",
+  "source_en": "(sniffs) Hm… smells strong",
+  "ar": "(يشمّ) همم… رائحتها قوية."
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Greeting_FoundryStone/B49138BE4FE6A1CC5E996E8B2BCD937F",
+  "file": "batch_097.json",
+  "speaker": "",
+  "source_en": "(sniffs)",
+  "ar": "(يشمّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_HitReact/2B09B783467EBF4B98E790B7F26CD8A8",
+  "file": "batch_098.json",
+  "speaker": "",
+  "source_en": "(grunts) You blind!?",
+  "ar": "(يئنّ) أأعمى أنت!؟"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_HitReact/916E26654A4A6F0EB12F448BF78DE883",
+  "file": "batch_098.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/320377554BF371FBBA9700B6144AA2F2",
+  "file": "batch_098.json",
+  "speaker": "",
+  "source_en": "(sigh) It’s my fault.",
+  "ar": "(يتنهد) إنه خطئي."
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Tarcores/AAFEB45B4C15E91678A36C93AFA86C13",
+  "file": "batch_100.json",
+  "speaker": "",
+  "source_en": "(grunts) You’re welcome.",
+  "ar": "(يئنّ) العفو."
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_100",
+  "file": "batch_100.json",
+  "speaker": "",
+  "source_en": "(grunt) Don’t get cocky.",
+  "ar": "(يئنّ) لا تغترّ بنفسك."
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_10",
+  "file": "batch_100.json",
+  "speaker": "",
+  "source_en": "(grunt) Good enough.",
+  "ar": "(يئنّ) جيد بما يكفي."
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Greeting_10/EFF37CF4437861DF92E2CAB49FF8EA1D",
+  "file": "batch_104.json",
+  "speaker": "",
+  "source_en": "(sigh) Here you are again.",
+  "ar": "(يتنهد) ها أنت هنا من جديد."
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_05_20",
+  "file": "batch_113.json",
+  "speaker": "",
+  "source_en": "(sigh) Why?",
+  "ar": "(يتنهد) لماذا؟"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_Repeated_10",
+  "file": "batch_113.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(يتنهد)"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_01_00",
+  "file": "batch_113.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(يتنهد)"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_01_20",
+  "file": "batch_113.json",
+  "speaker": "",
+  "source_en": "(chuckles) I jest.",
+  "ar": "(يضحك) أنا أمزح."
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_NoPoison_RepeatedEnd_10",
+  "file": "batch_113.json",
+  "speaker": "",
+  "source_en": "(sigh) I suppose not.",
+  "ar": "(يتنهد) أظنّ لا."
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_04/E0375EFE462706F38D068BB39B2ABEA3",
+  "file": "batch_124.json",
+  "speaker": "",
+  "source_en": "(sigh) What more can I do?",
+  "ar": "(تنهيدة) ماذا عساي أفعل أكثر؟"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_AfterCombatLoss/3615CEAE4DEB92EE8764A8AAFB8DABE2",
+  "file": "batch_128.json",
+  "speaker": "",
+  "source_en": "(chuckles) Not bad.",
+  "ar": "(تضحك بخفة) لا بأس."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_FrogInteract_04/6A3664824710BADF64E91EBC81D06AB7",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "(sigh) I just can’t relate to these other frogs.",
+  "ar": "(تنهيدة) لا أجد نفسي بين هذه الضفادع الأخرى."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_FrogInteract_04/CF2438A4484B086B2338BAAAC78DBE84",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "(sigh) We’re almost a different species.",
+  "ar": "(تنهيدة) نحن كأننا نوعٌ مختلف تمامًا."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_04/2B75C2F14CBB4A4F55C1929026D019C7",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "(sigh) Oh, it’s only you again.",
+  "ar": "(تنهيدة) آه، إنه أنت وحدك مجددًا."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/0213A20C4A657194EE614ABB346A95B4",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "Or your… (sniffs) odd scent.",
+  "ar": "أو رائحتك… (يشمّ) الغريبة."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/2763381C4FCAB1019B27BDB1954EC900",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "I’m Gorf, by the way. (burp)",
+  "ar": "أنا غورف، بالمناسبة. (تجشّؤ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_02/9A4679BE410873A5FB9BA8AA7906B56A",
+  "file": "batch_130.json",
+  "speaker": "",
+  "source_en": "Anyway (burp) – your reward.",
+  "ar": "على أي حال (تجشّؤ) – ها هي مكافأتك."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_03/0F18360E4B0FC3858FE7598433DA662A",
+  "file": "batch_131.json",
+  "speaker": "",
+  "source_en": "Here you are. (burps)",
+  "ar": "ها أنت ذا. (تجشّؤ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_04/4FD248004A60D53D19EAB5B2D7E1E12B",
+  "file": "batch_131.json",
+  "speaker": "",
+  "source_en": "(burp) You know… I’ve got an idea.",
+  "ar": "(تجشّؤ) أتعلم… لديّ فكرة."
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_05/9962E57043AEF6D452DDF3A0A47AD75F",
+  "file": "batch_131.json",
+  "speaker": "",
+  "source_en": "After I cough up a reward of course. (burp)",
+  "ar": "بعد أن «أتقيّأ» مكافأة بالطبع. (تجشّؤ)"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_06_10",
+  "file": "batch_132.json",
+  "speaker": "",
+  "source_en": "(grunts) I… I guess this is it.",
+  "ar": "(يئنّ) أظنّ… أظنّ أن هذه هي النهاية."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_03_20",
+  "file": "batch_132.json",
+  "speaker": "",
+  "source_en": "(burp) It’s got me thinking.",
+  "ar": "(تجشّؤ) هذا جعلني أفكّر."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_07_10",
+  "file": "batch_132.json",
+  "speaker": "",
+  "source_en": "(gulp) … (burp)",
+  "ar": "(جرعة) … (تجشّؤ)"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Corpse_05_30",
+  "file": "batch_133.json",
+  "speaker": "",
+  "source_en": "Even in life, he smelled… (sniffs) rotten.",
+  "ar": "حتى وهو حيّ، كانت رائحته… (يشمّ) فاسدة."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_05_10",
+  "file": "batch_133.json",
+  "speaker": "",
+  "source_en": "(sigh) Of course, it’s you.",
+  "ar": "(تنهيدة) بالطبع، إنه أنت."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_06_30",
+  "file": "batch_133.json",
+  "speaker": "",
+  "source_en": "(sigh) I brought this upon myself.",
+  "ar": "(تنهيدة) جلبتُ هذا على نفسي."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_01_40",
+  "file": "batch_134.json",
+  "speaker": "",
+  "source_en": "Thank you. (burp)  I’m Gorf.",
+  "ar": "شكرًا لك. (تجشّؤ) أنا غورف."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_02_40",
+  "file": "batch_134.json",
+  "speaker": "",
+  "source_en": "Who knows? Anyway (burp) – your reward.",
+  "ar": "من يدري؟ على أي حال (تجشّؤ) – مكافأتك."
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_04_20",
+  "file": "batch_134.json",
+  "speaker": "",
+  "source_en": "I’ve got an idea. (burp)",
+  "ar": "لديّ فكرة. (تجشّؤ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_ExamineStatue/70DAD1F44632FD9DE771DCBC00DCA356",
+  "file": "batch_136.json",
+  "speaker": "",
+  "source_en": "(grunts) I’ve seen this before.",
+  "ar": "(يئنّ) رأيتُ هذا من قبل."
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_ClaimHeart_Continue_A/E7801FC44CA3AD6D5C3F099F1647017B",
+  "file": "batch_136.json",
+  "speaker": "",
+  "source_en": "(sniffs)",
+  "ar": "(يشمّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_Sniff/B992680544BBA69D188F7C9E574AE925",
+  "file": "batch_136.json",
+  "speaker": "",
+  "source_en": "(sniffs)",
+  "ar": "(يشمّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Grisha_CorpseInteract/E18EFF264FE6D4E0E583E7B7D011D7DD",
+  "file": "batch_139.json",
+  "speaker": "",
+  "source_en": "(burps)",
+  "ar": "(يتجشّأ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Grisha_Greeting_2/3257DA584CE87AF0F80E0E8B2EF82E8E",
+  "file": "batch_139.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Cauldron_Interact_02/5AF7EF244730AB78CCF307B6A75A6621",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "(chuckles) Sorry.",
+  "ar": "(يضحك بخفة) آسف."
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Cauldron_Interact_07/F937F8944D31FDFF918B39AAE193D66E",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(تنهيدة)"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Greeting_05/386DBFF34C1FD08993E0C6B64776A4C6",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "And you are dirty. (sniffs) Stinking.",
+  "ar": "وأنت قذر. (تشمّ) نتن."
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_04_40",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(تنهيدة)"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_05_30",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "(sigh) Why not? Give it try.",
+  "ar": "(تنهيدة) لمَ لا؟ جرّب."
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_05_30",
+  "file": "batch_141.json",
+  "speaker": "",
+  "source_en": "And you are dirty. (sniffs) Stinky.",
+  "ar": "وأنت قذر. (تشمّ) نتن."
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_GiveDagger_08_20",
+  "file": "batch_142.json",
+  "speaker": "",
+  "source_en": "Hm. (sniffs) Like… frog, but…",
+  "ar": "همم. (تشمّ) مثل... الضفدع، لكن…"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_HitReact/1A85A720420C6387354009AFFE07F9B6",
+  "file": "batch_147.json",
+  "speaker": "",
+  "source_en": "(grunts) Why would you do this?",
+  "ar": "(يئنّ) لمَ تفعل هذا؟"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Greeting_01/2C300E8941C4BE159093CEB97D59DF8F",
+  "file": "batch_149.json",
+  "speaker": "",
+  "source_en": "Everyone is their first time. (chuckles)",
+  "ar": "الجميع يمرّ بأول مرة. (يضحك بخفة)"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_OLDTowerTop/BDDB986F4A30CA249E7DE4B03D3BC5CC",
+  "file": "batch_150.json",
+  "speaker": "",
+  "source_en": "(sigh) What do you want, crow?",
+  "ar": "(تنهيدة) ماذا تريد، أيها الغراب؟"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_Greeting/1FE43F144B9E6BF2F5FBF0BB0AA3A234",
+  "file": "batch_152.json",
+  "speaker": "",
+  "source_en": "(sniffs) You stink of coin.",
+  "ar": "(يشتمّ) رائحتك تفوح بالنقود."
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_Greeting/F9BE22474181222D632252B695538B54",
+  "file": "batch_152.json",
+  "speaker": "",
+  "source_en": "(sniffs) No coin?",
+  "ar": "(يشتمّ) لا نقود؟"
+ },
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_5/7D60394B4F600E8652EE8B80B5F9415B",
+  "file": "batch_155.json",
+  "speaker": "",
+  "source_en": "(sigh)",
+  "ar": "(تنهيدة)"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Unfriendly/386E36804D3470511667328AD7F963CA",
+  "file": "batch_164.json",
+  "speaker": "",
+  "source_en": "(sigh) You again?",
+  "ar": "(تنهيدة) أنت مجددًا؟"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_Intro/C392DDE44C9E6762B0AD7A9202528388",
+  "file": "batch_176.json",
+  "speaker": "",
+  "source_en": "(sighs) Don’t worry. I know what you need. ",
+  "ar": "(يتنهّد) لا تقلق. أعرف ما تحتاجه."
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor_OpenReaction/3C9819104DD36B25B4885E947ABFD467",
+  "file": "batch_176.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_Intro/0474FF8F4DD706C05252DFBDBC73C31C",
+  "file": "batch_177.json",
+  "speaker": "",
+  "source_en": "(grunts)\n… I will. I swear it.",
+  "ar": "(يئنّ)\n... سأفعل. أقسم بذلك."
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ReachBush/E3AE02434B92A475AF6EBEBFDDDBEB97",
+  "file": "batch_178.json",
+  "speaker": "",
+  "source_en": "(sniffs) What are you?",
+  "ar": "(يشمّ) ما أنت؟"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_WoodChop/CF57622649E1B46F0F84F687DE3BC7E8",
+  "file": "batch_179.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_Intro/3C50013B44FBD93F04137F987E1A056F",
+  "file": "batch_179.json",
+  "speaker": "",
+  "source_en": "(grunts) Thanks.",
+  "ar": "(يئنّ) شكرًا."
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ExaminePrisoner/7BD506EF4D7CFFA87557B4B735C20CF6",
+  "file": "batch_179.json",
+  "speaker": "",
+  "source_en": "(grunts) Not much of a man.",
+  "ar": "(يئنّ) ليس رجلًا يُذكر."
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ExaminePrisoner/D439EF6D497BC5DEC143A0B71C616947",
+  "file": "batch_179.json",
+  "speaker": "",
+  "source_en": "(sniffs)",
+  "ar": "(يشمّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_StabDagger_New/A6D6E55F45020C15984C2A8CDE2F923F",
+  "file": "batch_180.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_02_Interactable/9EB41CC4413AD3C359F6DD8E82FBA01C",
+  "file": "batch_181.json",
+  "speaker": "",
+  "source_en": "(chuckle) Now this last dish is… “unique”.",
+  "ar": "(ضحكة خفيفة) أما هذا الطبق الأخير فهو... «فريد»."
+ },
+ {
+  "key": "Dialogue_Dlg_Tavern_Temp/000BC01949017FAB9DDB7A93018B8F39",
+  "file": "batch_189.json",
+  "speaker": "",
+  "source_en": "(sigh) Fine. Fetch me a mango and I'll see what I can do.",
+  "ar": "(تنهّد) حسنًا. أحضر لي مانجو وسأرى ما بوسعي فعله."
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_EredrimInteraction/F897AB274625D973804B91881D0E2721",
+  "file": "batch_190.json",
+  "speaker": "",
+  "source_en": "(sniffs) This borrowed flesh…",
+  "ar": "(يستنشق) هذا اللحم المُستعار..."
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/1F1A376441417702FED7ABB80DFC9D3F",
+  "file": "batch_190.json",
+  "speaker": "",
+  "source_en": "(chuckles) Oh, yes.",
+  "ar": "(يضحك بخفة) أوه، نعم."
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/93B946964DC48CA88C21ABACA3D20CF6",
+  "file": "batch_190.json",
+  "speaker": "",
+  "source_en": "But you… (sniffs) you smell… different.",
+  "ar": "لكنكِ... (يستنشق) رائحتكِ... مختلفة."
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_Intro/6F63844746A4DE1E466656889E57BDA9",
+  "file": "batch_190.json",
+  "speaker": "",
+  "source_en": "(chuckles) I’ve been waiting for you.",
+  "ar": "(يضحك بخفة) كنت أنتظرك."
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_Intro/76CB9C16488EDE0F9F239194D26FFCFA",
+  "file": "batch_190.json",
+  "speaker": "",
+  "source_en": "(sniffs) It’s you isn’t it?",
+  "ar": "(يستنشق) أنت هو، أليس كذلك؟"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_RestSite_Intro/92A611084BC281D78BABFEB78C90926A",
+  "file": "batch_191.json",
+  "speaker": "",
+  "source_en": "The wind was (sniffs) ripe with your scent.",
+  "ar": "كانت الريح (يستنشق) عابقة برائحتك."
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheBottle_01_ThrowStone/0EA3A80D4F01E9E85A1C20AC2FE5DE0E",
+  "file": "batch_193.json",
+  "speaker": "",
+  "source_en": "(grunts)",
+  "ar": "(يئنّ)"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheTreasure_LockedDoor_02/3F1EBA9544BCE60819C0688347143897",
+  "file": "batch_194.json",
+  "speaker": "",
+  "source_en": "(chuckles) Only one lock?",
+  "ar": "(يضحك بخفة) قفل واحد فقط؟"
+ },
+ {
+  "key": "Dialogue_Dlg_UnfriendlyDrunk_02/599B6DD44561329B8FF4E18358390B19",
+  "file": "batch_199.json",
+  "speaker": "",
+  "source_en": "(grunts) For me? All right.",
+  "ar": "(يئنّ) لأجلي؟ حسنًا."
+ },
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_LonelyWoman_01/FDC9831F46BC7C7D2F15AC89E94FB18B",
+  "file": "batch_200.json",
+  "speaker": "",
+  "source_en": "(sigh) Forget it. You're too weak.",
+  "ar": "(تتنهّد) انسَ الأمر. أنت أضعف من ذلك."
+ }
+]

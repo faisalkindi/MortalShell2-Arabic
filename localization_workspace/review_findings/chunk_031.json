@@ -1,0 +1,15 @@
+{
+ "chunk": 31,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_OpensUp_01_10",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "You see I’m… cool now.",
+   "ar": "أترى… أنا مرتاح البال الآن.",
+   "issue": "Real scene order (key tails _10/_20/_30) is: 'You see I'm... cool now.' -> 'Wherever I go... these assholes follow.' -> 'They won't leave me alone.' مرتاح البال ('at ease') contradicts the two lines it introduces. 'Cool' here is 'a big deal / somebody', which is also what OpensUp_Yes_120 confirms - once he passes on the sack he will be 'just another face in the crowd'.",
+   "suggested_ar": "أترى… صرتُ ذا شأنٍ الآن."
+  }
+ ]
+}

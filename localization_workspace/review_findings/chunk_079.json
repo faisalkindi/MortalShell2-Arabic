@@ -1,0 +1,24 @@
+{
+ "chunk": 79,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/B8273DE44695CF0F2B939490EA86DC58",
+   "type": "wrong_referent",
+   "severity": "minor",
+   "source_en": "It rejects you",
+   "ar": "إنه يرفضك",
+   "issue": "Untagged duplicate of the censer line already flagged on ST_Core_Interactions/TouchCenserNoKey (chunk 5). The 'it' is the censer, which is المِبخَرة (feminine) in its own interaction prompt, so the masculine إنه points at nothing on screen. Both copies should move together or the same moment will read two ways.",
+   "suggested_ar": "إنها ترفضك"
+  },
+  {
+   "key": "/C742BF59482A78FA49B8948E9BA322F3",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Lead Disciple",
+   "ar": "إرشاد المريد",
+   "issue": "Frozen glossary term: Disciple = الحواريّ, and المُريد is explicitly reserved for Acolyte (Tiel's title). As written, this prompt names Tiel's rank instead of the cult's disciple.",
+   "suggested_ar": "إرشاد الحواريّ"
+  }
+ ]
+}

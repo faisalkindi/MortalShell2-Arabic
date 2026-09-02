@@ -1,0 +1,14 @@
+{"chunk": 113, "rows_reviewed": 90, "findings": [
+  {"key": "tra/ApplyClothing",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Apply Mortal Clothing", "ar": "تطبيق الزيّ الفاني",
+   "issue": "Glossary freezes 'Mortal Clothing' as زيّ الفانين (the mortals' garb) specifically warning against 'the perishable garment' reading. This row uses الزيّ الفاني (adjectival 'the mortal/perishable garment'), which is exactly the rejected interpretation.",
+   "suggested_ar": "تطبيق زيّ الفانين"},
+
+  {"key": "ST_Core_WelcomeScreen/BalancePatch_1_Desc",
+   "type": "gender_error", "severity": "minor",
+   "source_en": "Refunded Glimpses are found in the Shell Keeper's alcove in Blackmarrow.",
+   "ar": "تجد الوَمَضات المستردَّة في كوّة حارس الهَياكل في النُّخاع الأسود.",
+   "issue": "Glossary now freezes Shellkeeper as حارسة الهَياكل (feminine, Zhirelle is female) throughout; this row uses the masculine حارس.",
+   "suggested_ar": "تجد الوَمَضات المستردَّة في كوّة حارسة الهَياكل في النُّخاع الأسود."}
+]}

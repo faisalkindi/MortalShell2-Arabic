@@ -1,0 +1,56 @@
+[
+ {
+  "key": "/C47B1A9B4AE8A887D51EC2A16C49F534",
+  "before": "ما من شيءٍ يبلغ من التحطّم حدًّا يمنع لَأمَه من جديد.",
+  "after": "ما من كسرٍ لا يُجبَر.",
+  "why": "This is Genessa's motto and has to land like a proverb; ‹يبلغ من التحطّم حدًّا يمنع لَأمَه من جديد› is a subordinate clause a reader has to unpick. Four words, same claim."
+ },
+ {
+  "key": "/3C31441E420BDCE75F476BB743E4877E",
+  "before": "يا أَمَّهة المباركة، اغفري لنا جهلنا. لم نُرد سوى أن نبذر بيضتك الثمينة، لكننا أنجبنا بدلًا من ذلك... [شُطب بعنف]",
+  "after": "أيتها الأُمَّهة المباركة، اغفري لنا جهلنا. لم نُرد سوى أن نبذر في بيضتك الثمينة، لكننا أنجبنا بدلًا من ذلك... [شُطب بعنف]",
+  "why": "‹يا أَمَّهة المباركة› is an ungrammatical vocative (يا cannot take a definite adjective) and had lost the frozen term's diacritic; also بذر takes في for sowing into something."
+ },
+ {
+  "key": "/A15D675B465D2C6EF320B88B49D7ED78",
+  "before": "قدّم نفسك",
+  "after": "تقديم نفسك",
+  "why": "Its sibling prompts are verbal nouns (تقديم الاعتذار، تقديم كيس العملات); the imperative broke the column."
+ },
+ {
+  "key": "/087775794DD5668F5C49B1B3AD7AA5E8",
+  "before": "للأسف",
+  "after": "عذرًا!",
+  "why": "للأسف means 'unfortunately' — a regretful comment, not the self-catching 'Oops'."
+ },
+ {
+  "key": "/2CF8C2A64120C1DD55B4ED8432EB83E1",
+  "before": "ومع مرور الوقت، تضاءلت الملكة شيئًا فشيئًا، حتى مضت أخيرًا سنواتٌ دون أن تُرى. تقلّص حضورها إلى رسائل وأقاويل، تنقلها كلها ألسنة سيدها الأعظم وحاشيته.",
+  "after": "ومع مرور الوقت، تضاءلت الملكة شيئًا فشيئًا، حتى مضت أخيرًا سنواتٌ دون أن تُرى. تقلّص حضورها إلى رسائل وأقاويل، تنقلها كلها ألسنة السيد الأعظم وحاشيته.",
+  "why": "سيدها attributed the High Lord to the queen as her lord — the English says 'the High Lord', and the chronicle's whole point is that he spoke in her place."
+ },
+ {
+  "key": "/03E947594554170FD269E8A8A5D410AE",
+  "before": "تمرير الخمر المُهرَّبة",
+  "after": "تمرير العَرَق",
+  "why": "Frozen glossary term: Moonshine = العَرَق."
+ },
+ {
+  "key": "/B9A132894E91F8CE31DE2FBC5EF486C7",
+  "before": "تمرير الخمر المُهرَّبة",
+  "after": "تمرير العَرَق",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/6B7D9D9F4B777412B53DB5BDCF09B526",
+  "before": "ربما تحمل أنت أيضًا لوحًا كما فعل أسلافنا الأُخَيّون؟ اشعر بثقله. تخيّل حمله أشهرًا، كل خطوةٍ أثقل من سابقتها.. وفي هذه الرحلة، هل تجد أنت أيضًا حقيقةً ضائعة؟",
+  "after": "ربما تحمل أنت أيضًا لوحًا كما فعل أُخَيّونا الأولون؟ اشعر بثقله. تخيّل حمله أشهرًا، كل خطوةٍ أثقل من سابقتها.. وفي هذه الرحلة، هل تجد أنت أيضًا حقيقةً ضائعة؟",
+  "why": "'forebrethers' is the cult's warped word and is rendered أُخَيّونا الأولون in its other occurrence; أسلافنا الأُخَيّون read as two stacked titles."
+ },
+ {
+  "key": "/117EEB75452A4311E95DFC9F216070A4",
+  "before": "يفتح بشكلٍ دائم تحديد الموقع على الخريطة",
+  "after": "يفتح تحديد الموقع على الخريطة نهائيًا",
+  "why": "بشكل دائم is a calque adverb; نهائيًا says it in one word and keeps the label short."
+ }
+]

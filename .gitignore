@@ -1,0 +1,43 @@
+# game files and anything derived directly from them
+localization_workspace/extracted/
+localization_workspace/font_extract/
+localization_workspace/font_build/
+localization_workspace/font_legacy/
+localization_workspace/ui_extract/
+localization_workspace/ui_tabs/
+localization_workspace/ui_logo/
+localization_workspace/uag_json/
+localization_workspace/bp_stage*/
+localization_workspace/lang_bp/
+localization_workspace/marker_test/
+localization_workspace/tools_src/
+localization_workspace/scripts/_tools/
+localization_workspace/Mappings.usmap
+localization_workspace/design_canvas/
+
+# intermediate pipeline chunks (regenerable from scripts + final corpus)
+localization_workspace/batches/
+localization_workspace/review_chunks/
+localization_workspace/translated/
+localization_workspace/01_extracted_strings.jsonl
+localization_workspace/02_needs_scratch_translation.jsonl
+localization_workspace/03_working_draft.jsonl
+localization_workspace/scratch_*.jsonl
+localization_workspace/50_mechanical_fix_audit.jsonl
+
+# built binaries ship via GitHub Releases / Nexus
+localization_workspace/release/*
+!localization_workspace/release/payload/
+!localization_workspace/release/dist/
+localization_workspace/release/dist/*.exe
+localization_workspace/release/dist/*.zip
+
+# installer build outputs
+localization_workspace/installer/bin/
+localization_workspace/installer/obj/
+localization_workspace/installer/publish/
+localization_workspace/installer/payload.zip
+
+# local
+__pycache__/
+*.log

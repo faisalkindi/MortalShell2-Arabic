@@ -1,0 +1,80 @@
+[
+ {
+  "key": "/A531DCAA4960ADEEAB33A6B51ABAE8A0",
+  "before": "أخشى أن الشقوق تتسع يومًا بعد يوم. والدروز التي وضعها أُخَيّونا الأولون لن تصمد. أعقابٌ هذا لنا لبقائنا هنا تحت؟ لا يهم. أصلحوها فحسب.",
+  "after": "أخشى أن الشقوق تتسع يومًا بعد يوم. والدروز التي وضعها أُخَيّونا الأولون لن تصمد. أتُرى هذا عقابنا؟ لبقائنا في الأسفل. لا يهم. أصلحوها فحسب.",
+  "why": "‹أعقابٌ هذا لنا لبقائنا هنا تحت؟› is not parsable Arabic; the rhetorical question is أتُرى هذا عقابنا؟ and the fragment that answers it stands on its own, as in the English."
+ },
+ {
+  "key": "/E46BF9424EA0B68AFDD25AA3A7C1B86D",
+  "before": "المخزون",
+  "after": "الحقيبة",
+  "why": "The inventory is الحقيبة in every item-effect row in this corpus (عند حيازة {X} في الحقيبة); the tab label must use the same word."
+ },
+ {
+  "key": "/29A53E264AAAC222DD26F59006C7A9B0",
+  "before": "رأيتُ قادةً يوظّفون الدسائس والتحالفات والقوة العسكرية لإبقاء التوابل تتدفق إلى بيوتهم العظيمة في أعظم الألعاب على الإطلاق.",
+  "after": "رأيتُ قادةً يوظّفون الدسائس والتحالفات والقوة العسكرية لإبقاء التوابل متدفقة إلى بيوتهم العظيمة في أعظم الألعاب على الإطلاق.",
+  "why": "أبقى takes an accusative complement, not a verbal clause; إبقاء … متدفقة is the Arabic construction."
+ },
+ {
+  "key": "/AF57C15848711A871D95D8AD4049DF22",
+  "before": "تخيّل ما نقدر على فعله بمثل هذه العجيبة؟",
+  "after": "تخيّل ما عسانا نفعل بمثل هذه العجيبة؟",
+  "why": "نقدر على فعله is flat prose in a line meant to sound wondering; ما عسانا carries the awe."
+ },
+ {
+  "key": "/45E96BBD42D62AD1191AE6B2A77D228C",
+  "before": "كان في خدمة اللورد ڤيلن عددٌ من الفلاسفة والكيميائيين والحكماء، يلبّون كل حاجة للملكة إيرينيا. ولسنواتٍ عدة تحسّنت حالتها، لكن ليس إلى الحدّ الذي يعيدها إلى العرش.",
+  "after": "كان في خدمة اللورد ڤيلن عددٌ من الفلاسفة والخيميائيين والحكماء، يلبّون كل حاجة للملكة إيرينيا. ولسنواتٍ عدة تحسّنت حالتها، لكن ليس إلى الحدّ الذي يعيدها إلى العرش.",
+  "why": "Alchemists are الخيميائيون; الكيميائيون is modern chemists, and the sibling elixir row now reads خيميائي too."
+ },
+ {
+  "key": "/90ADED9A4FB474D5E42B2ABEBE104F0D",
+  "before": "بدء",
+  "after": "المُستجَدّ",
+  "why": "'Initiate' here is the novice NPC (as in 'Check On Initiate' = الاطمئنان على المُستجَدّ), not the verb 'to initiate' — ‹بدء 2› in the next row proves the label is a speaker name."
+ },
+ {
+  "key": "/7F0DCC8245B95870FAFE008AB97764A0",
+  "before": "بدء 2",
+  "after": "المُستجَدّ 2",
+  "why": "Same NPC label, numbered."
+ },
+ {
+  "key": "/65E604B445617991CA5D3A87646EEF4F",
+  "before": "تفقّد نصل القاضي",
+  "after": "تفقّد نصل المُقتَصّ",
+  "why": "Frozen glossary term: Justiciar = المُقتَصّ, not القاضي."
+ },
+ {
+  "key": "/96A65FE54740AB7A75DDCD94D88040CA",
+  "before": "تفقّد قناع القاضي",
+  "after": "تفقّد قناع المُقتَصّ",
+  "why": "Same frozen term, sibling row."
+ },
+ {
+  "key": "/6A148F524B8C95FB76399BBCA279238A",
+  "before": "تحقيق",
+  "after": "التحرّي",
+  "why": "تحقيق reads first as 'achieving/fulfilling'; التحرّي is unambiguous for an Investigate prompt and keeps فحص free for Examine."
+ },
+ {
+  "key": "/24076F3D438C9BEA209DFD9ABF675DA7",
+  "before": "يبدو أن أجواء احتفالية تعمّ القرية اليوم. أتراها عادت؟",
+  "after": "يبدو أنّ أجواءً احتفالية تعمّ القرية اليوم. أتراها عادت؟",
+  "why": "أنّ requires an accusative subject — أجواء was left in the nominative, which stops a reader mid-line."
+ },
+ {
+  "key": "/DE05BC3941510597E897D48734B05A2B",
+  "before": "لم يكن سميرت من كان هنا. كان... أحدًا آخر... من مكانٍ آخر... يبحث عن شيء، أم يهرب؟ إن جلستُ طويلًا كفاية، جاءتني حكاياهم. من خلال أعينهم، من عالمٍ آخر...\n\n«{dataTableDescription}»",
+  "after": "لم يكن سميرت من كان هنا. كان... أحدًا آخر... من مكانٍ آخر... يبحث عن شيء، أم يهرب؟ إن جلستُ طويلًا كفاية، جاءتني حكاياهم. بأعينهم، من عالمٍ آخر...\n\n«{dataTableDescription}»",
+  "why": "من خلال is the standard calque of 'through'; the Arabic instrumental بـ is one word and lands the sentence."
+ },
+ {
+  "key": "/78ABB6EB4C98601A4505AA9178CD5460",
+  "before": "غريبٌ الأمر، لكنني أقسم أنني سمعت المخلوق يعوي في البعيد. ثمة خطبٌ به. لا بد أنه مصاب. ظننّا أنه أتى ليتغذى، لكن لا. إنه يختبئ، لكن من ماذا؟",
+  "after": "أمرٌ غريب، لكنني أقسم أنني سمعت المخلوق يعوي في البعيد. ثمة خطبٌ به. لا بد أنه مصاب. ظننّا أنه أتى ليتغذى، لكن لا. إنه يختبئ، لكن من ماذا؟",
+  "why": "غريبٌ الأمر puts a definite noun after an indefinite predicate — ungrammatical; أمرٌ غريب is the idiom the hunter's note wants."
+ }
+]

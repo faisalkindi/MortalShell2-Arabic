@@ -1,0 +1,15 @@
+{
+ "chunk": 67,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/E47EA9C044DFBD033FA0948C00FDCEE4",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "They won't even notice.",
+   "ar": "لن يلاحظوا حتى.",
+   "issue": "Calque of the English word order. In Arabic حتى must precede the element it emphasises, so a sentence-final حتى leaves the line reading as an unfinished clause (they will not notice even...). The corpus gets this right elsewhere: I do not even know who you are = لا أعرف حتى مَن تكون.",
+   "suggested_ar": "لن ينتبهوا أصلًا."
+  }
+ ]
+}

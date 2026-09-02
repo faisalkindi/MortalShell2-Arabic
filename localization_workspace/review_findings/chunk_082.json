@@ -1,0 +1,33 @@
+{
+ "chunk": 82,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/E11F4C8B40578CB249AFA285D3C645F2",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Search Sentry’s Corpse",
+   "ar": "تفتيش جثة الحارس",
+   "issue": "Frozen glossary term: Sentry = الرقيب, with الحارس explicitly reserved for Warden/Guardian. الحارس is also what every 'Guard' NPC label uses (twelve rows in chunk 78), so this prompt now names the wrong enemy type — the player is told to search a Guard's corpse when the corpse is a Sentry's.",
+   "suggested_ar": "تفتيش جثة الرقيب"
+  },
+  {
+   "key": "/EA785B22419561312C31648BBA8915E0",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Ritual Chest",
+   "ar": "صندوق الطقس",
+   "issue": "Singular الطقس is read first as 'the weather'; the ritual sense needs the plural الطقوس, which is also the form the glossary uses for Ritualist = صاحب الطقوس.",
+   "suggested_ar": "صندوق الطقوس"
+  },
+  {
+   "key": "/9412B62D448594644A3D719DB657A9A2",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Reason With Egon",
+   "ar": "مناقشة إيغون",
+   "issue": "'Reason with' is an attempt to talk someone out of a course of action — the dialogue branch where the player tries to defuse Egon. مناقشة is neutral discussion and loses the persuasive intent that distinguishes this option from the others (Pay Tribute / Question Egon).",
+   "suggested_ar": "محاولة إقناع إيغون"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_04/50AC17DE402DE4A2C3271DAA0CEB6FA9",
+  "before": "وانظر كيف انتهى الأمر.",
+  "after": "وانظر إلى ما آل إليه الأمر.",
+  "why": "آل إليه is the idiom for 'how that turned out'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Hub/60B51BFF4964640A152D90B267DD720D",
+  "before": "من أولئك القُطّاع.",
+  "after": "من قُطّاع الطرق أولئك.",
+  "why": "القُطّاع alone does not stand for brigands"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Hub/31083DA843ADA4AF531680AD7CE09DF3",
+  "before": "لا أظن أنني أستطيع العودة إلى إثارة حماس التجارة.",
+  "after": "لا أظن أنني أستطيع العودة إلى صخب التجارة.",
+  "why": "'rousing commerce' is the bustle of trade, not 'rousing the enthusiasm of trade'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Hub/4237183B4A6C768A013E88AC0EA2E87A",
+  "before": "الصمت... مُرحَّب به.",
+  "after": "الصمت... مُستَحَبّ.",
+  "why": "مُرحَّب به is a calque of 'is welcome'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Hub/21AAFC4B42BD66EB53886CB22AC4BB3B",
+  "before": "لا يزال \"أتباعك\" يقدّمون له الحلوى.",
+  "after": "لا يزال \"أتباعك\" يطعمونه الأطايب.",
+  "why": "الحلوى (sweets) is wrong for a cat; الأطايب is 'treats'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Injured_01/576F2EAF493AB362F4C086AA3BA40774",
+  "before": "وانظر كيف انتهى الأمر.",
+  "after": "وانظر إلى ما آل إليه الأمر.",
+  "why": "آل إليه is the idiom for 'how that turned out'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Injured_01/EEE7C781425CA6CEA14C0F915BD355C3",
+  "before": "إنه خطئي.",
+  "after": "الذنب ذنبي.",
+  "why": "Arabic idiom for 'it's my fault'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Injured_01/2E72650941E7A20DDD185F9F0C55BA20",
+  "before": "إنه... رفيقي. قطّ.",
+  "after": "إنه... رفيقي. سِنَّور.",
+  "why": "'a feline' — Vlas's formal register wants سِنَّور, not the plain قطّ"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_Injured_01/C11234D947A9670B03F46294717958CB",
+  "before": "أبقِ عينك مفتوحة، أرجوك.",
+  "after": "ابقَ متيقّظًا، أرجوك.",
+  "why": "'keep an eye out' as Arabic idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Investigate_02_Note/B3BD153D477C0161942AB9A84F2CE580",
+  "before": "يجب أن أعترف. هؤلاء القُطّاع...",
+  "after": "يجب أن أعترف. قُطّاع الطرق هؤلاء...",
+  "why": "same fix, and matches the corpus term"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Investigate_Cage/565DCB7A435DDBFE4ED354B9357F0C5B",
+  "before": "أفارغ هو؟ لا... فراء؟",
+  "after": "أهو فارغ؟ لا... فراء؟",
+  "why": "natural interrogative order"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Investigate_Trap/695C6DC64B5F8A438E1D3ABFEFCF555E",
+  "before": "أفارغ هو؟ لا... فراء؟",
+  "after": "أهو فارغ؟ لا... فراء؟",
+  "why": "natural interrogative order"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Investigate_Wagon/C5804D96454551BCFBB020B2BD4CA726",
+  "before": "كان أولئك الأوغاد... أقوياء بشكل غير طبيعي.",
+  "after": "كان أولئك الأوغاد... أقوياء على نحوٍ غير طبيعي.",
+  "why": "بشكل is journalese; على نحوٍ fits the register"
+ }
+]

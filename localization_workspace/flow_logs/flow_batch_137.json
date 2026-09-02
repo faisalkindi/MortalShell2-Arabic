@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gragu_TheDivine_01_RefuseBlessing/5F5B58CE43685956BDD791B8108C7500",
+  "before": "هيّا، هيّا…",
+  "after": "مهلًا، مهلًا…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheDivine_01_RefuseBlessing/22ABC80A466A87FC7A4723BF6E18B72D",
+  "before": "لمَ أنت... فارغ هكذا.",
+  "after": "ولِمَ أنت... خاوٍ هكذا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheDivine_01_RefuseBlessing/F3DB667D4BB8EE5CA48A578DE16DC23D",
+  "before": "تنشد الإلهي، أليس كذلك؟",
+  "after": "تنشد الألوهة، أليس كذلك؟",
+  "why": "flow"
+ }
+]

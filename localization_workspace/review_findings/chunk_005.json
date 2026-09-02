@@ -1,0 +1,51 @@
+{
+ "chunk": 5,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Interactions/InhabitUnknownShell",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Inhabit Unknown Shell",
+   "ar": "تلبُّس هَيكل مجهول",
+   "issue": "Glossary freezes Inhabit Shell as سُكنى الهَيكل; this row renders the frozen verb as تلبُّس, so the same prompt reads two different ways in the same menu.",
+   "suggested_ar": "سُكنى هَيكل مجهول"
+  },
+  {
+   "key": "ST_Core_Player_Abilities/DefaultProximaAbility",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Biosampler",
+   "ar": "المِجسّ الحيوي",
+   "issue": "Glossary freezes Biosampler as جامع العينات الحيوية (Proxima); المِجسّ الحيوي ('bio-probe') is a different word for the frozen concept and will not match the many <Bold>Biosampler</> skill rows.",
+   "suggested_ar": "جامع العينات الحيوية"
+  },
+  {
+   "key": "ST_Core_Player_Abilities/DefaultSmertPassive",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Deadly Revelation",
+   "ar": "الكشف القاتل",
+   "issue": "Glossary freezes Deadly Revelation as الوحي المُميت (Smert); الكشف القاتل breaks the ability name against its own skill descriptions.",
+   "suggested_ar": "الوحي المُميت"
+  },
+  {
+   "key": "ST_Core_Interactions/TouchCenserNoKey",
+   "type": "wrong_referent",
+   "severity": "minor",
+   "source_en": "It rejects you.",
+   "ar": "إنه يرفضك.",
+   "issue": "The 'it' is the censer, rendered المِبخَرة (feminine) in the sibling prompt TouchCenserInteraction; the masculine إنه points at no antecedent on screen.",
+   "suggested_ar": "إنها ترفضك."
+  },
+  {
+   "key": "ST_Core_Interactions/GiveItem_Weltcap",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Weltcap",
+   "ar": "وِلتكاب",
+   "issue": "The same item is translated, not transliterated, in WeltcapPP_PassiveEffect_2 (قبعات الوَرَم), and the other mushroom/plant items follow the glossary's translate-don't-transliterate rule (Trollweed=عشب الغول, Tarspore=بوغة القار); the player sees two different names for one pickup.",
+   "suggested_ar": "قبعة الوَرَم"
+  }
+ ]
+}

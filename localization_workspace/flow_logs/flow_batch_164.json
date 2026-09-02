@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/DFD06DF54AA2C61109FDFE8787C34A91",
+  "before": "«أحمر الرأس، لا يموت أبدًا!» أو هكذا يقولون.",
+  "after": "«رأسٌ أحمر، لا يُقهر!» أو هكذا يقولون.",
+  "why": "the English is a rhyming folk saying; the Arabic now rhymes too"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_ThrowDagger/45BCBBE64CE79317EAAD2C91BAB4FB2B",
+  "before": "(زفير غضب)",
+  "after": "(يزفر غضبًا)",
+  "why": "stage directions are verb form throughout"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Unfriendly/386E36804D3470511667328AD7F963CA",
+  "before": "(تنهيدة) أنت مجددًا؟",
+  "after": "(يتنهّد) أنت مجددًا؟",
+  "why": "frozen stage-direction form"
+ }
+]

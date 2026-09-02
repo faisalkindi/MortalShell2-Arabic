@@ -1,0 +1,1 @@
+WBP_MGT_Character ScrollBox_InventoryFilter ScrollBox

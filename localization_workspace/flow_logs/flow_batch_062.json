@@ -1,0 +1,152 @@
+[
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_TakeTheOffering_03/95D58FEF43FEE1578747AABBFE2C9C34",
+  "before": "أرأيت؟ يمكننا أن نصبح صديقين.",
+  "after": "أرأيتِ؟ يمكن أن نصير صديقين.",
+  "why": "Merrick speaking to Proxima - addressee is feminine"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_UseBiosampler_04/70032D4B4C9EFC0A319780952B8505FF",
+  "before": "مهلاً، برفق! لست عدوّك.",
+  "after": "مهلًا، برفق! لستُ عدوَّكِ.",
+  "why": "Merrick speaking to Proxima - addressee is feminine; normalized مهلاً to مهلًا"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_UseBiosampler_05/41CC59B44DC9FC943C9161A19617F7AA",
+  "before": "مهلاً... أتعرف اللغة المشتركة؟",
+  "after": "مهلًا... أتعرفين اللغة المشتركة؟",
+  "why": "Merrick speaking to Proxima - addressee is feminine"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_UseBiosampler_05/2DD74CD44FCBE06B38C4CCAC4E44EBC9",
+  "before": "يمكننا أن نتحادث.",
+  "after": "يمكننا التخاطب.",
+  "why": "cut the redundant أن-clause; verbal noun is Proxima's clipped register"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_ConfrontMerrick_11/25F21EEF49BDC56F1CD7ADA2139ECFCB",
+  "before": "متوافق؟ بأي معنى؟",
+  "after": "متوافق؟ كيف ذلك؟",
+  "why": "بأي معنى traces the English 'in what way'; كيف ذلك is how Arabic asks it"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/0C31F4CE42830B03BAC51290BFFFFB25",
+  "before": "لكنه سيرسّخ قدرًا من الألفة.",
+  "after": "لكنه سيبعث شيئًا من الألفة.",
+  "why": "promote = بعث/أثار, not رسّخ (entrench)"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/73123A954AFF0D37F30A878DF5E69ED6",
+  "before": "كيف لي أن أساعد؟",
+  "after": "وكيف عساي أساعد؟",
+  "why": "عساي fits Merrick's colloquial-leaning voice"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/3DA583804B84E2074CF7FDB80C5FE582",
+  "before": "أعني أنني لا أعرف حتى ما هذا الشيء... الهكسا.",
+  "after": "أعني، لا أعرف أصلًا ما هذا الشيء... الهكسا.",
+  "why": "clause order fixed; أصلًا carries 'even' more naturally than the wedged حتى"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/E0B1D8684350E2F13BF36DA9EB8CB770",
+  "before": "هذا لن يساعدنا في إيجاد الهكسابود.",
+  "after": "لن يساعدنا هذا في العثور على الهكسابود.",
+  "why": "verb-initial; العثور على over إيجاد"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_08/712B49CC4FA3B390A267F58F612D7FAA",
+  "before": "ماذا؟ تُهدر الخمر؟",
+  "after": "ماذا؟ أتُهدرين الخمر؟",
+  "why": "Merrick speaking to Proxima - addressee is feminine; added the interrogative hamza"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_08/4DC845674AFF3FB8737F898B42993C49",
+  "before": "أتشعر بها بعد؟",
+  "after": "أتشعرين به بعد؟",
+  "why": "Merrick speaking to Proxima - addressee is feminine; and العَرَق is masculine, so به not بها"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_Intro_01/97EC1DA843A8909EF95361AC5749ABA7",
+  "before": "حسنًا، حسنًا... انظروا ماذا وجدت.",
+  "after": "يا للعجب... انظري ماذا وجدتُ.",
+  "why": "'Well, well' is an expression of surprise, not حسنًا; and the plural انظروا had no plural addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_IntroContinue_02/DA9E8DA74108F7C13B394E8F71FC18F4",
+  "before": "هيا. جرّبه.",
+  "after": "هيا. جرّبيه.",
+  "why": "Merrick speaking to Proxima - addressee is feminine"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_06/AC8D179D4C892A28CB2D108D61481F69",
+  "before": "هذا كل ما تحتاج معرفته.",
+  "after": "هذا كل ما تحتاج إلى معرفته.",
+  "why": "احتاج takes إلى"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_Continue_07/E6BDC94E4118FF9DAA8D4DB8211BBCF0",
+  "before": "اشرب!",
+  "after": "اشربي!",
+  "why": "Merrick speaking to Proxima - addressee is feminine"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_Continue_07/83517F1F4C16F6A6123081AEE6137ED6",
+  "before": "حسنًا، هذا سيساعدك على الراحة يقينًا.",
+  "after": "حسنًا، هذا سيعينك على الراحة بلا شك.",
+  "why": "يقينًا was stranded at the end; بلا شك sits where Arabic puts the hedge"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/032EBB6F4ED95C61845D80A2430337AA",
+  "before": "تدفق دمك ازداد.",
+  "after": "ازداد تدفق دمك.",
+  "why": "verb-initial - Proxima's clinical readouts"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/35DAF8FE466715783D9922BB918673A4",
+  "before": "جسدك يرغب في التزاوج.",
+  "after": "يرغب جسدك في التزاوج.",
+  "why": "verb-initial, matches the sibling readout lines"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/A74E1B774C798BF3EF85859773284878",
+  "before": "رائحتك تغيّرت.",
+  "after": "تغيّرت رائحتك.",
+  "why": "verb-initial, matches the sibling readout lines"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrel_03/08A601F444AD4A347576C2A09BAA59AF",
+  "before": "لا، هذا هو الجيّد فعلًا.",
+  "after": "لا، هذا هو الصنف الفاخر.",
+  "why": "'the good stuff' is a set phrase for premium liquor"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrelContinue_04/C5321AFF431949A3922BBAB0F9E59A25",
+  "before": "على أي حال، لا فائدة من إهداره.",
+  "after": "وعلى أي حال، من العبث أن ندعه يضيع.",
+  "why": "'no sense in' = من العبث, an Arabic idiom rather than لا فائدة من"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/3D94FC4B4D9D2A50E0A3DD919F509389",
+  "before": "إنه ضروري للنجاح.",
+  "after": "لا غنى عنه للنجاح.",
+  "why": "لا غنى عنه is the Arabic for 'essential'"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/17613D2D4426D60B23915480B6042772",
+  "before": "أنا فقط أتأكد أنك لن تهربي.",
+  "after": "أتأكد فحسب أنك لن تتسللي هاربة.",
+  "why": "Merrick speaking to Proxima - addressee is feminine; fixed the أنا فقط calque order; sneak off = تتسلل هاربة"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/38A7630B48DE4F7EF8088CB69C6240CF",
+  "before": "ربما بوسعي مساعدتك في إيجاد هذا... الكلب السداسي؟",
+  "after": "ربما بوسعي مساعدتك في العثور على هذا... الهكسا-كلب؟",
+  "why": "keeps Merrick's mangling of the name, which الكلب السداسي erased"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/BEBA21884DB5655DBAB97EAA08A7F2A9",
+  "before": "كان تزاوجنا القوي ناجحًا.",
+  "after": "لقد نجح اقترانُنا الزوجيّ القويّ.",
+  "why": "pair-bonding is a biology term (اقتران زوجي); تزاوج lost the clinical joke"
+ }
+]

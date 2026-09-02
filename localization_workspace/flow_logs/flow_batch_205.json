@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_VlasEvent_04_RangedBrig/F36DCCF146969B3C96D1A8941027010C",
+  "before": "كان بطيء الاستيقاظ، لكنه غاضب.",
+  "after": "استيقظ متثاقلًا، لكنه كان غاضبًا.",
+  "why": "fixes the tense clash and recasts 'slow to wake' as a verb"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_05_TeaCup/5739D9FE4F407B9CE0EDB183EB3ED562",
+  "before": "ربما يجلب لك السلام.",
+  "after": "لعلّه يمنحك السكينة.",
+  "why": "inner peace is السكينة"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "/B46CAC3F431C89E884CC78B543738109",
+  "before": "المناجاة مع الفوضى",
+  "after": "مناجاة الفوضى",
+  "why": "ناجى takes a direct object; مناجاة مع is an English 'commune with' carried over."
+ },
+ {
+  "key": "/F88CF35E46F33D63D492A6985F5A18F6",
+  "before": "جارٍ تجميع التظليل، يُرجى الانتظار حتى الاكتمال.",
+  "after": "جارٍ تجميع المُظلِّلات، يُرجى الانتظار حتى تكتمل.",
+  "why": "التظليل is the act of shading, not the shader programs being compiled; and 'until fully completed' needs a verb in Arabic, not the noun الاكتمال."
+ },
+ {
+  "key": "/A4E2469A44C2F16E2692608F68EC8ADC",
+  "before": "معايرة وحدة التحكم",
+  "after": "معايرة ذراع التحكم",
+  "why": "UI vocabulary lock: Controller = ذراع التحكم."
+ },
+ {
+  "key": "/7DE25232484A45507CF0F79C8544CCF4",
+  "before": "ألحق ما يكفي من هذا الضرر لتجعل الضحية عرضةً لـ<Bold>الرَّدّة</>.",
+  "after": "ألحق ما يكفي من هذا الضرر لتجعل الضحية عرضةً لـ<Bold>الضربة المضادة</>.",
+  "why": "Frozen glossary term: Riposte = الضربة المضادة. الرَّدّة is a different word entirely (apostasy)."
+ },
+ {
+  "key": "/2264CD7B4DA81B77E86D9D82976EE717",
+  "before": "عزيزي الصامت، أأنت الذكي؟ ينبغي أن تعرف أين تجدني. أما الآخرون، سيما قطّاع الطرق، فليختفوا! ملاحظة: تريد شرابًا؟ اسأل غروم عن الوصفة.",
+  "after": "عزيزي الصامت، أأنت الذكي؟ ينبغي أن تعرف أين تجدني. أما الآخرون، ولا سيما قطّاع الطرق، فليختفوا! ملاحظة: تريد شرابًا؟ اسأل غروم عن الوصفة.",
+  "why": "سيما never stands without لا; the fixed phrase is ولا سيما."
+ }
+]

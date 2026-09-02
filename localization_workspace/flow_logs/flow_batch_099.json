@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_Blacksmith_InteractTarforge_Generic/227FC02D41A680966F4F188EF752329E",
+  "before": "تستطيع فعل ما هو أكثر بكثير، لو أصلحناها.",
+  "after": "لو أصلحناها لفعلت أكثر من ذلك بكثير.",
+  "why": "English clause order; Arabic puts the لو-clause first with لـ on the answer"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_LeaveForge/DAC77AEB430521C5C1BFF6B842296A33",
+  "before": "أنا... لم أرَ مثل هذا من قبل.",
+  "after": "أنا… لم أرَ مثل هذا من قبل.",
+  "why": "ASCII ellipsis inside Arabic text"
+ }
+]

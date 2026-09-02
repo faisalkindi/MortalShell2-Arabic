@@ -1,0 +1,148 @@
+# Character cards — injected into every dialogue batch for the relevant speaker.
+# Sourced from 04_game_context.md (web) + 04b_corpus_speaker_notes.md (in-game corpus, no web coverage exists for most of these).
+
+Harbinger:
+  gender: m   # per most web guides' "he/his"; player-addressed lines still default masculine per style guide unless corpus contradicts
+  role: player character, a husk/vessel hatched from an Undermether Ovum
+  voice: mostly silent protagonist; addressed by others, rarely speaks itself
+  register: n/a (mostly addressee, not speaker)
+
+Undermether:
+  gender: f
+  aliases: [UnderMether, Undermehter]  # same entity, inconsistent source-namespace casing/typo - do not treat as separate characters
+  role: the central deity/mother-figure; her body forms much of the world; the Harbinger seeks to return stolen Ova to her
+  voice: mournful, ancient, maternal-cosmic register. Laments being "stranded," grieves a "wrongness"/Foul Passenger festering in her own flesh, addresses the Harbinger directly and intimately (not third-person worship language)
+  register: elevated literary فصحى راقية
+
+Egon:
+  gender: m
+  aliases: [BlisterBoi]  # same character - Egon as an adult Grand-Prince, BlisterBoi as an earlier/younger life-stage in memory scenes
+  role: Grand-Prince, heir of Dannor/Mammon; runs a tribute/blackmail racket
+  voice: haughty, extortionate, mock-courtly, classist and casually cruel as adult (Egon); petulant, self-important child playing at kingship in the earlier context (BlisterBoi) - same underlying personality, comic register when younger
+  register: elevated/archaic for the noble mock-courtly speech pattern, but content is petty/cruel - do not soften the cruelty into politeness
+
+Gorf:
+  gender: m
+  role: frog-man NPC, comic relief, romantically tied to Hilga
+  voice: self-pitying, whimsical, full of frog puns; wants "a mate," laments losing his singing voice
+  register: plain/comic فصحى ميسّرة - keep the pun/wordplay spirit, localize jokes rather than translating literally (per methodology's humor rule)
+
+Hilga:
+  gender: f
+  aliases: [HilgaTransformed]  # same character before/after a body-horror transformation via frog blood
+  role: tavern-keeper NPC; Gorf's romantic partner; later ritually transforms
+  voice: pre-transformation - blunt, crude, brothel/tavern-keeper register, drops articles in clipped syntax, insults freely. Post-transformation (HilgaTransformed) - fragmented, inhuman, grieving a lost partner "Harwald," speaks of having "no more human desires"
+  register: colloquial/crude pre-transformation (still MSA, but blunt/short sentences, not elevated); more fragmented/eerie post-transformation - shorter clauses, ellipses
+
+Franz:
+  gender: m
+  role: blacksmith, runs the Tarforge (weapon/Tarstone upgrades) at Marrow Keep
+  voice: gruff, weary old craftsman; personifies the Tarforge as a companion/daughter ("she"); melancholic about an accident that estranged his son; calls the player "laddie"
+  register: plain فصحى ميسّرة, warm/weathered tone - an equivalent Arabic address term for "laddie" (e.g. يا فتى / يا ولد) should be picked and frozen in the pilot
+
+Merrick:
+  gender: m
+  role: merchant at Marrow Keep; corpus speaker key "Merchant"
+  voice: wry, working-class shopkeeper patter, dark comic self-awareness about the game's resurrection mechanics, casual contractions
+  register: plain/colloquial-leaning فصحى ميسّرة
+  notes: has an undocumented grief subplot over a deceased hunter named Proxima (verify if same person as the playable Shell "Proxima" or a coincidental name reuse before translating this subplot's dialogue)
+
+Vlas:
+  gender: m (probable, unconfirmed by in-line pronoun)
+  role: trader NPC with a larger-than-expected questline (Gloom distilling, an escape plot with companion animal "Mutton", guilt over past violence)
+  voice: formal, mercantile, guarded; reveals guilt/moral conflict under stress ("I'm no butcher. No murderer.")
+  register: elevated-leaning for guilt/confession lines, plain for trade barks
+
+Zhirelle:
+  gender: f
+  role: the Shellkeeper, handles Shell Bond tiers and Memories at Marrow Keep
+  voice: detached, philosophical, treats dead NPCs' "shells" as specimens for a cosmic "Great Question"; delivers eulogy-like character summaries
+  register: elevated literary فصحى راقية - her voice is the most classically "narrator-like" in the NPC roster
+
+Tiel:
+  gender: m
+  role: playable Shell, The Acolyte - fast/stealthy fighter
+  motto: "Once you have nothing, you're free to take everything."
+  register: elevated/aphoristic for Shell mottos and Memory unlocks
+
+Eredrim:
+  gender: m
+  role: playable Shell, The Venerable - heavily armored, staggers enemies
+  motto: "Peace has a price."
+  register: elevated/aphoristic
+
+Proxima:
+  gender: f
+  role: playable Shell, The Broodseeker - grapple-hook fighter
+  motto: "Purpose gives the soul its shape."
+  register: elevated/aphoristic
+  notes: verify against the Merrick-subplot "Proxima" (deceased hunter) before assuming same identity
+
+Gragu:
+  gender: m
+  role: playable Shell, The Insatiable - heavy puncher, found alive before becoming a Shell (unique)
+  motto: "The heart speaks no lies."
+  register: elevated/aphoristic
+
+Smert:
+  gender: m
+  role: playable Shell, The Apostate - obtained via blood ritual
+  register: elevated/aphoristic
+  notes: also referenced as "Prophet Smert" by HubCultist (killed the cultist's friend) - carries a villainous/feared reputation among cultist NPCs, distinct from his neutral-to-player Shell framing
+
+Lazlo:
+  gender: m
+  role: playable Shell, The Justiciar - found in the Royal Crypt
+  register: elevated/aphoristic
+
+Sariel:
+  gender: m
+  role: playable Shell, The Endless - final/most complex Shell, converts damage to healing "Pain"
+  register: elevated/aphoristic
+
+Genessa:
+  gender: f
+  aliases: ["Sester Genessa"]
+  role: the secret Shell, The Wayward; also a Marrow Keep NPC/trainer role (Sester Genessa)
+  motto: "Nothing is so broken it can't be made whole again."
+  register: elevated/aphoristic
+  notes: continuity name from the original Mortal Shell (2020) - do not vary the transliteration
+
+Harros:
+  aliases: ["Harros the Vassal"]
+  gender: m
+  role: prologue-only 9th Shell, first possession, lost permanently at end of prologue
+  register: elevated/aphoristic
+
+Lucian:
+  gender: m
+  aliases: ["Lucian, the Thirsting Knight"]
+  role: miniboss, vampire archetype, weak to sunlight
+  register: elevated/aphoristic
+  notes: spelling verified as "Lucian" (not "Lucien") against in-game key ST_Core_MiniBosses/VampireKnight_MiniBoss
+
+Baghead:
+  gender: m
+  role: secret/joke NPC, riddle questline leading to a "do-nothing" secret ending
+  register: plain/comic فصحى ميسّرة - this is the game's explicit joke character
+
+ImmortalBrigand:
+  gender: unspecified   # no self-referential gendered pronoun found in corpus; do not guess
+  role: undead brigand enemy archetype, wisecracking, missing body parts
+  voice: crude, comic-macabre, treats own dismemberment lightly
+  register: plain/comic
+
+BanishedCultist:
+  gender: unspecified   # no self-referential gendered pronoun found in corpus; do not guess
+  role: cult devotee enemy/NPC archetype
+  voice: fervent, quasi-religious, invites the player to harvest their heart as offering
+  register: elevated/devotional
+
+HubCultist:
+  gender: unspecified   # no self-referential gendered pronoun found in corpus; do not guess
+  role: penitent cultist NPC grieving a friend killed by "Prophet Smert"
+  voice: self-flagellating, seeks punishment/redemption; uses in-fiction honorific "sester" for fellow devotees (transliterate, do not map to literal "sister")
+  register: elevated/devotional
+
+Grisha:
+  note: NOT A PERSON. This corpus speaker key is a dog/hound animal companion - all 22 lines are non-verbal sound cues (barks, growls, whimpers). Translate as bracketed Arabic stage directions, e.g. "(ينبح ترحيبًا)", not as spoken dialogue. Unrelated to the separate "Grisha" creature-species noun used elsewhere in bestiary/item text.

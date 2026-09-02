@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_ExamineShell_Continue/3E630DAA4023A631E43183A66F5EDBE4",
+  "before": "أهذا... اختبار، أيتها الأخيّة الكبرى؟",
+  "after": "أهذا… اختبار، أيتها الأُخَيّة الكُبرى؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_ExamineShell_Continue/2AA2C16743FD80E4D5D322B38A142BC8",
+  "before": "آه… إنها أنتِ، أيتها الأخيّة الكبرى…",
+  "after": "آه… إنها أنتِ، أيتها الأُخَيّة الكُبرى…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_QuestionStranger/226C06A84D1787DDCA482ABA3D7DFF63",
+  "before": "هذه… «الأخيّة الكبرى»؟",
+  "after": "هذه… «الأُخَيّة الكُبرى»؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_QuestionStranger/A246C4034AD5209BD777E2AB1B18144D",
+  "before": "بالتأكيد، تتذكرين؟",
+  "after": "لا بد أنكِ تذكرين؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_01_QuestionSecundus/6E092EBC469CC34DE72A88833A59E791",
+  "before": "سأقودكِ خلال إعادة التوافق.",
+  "after": "سأرشدكِ في إعادة التوافق.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_01_SistersPhase/C952A0CB4D5E52F1472FF2A15FC124E0",
+  "before": "أهلًا بكنّ، أيتها الأُخَيّات، في دياركنّ الجديدة.",
+  "after": "أهلًا بكنّ، أيتها الأُخَيّات، في بيتكنّ الجديد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_02_ExamineBrokenTablet/AA8926A44C14F9D4816E258FEDF7F447",
+  "before": "الأمر... كما تقولين.",
+  "after": "الأمر… كما تقولين.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_02_ExamineBrokenTablet_Continue/BB790DEC4F8CBD7F252B2084C01443C2",
+  "before": "تكلّمي بصوتٍ عالٍ، يا أُخَيّة.",
+  "after": "ارفعي صوتكِ، يا أُخَيّة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_02_HelpSester/5A33E3C847521072F9F61EB71CDC3078",
+  "before": "كذلك تفعل الروح.",
+  "after": "فكذلك الروح.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_02_HelpSester_Stray/49D98ACA40B20D9FB531D69347AC5231",
+  "before": "كذلك تفعل الروح.",
+  "after": "فكذلك الروح.",
+  "why": "flow"
+ }
+]

@@ -1,0 +1,60 @@
+{
+ "chunk": 41,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_AscensionReaction/96602A3D493B995628E663B2196149CF",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "Behold.",
+   "ar": "تأمّل.",
+   "issue": "Masculine imperative, but every other addressee in this scene-set is a sester addressed in the feminine (انظري، يا أُخَيّة / ثِقي، يا أُخَيّة). Also 'Behold' is 'look/see', not تأمّل ('contemplate').",
+   "suggested_ar": "انظري."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_Interact/A7D30C2A4814AA986D24D6A728A89576",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Have faith, sester.",
+   "ar": "ثِقي، يا أُخَيّة.",
+   "issue": "'Have faith' is religious in this cult context (Faith = الإيمان, frozen). ثِقي is secular 'trust me'.",
+   "suggested_ar": "آمِني، يا أُخَيّة."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_TeleportEnd/8D41E854485BCCFD8C407AA8820C4654",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(gasps)",
+   "ar": "(تلهث)",
+   "issue": "تلهث = pants/breathes hard. Here the gasp is a shock reaction, immediately followed by 'I've... seen something terrible.'",
+   "suggested_ar": "(تشهق)"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_QuestionStranger/2BD71A95483E51F4C21BD2A6FC2DF890",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "You serve her?",
+   "ar": "أتخدمينها؟",
+   "issue": "Unresolved addressee, content-based only. Three lines in this node are unambiguously the male servant speaking to Genessa ('Twas my father's father who first served you', 'I… I am your humble servant' = masculine خادم). If 'You serve her?' is Genessa asking that servant - the reading that fits her not recognising the 'High Sester' title she queries in the same node - the verb must be masculine أتخدمُها. If instead the servant asks it of her, the current feminine form is right. No order data exists for this node (hash-tailed keys), so this needs a source check, not a blind fix.",
+   "suggested_ar": "أتخدمُها؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_TheCenser_02_HelpSester_Stray/8FDE0A2B4DA2616BD3D36199AE85230B",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "… Just…",
+   "ar": "… فقط…",
+   "issue": "In the _Stray variant this fragment is the broken restart of the same aphorism the two preceding rows carry ('Just as every flame casts a shadow' = كما تُلقي كل شعلة ظلًّا). فقط ('only') breaks that echo.",
+   "suggested_ar": "… كما…"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_TheCenser_03_DoWhatMustBeDone/AA2A8543487A2CE5AE67D898570F50EB",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "I do.",
+   "ar": "بل أفعل.",
+   "issue": "English 'I do' is an auxiliary contradiction ('you don't have to' -> 'I do [have to]'), not the lexical verb 'do'. بل أفعل reads as 'on the contrary, I perform [it]' and loses the obligation.",
+   "suggested_ar": "بل عليّ ذلك."
+  }
+ ]
+}

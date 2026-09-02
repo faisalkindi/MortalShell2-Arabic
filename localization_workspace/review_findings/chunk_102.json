@@ -1,0 +1,33 @@
+{
+ "chunk": 102,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_MakeInquiry/E41C1F5E4FA3553020F381BF6C916B1A",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "And yet, you’ve defiled it with this rabble.",
+   "ar": "ومع ذلك، دنّستَه بهؤلاء الرعاع.",
+   "issue": "'it' is the sacred ground named in the immediately preceding line of the same node (كُلّفتَ بحماية هذه الأرض المقدسة). الأرض is feminine, so the pronoun must be ـها; دنّستَه points at a masculine antecedent that does not exist in the scene.",
+   "suggested_ar": "ومع ذلك، دنّستَها بهؤلاء الرعاع."
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Intro/98EE98254C9175A42F60EC9CC44EFCCE",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "I am no prophet.",
+   "ar": "لست نبيًا.",
+   "issue": "Undiacriticized لست نبيًا reads equally as لستُ (I am no prophet) and لستَ (you are no prophet). Both speakers are in this exchange - Smert confessing and the Sester who has just called him 'Prophet Smert' - so the attribution flips depending on how the reader vowels it.",
+   "suggested_ar": "لستُ نبيًا."
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_TakeSacrament/C6C2340548580F14A06A2D8A89DD991E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "An omen. Anything.",
+   "ar": "علامة. أيّ شيء.",
+   "issue": "The previous line already renders 'a sign' as علامة. Repeating علامة for 'An omen' collapses the source's escalation (sign -> omen -> anything) into the same word twice.",
+   "suggested_ar": "فَأْلٌ. أيّ شيء."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "chunk": 24,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/E7E4F79242396752E94BD7B8E1CF9CD0",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Answer Disciple",
+   "ar": "الرد على المريد",
+   "issue": "المُريد is frozen as Acolyte, Tiel's Shell title, so this prompt reads as 'Answer the Acolyte (Tiel)'. Same string and same rendering on all 11 keys in this chunk: 2AEC3B29..., 339F2597..., 4EC7156C..., 6F88D2FB..., 7A6DA5E5..., A90A9B68..., B78A24ED..., BD1D48B9..., D18A0AB7..., E3668146..., E7E4F792... (plus 0112A692... in chunk 023).",
+   "suggested_ar": "الرد على التابع"
+  },
+  {
+   "key": "/232E46F74B43B7E57D3B068578E9AC68",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Blessed Mether",
+   "ar": "الأمَّهة المباركة",
+   "issue": "Frozen Blessed Mether = الأُمَّهة المباركة. The damma on the alif is the whole point of the frozen form — it marks أُمَّهة as the attested classical variant rather than a misspelling of الأمّهة. Both NPC-name rows in this chunk (232E46F7..., A3637D52...) drop it, and so does 1B4D8A28.../E95F64E4.../96C9EEDD... in chunk 023.",
+   "suggested_ar": "الأُمَّهة المباركة"
+  },
+  {
+   "key": "/A41B6B5448051BBC43DA5EAF75FF783A",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Brether, your journey nears its end. Keep going. Delve deep into the caverns. We’ve left behind a shred of the Mether’s flesh. Through her your final path will emerge.",
+   "ar": "يا أُخَيّ، رحلتك تدنو من ختامها. فامضِ. تعمّق في الكهوف. تركنا خلفنا شظيّةً من لحم الأمَّهة. وبها يتجلّى دربك الأخير.",
+   "issue": "Same undiacriticised الأمَّهة. Note the vocative أُخَيّ in the same row IS correct — which makes the inconsistency inside one line more visible.",
+   "suggested_ar": "يا أُخَيّ، رحلتك تدنو من ختامها. فامضِ. تعمّق في الكهوف. تركنا خلفنا شظيّةً من لحم الأُمَّهة. وبها يتجلّى دربك الأخير."
+  },
+  {
+   "key": "/6C41B523441F87CA0439CF8DC6526C65",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Bandit",
+   "ar": "قاطع الطريق",
+   "issue": "'Bandit' (2 rows: 6C41B523..., A0B5F164...) and 'Brigand' (9 rows in this chunk) are two distinct enemy name entries in the source, but both collapse to قاطع طريق. The player sees one name for two labelled enemy types.",
+   "suggested_ar": "لصّ"
+  },
+  {
+   "key": "/BFC7AD8C42B56D41A071DEADF7675C68",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Arise",
+   "ar": "انهض",
+   "issue": "Sits in the alphabetical run of interaction prompts, whose neighbours all follow the frozen convention that prompt labels are verbal nouns, never imperatives (Assassinate -> الاغتيال, Awaken Shell -> إيقاظ الهَيكل, Attack Guard -> مهاجمة الحارس). انهض is an imperative. If this string is spoken dialogue rather than a prompt the current form is right — worth confirming against its usage context before changing.",
+   "suggested_ar": "النهوض"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+[
+ {
+  "key": "Dialogue_Dlg_LoTWBossDefeated/11AF86CC4B1537C4C5769DBB64D3A183",
+  "before": "يسرّني ألا تُزعجنا تلك السيدة بعد الآن. أحسنت صنعًا، أيها النذير.",
+  "after": "يسرّني ألا تُزعجنا السيدة بعد الآن. أحسنت صنعًا، أيها النذير.",
+  "why": "'تلك' added a demonstrative the source does not have"
+ }
+]

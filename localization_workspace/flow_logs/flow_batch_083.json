@@ -1,0 +1,38 @@
+[
+ {
+  "key": "ST_Core_DarkForms/CorruptedGenessaTagline",
+  "before": "كما تُلقي كل شعلةٍ ظلًّا، كذلك تفعل الروح.",
+  "after": "كما تُلقي كل شعلةٍ ظلًّا، فكذلك الروح.",
+  "why": "كذلك تفعل الروح needed a verb Arabic does not want here; فكذلك closes the comparison"
+ },
+ {
+  "key": "ST_Core_DarkForms/DarkFormPrologueTagline",
+  "before": "نجا واحدٌ منهم - قويّ.",
+  "after": "لقد نجت واحدةٌ فعلًا–واحدةٌ قويّة.",
+  "why": "'did survive' is emphatic, and the survivor is an Ovum (feminine) - ST_InitialAnimatic Line18-22 makes the referent explicit; منهم was an addition and the en-dash had been replaced by spaced hyphens"
+ },
+ {
+  "key": "ST_Core_GenessaTraining/GenessaProgressionOptionName",
+  "before": "انظر إلى الداخل",
+  "after": "النظر إلى الداخل",
+  "why": "FROZEN CONVENTION: menu labels are verbal nouns, never imperatives"
+ },
+ {
+  "key": "ST_Core_GenessaTraining/GenessaOfferCenserText",
+  "before": "قدّم مِبخرة الأُخَيّة",
+  "after": "تقديم مِبخرة الأُخَيّة",
+  "why": "FROZEN CONVENTION: menu labels are verbal nouns, never imperatives"
+ },
+ {
+  "key": "ST_Core_GenessaTraining/Talk",
+  "before": "التحدث مع جينيسا",
+  "after": "محادثة جينيسا",
+  "why": "FROZEN CONVENTION: menu labels are verbal nouns, never imperatives; محادثة is the frozen rendering of Talk"
+ },
+ {
+  "key": "ST_Core_GenessaTraining/TalkCorruptGenessa",
+  "before": "التحدث مع الأُخَيّة التائهة",
+  "after": "محادثة الأُخَيّة التائهة",
+  "why": "FROZEN CONVENTION: menu labels are verbal nouns, never imperatives"
+ }
+]

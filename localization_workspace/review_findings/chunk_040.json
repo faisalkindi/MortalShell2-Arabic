@@ -1,0 +1,42 @@
+{
+ "chunk": 40,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Genessa_Interact_07/C4521BFE44ED77B02A739F83C6CE88F1",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A needle for the infinite threads of eternity.",
+   "ar": "إبرةٌ لخيوط الأبدية التي لا تنتهي.",
+   "issue": "'infinite' modifies the THREADS in English. In the Arabic the relative clause التي لا تنتهي sits after الأبدية and defaults to modifying it, turning the line into the tautology 'threads of eternity, which is endless'.",
+   "suggested_ar": "إبرةٌ لخيوطٍ لا تنتهي من الأبدية."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Interact_01/EC9DB3F34F0A964867EA45861C6F4A2C",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": " Hm… no, of course not.",
+   "ar": "هم… لا، بالطبع لا.",
+   "issue": "The hesitation interjection 'Hm' is written هم, which on screen reads as the pronoun هم ('they'). Every other speaker in the corpus writes it همم.",
+   "suggested_ar": "همم… لا، بالطبع لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Interact_04/E0375EFE462706F38D068BB39B2ABEA3",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(sigh) What more can I do?",
+   "ar": "(تنهيدة) ماذا عساي أفعل أكثر؟",
+   "issue": "'(sigh)' written as the verbal noun (تنهيدة) instead of the frozen stage-direction form (يتنهّد). The same cue appears in three forms across the corpus - (تنهيدة), (يتنهد), (يتنهّد).",
+   "suggested_ar": "(تتنهّد) ماذا عساي أفعل أكثر؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_Intro/CEE946374676DE4E0910BC9DB442C47D",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Please, High Sester go on.",
+   "ar": "أكملي، أيتها الأُخَيّة الكُبرى.",
+   "issue": "'Please' is dropped. It is a disciple deferring to the High Sester, so the politeness marker is carrying register, not filler - and the same word is kept as أرجوكِ two scenes over.",
+   "suggested_ar": "أرجوكِ، أكملي، أيتها الأُخَيّة الكُبرى."
+  }
+ ]
+}

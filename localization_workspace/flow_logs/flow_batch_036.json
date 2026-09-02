@@ -1,0 +1,20 @@
+[
+ {
+  "key": "ST_Skills_Tiel/TielSkillLastingLegacyDesc",
+  "before": "كل مستوى يُطيل بقاء تيل <Shadow>متظللًا</>.",
+  "after": "يُطيل كل مستوى بقاء تيل <Shadow>متظللًا</>.",
+  "why": "Verb-initial 'Each level…' family, closing out the Shell skill trees in one voice."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillLastingLegacy_Effect_1",
+  "before": "يكسب تيل {X} تراكمات إضافية من <Shadow>الظل</> من قدراته.",
+  "after": "يكسب تيل من قدراته {X} تراكمات إضافية من <Shadow>الظل</>.",
+  "why": "Two من in a row made the source of the stacks ambiguous; the prepositional phrase moved before the count."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillShadowClone_Effect_3",
+  "before": "عند انتهاء <Bold>شبيه الظل</>، ينفجر إلى سحابة <Poison>سامة</> تدوم {Z}.",
+  "after": "عند انتهاء <Bold>شبيه الظل</>، ينفجر سحابةً <Poison>سامة</> تدوم {Z}.",
+  "why": "'burst into' calqued as انفجر إلى; Arabic takes the resulting form as an accusative."
+ }
+]

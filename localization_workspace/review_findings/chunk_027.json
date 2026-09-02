@@ -1,0 +1,42 @@
+{
+ "chunk": 27,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/5D18C82F412D812C471922A34F554183",
+   "type": "row_misalignment",
+   "severity": "high",
+   "source_en": "Right.",
+   "ar": "جامع العينات الحيوية لا يطعن.",
+   "issue": "The Arabic on this row is a verbatim translation of a DIFFERENT row in the same namespace (15AC71CC..., 'The Biosampler does not stab.'), not of 'Right.' That row already carries its own Arabic (المِجسّ الحيوي لا يطعن.), so the sentence ships twice and Merrick's one-word reply is gone. Filed on content, not row position: both keys are 32-hex so no order is recoverable. Two corroborations — the leaked line uses the FROZEN جامع العينات الحيوية while the row it belongs to uses the unapproved المِجسّ الحيوي, which looks like a corrected line pasted onto the wrong key; and the identical English 'Right.' on ABA6A097... (chunk 028) is correctly rendered صحيح.",
+   "suggested_ar": "صحيح."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/15AC71CC46D20AE5A4BD00933A7D8ABE",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "The Biosampler does not stab.",
+   "ar": "المِجسّ الحيوي لا يطعن.",
+   "issue": "Frozen Biosampler = جامع العينات الحيوية. Same violation as the whole Proxima skill tree in chunk 021.",
+   "suggested_ar": "جامع العينات الحيوية لا يطعن."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_InformMerrick_08/3145287245329ABA64BF14862870510D",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "We must find the Hexapod.",
+   "ar": "يجب أن نجد الهكسابود.",
+   "issue": "Hexapod is frozen as السداسيّ الأرجل but is transliterated الهكسابود throughout this memory arc: 7DF9B784... and F9113975... ('If the Hexapod returns...'), 31452872... , E0B1D868... ('This will not help us find the Hexapod'), plus 1A7D9156... in chunk 026. The creature the arc is named for never uses its approved name.",
+   "suggested_ar": "يجب أن نجد السداسيّ الأرجل."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/3DA583804B84E2074CF7FDB80C5FE582",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "I mean I don’t even know what this Hexa-thing is.",
+   "ar": "أعني، لا أعرف أصلًا ما هذا الشيء... الهكسا.",
+   "issue": "Merrick mangling the creature's name is the joke, but the mangle has to be built off the approved name — as written it derives from the unapproved transliteration, so it will not read as a garbling of anything the player has seen.",
+   "suggested_ar": "أعني، لا أعرف أصلًا ما هذا الشيء… السداسيّ ذاك."
+  }
+ ]
+}

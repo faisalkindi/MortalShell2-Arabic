@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_FriendlyDrunk_01/A9BFF3A44F3B62C2BD9AD899C8319D61",
+  "before": "آه... نخبك، يا صاحبي.",
+  "after": "آه... في صحتك يا صاحبي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_FriendlyDrunk_01/2F4814A648F4C74F19BE4093C864502F",
+  "before": "اشرب.",
+  "after": "أفرغ كأسك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_FriendlyDrunk_01/610B84B443FEFDEB88FB6DAC73EDAC6E",
+  "before": "خذ مقعدًا، يا صاحبي.",
+  "after": "اجلس يا صاحبي.",
+  "why": "flow"
+ }
+]

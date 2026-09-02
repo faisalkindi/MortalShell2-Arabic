@@ -1,0 +1,24 @@
+{
+ "chunk": 91,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineRemains/32A2DBC44A61AF82F03BB685CEC45945",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Human.",
+   "ar": "بشري.",
+   "issue": "One-word verdict on the remains examined in this scene. Another line in the same namespace agrees with them as a non-human plural ('لم تُمسّ', feminine), so the masculine بشري here has nothing to agree with and reads as describing a single male person.",
+   "suggested_ar": "بشرية."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_SeeGreatOldOne/318A6DC3496DE028C3A6959CC1998ACC",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Is this your Great Old One?",
+   "ar": "أهذا هو عظيمك القديم؟",
+   "issue": "'the Great Old One' is a title, rendered العظيم القديم as a fixed unit in the three sibling rows of this memory (the lair of / I know the way to / must be displeased). Turning it into the possessive عظيمك القديم reads as 'your old chief' rather than as the god's name.",
+   "suggested_ar": "أهذا هو العظيم القديم عندك؟"
+  }
+ ]
+}

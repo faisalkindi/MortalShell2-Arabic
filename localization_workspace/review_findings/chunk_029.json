@@ -1,0 +1,33 @@
+{
+ "chunk": 29,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/4EE37FCF4B923970BF60EBBB41E34D5B",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "(sniffs) Hm… smells strong",
+   "ar": "(يشمّ) همم… رائحتها قوية.",
+   "issue": "Baghead is sniffing the moonshine the player just handed him, and Moonshine is frozen as العَرَق — masculine. رائحتها attaches the smell to a feminine referent that has not been named.",
+   "suggested_ar": "(يشمّ) همم… رائحته قوية."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/D1B7E8FF4CED03AFEF739D897DED544E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "No",
+   "ar": "لا.",
+   "issue": "Dialogue-choice options carry a full stop that the English does not have, and the frozen UI pair is نعم / لا with no punctuation. Both options in this scene: D1B7E8FF... ('No' -> لا.) and F3CFF79E... ('Yes' -> نعم.).",
+   "suggested_ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/638954474E07AEB44C28B0AF5391E3F3",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "A real one. Nice and quiet.",
+   "ar": "حقيقيّ هذه المرة. هادئ وجميل.",
+   "issue": "هذه المرة ('this time') has no basis in the English and implies a previous attempt that the line does not refer to.",
+   "suggested_ar": "حقيقيّ. هادئ وجميل."
+  }
+ ]
+}

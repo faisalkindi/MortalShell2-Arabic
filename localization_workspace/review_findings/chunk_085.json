@@ -1,0 +1,42 @@
+{
+ "chunk": 85,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/38787BAF4245EF6F9E0FB7949513B076",
+   "type": "wrong_referent",
+   "severity": "major",
+   "source_en": "Undermether Tiel",
+   "ar": "الأُمَّهة السُّفلى تيل",
+   "issue": "'Undermether X' is a variant prefix on a speaker/enemy name — the Undermether-corrupted form of Tiel — parallel to the 'Dream Genessa' / 'Dream Tiel' labels in chunk 76. Rendered as الأُمَّهة السُّفلى تيل it reads as the deity herself, named Tiel, and it puts a feminine divine title in direct apposition to a male Shell. The name should carry the qualifier, not be replaced by it.",
+   "suggested_ar": "تيل السُّفلي"
+  },
+  {
+   "key": "/0A783446478AF5D9F38A3E99FCDD596A",
+   "type": "wrong_referent",
+   "severity": "major",
+   "source_en": "Undermether Genessa",
+   "ar": "الأُمَّهة السُّفلى جينيسا",
+   "issue": "Same defect as the Tiel row: the variant label now identifies Genessa AS the Undermether. Note the same shape affects the 'Dream Genessa' / 'Dream Tiel' rows in chunk 76 (حلم جينيسا reads 'Genessa's dream', not 'the dream Genessa'), so the two families should be swept together.",
+   "suggested_ar": "جينيسا السُّفلى"
+  },
+  {
+   "key": "/FEE8372441394D5FB8E74B9D2A3F8379",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Use Biosampler",
+   "ar": "استخدام المِجسّ الحيوي",
+   "issue": "Frozen glossary term (verified in 05_glossary.csv): Biosampler = جامع العينات الحيوية. المِجسّ الحيوي is a different word for the frozen concept and will not match Proxima's skill rows. Same violation already filed on ST_Core_Player_Abilities/DefaultProximaAbility in chunk 5.",
+   "suggested_ar": "استخدام جامع العينات الحيوية"
+  },
+  {
+   "key": "/D30D44EE437401E728254D8B0DFC5C81",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Use Biosampler On Stranger",
+   "ar": "استخدام المِجسّ الحيوي على الغريب",
+   "issue": "Same frozen-term violation as the row above; both prompts appear in the same interaction set as Proxima's ability, so they must carry the frozen name.",
+   "suggested_ar": "استخدام جامع العينات الحيوية على الغريب"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+[
+ {
+  "key": "ST_Core_Misc/InhabitShell",
+  "before": "اسكُن الهَيكل",
+  "after": "سُكنى الهَيكل",
+  "why": "Every sibling prompt in this menu is a verbal noun (تبديل الهَيكل، تجهيز الخاتَم); اسكُن was the only imperative. Also matches لا يمكن السُّكنى الآن."
+ }
+]

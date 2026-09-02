@@ -1,0 +1,51 @@
+{
+ "chunk": 36,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/B0A596BC42532E34E8EF04AED5B67290",
+   "type": "wrong_fact",
+   "severity": "medium",
+   "source_en": "What? Nothing to offer? Perhaps I misjudged you.",
+   "ar": "ماذا؟ لا شيء تقدّمه؟ ربما أسأتُ الظنّ بك.",
+   "issue": "'Perhaps I misjudged you' means Egon had thought BETTER of the player than they deserve. أسأتُ الظنّ بك means the opposite - 'perhaps I thought ill of you' - which reads as Egon apologising, inverting the sneer into a concession.",
+   "suggested_ar": "ماذا؟ لا شيء تقدّمه؟ ربما أخطأتُ الحكم عليك."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_20",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "She hungers for more. Always more. Come.",
+   "ar": "تتوق إلى المزيد. دائمًا المزيد. تعال.",
+   "issue": "'hungers' rendered تتوق (yearns) again. Franz's own canonical line (Interact_04_10, 'She's hungerin' fiercely') uses جائع, so the forge's appetite motif is inconsistent across his lines.",
+   "suggested_ar": "تجوع للمزيد. دائمًا المزيد. تعال."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_01_20",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Well… go on then. She hungers for more.",
+   "ar": "حسنًا… هيا إذن. إنها تتوق إلى المزيد.",
+   "issue": "Same 'hungers' -> تتوق softening as Generic01_20; fixing only one of the two leaves the motif split.",
+   "suggested_ar": "حسنًا… هيا إذن. إنها تجوع للمزيد."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_05_20",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "‘Tis… competent work.",
+   "ar": "إنه… عمل لا بأس به.",
+   "issue": "Second 'competent' row landing on لا بأس به, which is also where 'Fine work. Good even.' (Upgrade_13_10) lands. Both competent rows need moving together or the appraisal ladder still collapses.",
+   "suggested_ar": "إنه… عمل كفء."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_08_20",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Your brother was too much for your mum.",
+   "ar": "كان أخوك عبئًا ثقيلًا على أمّك.",
+   "issue": "Real scene order puts this immediately before 'At least he made it' (he survived), which fixes 'too much for your mum' as the birth she did not survive. عبئًا ثقيلًا على أمّك narrows it to a behavioural burden and loses that. The English is deliberately reticent; the Arabic should stay equally reticent rather than pick the wrong reading.",
+   "suggested_ar": "كان أخوك أكثر مما احتملت أمّك."
+  }
+ ]
+}

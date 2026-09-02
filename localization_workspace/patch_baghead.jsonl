@@ -1,0 +1,18 @@
+{"key": "ST_Core_NpcNames/Baghead", "old_ar": "باغهاد", "new_ar": "باغهيد"}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/B9C8198945F4CFF993785B9F2EEE5042", "old_ar": "ليت هناك باغهاد آخر… أو ما شابه.", "new_ar": "ليت هناك باغهيد آخر… أو ما شابه."}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/6F01FC8C4058809D9A4247B73AA6DE31", "old_ar": "الباغهاد التالي.", "new_ar": "الباغهيد التالي."}
+{"key": "ST_Dialogue_Baghead/Baghead_OpensUp_01_50", "old_ar": "لكنني باغهاد، أتفهم؟", "new_ar": "لكنني باغهيد، أتفهم؟"}
+{"key": "ST_Dialogue_Baghead/Baghead_OpensUp_01_40", "old_ar": "لو كان هناك باغهاد آخر… أو شيء من هذا القبيل.", "new_ar": "لو كان هناك باغهيد آخر… أو شيء من هذا القبيل."}
+{"key": "ST_Dialogue_Baghead/Baghead_OpensUp_05_50", "old_ar": "الباغهاد التالي.", "new_ar": "الباغهيد التالي."}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/58CB50E545AA34271A579495756B2119", "old_ar": "أخيرًا! شخص يفهم شيئًا.", "new_ar": "أخيرًا! شخص لا يفهم شيئًا."}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/63579B3D42DCADE1B12B01ACE2F4A5D9", "old_ar": "إذن، هذا كل شيء؟ أنت تجلب لي شيئًا؟", "new_ar": "إذن، هذا كل شيء؟ أنت لا تجلب لي شيئًا؟"}
+{"key": "ST_Dialogue_Baghead/Baghead_Nothing_02_10", "old_ar": "إذن، هذا كل شيء؟ أنت تجلب لي شيئًا؟", "new_ar": "إذن، هذا كل شيء؟ أنت لا تجلب لي شيئًا؟"}
+{"key": "ST_Dialogue_Baghead/Baghead_OpensUp_Yes_40", "old_ar": "أنت ترى… الجلوس والقيام بشيء ليس كافيًا هذه الأيام.", "new_ar": "أنت ترى… الجلوس وعدم فعل أي شيء ما عاد كافيًا هذه الأيام."}
+{"key": "ST_Dialogue_Baghead/Baghead_OpensUp_02_10", "old_ar": "كنت فقط أتبول مع هذا الشيء كله…", "new_ar": "كنت فقط أمزح بهذا الموضوع كله…"}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/179C23454B5BC2B9A457B9BA231B169E", "old_ar": "أنت ترى… هناك فن في فعل عدم فعل شيء.", "new_ar": "أترى… لعدم فعل أي شيء فنّ خاص به."}
+{"key": "ST_Dialogue_Baghead/Baghead_Greeting_02_50", "old_ar": "أنت ترى… هناك فن في فعل عدم فعل شيء.", "new_ar": "أترى… لعدم فعل أي شيء فنّ خاص به."}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/4EE37FCF4B923970BF60EBBB41E34D5B", "old_ar": "(ينفخ) آه… الرائحة قوية", "new_ar": "(يشمّ) آه… الرائحة قوية"}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/A24054F74D23187D2AC5DDB96261DD56", "old_ar": "لكن نادرًا ما يُستمتع به.", "new_ar": "لكنه نادر."}
+{"key": "ST_Dialogue_Baghead/Baghead_Greeting_No_02_80", "old_ar": "لكن نادرًا ما يُستمتع به.", "new_ar": "لكنه نادر."}
+{"key": "ST_Dialogue_Baghead/Baghead_Ineract_02_20", "old_ar": "لا مكان للذهاب… لا أحد ليكون…", "new_ar": "لا مكان أذهب إليه… ولا أحد أكونه…"}
+{"key": "ST_Dialogue_Baghead/Baghead_Ineract_01_30", "old_ar": "هذا هو... الطريق إلى التنوير.", "new_ar": "هذا هو... طريق التنوّريّة."}

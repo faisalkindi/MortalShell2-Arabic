@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Ruk_MapFragmentInteract_02/CDB2F77246FC48A284A024BEA4E98421",
+  "before": "وأقل منها ما هو بلا حراسة.",
+  "after": "وأقلّ من ذلك ما لا حارس عليه.",
+  "why": "recast: 'ما هو بلا حراسة' is an English relative clause carried over"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_MapFragmentInteract_02/69E7BFBE4CF4C8173832788A6578584F",
+  "before": "لكن قليل منها بقي.",
+  "after": "لكن لم يبقَ منها إلا القليل.",
+  "why": "Arabic idiom لم يبقَ إلا القليل instead of calqued 'قليل منها بقي'"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Prologue_PostHarrosClaim/9EEC4254418CA7D844E4AD9116FA23E4",
+  "before": "لا تنُح.",
+  "after": "لا تحزن.",
+  "why": "لا تنُح is obscure/stiff when heard; Ruk's register is calm consolation"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Prologue_PostHarrosClaim/149DB5F943FE23C84E8EC7916CE9EEE2",
+  "before": "مريدوك الحقيقيون ينتظرون.",
+  "after": "مريدوك الحقيقيون في انتظارك.",
+  "why": "في انتظارك is the natural collocation; bare ينتظرون reads flat"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Prologue_PostHarrosClaim_Interact/2CD492484992F809070BA8B77C386822",
+  "before": "بإمكانك أن تناديني... روك.",
+  "after": "لك أن تدعوني... روك.",
+  "why": "بإمكانك أن تناديني is clunky; لك أن تدعوني keeps the permission and the gravity"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_AfterFight_Interact_05/4B2775C745D0391FE899E9A4E661B896",
+  "before": "دواء...",
+  "after": "تِرياق...",
+  "why": "cure for a poison = ترياق, the precise Arabic word; دواء is generic"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_AfterFight_Interact_05/32B4560E44992510FFB651A1BC21C035",
+  "before": "ما هو مغلق بالداخل... قد يغيّر كل شيء.",
+  "after": "ما هو محبوس في الداخل... قد يغيّر كل شيء.",
+  "why": "مغلق بالداخل is a calque; محبوس في الداخل is the Arabic sense"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_HasSerum_12/9D7FE8064752980B08D8D4ABBC843270",
+  "before": "كما وعدت، المصل.",
+  "after": "المصل، كما وعدتُك.",
+  "why": "Arabic fronts the object being handed over; also fixes bare وعدت"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_HasSerum_Interact_13/8F5505AD4EE2E688ED7FDE9A6C74856C",
+  "before": "لكن الآن، أمامنا أمور أخرى.",
+  "after": "لكن أمامنا الآن أمور أخرى.",
+  "why": "drops the English fronted-adverbial comma shape"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_HasSerum_Interact_13/58FD2A3647C103A4005B1F9EDBBDB6B1",
+  "before": "لا بد من تدمير الراكب الفاسد.",
+  "after": "الراكب الفاسد لا بدّ أن... يُدمَّر.",
+  "why": "restores the source's dramatic pause before 'destroyed', which the flat masdar lost"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_Interact/9D8FF4C044D1814C851EEDAB00F68669",
+  "before": "هناك الكثير لا أتذكّره.",
+  "after": "ثمّة الكثير مما لا أذكره.",
+  "why": "هناك الكثير لا أتذكّره is loose; ثمّة … مما is the correct joint"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Greeting_08/5C7713B64925D5B7B158CCABDE7AEE95",
+  "before": "المدخل... كان هنا في نهاية المطاف.",
+  "after": "المدخل... كان هنا فعلًا.",
+  "why": "في نهاية المطاف means 'eventually'; 'afterall' here is 'in fact'"
+ }
+]

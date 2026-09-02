@@ -1,0 +1,44 @@
+[
+ {
+  "key": "ST_Core_Shells/EredrimTagline",
+  "before": "للسِّلْمِ ثمنٌ يُدفَع.",
+  "after": "للسِّلْمِ ثمن.",
+  "why": "'Peace has a price' is three words and lands as a proverb; يُدفَع was an addition that softened the blow. Aphorism over explanation."
+ },
+ {
+  "key": "ST_Core_Shells/SmertSubname",
+  "before": "المارِق",
+  "after": "المُرتَدّ",
+  "why": "Glossary: Apostate is frozen as المُرتَدّ (draft had المارِق)."
+ },
+ {
+  "key": "ST_Core_Shells/EredrimSubname",
+  "before": "المُوَقَّر",
+  "after": "المُبَجَّل",
+  "why": "Glossary: Venerable is frozen as المُبَجَّل (draft had المُوَقَّر); also matches دم المُبَجَّل in batch 17."
+ },
+ {
+  "key": "ST_Core_Sidearms/SimpleLuteDesc",
+  "before": "أثرٌ من زمنٍ أبسط. يؤثره الجوّالة؛ يُسكِّن هذا العودُ الإنسانَ والوحشَ سواء.",
+  "after": "أثرٌ من زمنٍ أبسط، يؤثره الجوّالة؛ فهذا العود يُسكِّن الإنسانَ والوحشَ سواء.",
+  "why": "Three stacked full stops in one flavour line read as fragments; the ف makes the soothing follow from the wanderers' favour, which is what the English implies."
+ },
+ {
+  "key": "ST_Core_Sidearms/SimpleLuteEffect",
+  "before": "سلاح جانبي خاص يوقع <Confusion>التشويش</> إذا استُخدم في القتال",
+  "after": "سلاح جانبي خاص يوقع <Confusion>التشويش</> متى استُخدم في القتال",
+  "why": "متى is the conditional this mechanic register uses everywhere else in the scope."
+ },
+ {
+  "key": "ST_Core_Sidearms/NailShotgunDesc",
+  "before": "سلاحٌ ملعون ولده مِصهَرٌ خبيث، يُشاع أنّ له إرادةً من دونه.",
+  "after": "سلاحٌ ملعون ولّده مِصهَرٌ خبيث، يُشاع أنّ له إرادةً خاصّة به.",
+  "why": "من دونه traced 'of its own' and reads as 'without it'; إرادة خاصة به is the Arabic. ولّده (form II) for 'birthed by'."
+ },
+ {
+  "key": "ST_Core_Sidearms/MachineGunDesc",
+  "before": "عظمٌ منحوت ومعدنٌ مُطعَّم في تعزيزاته؛ كلاهما يُنبئ بأنّ أصل هذا السلاح الغريب ليس من هذا العالم.",
+  "after": "عظمٌ منحوت وتعزيزاتٌ معدنيةٌ مُطعَّمة، تُنبئ بأنّ أصل هذا السلاح الغريب من غير هذا العالم.",
+  "why": "كلاهما يُنبئ + ليس من هذا العالم is English scaffolding; Arabic ties the adjectival phrase straight to the verb. Shorter, and the weight now falls on the last three words."
+ }
+]

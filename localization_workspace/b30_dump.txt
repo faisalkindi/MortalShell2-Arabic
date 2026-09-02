@@ -1,0 +1,239 @@
+ST_Skill_Genessa/GenessaSkillInstigation_Effect_1
+EN: <Bold>Faithful Doubles</> are summoned with {X} <Warp>Warp</> stacks
+DRAFT: <Bold>التوائم المخلصة</> تُستدعى مع {X} من تراكمات <Warp>الالتواء</>.
+
+ST_Skill_Genessa/GenessaSkillAffinity_Effect_2
+EN: <Bold>Faithful Doubles</> attack {Y} times before vanishing
+DRAFT: <Bold>التوائم المخلصة</> تهاجم {Y} مرات قبل أن تختفي.
+
+ST_Skill_Genessa/GenessaSkillAstralCopyResolveCost
+EN: <Bold>Faithful Doubles</> cost {X} less <Resolve>Resolve</> to summon
+DRAFT: <Bold>التوائم المخلصة</> تتطلب {X} أقل من <Resolve>العزيمة</> لاستدعائها.
+
+ST_Skill_Genessa/GenessaSkillAffinity_Effect_1
+EN: <Bold>Faithful Doubles</> deal {X} damage
+DRAFT: <Bold>التوائم المخلصة</> تُلحق ضررًا قدره {X}.
+
+ST_Skill_Genessa/GenessaSkillDistraction_Effect_1
+EN: <Bold>Faithful Doubles</> have {X} chance to be attacked by enemies
+DRAFT: لدى <Bold>التوائم المخلصة</> احتمال قدره {X} لأن يهاجمها الأعداء.
+
+ST_Skill_Genessa/GenessaSkillImpetus_Effect_1
+EN: <Bold>Faithful Doubles</> have {X} chance to perform any equipped <Bold>Weapon Ability</>
+DRAFT: لدى <Bold>التوائم المخلصة</> احتمال قدره {X} لتنفيذ أي <Bold>قدرة سلاح</> مجهزة.
+
+ST_Skill_Genessa/GenessaSkillInstigation_Effect_2
+EN: <Bold>Faithful Doubles</> inflict {Y} <Phantom>Phantom</> stacks
+DRAFT: تُلحق <Bold>التوائم المخلصة</> {Y} تراكمات <Phantom>الوهم</>.
+
+ST_Skill_Genessa/GenessaSkillAstralCopyResolveGain
+EN: <Bold>Faithful Doubles</> regenerate {Y} <Resolve>Resolve</> on damaging an enemy
+DRAFT: تستعيد <Bold>التوائم المخلصة</> {Y} من <Resolve>العزيمة</> عند إلحاق الضرر بعدو.
+
+ST_Skill_Genessa/GenessaSkillDistraction_Effect_2
+EN: <Bold>Faithful Doubles</> struck by enemies burst into a shockwave that inflicts {Y} <Stasis>Stasis</> stacks
+DRAFT: عند إصابة <Bold>التوائم المخلصة</> بالأعداء، تنفجر في موجة صدمة تُلحق {Y} تراكمات <Stasis>الركود</>.
+
+ST_Skill_Genessa/GenessaSkillAlterationDesc
+EN: <Bold>Sester Genessa</> is no more and becomes <Bold>Stray</> by default
+DRAFT: لم تعد <Bold>سستر جينيسا</> موجودة، وتصبح <Bold>ضالة</> افتراضيًا.
+
+ST_Skill_Genessa/GenessaSkillAstralCloneResolveCost
+EN: <Bold>Stray Doubles</> cost {Y} less <Resolve>Resolve</> to summon
+DRAFT: <Bold>التوائم الضالة</> تتطلب {Y} أقل من <Resolve>العزيمة</> لاستدعائها.
+
+ST_Skill_Genessa/GenessaSkillAstralClone_MeleeDamage
+EN: <Bold>Stray Doubles</> deal {X} melee damage
+DRAFT: <Bold>التوائم الضالة</> تُلحق {X} ضررًا قريب المدى.
+
+ST_Skill_Genessa/GenessaSkillAstralClone_RangedDamage
+EN: <Bold>Stray Doubles</> deal {Y} ranged damage
+DRAFT: <Bold>التوائم الضالة</> تُلحق {Y} ضررًا بعيد المدى.
+
+ST_Skill_Genessa/GenessaSkillHealthIncrease_Effect_2
+EN: <Bold>Stray Doubles</> heal <Bold>Stray Genessa</> by {Y} <Health>Health</> when damaging an enemy
+DRAFT: تشفي <Bold>التوائم الضالة</> <Bold>جينيسا الضالة</> بمقدار {Y} من <Health>الصحة</> عند إلحاق الضرر بعدو.
+
+ST_Skill_Genessa/GenessaSkillInstigation_Effect_3
+EN: <Bold>Stray Doubles</> melee attacks inflict {Z} <Weak>Weak</> stacks
+DRAFT: تُلحق هجمات <Bold>التوائم الضالة</> القريبة {Z} تراكمات <Weak>الضعف</>.
+
+ST_Skill_Genessa/GenessaSkillMirage_Effect_1
+EN: <Bold>Stray Doubles</> protect Stray Genessa from a <Bold>single</> fatal blow
+DRAFT: تحمي <Bold>التوائم الضالة</> جينيسا الضالة من <Bold>ضربة قاتلة واحدة</>.
+
+ST_Skill_Genessa/GenessaSkillMirage_Effect_3
+EN: <Bold>Stray Doubles</> protect Stray Genessa from {Z} fatal blows
+DRAFT: تحمي <Bold>التوائم الضالة</> جينيسا الضالة من {Z} ضربات قاتلة.
+
+ST_Skill_Genessa/GenessaSkillInstigation_Effect_4
+EN: <Bold>Stray Doubles</> ranged attacks inflict {W} <Fragile>Fragile</> stacks
+DRAFT: تُلحق هجمات <Bold>التوائم الضالة</> البعيدة {W} تراكمات <Fragile>الهشاشة</>.
+
+ST_Skill_Genessa/GenessaSkillHealthIncrease_Effect_1
+EN: <Bold>Stray Genessa</> has {X} more <Health>Health</>
+DRAFT: لدى <Bold>جينيسا الضالة</> {X} من <Health>الصحة</> الإضافية.
+
+ST_Skill_Genessa/GenessaSkillName_4
+EN: Affinity
+DRAFT: التأثير
+
+ST_Skill_Genessa/GenessaSkillName_9
+EN: Alteration
+DRAFT: التغيير
+
+ST_Skill_Genessa/GenessaSkillName_1
+EN: Augmentation
+DRAFT: التعزيز
+
+ST_Skill_Genessa/GenessaSkillName_2
+EN: Catalyst
+DRAFT: المحفز
+
+ST_Skill_Genessa/GenessaSkillName_11
+EN: Causality
+DRAFT: السببية
+
+ST_Skill_Genessa/GenessaSkillName_8
+EN: Communion
+DRAFT: التواصل
+
+ST_Skill_Genessa/GenessaSkillName_7
+EN: Distraction
+DRAFT: الاشغال
+
+ST_Skill_Genessa/GenessaSkillDoublesDuration_Effect_1
+EN: Duration of <Bold>Stray Doubles</> increased by {X}
+DRAFT: تزداد مدة <Bold>التوائم الضالة</> بمقدار {X}.
+
+ST_Skill_Genessa/GenessaSkillStasisMitigationDesc
+EN: Each level grants a new effect against <Stasis>Stasis</>
+DRAFT: يمنح كل مستوى تأثيرًا جديدًا ضد <Stasis>الركود</>.
+
+ST_Skill_Genessa/GenessaSkillAstralCopyDesc
+EN: Each level improves <Bold>Faithful Doubles</>
+DRAFT: يحسّن كل مستوى <Bold>التوائم المخلصة</>.
+
+ST_Skill_Genessa/GenessaSkillAllDoublesDesc
+EN: Each level improves <Bold>Genessa's Doubles</>
+DRAFT: يحسّن كل مستوى <Bold>توائم جينيسا</>.
+
+ST_Skill_Genessa/GenessaSkillAstralCloneDesc
+EN: Each level improves <Bold>Stray Doubles</>
+DRAFT: يحسّن كل مستوى <Bold>التوائم الضالة</>.
+
+ST_Skill_Genessa/GenessaSkillMakeStrongerDesc
+EN: Each level makes <Bold>Stray Genessa</> stronger
+DRAFT: يجعل كل مستوى <Bold>جينيسا الضالة</> أقوى.
+
+ST_Skill_Genessa/GenessaSkillStasis_Effect_3
+EN: Enemies that inflict <Stasis>Stasis</> on Genessa receive {Y} <Phantom>Phantom</> stacks instead
+DRAFT: يتلقى الأعداء الذين يُلحقون <Stasis>الركود</> بجينيسا {Y} تراكمات <Phantom>الوهم</> بدلًا من ذلك.
+
+ST_Skill_Genessa/GenessaSkillStasis_Effect_2
+EN: Genessa has <Stasis>Stasis</> <Bold>immunity</>
+DRAFT: تتمتع جينيسا بـ<Stasis>الركود</> <Bold>مناعة</>.
+
+ST_Skill_Genessa/GenessaSkillStasis_Effect_1
+EN: Genessa has {X} <Stasis>Stasis</> mitigation
+DRAFT: لدى جينيسا {X} من تخفيف <Stasis>الركود</>.
+
+ST_Skill_Genessa/GenessaSkillHealthDepleted_Effect_1
+EN: Genessa summons {X} last <Bold>Faithful Doubles</>
+DRAFT: تستدعي جينيسا آخر {X} من <Bold>التوائم المخلصة</>.
+
+ST_Skill_Genessa/GenessaSkillName_10
+EN: Impetus
+DRAFT: دافع
+
+ST_Skill_Genessa/GenessaSkillName_5
+EN: Instigation
+DRAFT: تحريض
+
+ST_Skill_Genessa/GenessaSkillName_6
+EN: Intangible
+DRAFT: غير ملموس
+
+ST_Skill_Genessa/GenessaCloneMeleeInfusion_Effect_1
+EN: Melee <Bold>Stray Doubles</> have {X} chance to apply any equipped <Bold>Weapon Infusion</>
+DRAFT: لدى <Bold>التوائم الضالة</> في القتال القريب احتمال قدره {X} لتطبيق أي <Bold>تشبيع سلاح</> مجهّز.
+
+ST_Skill_Genessa/GenessaSkillName_12
+EN: Mirage
+DRAFT: وهم
+
+ST_Skill_Genessa/GenessaCloneRangedInfusion_Effect_1
+EN: Ranged <Bold>Stray Doubles</> have {Y} chance to apply any equipped <Bold>Sidearm Infusion</>
+DRAFT: لدى <Bold>التوائم الضالة</> في القتال بعيد المدى احتمال قدره {Y} لتطبيق أي <Bold>تشبيع سلاح جانبي</> مجهّز.
+
+ST_Skill_Genessa/GenessaSkillMirage_Effect_2
+EN: Stray Genessa can summon an additional <Bold>Stray Double</>
+DRAFT: يمكن لجينيسا الضالة استدعاء <Bold>توأم ضال</> إضافي.
+
+ST_Skill_Genessa/GenessaSkillName_3
+EN: Timeless
+DRAFT: الخلود
+
+ST_Skill_Genessa/GenessaHealthDepletedDesc
+EN: When <Bold>Genessa's</> <Health>Health</> is depleted:
+DRAFT: عندما تنفد <Bold>جينيسا</> من <Health>الصحة</>:
+
+ST_Skills_Eredrim/ShellSkillEredrimAlacrity_Effect_0
+EN:  <Bold>Shoulder Bash</> charges {J} faster
+DRAFT: <Bold>ضربة الكتف</> تشحن {J} بشكل أسرع
+
+ST_Skills_Eredrim/ShellSkillEredrimSealAffinity_Effect_3
+EN: <Bold>Parry</> window is <Bold>moderately</> longer
+DRAFT: <Bold>نافذة الصدّ</> أطول <Bold>بدرجة متوسطة</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimSealAffinity_Effect_1
+EN: <Bold>Parry</> window is <Bold>slightly</> longer
+DRAFT: <Bold>نافذة الصدّ</> أطول <Bold>بدرجة طفيفة</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimAnguish_Effect_3
+EN: <Bold>Shoulder Bash</> deals <Bold>massive</> <Poise>Stagger Damage</>
+DRAFT: <Bold>ضربة الكتف</> تُلحق <Bold>ضررًا هائلًا</> من <Poise>ضرر التعثر</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimOppression_Effect_1
+EN: <Bold>Shoulder Bash</> deals {X} <Break>Break Damage</>
+DRAFT: <Bold>ضربة الكتف</> تُلحق {X} من <Break>ضرر الكسر</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimAnguish_Effect_1
+EN: <Bold>Shoulder Bash</> deals {X} damage
+DRAFT: <Bold>ضربة الكتف</> تُلحق {X} من الضرر.
+
+ST_Skills_Eredrim/ShellSkillEredrimAnguish_Effect_2
+EN: <Bold>Shoulder Bash</> inflicts {Y} <Weak>Weak</> stacks
+DRAFT: <Bold>ضربة الكتف</> تُلحق {Y} تراكمات <Weak>الضعف</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimOppression_Effect_2
+EN: <Bold>Shoulder Bash</> releases a frontal shockwave that inflicts {Y} <Trauma>Trauma</> stacks but costs {Z} more <Resolve>Resolve</>
+DRAFT: <Bold>ضربة الكتف</> تطلق موجة صدمة أمامية تُلحق {Y} تراكمات <Trauma>الصدمة</>، لكنها تكلّف {Z} إضافية من <Resolve>العزيمة</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimTankDesc
+EN: <Slaughterer>Slaughterer</> stacks also provide <Bold>damage reduction</>
+DRAFT: <Slaughterer>تراكمات القاتل</> توفر أيضًا <Bold>تقليل الضرر</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimSealAffinity_Effect_2
+EN: A <Bold>Riposte</> deals {X} damage
+DRAFT: تُحدث ضربة <Bold>الردّ</> ضررًا قدره {X}.
+
+ST_Skills_Eredrim/ShellSkillEredrimMassacre_Effect_1
+EN: A <Bold>Riposte</> grants {X} <Slaughterer>Slaughterer</> stacks
+DRAFT: تمنح ضربة <Bold>الردّ</> {X} تراكمات <Slaughterer>السفّاح</>.
+
+ST_Skills_Eredrim/ShellSkillEredrimAlacrity_Effect_2
+EN: After killing an enemy with a <Bold>Riposte</>, Eredrim's abilities cost <Resolve>No Resolve</> for {Y}
+DRAFT: بعد قتل عدو بـ<Bold>الردّ</>، لا تتطلب قدرات إردريم <Resolve>أي عزيمة</> لمدة {Y}.
+
+ST_Skills_Eredrim/EredrimSkillName_1
+EN: Alacrity
+DRAFT: السرعة
+
+ST_Skills_Eredrim/EredrimSkillName_4
+EN: Anguish
+DRAFT: الألم
+
+ST_Skills_Eredrim/EredrimSkillName_3
+EN: Apathy
+DRAFT: اللامبالاة

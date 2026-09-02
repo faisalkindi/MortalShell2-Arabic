@@ -1,0 +1,26 @@
+[
+ {
+  "key": "ST_Core_PPItems/SheepPP_PassiveEffect_1",
+  "before": "يخفض <Health>أقصى صحة</> الأعداء بمقدار {X}",
+  "after": "يخفض <Health>أقصى صحة</> لدى الأعداء بمقدار {X}",
+  "why": "The tag cuts the إضافة أقصى صحة الأعداء mid-construct; لدى restores a well-formed Arabic phrase around the tag."
+ },
+ {
+  "key": "ST_Core_PPItems/SheepPP_PassiveEffect_2",
+  "before": "يخفض <Health>أقصى صحة</> الأعداء بقدر ما وُجد من أصنام رأس الخروف",
+  "after": "يخفض <Health>أقصى صحة</> لدى الأعداء بقدر ما وُجد من أصنام رأس الخروف",
+  "why": "Sibling row, same fix."
+ },
+ {
+  "key": "ST_Core_PPItems/GrishaPP_PassiveEffect_2",
+  "before": "احتمال استدعاء غريشا بقدر ما وُجد من البقايا",
+  "after": "يزداد احتمال استدعاء غريشا بقدر ما وُجد من البقايا",
+  "why": "The row was a verbless noun phrase; يزداد supplies the predicate 'is proportional to' needs."
+ },
+ {
+  "key": "ST_Core_PPItems/GrishaPP_PassiveEffect_1",
+  "before": "لضرباتك القريبة احتمال {Y} لاستدعاء غريشا يهاجم أعداءك",
+  "after": "لضرباتك في الاشتباك احتمال {Y} لاستدعاء غريشا يهاجم أعداءك",
+  "why": "melee standardised to الاشتباك across the whole scope."
+ }
+]

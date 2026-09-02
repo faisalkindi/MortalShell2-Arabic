@@ -1,0 +1,33 @@
+{
+  "chunk": 97,
+  "rows_reviewed": 90,
+  "findings": [
+    {
+      "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_InformMerrick_08/3145287245329ABA64BF14862870510D",
+      "type": "term_violation",
+      "severity": "major",
+      "source_en": "We must find the Hexapod.",
+      "ar": "يجب أن نجد السداسيّ الأرجل.",
+      "issue": "Same as elsewhere: glossary bans السداسيّ الأرجل for Hexapod outside Merrick's mishearing gag; approved term is الهكسابود. This is Proxima speaking plainly, not the gag.",
+      "suggested_ar": "يجب أن نجد الهكسابود."
+    },
+    {
+      "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/3DA583804B84E2074CF7FDB80C5FE582",
+      "type": "term_violation",
+      "severity": "major",
+      "source_en": "I mean I don’t even know what this Hexa-thing is.",
+      "ar": "أعني، لا أعرف أصلًا ما هذا الشيء… السداسيّ ذاك.",
+      "issue": "This IS Merrick's mishearing gag (\"Hexa-thing\"), which per glossary must keep the stem الهكسا (e.g. hexa-dog -> الهكسا-كلب, correctly done elsewhere in this same chunk at TheExchange_S3_EnterMerrick_02/38A7630B...). Here the translation drops the stem entirely and uses السداسيّ (\"the six- [legged] one\"), breaking the running joke's mechanism.",
+      "suggested_ar": "أعني، لا أعرف أصلًا ما هذا الشيء… الهكسا ذاك."
+    },
+    {
+      "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/F23A04EE43660CC8FA1D6A8FE59436A4",
+      "type": "term_violation",
+      "severity": "major",
+      "source_en": "Hexapod.",
+      "ar": "السداسيّ الأرجل.",
+      "issue": "Standalone reveal of the creature's real name (following the hexa-dog joke and Proxima's correction) — should be the frozen transliteration, not the banned descriptive phrase.",
+      "suggested_ar": "الهكسابود."
+    }
+  ]
+}

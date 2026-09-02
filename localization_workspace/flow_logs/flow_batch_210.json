@@ -1,0 +1,32 @@
+[
+ {
+  "key": "ST_CreditsRoles/OpeningCinematicBy",
+  "before": "المشهد السينمائي الافتتاحي بواسطة",
+  "after": "المشهد السينمائي الافتتاحي من إعداد",
+  "why": "same: replaced بواسطة with a real Arabic attribution"
+ },
+ {
+  "key": "ST_CreditsRoles/OriginalMusic",
+  "before": "الموسيقى الأصلية بواسطة",
+  "after": "الموسيقى الأصلية من تأليف",
+  "why": "بواسطة is an instrument preposition, wrong for authorship credit"
+ },
+ {
+  "key": "ST_CreditsRoles/PlaystackTeamz",
+  "before": "فريق Playstack",
+  "after": "فِرَق Playstack",
+  "why": "«Teamz» is plural; فريق was singular and clashed with فرق النشر في Playstack"
+ },
+ {
+  "key": "ST_CreditsRoles/SeniorConceptArtistAndIllustration",
+  "before": "فنان تصور أول ورسوم توضيحية",
+  "after": "فنان تصوّر ورسوم توضيحية أول",
+  "why": "أول now qualifies the whole role, parallel to the non-senior row فنان تصور ورسوم توضيحية"
+ },
+ {
+  "key": "ST_CreditsRoles/BabkaAccordionMusic",
+  "before": "موسيقى الأكورديون \"بابكا\"",
+  "after": "موسيقى الأكورديون «بابكا»",
+  "why": "house quotation marks « »"
+ }
+]

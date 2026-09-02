@@ -1,0 +1,6 @@
+{"chunk": 50, "rows_reviewed": 90, "findings": [
+  {"key":"ST_Dialogue_Hilga/Hilga_Greeting_02_20_Brig","type":"term_violation","severity":"minor",
+   "source_en":"Well, sorry, brev. Hilga’s out.","ar":"حسنًا، آسفة، يا صاحبي. هيلغا بالخارج.",
+   "issue":"'brev' is frozen in 05_glossary.csv as يا صاح exactly; rendered يا صاحبي here (4th such deviation found across chunks 47-50).",
+   "suggested_ar":"حسنًا، آسفة، يا صاح. هيلغا بالخارج."}
+]}

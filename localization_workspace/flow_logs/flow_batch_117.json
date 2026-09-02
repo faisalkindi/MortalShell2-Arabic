@@ -1,0 +1,80 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_09_20",
+  "before": "حسنًا جدًّا.",
+  "after": "ليكن.",
+  "why": "'حسنًا جدًّا' is a literal 'very well'; as an acceptance Arabic says ليكن"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_06_10",
+  "before": "أهلًا بعودتك، يا... «صديقي».",
+  "after": "أهلًا بعودتك، يا… «صديقي».",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_Lazlo_03_10",
+  "before": "سنرحل قريبًا بما يكفي.",
+  "after": "سنرحل عمّا قريب.",
+  "why": "'قريبًا بما يكفي' is a word-for-word 'soon enough'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_11_20",
+  "before": "ما قيمة حياة بضعة فلّاحين مقارنةً بنبيلٍ واحد؟",
+  "after": "ما قيمة أرواح بضعة فلّاحين في مقابل نبيلٍ واحد؟",
+  "why": "matches its own sibling fragment; lives in the plural are أرواح; في مقابل over مقارنةً بـ"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_KillThief_Lazlo_09_20",
+  "before": "ما الذي قد يمنع قطع الطرق غير ذلك؟",
+  "after": "وإلّا فما الذي يردع قطع الطرق؟",
+  "why": "'غير ذلك' tacked at the tail is English 'else'; the وإلّا فـ pair front-loads it; ردع is the verb for deterring"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Cancel_01_30",
+  "before": "بينما لا أزال أسمح بذلك.",
+  "after": "ما دمتُ أسمح بذلك.",
+  "why": "بينما is temporal contrast and blunts the threat; 'while I still allow it' is ما دام"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_07_20",
+  "before": "لمَ تستمرّ في العودة",
+  "after": "لمَ تعود المرّة تلو الأخرى",
+  "why": "'تستمرّ في العودة' is the English keep+gerund"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_13_20",
+  "before": "معك ومع جزياتك...",
+  "after": "معك ومع جزياتك…",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_03_20",
+  "before": "نعم، نعم، نعم… خذوهم بعيدًا.",
+  "after": "نعم، نعم، نعم… خذوها بعيدًا.",
+  "why": "'them' here is the gifts; Arabic non-human plural takes ها, not هم"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Positive_03_10",
+  "before": "نعم، نعم... أحسنتَ اليوم.",
+  "after": "نعم، نعم… أحسنتَ اليوم.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Positive_05_20",
+  "before": "قد تصل بعيدًا في بلاطي.",
+  "after": "قد يعلو شأنك في بلاطي.",
+  "why": "'تصل بعيدًا' is a calque of 'go far'; علا شأنه is the Arabic for rising at court"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_10_30",
+  "before": "على يديك دمٌ أنت أيضًا.",
+  "after": "ويداك ملطّختان بالدم أنت أيضًا.",
+  "why": "'على يديك دمٌ أنت أيضًا' collapses under its own word order"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Exit_04_20",
+  "before": "أيها الدودة الصغيرة الوقحة.",
+  "after": "أيتها الدودة الصغيرة الوقحة.",
+  "why": "دودة is feminine; أيها does not agree with it"
+ }
+]

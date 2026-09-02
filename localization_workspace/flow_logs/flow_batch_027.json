@@ -1,0 +1,20 @@
+[
+  {
+    "key": "ST_LandingAreaNames/FastTravelPoint_MerchantRoom",
+    "before": "مقام ميريك",
+    "after": "مقرّ ميريك",
+    "why": "«مقام» توحي بالضريح؛ Quarters = مقرّ"
+  },
+  {
+    "key": "ST_LandingAreaNames/LandingArea_HexRunup_02",
+    "before": "المَعبَر الذي لا اسم له",
+    "after": "مَعبَر بلا اسم",
+    "why": "الاسم لا يحتمل صلة موصول؛ «بلا اسم» أوقع وأقصر"
+  },
+  {
+    "key": "ST_LandingAreaNames/LandingArea_SwordRunup_02",
+    "before": "مَصرِف مياه الأحياء",
+    "after": "مَصرِف مياه الحواري",
+    "why": "«الأحياء» ملتبسة بالأحياء ضدّ الأموات؛ «الحواري» تؤدي معنى slums"
+  }
+]

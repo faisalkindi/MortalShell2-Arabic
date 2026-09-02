@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_Vlas_Event_Goodbye_Interact_01/257781C2486273C35B1D879399DCB815",
+  "before": "أبقِ عينك مفتوحة، أرجوك.",
+  "after": "ابقَ متيقّظًا، أرجوك.",
+  "why": "'keep an eye out' as Arabic idiom, not a body-part calque"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Event_Goodbye_Interact_01/8E6C630946ED09B73AEB31B6E71BBFDB",
+  "before": "أبقِ عينك مفتوحة، أرجوك.",
+  "after": "ابقَ متيقّظًا، أرجوك.",
+  "why": "'keep an eye out' as Arabic idiom, not a body-part calque"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Goodbye_04/1EDB467546B886FE22F355AA66CA8690",
+  "before": "خائفًا من فعل ما يجب فعله.",
+  "after": "خائفًا من أن أفعل ما لا بدّ من فعله.",
+  "why": "avoids the doubled فعل ... فعله"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Goodbye_04/7DDF16AD4B1E6A24D9FACBBB80B5F3B4",
+  "before": "لكن لا أكثر.",
+  "after": "لكن ليس بعد الآن.",
+  "why": "'But no more' means 'not anymore', not 'no more than that'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Goodbye_04/82D06FCC4B438F4821F684A32DF7D488",
+  "before": "أنا... لا أجد ما يكفي من الشكر لك.",
+  "after": "أنا... عاجزٌ عن شكرك.",
+  "why": "the Arabic way to say one cannot thank enough"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Greeting_02/3A78470F4AE376E2EBF11D942E5894CA",
+  "before": "أوه، إنه أنت.",
+  "after": "أوه، هذا أنت.",
+  "why": "إنه أنت is not how Arabic recognises someone"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Greeting_04/2A4DB16E44D7E0F334FA9390FA9FD7B9",
+  "before": "وانظر كيف انتهى الأمر.",
+  "after": "وانظر إلى ما آل إليه الأمر.",
+  "why": "آل إليه is the idiom for 'how that turned out'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Greeting_04/9A5D46E94F08B21680CE8DA2FD03217E",
+  "before": "إنه خطئي.",
+  "after": "الذنب ذنبي.",
+  "why": "Arabic idiom for 'it's my fault'"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_01/72DDF79F42011838F3DCC1B21EACE364",
+  "before": "أبقِ عينك مفتوحة، أرجوك.",
+  "after": "ابقَ متيقّظًا، أرجوك.",
+  "why": "'keep an eye out' as Arabic idiom, not a body-part calque"
+ },
+ {
+  "key": "Dialogue_Dlg_Vlas_Interact_04/6762109D4B8F40CC056671B7254D0F43",
+  "before": "(يتوقف) إنه خطئي.",
+  "after": "(يتوقف) الذنب ذنبي.",
+  "why": "Arabic idiom for 'it's my fault'"
+ }
+]

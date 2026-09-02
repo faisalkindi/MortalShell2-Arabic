@@ -1,0 +1,44 @@
+[
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Tarforge_FoundryStone/E2A6EF5848FC8220851D9BA58C89A5BC",
+  "before": "فقط احذر يديك.",
+  "after": "وانتبه ليديك فحسب.",
+  "why": "fronted 'فقط' plus calqued 'احذر يديك' (matches batch 097)"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Tarforge_FoundryStone/482411D64917FE4C720C93ABF0A4E9A6",
+  "before": "الآن تستطيع صهر أي شيء.",
+  "after": "صارت الآن تصهر أي شيء.",
+  "why": "'تستطيع' is ambiguous 3fs/2ms (matches batch 097)"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_TarforgeInteract_Ends/C12BD86E4E42C30D2C421D813F9A2BBE",
+  "before": "تخيّل ما تستطيع فعله.",
+  "after": "تخيّل ما عساها تفعل.",
+  "why": "'ما تستطيع فعله' is ambiguous 3fs/2ms"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_TarforgeInteract_Ends/A4F6B9A041FD15D0A6888898C1C6A9BE",
+  "before": "تستطيع أن تكون أفضل… لو رُمّمت.",
+  "after": "كانت لتُبلي خيرًا… لو رُمّمت.",
+  "why": "'تستطيع أن تكون أفضل' is flat and ambiguous; Arabic counterfactual instead"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_13_10",
+  "before": "عمل متقن. بل جيّد جدًّا.",
+  "after": "عمل لا بأس به. بل جيّد.",
+  "why": "'متقن' then 'جيّد' inverts the grudging upgrade of 'Fine work. Good even.'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_10",
+  "before": "بايراند؟ دعني أخمّن... الغضب.",
+  "after": "بايراند؟ دعني أخمّن… الغضب.",
+  "why": "ASCII ellipsis inside Arabic text"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_02_30",
+  "before": "بح. تابع إذن.",
+  "after": "هه. تابع إذن.",
+  "why": "'بح' is not an Arabic interjection"
+ }
+]

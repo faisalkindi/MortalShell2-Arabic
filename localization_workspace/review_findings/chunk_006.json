@@ -1,0 +1,42 @@
+{
+ "chunk": 6,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Player_Abilities/SecondaryEredrimAbility",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Ethereal Diapason",
+   "ar": "الديابازون الأثيري",
+   "issue": "Glossary freezes Ethereal Diapason as النغم الأثيري (Eredrim ability); this row transliterates it instead.",
+   "suggested_ar": "النغم الأثيري"
+  },
+  {
+   "key": "ST_Core_Player_Abilities/SecondaryEredrimAbilityDesc",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Eredrim smashes his Diapason to create a blinding shockwave that deals <Break>Break Damage</> to all enemies in range.",
+   "ar": "يضرب إردريم ديابازونه فيولّد موجة صدمية خاطفة للأبصار تُلحق <Break>ضرر الكَسر</> بكل عدو في المدى.",
+   "issue": "Same frozen term as the ability name above: Diapason is transliterated ديابازونه here, so the description does not match the ability it describes.",
+   "suggested_ar": "يضرب إردريم نغمه الأثيري فيولّد موجة صدمية خاطفة للأبصار تُلحق <Break>ضرر الكَسر</> بكل عدو في المدى."
+  },
+  {
+   "key": "ST_Core_Player_Abilities/DefaultEredrimPassive",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Executioner",
+   "ar": "الجلّاد",
+   "issue": "Glossary freezes Execution as الإجهاز and explicitly rejects the capital-punishment sense (الإعدام); الجلّاد is that rejected sense, and it clashes with this passive's own description, which renders 'executes enemies' as يُجهز.",
+   "suggested_ar": "المُجهِز"
+  },
+  {
+   "key": "ST_Core_Tutorials/TutorialNewGamePlusStarted_Subname",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "New Game Plus",
+   "ar": "لعبة جديدة +",
+   "issue": "Glossary freezes New Game+ as اللعبة الجديدة+ with no space before the plus; this row drops the article and inserts a space, which also risks the + detaching in RTL layout.",
+   "suggested_ar": "اللعبة الجديدة+"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "/20B8DE694CC6B08B08FE9DA87CA3A34B",
+  "before": "شرب الخمر المُهرَّبة",
+  "after": "شرب العَرَق",
+  "why": "Frozen glossary term: Moonshine = العَرَق. الخمر المُهرَّبة was a descriptive paraphrase."
+ },
+ {
+  "key": "/D4300AD24976748894CB338ABD64CE06",
+  "before": "شرب الخمر المُهرَّبة",
+  "after": "شرب العَرَق",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/64E9A6894C947ED7B8A5B0AB0AD4067F",
+  "before": "شرب الإكسير الكيميائي؟",
+  "after": "شرب الإكسير الخيميائي؟",
+  "why": "Alchemical is خيميائي; كيميائي is modern chemistry and clashes with the setting's register."
+ },
+ {
+  "key": "/D3222EA74354F73E6BE4129A37C91475",
+  "before": "لكل هيكل قدراتٌ فريدة يؤديها.",
+  "after": "لكل هَيكل قدراتٌ فريدة يؤديها.",
+  "why": "Frozen Shell = الهَيكل carries its diacritic everywhere else in the corpus."
+ },
+ {
+  "key": "/EE0041FB489D3EE07DC7339EECBCF394",
+  "before": "فحص كوّة الهيكل الفارغة",
+  "after": "فحص كوّة الهَيكل الفارغة",
+  "why": "Same frozen-term diacritic."
+ }
+]

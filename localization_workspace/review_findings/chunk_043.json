@@ -1,0 +1,15 @@
+{
+ "chunk": 43,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheReunion_01_HelpGenessaUp/27B5D4A44D41F0D692906588BFB53576",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "And I was certain… I could change you…",
+   "ar": "وكنتُ متيقنة… أنني أستطيع تغييرك…",
+   "issue": "Addressee is Genessa (female); the sibling line in the same namespace marks it explicitly (… remake you = أُعيد صنعكِ). Unvowelled تغييرك reads masculine.",
+   "suggested_ar": "وكنتُ متيقنة… أنني أستطيع تغييركِ…"
+  }
+ ]
+}

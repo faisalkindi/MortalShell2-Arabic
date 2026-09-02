@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_Sariel_ImagineSpeech/2E55123447F1E4F405C011B457A98C20",
+  "before": "يمكن أن نكون آلهة.",
+  "after": "بوسعنا أن نكون آلهة.",
+  "why": "يمكن أن نكون is neutral modality; بوسعنا carries Sariel's temptation"
+ },
+ {
+  "key": "Dialogue_Dlg_Sariel_ImagineSpeech/66AEED274CF9EE09CBFFAFB3F965E3DF",
+  "before": "يمكن أن نكون بلا كلل، بلا هرم، سرمديين.",
+  "after": "بوسعنا أن نكون بلا كلل، بلا هرم، بلا نهاية.",
+  "why": "restores the source's tricolon as three matched بلا phrases; 'سرمديين' broke the parallel"
+ }
+]

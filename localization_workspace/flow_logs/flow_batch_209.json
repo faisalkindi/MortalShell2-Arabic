@@ -1,0 +1,74 @@
+[
+ {
+  "key": "ST_CreditsRoles/OldHubTowerMusic",
+  "before": "موسيقى \"برج المركز القديم\" من Mortal Shell الأول",
+  "after": "موسيقى «برج المركز القديم» من Mortal Shell الأول",
+  "why": "house quotation marks « » instead of ASCII \" \""
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalCharacterAndPropRetopology",
+  "before": "إعادة بناء طوبولوجيا الشخصيات والعناصر - إضافي",
+  "after": "إعادة بناء إضافية لطوبولوجيا الشخصيات والعناصر",
+  "why": "dropped the dash-appended «- إضافي» hack; adjective now agrees with the head noun, matching the other Additional rows"
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalCharacterArt",
+  "before": "فن الشخصيات - إضافي",
+  "after": "فن إضافي للشخصيات",
+  "why": "same Additional-row shape as siblings: head noun + إضافي + لـ complement"
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalEnvironmentArt",
+  "before": "فن البيئات - إضافي",
+  "after": "فن إضافي للبيئات",
+  "why": "same Additional-row shape as siblings"
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalLevelDesign",
+  "before": "تصميم المراحل - إضافي",
+  "after": "تصميم إضافي للمراحل",
+  "why": "same Additional-row shape as siblings"
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalUIArtAndAchievements",
+  "before": "فن واجهة المستخدم والإنجازات - إضافي",
+  "after": "فن إضافي لواجهة المستخدم والإنجازات",
+  "why": "same Additional-row shape as siblings"
+ },
+ {
+  "key": "ST_CreditsRoles/AdditionalUI/UXImplementation",
+  "before": "تنفيذ واجهة وتجربة المستخدم - إضافي",
+  "after": "تنفيذ إضافي لواجهة وتجربة المستخدم",
+  "why": "same Additional-row shape as siblings"
+ },
+ {
+  "key": "ST_CreditsRoles/GrishaAbilityIdea",
+  "before": "فكرة قدرة غريشا (وعثر أيضًا على بعض الأخطاء البرمجية!)",
+  "after": "فكرة قدرة غريشا (واكتشاف بعض الأخطاء البرمجية أيضًا!)",
+  "why": "credited person's gender is unknown; verbal noun instead of the masculine verb عثر"
+ },
+ {
+  "key": "ST_CreditsRoles/LatinAmericanSpanish",
+  "before": "الإسبانية لأمريكا اللاتينية",
+  "after": "إسبانية أمريكا اللاتينية",
+  "why": "idiomatic إضافة instead of the calqued لـ; parallel to البرتغالية البرازيلية"
+ },
+ {
+  "key": "ST_CreditsRoles/LeadCharacterArtist",
+  "before": "الفنان الرئيسي للشخصيات",
+  "after": "فنان الشخصيات الرئيسي",
+  "why": "one shape for all Lead-artist rows (cf. فنان الإضاءة الرئيسي)"
+ },
+ {
+  "key": "ST_CreditsRoles/LeadEnviromentArtist",
+  "before": "الفنان الرئيسي للبيئات",
+  "after": "فنان البيئات الرئيسي",
+  "why": "one shape for all Lead-artist rows"
+ },
+ {
+  "key": "ST_CreditsRoles/LuteSidearmMusicBy",
+  "before": "موسيقى السلاح الجانبي (العود) بواسطة",
+  "after": "موسيقى السلاح الجانبي (العود) من تأليف",
+  "why": "بواسطة is an instrument preposition, wrong for authorship credit"
+ }
+]

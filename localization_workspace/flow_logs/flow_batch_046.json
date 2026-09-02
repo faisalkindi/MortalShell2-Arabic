@@ -1,0 +1,32 @@
+[
+ {
+  "key": "/AD34265C467C7763798110BAB1D5B6A8",
+  "before": "القاضي ماروس",
+  "after": "المُقتَصّ ماروس",
+  "why": "Frozen glossary term: Justiciar = المُقتَصّ."
+ },
+ {
+  "key": "/C627A1434DC8CDB1127B1C97DD7DD7B7",
+  "before": "القاضي ماروس",
+  "after": "المُقتَصّ ماروس",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/619705B940C5BF8ED9422BB9E8E24B13",
+  "before": "تم جمع المفتاح",
+  "after": "جُمِع المفتاح",
+  "why": "تم + verbal noun is the classic translationese passive; Arabic has a real passive verb."
+ },
+ {
+  "key": "/813D94414BF4B5C2230FBBA0D5F7DE81",
+  "before": "لا ننسَينّ، أيتها الأُخَيّات. كنّا واحدًا قبل أن نغدو كثرة. وما وُلد أوّلنا إلا بفضل كأس المولود مرتين.",
+  "after": "لا ننسَ، أيتها الأُخَيّات. كنّا واحدًا قبل أن نغدو كثرة. وما وُلد أوّلنا إلا بفضل كأس المولود مرتين.",
+  "why": "لا ننسَينّ mixed a first-person plural 'let us not forget' with a feminine-plural addressee ending; the jussive لا ننسَ is the form."
+ },
+ {
+  "key": "/FDB2E2664EB54D105C74E88F95F375EF",
+  "before": "انظر عن قرب",
+  "after": "النظر عن قرب",
+  "why": "Interaction prompts in this column are verbal nouns (الركوع، الإصغاء، قرع الباب); the imperative broke the column."
+ }
+]

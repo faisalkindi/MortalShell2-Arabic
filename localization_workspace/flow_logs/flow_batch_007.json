@@ -1,0 +1,38 @@
+[
+ {
+  "key": "ST_Core_Interactions/OfferDrink",
+  "before": "يلزم عَرَق عادي",
+  "after": "يلزم عَرَق عاديّ",
+  "why": "glossary spelling العَرَق العاديّ"
+ },
+ {
+  "key": "ST_Core_Interactions/SheepGrazeAction",
+  "before": "الرعي",
+  "after": "رعي",
+  "why": "same prompt-form standardisation"
+ },
+ {
+  "key": "ST_Core_Interactions/Kneel",
+  "before": "الركوع",
+  "after": "ركوع",
+  "why": "world prompts are bare verbal nouns (فحص، فتح، شرب، لمس); five rows carried a stray ال"
+ },
+ {
+  "key": "ST_Core_Interactions/KnockDoor",
+  "before": "الطرق",
+  "after": "طرق",
+  "why": "same prompt-form standardisation"
+ },
+ {
+  "key": "ST_Core_Interactions/Listen",
+  "before": "الإنصات",
+  "after": "إنصات",
+  "why": "same prompt-form standardisation"
+ },
+ {
+  "key": "ST_Core_Interactions/LootInteraction",
+  "before": "السلب",
+  "after": "سلب",
+  "why": "same prompt-form standardisation"
+ }
+]

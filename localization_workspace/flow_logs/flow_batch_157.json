@@ -1,0 +1,110 @@
+[
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheMassacre03_Intro/5054B47B4BB72114B80686B1945CEE6F",
+  "before": "اللورد ڤيلن سيستقبلك الآن.",
+  "after": "سيستقبلك اللورد ڤيلن الآن.",
+  "why": "verb-initial; the topicalised subject was English order"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth01_Intro/9382A7104EFFF84AC59801A1B4104B12",
+  "before": "«مقابلتك» مع اللورد الأعلى لن تُقاطَع.",
+  "after": "لن تُقاطَع «مقابلتك» مع اللورد الأعلى.",
+  "why": "verb-initial recast"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth01_LordVellenApproach/4EBD2C8E41E2B9C5D51E319C54F6E641",
+  "before": "اعرض قضيتك وسيُصدَر الحكم.",
+  "after": "اعرض حجّتك، ثم يُنطق بالحكم.",
+  "why": "ثم of sequence instead of a flat و; يُنطق بالحكم is the Arabic legal collocation"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_CrestInteract/1A7C38AD48E376A5F1FB40A27BBFB323",
+  "before": "سحرت أباك... وسحرتني.",
+  "after": "سحرت أباك... وسحرتني أنا.",
+  "why": "the ellipsis is a reveal; أنا lands it"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_CrestInteract/17DD04574921768F6B93EAA05A8C91C6",
+  "before": "أمك أتت من بعيد.",
+  "after": "أتت أمك من بعيد.",
+  "why": "verb-initial"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_InteractionComplete/C79202524FE9D3E770019790E6451394",
+  "before": "وتصرّف كما كان متوقّعًا.",
+  "after": "فتصرّف كما هو متوقّع.",
+  "why": "ف of consequence replaces the strung و"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_InteractionComplete/DC23D53A45FE0E181FE305A2E7AF41C7",
+  "before": "حميمي.",
+  "after": "حميم.",
+  "why": "حميمي is the colloquial form; حميم is the adjective"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_InteractionComplete/48C7BD274145FE679702E499E0FDEB2E",
+  "before": "اكتشف أبوك... علاقتنا الخفية.",
+  "after": "اكتشف أبوك... نزواتنا.",
+  "why": "'dalliances' is plural and lighter than 'علاقة خفية'"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_LetterOfChallenge/C81A60DE407AC30A75621DA197356F06",
+  "before": "أجبرني على ذلك.",
+  "after": "لم يترك لي خيارًا.",
+  "why": "'forced my hand' has a real Arabic idiom rather than the literal أجبرني"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_Outro/E13DE7AA4828EB806E717AAF708CA08F",
+  "before": "على الأقل نجوتَ من ذلك.",
+  "after": "على الأقل نجوتَ أنت.",
+  "why": "'spared' contrasts him with the others; أنت carries that"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_Outro/655569FF415CDC11A373A195B220AB45",
+  "before": "نوع من الرحمة.",
+  "after": "يا لها من رحمة.",
+  "why": "the line is sarcastic; 'نوع من الرحمة' read as sincere"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_Outro_B/DEA6FA2C4F47CA2853A9938B07AE969D",
+  "before": "...أو له.",
+  "after": "…أم من صُلبه.",
+  "why": "'أو له' was meaningless; the row completes row 39's 'by my seed… or his'"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth02_PaintingInteract/5940C6F54119B22DAF2E23ACAC0526E8",
+  "before": "بعدها، صارت أمك تزورنا كثيرًا.",
+  "after": "بعدها، كثُرت زيارات أمك.",
+  "why": "'تزورنا' added an object the source does not name"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth03_ClaimSpoiledEgg/116B77334104D52F40A5E89FC98BD81E",
+  "before": "إنه حقّك—وهذا ما قاتل أجدادنا ولأجله ماتوا.",
+  "after": "إنه حقّك—ما قاتل أجدادنا وماتوا في سبيله.",
+  "why": "cut the 'وهذا ما' scaffolding; في سبيله is the Arabic collocation"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth03_DestroySpoiledEgg/6C4131194ADC6E1AA2125D87E1FDA590",
+  "before": "مثير للإعجاب، لكنه أحمق.",
+  "after": "مبهر، لكنه حماقة.",
+  "why": "'مثير للإعجاب' was long and its 'أحمق' disagreed with the antecedent"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth03_DestroySpoiledEgg/F775CC6F46DE3C082C2C38A0A85A80AE",
+  "before": "أنا... فعلتُ ما هو صواب.",
+  "after": "أنا… أنا فعلتُ الصواب.",
+  "why": "restored the doubled 'I… I'; 'ما هو صواب' trimmed"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth03_DestroySpoiledEgg/663CD32842F7F407A5BE288164BDB4AD",
+  "before": "خضتَ معركة لا رابح فيها ولا مكسب منها.",
+  "after": "افتعلتَ شجارًا لا تكسب منه شيئًا وتخسر فيه كل شيء.",
+  "why": "the old line dropped 'everything to lose' entirely"
+ },
+ {
+  "key": "Dialogue_Dlg_Lazlo_TheTruth03_Intro/B6131EAA49DBA4967ED7DAB4BD028832",
+  "before": "وتوجيه اتهامات كاذبة.",
+  "after": "وتوجيه اتهامات باطلة.",
+  "why": "accusations are باطلة (unfounded), not كاذبة"
+ }
+]

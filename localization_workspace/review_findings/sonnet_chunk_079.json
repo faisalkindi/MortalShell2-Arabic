@@ -1,0 +1,6 @@
+{"chunk": 79, "rows_reviewed": 90, "findings": [
+  {"key": "/C742BF59482A78FA49B8948E9BA322F3", "type": "term_violation", "severity": "major",
+   "source_en": "Lead Disciple", "ar": "إرشاد المريد",
+   "issue": "'Disciple' (character/NPC type) is now frozen as الحواريّ, with the glossary explicitly stating NOT المُريد (05_glossary.csv: Disciple, 'NOT المُريد (Acolyte, Tiel)'). This row uses المريد, conflating the generic Disciple NPC with Tiel's Acolyte title.",
+   "suggested_ar": "إرشاد الحواريّ"}
+]}

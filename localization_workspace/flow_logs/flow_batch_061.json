@@ -1,0 +1,98 @@
+[
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_ThreatenTheThief_02/60AD6CD743F0776E829201B3228C6FBB",
+  "before": "حسنًا، لا تقلق... أنا هنا للمساعدة.",
+  "after": "حسنًا، لا تقلقي... أنا هنا للمساعدة.",
+  "why": "speaker is Merrick (dropped-h 'ere), addressee Proxima - feminine imperative"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_ThreatenTheThief_02/A4F5CF1C413BE7635533318150222E64",
+  "before": "أنت حي.",
+  "after": "أنتِ حيّة.",
+  "why": "same scene, Merrick addressing Proxima - feminine agreement"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_ThreatenTheThief_02/4C2542B249784EA4402172BE5553AC21",
+  "before": "أنت... تفهم؟",
+  "after": "أنتِ... تفهمين؟",
+  "why": "same scene, feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_DropDown_05/2ABC3DF24A37AD59E1FF99AC6CC0E713",
+  "before": "(يتسلل مقتربًا)",
+  "after": "(دبيبٌ يقترب)",
+  "why": "skittering is the Hexapod's scurrying, not sneaking; دبيب is the Arabic sound-noun"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_ExamineStrangeGrowth_01/5901D258450EACF9C46EF4A39FEE508E",
+  "before": "النموّ... يبدأ بالإنبات.",
+  "after": "النُّتوء... آخذٌ في التبرعم.",
+  "why": "'a growth' is a mass, not the abstract process; تبرعم is the clinical verb that suits Proxima's voice"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_MerrickStabs_06/ECB5B2F644FB5B6948B0C98FEFF9D503",
+  "before": "وأنا واثق تمامًا أنني أنقذت للتو حياتك.",
+  "after": "وأنا واثقٌ تمامًا أنني أنقذت حياتك للتو.",
+  "why": "للتو was wedged between verb and object; moved to the end where Arabic puts it"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_New_Intro_01/26731C7447C2B4A6E96B168DB76784B6",
+  "before": "(تسلّل في البعيد)",
+  "after": "(دبيبٌ في البعيد)",
+  "why": "matches the sibling skittering cue"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_RefuseMerricksHelp_07/D864DD6443411207CCAF099002A7716B",
+  "before": "دمي سيسمّمه.",
+  "after": "سيسمّمه دمي.",
+  "why": "verb-initial"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_RefuseMerricksHelp_07/4026BD1A4407B51998BAE484375FD527",
+  "before": "الأمر الآن مكشوف.",
+  "after": "وقد بطلت الآن.",
+  "why": "'compromised' here means the contingency is void, not exposed; مكشوف was the wrong sense"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_UseBiosampler_Continue_04/9221CE1245D2A24D65346FADCFEB1F57",
+  "before": "لكن يجب فرض الاحتواء.",
+  "after": "لكن لا بدّ من إنفاذ الاحتواء.",
+  "why": "لا بدّ من إنفاذ reads as Proxima's protocol register"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/5D18C82F412D812C471922A34F554183",
+  "before": "صحيح.",
+  "after": "جامع العينات الحيوية لا يطعن.",
+  "why": "FROZEN GLOSSARY: Biosampler = جامع العينات الحيوية; المِجسّ الحيوي was a substitution"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/843A020E4AEF5598E8F0DEBC4A7D42BB",
+  "before": "حصلتِ على هذا من طعني؟",
+  "after": "أعرفتِ ذلك كله بطعني؟",
+  "why": "'you got that from' is idiom for inference, not literal obtaining"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_InformMerrick_08/CB2B617742BC2315C2D8CA8BABC14702",
+  "before": "إذن ستساعدني.",
+  "after": "إذن ستعينني.",
+  "why": "ستعينني fits her clipped formal register"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_Intro_01/AB3706DE4CB06A34D9544E828FD4CD42",
+  "before": "تمهّل.",
+  "after": "تمهّلي.",
+  "why": "the sibling key Merchant_TakeItEasy identifies Merrick as speaker; addressee Proxima is feminine"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_Merchant_TakeItEasy/DE91D2B444C33F06A6E4DF925BDD4B8D",
+  "before": "تمهّل.",
+  "after": "تمهّلي.",
+  "why": "Merrick to Proxima - feminine imperative"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_TakeTheOffering_03/5B9D2B954DEBBBC86EF4D0B46819B866",
+  "before": "ما رأيك بواحدة أخرى؟",
+  "after": "ما رأيك بأخرى؟",
+  "why": "cut the filler واحدة"
+ }
+]

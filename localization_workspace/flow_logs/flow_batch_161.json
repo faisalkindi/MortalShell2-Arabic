@@ -1,0 +1,134 @@
+[
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_01/83212CC049633EEA9C9F89A72E8B3E92",
+  "before": "أهم مميزون أم... شيء من هذا القبيل؟",
+  "after": "إن كانوا مميزين أو... شيئًا من هذا القبيل؟",
+  "why": "the row continues the previous question; 'أهم مميزون' restarted it as a new one"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_01/EC4002884AEDA53B78E3F699EBFB7208",
+  "before": "أصحيح أنك... تقدر على إعادة الموتى للحياة؟",
+  "after": "أصحيح أنك... تقدر على إعادة الموتى إلى الحياة؟",
+  "why": "إلى الحياة matches the collocation used in the Proxima scene"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_01/8B591D444E030CC15E6E7AABCF7E60F6",
+  "before": "فقط تعال وزُر صديقك الجديد، ميريك.",
+  "after": "ما عليك إلا أن تزور صديقك الجديد، ميريك.",
+  "why": "'فقط تعال وزُر' was a two-verb English pileup"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_01/FB270B7B432FEB82803190B4097CDB08",
+  "before": "المتجر فوضى الآن.",
+  "after": "المتجر في فوضى الآن.",
+  "why": "missing preposition"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_02/84EDC7854CFF0D068D01DF862AB5894A",
+  "before": "أهم مميزون أم... شيء من هذا القبيل؟",
+  "after": "إن كانوا مميزين أو... شيئًا من هذا القبيل؟",
+  "why": "same line as row 4"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_02/84EC84B84A57AC0CD796D986524E91EE",
+  "before": "أصحيح أنك... تقدر على إعادة الموتى للحياة؟",
+  "after": "أصحيح أنك... تقدر على إعادة الموتى إلى الحياة؟",
+  "why": "same line as row 5"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interact_03/589DD9BD425A068FA2805AA5BF05BF01",
+  "before": "المتجر فوضى الآن.",
+  "after": "المتجر في فوضى الآن.",
+  "why": "missing preposition"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interarct_01_Pt2Only/860E37C748D3C0B246F20DB92A3DFB20",
+  "before": "أهم مميزون أم... شيء من هذا القبيل؟",
+  "after": "إن كانوا مميزين أو... شيئًا من هذا القبيل؟",
+  "why": "same line as row 4"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_1stMeeting_Interarct_01_Pt2Only/3B1E3CD64B7D323EE4FE91A1405068F3",
+  "before": "أصحيح أنك... تقدر على إعادة الموتى للحياة؟",
+  "after": "أصحيح أنك... تقدر على إعادة الموتى إلى الحياة؟",
+  "why": "same line as row 5"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_AfterDeath/7E1AA755423A691C6D2F479628A927A1",
+  "before": "(يسخر) لا أعرف عن كل هذا.",
+  "after": "(يسخر) لستُ متأكدًا من كل هذا.",
+  "why": "'لا أعرف عن' is a calque of 'I don't know about'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_AfterDeath/E828F181493AEE1C04B8229AA67DBA20",
+  "before": "لكن سآخذ النقود الآن.",
+  "after": "لكني سآخذ النقود حاليًا.",
+  "why": "'for now' was dropped"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_AfterDeath/6400ACB640D401A331EC68BB37C39252",
+  "before": "تبيّن أني أنا أيضًا شخص مميز.",
+  "after": "تبيّن أني شخص مميز أنا أيضًا.",
+  "why": "'أني أنا أيضًا شخص' put the emphatic in the English slot"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_AfterDeath/04EE68064814D146F03877B7EC179C96",
+  "before": "أترى، لي خطط كبيرة لذلك يومًا ما.",
+  "after": "أتعلم، عندي خطط كبيرة له يومًا ما.",
+  "why": "'لي خطط... لذلك' was stiff"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Generic_CantBuy/86D2BA6B4EAD3895BDD397ABE40DDE59",
+  "before": "بلا نقود، بلا صفقة.",
+  "after": "لا نقود، لا صفقة.",
+  "why": "the English is a two-beat parallel; بلا/بلا blunted it"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Generic_CantBuy/9F8633054BEDE4D00D278B99B066D205",
+  "before": "هذا ليس عمل خيري.",
+  "after": "هذا ليس عملًا خيريًا.",
+  "why": "ليس takes the accusative"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/7ABD85774045967D948710B14248EFC4",
+  "before": "منفق كبير، أليس كذلك؟",
+  "after": "يا لك من منفق سخيّ!",
+  "why": "the line is sarcastic; 'منفق كبير' read as a straight compliment"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/5F6562AF4351D452D206DF840D182BAE",
+  "before": "تبًا للمتسكّع.",
+  "after": "متطفّل لعين.",
+  "why": "a bludger is a freeloader; 'تبًا للمتسكّع' cursed at him instead of naming him"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/7595CEFF452AB7378EFCCCA0612987E0",
+  "before": "شكرًا على لا شيء.",
+  "after": "شكرًا... على لا شيء.",
+  "why": "the pause is what makes the sarcasm audible"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/D3750DFD485F802E677973976564CF1E",
+  "before": "شكرًا على رعايتك!",
+  "after": "شكرًا على تعاملك معنا!",
+  "why": "رعاية is sponsorship; a merchant thanks you for your custom"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Greeting_FinalDeal/39D6432044B0F60EAEBB89834F946A3C",
+  "before": "يا هذا، أفضل زبون لدي!",
+  "after": "يا هذا، أفضل زبائني!",
+  "why": "'أفضل زبون لدي' is the English possessive order"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Greeting_Generic/8930D83843C700F078C96A89F10AABFB",
+  "before": "صباح الخير يا صاح! إن كان معك نقود، تعال إلى هنا.",
+  "after": "نهارك سعيد يا صاح! إن كان معك نقود، تعال إلى هنا.",
+  "why": "G'day is not specifically morning"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Greeting_Generic/68B3209B4B5B0647DAF715BED12ABE82",
+  "before": "ألا يكون هذا زبوني المفضّل.",
+  "after": "انظر من هنا، أفضل زبائني.",
+  "why": "'ألا يكون هذا' was a literal reading of 'if it isn't'; the English is a greeting, not a question"
+ }
+]

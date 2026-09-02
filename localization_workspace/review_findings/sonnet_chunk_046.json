@@ -1,0 +1,6 @@
+{"chunk": 46, "rows_reviewed": 90, "findings": [
+  {"key":"ST_GorfDialogues/Gorf_Interact_07_20_Hilga","type":"mistranslation","severity":"minor",
+   "source_en":"Now begone. He rests now.","ar":"انصرف الآن. لقد استراح.",
+   "issue":"English states an ongoing present state (he IS resting now, implying don't disturb him); Arabic لقد استراح is past-perfect ('he has already rested'), shifting to a completed action and losing the 'currently resting, leave him be' sense.",
+   "suggested_ar":"انصرف الآن. إنه يستريح الآن."}
+]}

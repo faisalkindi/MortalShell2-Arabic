@@ -1,0 +1,50 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/C4E1252D4386ECC84033A28EC4BCBDF7",
+  "before": "هذه أصابع قوية.",
+  "after": "هذه أصابع قدمٍ قوية.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/5D97672240492E5F84ACE2A6EAAAC1C9",
+  "before": "أنت لطيفٌ جدًا.",
+  "after": "أنت بالغ اللطف.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/D369BABB400F3B1349CD2FAC4EA73888",
+  "before": "أنت لطيفٌ جدًا.",
+  "after": "أنت بالغ اللطف.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_HitReact/9EF1ADC0473E8F824F1B259F383F16CD",
+  "before": "(يئنّ) بحذر.",
+  "after": "(يئنّ) على رِسلك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_01_Interact/FFAA4D2E4DF6091779C0E7A69140F510",
+  "before": "أبناؤها المرتقبون سُرقوا… بمن فيهم أنت، أيها النذير.",
+  "after": "سُرق أبناؤها المرتقبون… وأنت منهم، أيها النذير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_140OvaGen_Interact/2A54C5544C69B43A7707508EBE9AB7AC",
+  "before": "أهذا... حب؟",
+  "after": "أهذا… حب؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_140OvaGen_Interact/C41756764167C95C71AC80ACD61EDF1C",
+  "before": "إنها أقوى حتى الآن.",
+  "after": "بل صارت أقوى الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_35OvaGen_Interact/D883B76B452EFDC5D1BF7098DFC843CC",
+  "before": "أما فعلت؟",
+  "after": "أليس كذلك؟",
+  "why": "flow"
+ }
+]

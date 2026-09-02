@@ -1,0 +1,6 @@
+{"chunk": 92, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03/5F2A1DD54B1553BC828F149C0F083554", "type": "term_violation", "severity": "minor",
+   "source_en": "There is no justice without retribution.", "ar": "لا عدالة بلا اقتصاص.",
+   "issue": "This exact quote is the inscription on the Justiciar's Sword elsewhere in the corpus ('Wielded by the magistrates of Mammon, it's inscribed with the phrase: \"There is no justice without retribution.\"'), rendered there as «لا عدلَ بلا قِصاص». Here the same significant recurring line is translated with different words (عدالة vs عدل, اقتصاص vs قِصاص) — an inconsistency for what is meant to be the same quoted motto reappearing in dialogue.",
+   "suggested_ar": "لا عدلَ بلا قِصاص."}
+]}

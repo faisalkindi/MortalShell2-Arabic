@@ -1,0 +1,33 @@
+{
+ "chunk": 55,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hunter_Greeting/B64E0A8345A7363703934FBF835E9B49",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Hm... a brigand.",
+   "ar": "همم... لصّ.",
+   "issue": "'Brigand' is rendered قاطع طريق everywhere else in the corpus (Vlas, VlasEvent, Villager, TielMemory). Here it becomes لصّ (thief) — and the same speaker's line 'Thief! Get away from our Grisha!' (Dialogue_Dlg_Hunter_TurnHostile/38818797...) is also لصّ, so two different English words collapse into one Arabic word inside one NPC's bark set. This line is the Hunter sizing up what kind of person the player is, alongside 'a knight' / 'a priest', so the social category matters.",
+   "suggested_ar": "همم... قاطع طريق."
+  },
+  {
+   "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Ritual/A201D6CC4B12B5BCBF77FE89281DB9E3",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "That happened long after my... head and body parted ways.",
+   "ar": "حدث ذلك بعد أن افترق رأسي عن جسدي بزمن طويل.",
+   "issue": "The ellipsis after 'my' is the comic beat — the speaker hesitates before naming his own dismemberment. The Arabic reorders the clause so the pause has nowhere to sit and drops it. The corpus preserves ellipses elsewhere in this character's lines.",
+   "suggested_ar": "حدث ذلك بعد أن افترق... رأسي عن جسدي بزمن طويل."
+  },
+  {
+   "key": "Dialogue_Dlg_ImmortalBrigand_Greeting/43CA9D04431022A57B0EA0937F2B03F4",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Give me a hand. I'm, uh... stuck.",
+   "ar": "أعِرني يدًا. أنا، إيه... عَلِقتُ.",
+   "issue": "'Give me a hand' is an English idiom for 'help me' that this character turns into a limb joke. أعِرني يدًا is not an Arabic idiom, so only the literal reading survives and the request for help is lost. مدّ لي يدًا keeps both the help-sense and the limb.",
+   "suggested_ar": "مُدّ لي يدًا. أنا، إيه... عَلِقتُ."
+  }
+ ]
+}

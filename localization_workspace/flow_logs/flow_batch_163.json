@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_Proxima/087BA25243C4162370BD4EB0CFFFD83E",
+  "before": "الـ... سداسيّ الأرجل.",
+  "after": "...السداسيّ الأرجل.",
+  "why": "Arabic cannot hang an ellipsis off the definite article"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_KilledByPlayer/767E39AA4C66447C57494DB1A75ADC64",
+  "before": "ما... بحق الجحيم... كان ذلك؟",
+  "after": "ما الذي... بحق الجحيم... حدث؟",
+  "why": "'ما ... كان ذلك؟' was English word order split across the pauses"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_KilledByPlayer/D94B009041A9C725E96B09A2BFB764AB",
+  "before": "أنت... حقير... ابن حرام.",
+  "after": "أيها... ابن الحرام... الحقير.",
+  "why": "vocative form, and the adjective follows its noun in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Effigy/F3BDAB344575D09E0383398B16F26EB1",
+  "before": "يبدو مألوفًا تقريبًا.",
+  "after": "يكاد يبدو مألوفًا.",
+  "why": "كاد is how Arabic says 'almost'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Effigy/4262C4184B7CEEFE984ABD822FD44B4A",
+  "before": "رائحته كرائحة نار المخيّم.",
+  "after": "رائحته كنار موقدة.",
+  "why": "نار المخيّم is a campfire; a bonfire is not one"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Map/61B8616F4AD3B2ADF39437AB5CB737AB",
+  "before": "فقط اتبع خربشاتي—ستكون بخير.",
+  "after": "اتبع خربشاتي فحسب—وستكون بخير.",
+  "why": "fronted 'فقط' is English order; فحسب goes after"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Map/1112BA584080D5C7DCF899B86023476C",
+  "before": "والآن، فقط لا تمت، اتفقنا؟",
+  "after": "والآن، إياك أن تموت، اتفقنا؟",
+  "why": "إياك أن is the Arabic warning idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Map/7581093748FC2FB9DCAC3D8D0D7324F6",
+  "before": "عقدتَ صفقة.",
+  "after": "اتفقنا إذًا.",
+  "why": "'You got yourself a deal' closes an agreement; 'عقدتَ صفقة' narrated it"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Moonshine/DC8738B143DFE162316EF491FDCEBD6E",
+  "before": "آه... طعمه كأيام أبسط.",
+  "after": "مذاقه مذاق زمن أبسط.",
+  "why": "'طعمه كأيام أبسط' was ungrammatical as a comparison"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_OnBuy_Moonshine/F467B5DD4E2E5FC4FC130F9CF60EAB72",
+  "before": "كأسًا حتى القاع، يا صاح.",
+  "after": "حتى آخر قطرة، يا صاح.",
+  "why": "'bottoms up' is a toast, not a description of a cup"
+ }
+]

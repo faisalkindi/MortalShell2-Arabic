@@ -1,0 +1,20 @@
+[
+ {
+  "key": "ST_Core_Tarforge/LateriteFlavorText",
+  "before": "يُقال إنّ هذه القِطَع من الأُمَّهة المباركة تنهمر من السماء فتقع عند أقدام المُصطَفين عندها.",
+  "after": "يُقال إنّ هذه القِطَع من الأُمَّهة المباركة تنهمر من السماء فتقع عند أقدام صفوتها.",
+  "why": "عند أقدام المُصطَفين عندها repeats عند twice in four words; صفوتها is one word and more elevated."
+ },
+ {
+  "key": "ST_Core_Tarforge/MissingModeWarning",
+  "before": "وظيفة مِصهَر القار متعطّلة في الوقت الحالي",
+  "after": "وظيفة مِصهَر القار متعطّلة الآن.",
+  "why": "في الوقت الحالي is padding where the sibling system rows all say الآن; restored the final stop the English has."
+ },
+ {
+  "key": "ST_Core_Tarforge/ObsidianLatheFlavorText",
+  "before": "وإن بهَت السَّبَج، فالأداة ما تزال تفي بأكثر مما يُطلَب",
+  "after": "وإن بهَت السَّبَج، فالأداة ما تزال تفي بأكثر مما يُطلَب.",
+  "why": "Missing final stop."
+ }
+]

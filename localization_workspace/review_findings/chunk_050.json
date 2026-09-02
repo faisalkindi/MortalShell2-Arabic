@@ -1,0 +1,42 @@
+{
+ "chunk": 50,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Greeting_MasterTree/5EDF076B4A5066DFDAFD708DEA07A55A",
+   "type": "wrong_fact",
+   "severity": "high",
+   "source_en": "From death you were born, from death you shall return.",
+   "ar": "من الموت وُلدت، وإلى الموت ستعود.",
+   "issue": "The English says FROM death you shall return - the cultists' creed about the Harbinger's resurrection (this master tree ends with [Respawn Dialogue]). The Arabic flips the preposition to إلى, turning it into the ordinary 'to death you shall return' and destroying the resurrection doctrine the line states.",
+   "suggested_ar": "من الموت وُلدت، ومن الموت ستعود."
+  },
+  {
+   "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/49933B19486F6AA2D63B959DC1D079EB",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "Now leave us. I will take care of Gorf.",
+   "ar": "اتركونا الآن. سأعتني بغورف.",
+   "issue": "Number agreement: 'us' is the object (Hilga and Gorf); the addressee is the Harbinger, singular. اتركونا is a plural imperative and addresses a group that is not there.",
+   "suggested_ar": "اتركنا الآن. سأعتني بغورف."
+  },
+  {
+   "key": "ST_Dialogue_Hilga/Hilga_Greeting_02_20_Brig",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Well, sorry, brev. Hilga’s out.",
+   "ar": "حسنًا، آسفة، يا صاحبي. هيلغا بالخارج.",
+   "issue": "'brev' is frozen as يا صاح. Same violation as two rows in chunk 047.",
+   "suggested_ar": "حسنًا، آسفة، يا صاح. هيلغا بالخارج."
+  },
+  {
+   "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/68D389D944DA5E3C4B74E68C39DC1D5B",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Finally... I brew perfect potion.",
+   "ar": "أخيرًا... أُحضّر جرعة كاملة.",
+   "issue": "كاملة = 'complete/whole', not 'perfect'. It also collides with 'I am… complete' (أنا… مكتملة) five rows later, blurring two different claims.",
+   "suggested_ar": "أخيرًا... أُحضّر جرعةً مثالية."
+  }
+ ]
+}

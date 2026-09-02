@@ -1,0 +1,42 @@
+{
+ "chunk": 48,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Gragu_TheDivine_01_ListenToTheSermon/0E3203F049CC22401A44218D18A30DD3",
+   "type": "wrong_referent",
+   "severity": "high",
+   "source_en": "... the Sacred Passenger inside.",
+   "ar": "... الراكب المقدّس بداخله.",
+   "issue": "This row completes 'Until I allowed...' (same node, 'حتى سمحتُ لـ...'). 'inside' is the adverb of 'allowed [it] inside' - the preacher let the Passenger IN to himself. بداخله turns it into a possessive 'inside HIM', inventing a third party and leaving the joined sentence ungrammatical (حتى سمحتُ لـ... الراكب المقدّس بداخله).",
+   "suggested_ar": "... الراكب المقدّس بالدخول."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_02_Intro/EE8577A743F91ADD981A1EB5A434EFFD",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "It’s the godling’s flesh I seek. This… “Lavender.”",
+   "ar": "لحم الإله الصغير هو ما أنشده. هذه… «لافندر».",
+   "issue": "'Lavender' is the in-world name of the Harbinger and of the godling named in the same sentence - both masculine (النذير، إله صغير). The feminine هذه contradicts الإله الصغير in its own line.",
+   "suggested_ar": "لحم الإله الصغير هو ما أنشده. هذا… «لافندر»."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_02_Intro/A1FAAC574D2FA0A43158F582AC792257",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "Now tell me about this... \"Lavender\".",
+   "ar": "الآن، أخبرني عن هذه... «لافندر».",
+   "issue": "Same masculine referent (Lavender = the Harbinger). Duplicated with the identical row in chunk 047; both need the same fix.",
+   "suggested_ar": "الآن، أخبرني عن هذا... «لافندر»."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_01_PickUpChild/8E7053584458911374802FB6254DBF08",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(gasps)",
+   "ar": "(يلهث)",
+   "issue": "يلهث = pants/breathes hard from exertion. These are shock gasps at a discovery. The same defect repeats at line_index 0 of _DropChild in this chunk and in chunk 041.",
+   "suggested_ar": "(يشهق)"
+  }
+ ]
+}

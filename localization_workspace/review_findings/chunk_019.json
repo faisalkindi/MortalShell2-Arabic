@@ -1,0 +1,150 @@
+{
+ "chunk": 19,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillAlterationDesc",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "<Bold>Sester Genessa</> is no more and becomes <Bold>Stray</> by default",
+   "ar": "لم تعد <Bold>الأُخَيّة جينيسا</> موجودة، فتصير <Bold>ضالة</> افتراضيًا.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "لم تعد <Bold>الأُخَيّة جينيسا</> موجودة، فتصير <Bold>شاردة</> افتراضيًا."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillHealthIncrease_Effect_2",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "<Bold>Stray Doubles</> heal <Bold>Stray Genessa</> by {Y} <Health>Health</> when damaging an enemy",
+   "ar": "يشفي <Bold>القرناء الشاردون</> <Bold>جينيسا الضالة</> بمقدار {Y} من <Health>الصحة</> عند إلحاق الضرر بعدو.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "يشفي <Bold>القرناء الشاردون</> <Bold>جينيسا الشاردة</> بمقدار {Y} من <Health>الصحة</> عند إلحاق الضرر بعدو."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillMirage_Effect_1",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "<Bold>Stray Doubles</> protect Stray Genessa from a <Bold>single</> fatal blow",
+   "ar": "يحمي <Bold>القرناء الشاردون</> جينيسا الضالة من <Bold>ضربة قاتلة واحدة</>.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "يحمي <Bold>القرناء الشاردون</> جينيسا الشاردة من <Bold>ضربة قاتلة واحدة</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillMirage_Effect_3",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "<Bold>Stray Doubles</> protect Stray Genessa from {Z} fatal blows",
+   "ar": "يحمي <Bold>القرناء الشاردون</> جينيسا الضالة من {Z} ضربات قاتلة.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "يحمي <Bold>القرناء الشاردون</> جينيسا الشاردة من {Z} ضربات قاتلة."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillHealthIncrease_Effect_1",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "<Bold>Stray Genessa</> has {X} more <Health>Health</>",
+   "ar": "لدى <Bold>جينيسا الضالة</> {X} إضافية من <Health>الصحة</>.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "لدى <Bold>جينيسا الشاردة</> {X} إضافية من <Health>الصحة</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillMakeStrongerDesc",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Each level makes <Bold>Stray Genessa</> stronger",
+   "ar": "يزيد كل مستوى <Bold>جينيسا الضالة</> قوةً.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "يزيد كل مستوى <Bold>جينيسا الشاردة</> قوةً."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillMirage_Effect_2",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Stray Genessa can summon an additional <Bold>Stray Double</>",
+   "ar": "تستطيع جينيسا الضالة استدعاء <Bold>قرين شارد</> إضافي.",
+   "issue": "Stray is frozen through Genessa's family: her title Wayward = الشارِدة, 'Stray Doubles' = القرناء الشاردون, and the NPC-name row ST_Core_NpcNames/StraySester renders 'Stray Genessa' as جينيسا الشاردة. This skill tree calls the same character جينيسا الضالة, so the skill screen and the nameplate name her differently — and الضالة ('the erring/lost one') carries a moral judgement the English does not. Note the same file gets it right for the Doubles (القرناء الشاردون) and for Melee/Ranged Stray Doubles.",
+   "suggested_ar": "تستطيع جينيسا الشاردة استدعاء <Bold>قرين شارد</> إضافي."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Faithful Doubles</> inflict {Y} <Phantom>Phantom</> stacks",
+   "ar": "يُلحق <Bold>القرناء المخلصون</> {Y} تراكمات <Phantom>الطيف</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "يُنزل <Bold>القرناء المخلصون</> {Y} طبقات <Phantom>الطيف</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillDistraction_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Faithful Doubles</> struck by enemies burst into a shockwave that inflicts {Y} <Stasis>Stasis</> stacks",
+   "ar": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون موجةَ صدمة تُلحق {Y} تراكمات <Stasis>الركود</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون موجةَ صدم تُنزل {Y} طبقات <Stasis>الركود</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_3",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Stray Doubles</> melee attacks inflict {Z} <Weak>Weak</> stacks",
+   "ar": "تُلحق هجمات <Bold>القرناء الشاردين</> في الاشتباك {Z} تراكمات <Weak>الضعف</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُنزل هجمات <Bold>القرناء الشاردين</> في الاشتباك {Z} طبقات <Weak>الضعف</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_4",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Stray Doubles</> ranged attacks inflict {W} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق هجمات <Bold>القرناء الشاردين</> بعيدة المدى {W} تراكمات <Fragile>الهشاشة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُنزل هجمات <Bold>القرناء الشاردين</> بعيدة المدى {W} طبقات <Fragile>الهشاشة</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillStasis_Effect_3",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Enemies that inflict <Stasis>Stasis</> on Genessa receive {Y} <Phantom>Phantom</> stacks instead",
+   "ar": "ينال الأعداء الذين يُلحقون <Stasis>الركود</> بجينيسا {Y} تراكمات <Phantom>الطيف</> بدلًا منه.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "ينال الأعداء الذين يُنزلون <Stasis>الركود</> بجينيسا {Y} طبقات <Phantom>الطيف</> بدلًا منه."
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimAnguish_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Shoulder Bash</> inflicts {Y} <Weak>Weak</> stacks",
+   "ar": "تُلحق <Bold>نطحة الكتف</> {Y} تراكمات <Weak>الضعف</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُنزل <Bold>نطحة الكتف</> {Y} طبقات <Weak>الضعف</>."
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimOppression_Effect_2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Bold>Shoulder Bash</> releases a frontal shockwave that inflicts {Y} <Trauma>Trauma</> stacks but costs {Z} more <Resolve>Resolve</>",
+   "ar": "تُطلق <Bold>نطحة الكتف</> موجة صدمة أمامية تُلحق {Y} تراكمات <Trauma>الرَّضّ</>، لكنها تكلّف {Z} أكثر من <Resolve>العزيمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل, kept distinct from تُلحق (damage), and 'stacks' appear as طبقات in the Shell ability descriptions of batch 009. These skill rows use تُلحق + تراكمات instead, so the same status counter is worded two ways across adjacent screens.",
+   "suggested_ar": "تُطلق <Bold>نطحة الكتف</> موجة صدم أمامية تُنزل {Y} طبقات <Trauma>الرَّضّ</>، لكنها تكلّف {Z} أكثر من <Resolve>العزيمة</>."
+  },
+  {
+   "key": "ST_Skills_Eredrim/ShellSkillEredrimTankDesc",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "<Slaughterer>Slaughterer</> stacks also provide <Bold>damage reduction</>",
+   "ar": "تمنح تراكمات <Slaughterer>السفّاح</> أيضًا <Bold>خفضًا للضرر</>.",
+   "issue": "'Damage Reduction' is تقليل الضرر everywhere else in the build (ID_Support_DamageReductionDesc, TarstoneEffect_DamageReduction, TarstoneEffect_Support_OnKill_Protection). خفض الضرر is a third wording for the same stat.",
+   "suggested_ar": "تمنح طبقات <Slaughterer>السفّاح</> أيضًا <Bold>تقليل ضرر</>."
+  },
+  {
+   "key": "ST_Skill_Genessa/GenessaSkillStasis_Effect_2",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Genessa has <Stasis>Stasis</> <Bold>immunity</>",
+   "ar": "لدى جينيسا ضد <Stasis>الركود</> <Bold>مناعة</>.",
+   "issue": "Word order is broken by the tag placement — 'لدى جينيسا ضد الركود مناعة' does not parse as Arabic. The parallel Eredrim row gets it right: 'لدى إردريم مناعة ضد <Frost>الصقيع</>'.",
+   "suggested_ar": "لدى جينيسا مناعة ضد <Stasis>الركود</>."
+  }
+ ]
+}

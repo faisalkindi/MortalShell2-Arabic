@@ -1,0 +1,26 @@
+[
+ {
+  "key": "ST_WakeUpLevelSequence/Line01_ItsTimeChild",
+  "before": "حان الوقت، أيها الطفل.",
+  "after": "حان الوقت يا بُنيّ.",
+  "why": "the Undermether's address is maternal-intimate; أيها الطفل was cold, and يا بُنيّ is used for her elsewhere"
+ },
+ {
+  "key": "ST_WakeUpLevelSequence/Line06_BelongSomewhereElse",
+  "before": "لكن مكانك في مكانٍ آخر.",
+  "after": "لكنك تنتمي إلى مكانٍ آخر.",
+  "why": "مكانك في مكانٍ آخر repeated the same noun; انتمى is the verb for 'belong'"
+ },
+ {
+  "key": "tra/EnterBeaconGateDesc",
+  "before": "تطهير هذه المنارة يمنحك الوصول إلى بوابةٍ قريبة.",
+  "after": "تطهير هذه المنارة يتيح الوصول إلى بوابةٍ قريبة.",
+  "why": "FROZEN GLOSSARY: 'grants access to' = يتيح, deliberately distinct from يمنح"
+ },
+ {
+  "key": "tra/ChangeEquipmentDesc",
+  "before": "اسكن هَيكلًا مختلفًا، أو جهّز سلاحًا، أو سلاحًا جانبيًا، أو خاتَمًا مختلفًا.",
+  "after": "اسكن هَيكلًا آخر، أو جهّز سلاحًا أو سلاحًا جانبيًا أو خاتَمًا مختلفًا.",
+  "why": "مختلفًا could only attach to the last item; the repeated أو chopped the list into three sentences"
+ }
+]

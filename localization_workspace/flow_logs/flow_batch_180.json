@@ -1,0 +1,110 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ExaminePrisoner/2A905F244C2D9EF88CAA60ABC43F45F7",
+  "before": "الإلهي... أشمّه عليه.",
+  "after": "الألوهة... أشمّها فيه.",
+  "why": "bare 'الإلهي' has no referent; also 'أشمّه عليه' is a preposition calque"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_Intro/D85026454714D961DA130691ABB84D74",
+  "before": "يحمل قوّته.",
+  "after": "فيه تكمن قوّته.",
+  "why": "'يحمل قوّته' is literal; Arabic locates strength, it does not carry it"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_01_Intro/F769CA784E270D75D948EABE50FBC014",
+  "before": "أثق أنك تستطيع تولّي هذا؟",
+  "after": "أثق بأنك ستتدبّر هذا؟",
+  "why": "'تولّي هذا' is stiff; تدبّر is the Arabic for handling a matter"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_End/4219D934488528C60DBE748D35F6D1F1",
+  "before": "لكن الاعتراف مطلوب.",
+  "after": "لكن لا بدّ من اعتراف.",
+  "why": "'الاعتراف مطلوب' is form-filling language"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_End/029535F04B4D96DDC7C891B0108B24CF",
+  "before": "أيها الحرس، أمسكوا به.",
+  "after": "أيها الحرس، اقبضوا عليه.",
+  "why": "'أمسكوا به' is physical grabbing; the order is an arrest"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_Intro/8557D92046E499307006C5A38C978A52",
+  "before": "أنا هنا لجمع أدلة خيانتك.",
+  "after": "أنا مكلّفٌ بجمع أدلة خيانتك.",
+  "why": "'أنا هنا' invents a location; 'I am to' is an assignment"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_LookCoin/BD36A406432AEA35CB9155B1A5934FFA",
+  "before": "عرض غريب للثروة.",
+  "after": "استعراضٌ غريبٌ للثراء.",
+  "why": "'عرض للثروة' is a calque of 'display of wealth'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeCoin/2D33C2E54A018CC60CCA139DE53BD55D",
+  "before": "تعرف أنه لا يمكن رشوتنا.",
+  "after": "تعلم أننا لا نُرتشى.",
+  "why": "the passive verb says it in one word"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeIcon/BD6717EF499FC4BBB383A982B4D29F39",
+  "before": "آخرون عقابًا... على سرقتنا.",
+  "after": "وآخرون: عقابًا... على سرقتنا.",
+  "why": "'آخرون عقابًا' is broken Arabic; the colon carries the elided verb"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeIcon/105FA98D45749B7A411E2887E0C09A15",
+  "before": "الأول الذي تغيّر.",
+  "after": "أوّل من تغيّر.",
+  "why": "'الأول الذي تغيّر' is a relative-clause calque"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_GiveDagger/D9466E494DF7E5E02E6ED0B84918208D",
+  "before": "نحتاج أن يبدو هذا حقيقيًا. اضربني.",
+  "after": "لا بدّ أن يبدو هذا حقيقيًا. اضربني.",
+  "why": "'نحتاج أن يبدو' calques 'we need this to look'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_GivingDagger/52BF53F8455AD82A1CFBFDBD0FF0048A",
+  "before": "لكن سيكون الوقت قد فات.",
+  "after": "لكن الأوان سيكون قد فات.",
+  "why": "فوات الأوان is the fixed Arabic collocation, not فوات الوقت"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_Intro/A642C48240ED2E71773991B5F3E21C22",
+  "before": "سيبدو الأمر وكأنه كان هناك عراك.",
+  "after": "سيبدو أنّ عراكًا وقع.",
+  "why": "'وكأنه كان هناك' is three English function words Arabic drops"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_Intro/1B76E2FA4C343BF79E1DFBB59ED0B11F",
+  "before": "ليس لدينا وقت طويل.",
+  "after": "ليس لدينا متّسع من الوقت.",
+  "why": "متّسع من الوقت is the settled collocation"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_Intro/4EEB211246865211283FCC81DE23FA61",
+  "before": "لقد تفوّقتَ عليّ.",
+  "after": "كانت لك الغلبة.",
+  "why": "'تفوّقتَ عليّ' loses the idiom of 'the upper hand'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_StabDagger_New/DD5EF4E3481CC49365707A8A40BD29A8",
+  "before": "لكن لا حاجة لوجودك هنا.",
+  "after": "لكن لا حاجة بك هنا.",
+  "why": "لا حاجة بـ is the Arabic construction"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_StabDagger_New/9E96ADD4463BEE2F760E9483F525F77F",
+  "before": "لفشلي، سيُؤمر بتعقّبك.",
+  "after": "وجزاءَ فشلي، سأُؤمر بتعقّبك.",
+  "why": "the passive 'سيُؤمر' dropped the first person entirely - Lazlo says he himself will be ordered"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_01_b/E0A8A03E402A60B7BE2363BC134A1802",
+  "before": "لكن المُقتَصّين يقولون إنك حرّ في الذهاب.",
+  "after": "لكن المُقتَصّين يقولون إن لك أن تذهب.",
+  "why": "'حرّ في الذهاب' is a word-for-word carry of 'free to go'"
+ }
+]

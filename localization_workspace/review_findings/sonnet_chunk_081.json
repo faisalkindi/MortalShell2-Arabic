@@ -1,0 +1,22 @@
+{"chunk": 81, "rows_reviewed": 90, "findings": [
+  {"key": "/B5207B1148014FF22CCE4AB82D5AF315", "type": "term_violation", "severity": "major",
+   "source_en": "Question Disciple", "ar": "استجواب المريد",
+   "issue": "'Disciple' (character/NPC type) is frozen as الحواريّ per glossary, explicitly NOT المُريد (Acolyte, Tiel's title). Same conflation as in chunk_079's 'Lead Disciple'.",
+   "suggested_ar": "استجواب الحواريّ"},
+  {"key": "/13C522AD49D9A56B1C4987A100C9CC5F", "type": "term_violation", "severity": "major",
+   "source_en": "Question The Hierarch", "ar": "استجواب الحَبر الأعظم",
+   "issue": "'Hierarch' (Smert's cult title) is frozen as الكاهن الأكبر per glossary; this row uses الحَبر الأعظم instead, same mismatch as in chunk_078.",
+   "suggested_ar": "استجواب الكاهن الأكبر"},
+  {"key": "/DB6C3E0B42B206EDFB76DD8D8121488D", "type": "mistranslation", "severity": "minor",
+   "source_en": "Pay Tribute", "ar": "دفع الجزية",
+   "issue": "Generic 'tribute' rendered with الجزية, the Islamic poll tax on non-Muslim subjects — the same wrong-institution problem the glossary flags for 'tithes' (05_glossary.csv: tithes = العُشور, NOT الجزية). Also inconsistent with an earlier occurrence of the identical action 'Pay Tribute to Egon' elsewhere in the corpus, rendered تكريم إيغون ('honor Egon') with no tribute/tax sense at all.",
+   "suggested_ar": "دفع الإتاوة"},
+  {"key": "/045F95F840B4A5C07EE0A598E6F35A58", "type": "mistranslation", "severity": "minor",
+   "source_en": "Pay Tribute to Egon", "ar": "دفع الجزية لإيغون",
+   "issue": "Same الجزية concern as /DB6C3E0B42B206EDFB76DD8D8121488D, and this exact English string ('Pay Tribute to Egon') is rendered as تكريم إيغون ('honor Egon') elsewhere in the corpus — a direct inconsistency for the same UI action.",
+   "suggested_ar": "دفع الإتاوة لإيغون"},
+  {"key": "/30F91760496F79C251596B83580CFD8B", "type": "mistranslation", "severity": "minor",
+   "source_en": "Pay Tribute to Egon", "ar": "دفع الجزية لإيغون",
+   "issue": "Duplicate of /045F95F840B4A5C07EE0A598E6F35A58 — same الجزية concern and cross-corpus inconsistency with تكريم إيغون elsewhere.",
+   "suggested_ar": "دفع الإتاوة لإيغون"}
+]}

@@ -1,0 +1,15 @@
+{
+ "chunk": 61,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Ruk_Boss_TarGolem/0792363D45DE9629AE929AA273FA7F5E",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "No brigands.",
+   "ar": "لا لصوص.",
+   "issue": "brigand is rendered قاطع طريق / قُطّاع الطرق in 25+ rows across the corpus (and the character ImmortalBrigand keys). لصوص means thieves, a different criminal, and breaks that consistency in a line about an ambush road being empty.",
+   "suggested_ar": "لا قُطّاع طرق."
+  }
+ ]
+}

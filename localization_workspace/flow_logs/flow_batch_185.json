@@ -1,0 +1,122 @@
+[
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_ChooseShell_Playtest/3245EC034328F578105C4A803FD9122A",
+  "before": "يلائم كالقفاز—آمل ذلك.",
+  "after": "على المقاس تمامًا—آمل ذلك.",
+  "why": "'يلائم كالقفاز' is a dead calque; the glove image carries nothing in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_HubCorruptionReaction/2839F7FE45E4671FFD2B719ACE4EC613",
+  "before": "وكذلك يجب علينا.",
+  "after": "وكذلك نحن.",
+  "why": "'وكذلك يجب علينا' leaves the modal dangling with no verb"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02a/FEA2D04544C7E4AF441F9AA6B932CD7A",
+  "before": "إجابة عن السؤال العظيم—ربما؟",
+  "after": "جواب عن السؤال العظيم—ربما؟",
+  "why": "جواب matches the sibling line 'لكن ليس الجواب'"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02a/3315D1AA47D508C780FF549696E4DA43",
+  "before": "قصصها تحمل حقيقة.",
+  "after": "في قصصها حقيقة.",
+  "why": "'تحمل حقيقة' is a carry verb English needs and Arabic does not"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02a/2EA24C4C4CBBB532014612B631D31BD2",
+  "before": "هذه الهياكل، التي تنشدها.",
+  "after": "هذه الهياكل التي تنشدها.",
+  "why": "the comma broke the relative clause into a fragment"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02b/472975B446ACD9430D6152896561977F",
+  "before": "إجابة عن السؤال العظيم—ربما؟",
+  "after": "جواب عن السؤال العظيم—ربما؟",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02b/DBC333E34F2B6091981E008AFC181B58",
+  "before": "قصصها تحمل حقيقة.",
+  "after": "في قصصها حقيقة.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Interact_02b/CDAC6C294B666020F99C36B033E726A8",
+  "before": "هذه الهياكل، التي تنشدها.",
+  "after": "هذه الهياكل التي تنشدها.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_01/6C2D83244552002BF8530FB1456D0B0D",
+  "before": "ومع ذلك، لستُ أُخَيّة.",
+  "after": "ومع ذلك، ما أنا بأُخَيّة.",
+  "why": "classical negation suits Zhirelle's register"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_01/CB40213C4ADA6CBE660522A4EF1982E4",
+  "before": "أنا مجرد مسافرة أخرى فضولية.",
+  "after": "لستُ إلا رحّالةً أخرى يدفعها الفضول.",
+  "why": "'مسافرة فضولية' is mundane; رحّالة is the wanderer she means"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_02/03FC6DDC4697DAA15020E1A85A336EEF",
+  "before": "لكن لا، أنا لا أخدمها.",
+  "after": "لكن لا، لستُ في خدمتها.",
+  "why": "'أنا لا أخدمها' is blunt where the source is a measured disclaimer"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/995E76A34A8953C9617E9DA0D7E28CF1",
+  "before": "يتردّد صداه كنبضة قلب... عبر كل شيء.",
+  "after": "يتردّد كالنبض... في كل شيء.",
+  "why": "'يتردّد صداه كنبضة قلب عبر كل شيء' unpacks one image into three"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/9687A2934D9F52EFF401FF814E89577C",
+  "before": "هناك حسابٌ مستحيل.",
+  "after": "ثمّة حسابٌ مستحيل.",
+  "why": "ثمّة over هناك for Zhirelle's register"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/B93922E243EDA0EB948D209040EAF884",
+  "before": "...شظية من الحقيقة ستكون جائزتي.",
+  "after": "...شذرةٌ من الحقيقة تكون جائزتي.",
+  "why": "شظية is a splinter of a hard thing; a fragment of truth is شذرة"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_PostCinematic/CF3928B04B048ABA5748A7BEEA208B53",
+  "before": "تواصل معهم.",
+  "after": "ناجِهم.",
+  "why": "'تواصل معهم' is modern communications register; ناجى is what one does with the dead"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Sense_Gragu/D54460B3492E7B5D6AD89EA866F71A05",
+  "before": "هذا الوحش الغليظ ليس ميتًا. أيتغذّى على اللحم ليصمد؟",
+  "after": "هذا الوحش الغليظ ليس ميتًا. أيلتهم اللحم ليبقى؟",
+  "why": "'يتغذّى' is nutrition language; 'feast upon' is التهام"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Sense_Sariel/21BA9AF848AED415C09B25892C978F48",
+  "before": "لن أطارد هذا... الهيكل الفارغ من رجل. مجرّد حضوره ينشر العفن والخراب.",
+  "after": "ما كنتُ لأتعقّب هذا... ما بقي من رجل. مجرّد حضوره ينشر العفن والخراب.",
+  "why": "'الهيكل الفارغ من رجل' is broken Arabic and collides with الهَيكل, the frozen term for Shell"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_Sense_Tiel/684F23FB41C541360BE199915A6532BA",
+  "before": "خارج عن القانون بلا وجه.",
+  "after": "خارجٌ على القانون بلا وجه.",
+  "why": "the Arabic idiom is الخروج على القانون, not عن"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_ShellReaction_Greeting/61DF1538458DC425A32129BD16A77EFE",
+  "before": "أذلك هو الكيميائي؟",
+  "after": "أذلك هو الخيميائي؟",
+  "why": "alchemist is الخيميائي; الكيميائي is a chemist"
+ },
+ {
+  "key": "Dialogue_Dlg_Shellkeeper_ShellReaction_Greeting/90E312634DE6B228287A818AA144F1BC",
+  "before": "أذلك هو الصيّاد؟",
+  "after": "أتلك هي الصيّادة؟",
+  "why": "the hunter is Proxima, feminine - the sibling line already says الصيّادة"
+ }
+]

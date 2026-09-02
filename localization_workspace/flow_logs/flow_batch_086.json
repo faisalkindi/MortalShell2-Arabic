@@ -1,0 +1,44 @@
+[
+ {
+  "key": "ST_Core_ShellMemory_MiniBosses/CannibalKnight",
+  "before": "زْمي، حارس الملك",
+  "after": "زمي، الحارس الملكي",
+  "why": "Arabic cannot open a word with a sukun; and 'Royal Guard' is the office, not the king's personal guard"
+ },
+ {
+  "key": "ST_Core_ShellMonologues/Lazlo_Intro",
+  "before": "وُلدت في كنف النبلاء، وكان لي كل شيء... حتى اعتُقل والداي بتهمة الخيانة. كانوا سيعدمونني أنا أيضًا، لولا تدخّل عمّي اللورد ڤيلن، الذي ربّاني إلى جانب وريثه المدلَّل القاسي، إيغون.\n\nذات يوم اصطحبته إلى الأحياء الفقيرة لأُريه الرعية التي أساء إليها. كان ذلك خطأً؛ فتحوّل شجارٌ إلى تمرّد، وتحوّل التمرّد إلى انتفاضة. سحق اللورد ڤيلن الثورة، لكن عقابنا كان لا يزال ينتظرنا.\n",
+  "after": "وُلدت في كنف النبلاء، وكان لي كل شيء... حتى اعتُقل والداي... بتهمة الخيانة. كانوا سيعدمونني أنا أيضًا، لولا تدخّل عمّي اللورد ڤيلن، الذي ربّاني إلى جانب وريثه المدلَّل القاسي، إيغون.\n\nذات يوم اصطحبته إلى الأحياء الفقيرة لأُريه الرعية التي أساء إليها. كان ذلك خطأً؛ فتحوّل شجارٌ إلى تمرّد، وتحوّل التمرّد إلى انتفاضة. سحق اللورد ڤيلن الثورة، لكن عقابنا كان لا يزال ينتظرنا.\n",
+  "why": "restored the source's pause before 'for treason', which is where the line lands"
+ },
+ {
+  "key": "ST_Core_ShellMonologues/Eredrim_Intro",
+  "before": "كنت أجمع العشور حين صادفت الصبيّ وليام. لم يكن لأبيه ثمن، فقدّم ابنه بدلًا منه. لم يبدُ الطفل مكترثًا. حسبت أنني سأستفيد منه؛ وكان ينبغي أن أعرف أفضل من ذلك.",
+  "after": "كنت أجمع العشور حين صادفت الصبيّ وليام. لم يكن لدى أبيه مال، فقدّم ابنه ثمنًا. لم يبدُ الطفل مكترثًا. حسبت أنني سأستفيد منه؛ وكان الأحرى بي أن أكون أحكم.",
+  "why": "بدلًا منه read as 'instead of the father'; and 'I should have known better' is a set self-reproach, not a claim about knowing more"
+ },
+ {
+  "key": "ST_Core_ShellMonologues/Smert_Intro",
+  "before": "كإخوتي... كنت منافقًا. وبعد ليلةٍ أخرى من الفجور، أدركني حسابي أخيرًا؛ فاستيقظت مهشّمًا محطَّمًا. ولأوّل مرة كلّمتني: ماتكا، أخبرتني بما عليّ فعله.",
+  "after": "كسائر الأُخَيّين... كنت منافقًا. وبعد ليلةٍ أخرى من الفجور، أدركني حسابي أخيرًا؛ فاستيقظت مهشّمًا محطَّمًا. ولأوّل مرة كلّمتني: ماتكا، أخبرتني بما عليّ فعله.",
+  "why": "FROZEN GLOSSARY: Brethers = الأُخَيّون, never plain الإخوة - the warped word is the point"
+ },
+ {
+  "key": "ST_Core_ShellMonologues/Shell_Intro_Window_Title",
+  "before": "امتلاك الهَيكل",
+  "after": "تلبُّس الهَيكل",
+  "why": "'Possess' here is spirit-possession; امتلاك is ownership, the wrong sense entirely"
+ },
+ {
+  "key": "ST_Core_ShellMonologues/Genessa_Intro",
+  "before": "رغم انبثاقنا من روحٍ واحدةٍ تائهة، وحّدتنا الأُخَيّات، وأرشدنا اللقيط وغذّيناه، حتى بلغ... انتصاره. حسبت أننا نتشارك الرؤية ذاتها... لكنني كنت مخطئة.",
+  "after": "رغم انبثاقنا من روحٍ واحدةٍ شاردة، كنّا — أنا وأُخَيّاتي — متّحدات. أرشدنا اللقيط وغذّيناه، حتى بلغ... انتصاره. حسبت أننا نتشارك الرؤية ذاتها... لكنني كنت مخطئة.",
+  "why": "MEANING FIX: 'my sesters and I were united' had become 'the sesters united us'; also 'wayward' is Genessa's own frozen epithet الشاردة"
+ },
+ {
+  "key": "ST_Core_SkinChest/OpenSkinChestMessage",
+  "before": "فتح هذا الصندوق سيفتح <Bold>لونًا</> جديدًا لـ{Name}",
+  "after": "بفتح هذا الصندوق يُتاح <Bold>لون</> جديد لـ{Name}",
+  "why": "فتح…سيفتح repeated the same verb in one clause"
+ }
+]

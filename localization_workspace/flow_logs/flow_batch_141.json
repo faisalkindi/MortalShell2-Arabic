@@ -1,0 +1,104 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hilga_Brig_Interact_04/D81F47E04DDB73A307F6129EFECC1CE0",
+  "before": "كان مثل... النار.",
+  "after": "كان مثل… نار.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Brig_OnFocus_04/2BD327EA4F68797996E0088CCA5304EA",
+  "before": "كان مثل... النار.",
+  "after": "كان مثل… نار.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Cauldron_Interact_02/E7AC8CD14E68A4E66ADE438589E4B676",
+  "before": "عارٌ حقيقي، صح؟",
+  "after": "مؤسفٌ حقًا، أليس كذلك؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Frog_Interact_06/B741F4094073F2FC56B70F93A775C61E",
+  "before": "قتل هارولد.",
+  "after": "قتل هارْوالد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Greeting_01/70A37484453469DD845105AAA3753893",
+  "before": "أحمق عديم النفع هنا من أجلك.",
+  "after": "جاءك أحمقٌ عديم النفع.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_Greeting_02/36CA25D242FBFCD1004C238DA87A48FE",
+  "before": "غروم العجوز المسؤول الآن.",
+  "after": "غروم العجوز هو المسؤول الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_LargeCauldron_Interact_05/7CD46F7949F84A0F65149B8E10DF0BCA",
+  "before": "... ستری.",
+  "after": "... سترى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_LargeCauldron_Interact_05/C88FE4544028E6B74FFA718D848D4D4A",
+  "before": "لكنك صامت. مثل الشرغوف.",
+  "after": "لكنك صامت. مثل شرغوف.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/BE882F7549EF0E510CFA89AAEC61E6DF",
+  "before": "[الحوار الأول]",
+  "after": "[1st Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/2B63FDE244AA17CE67365B9A6A1C539A",
+  "before": "[الحوار الثاني]",
+  "after": "[2nd Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/4F65C4234D65E6849A3A069447222945",
+  "before": "[الحوار الثالث]",
+  "after": "[3rd Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/ACC6E64C4E34464B0BB8B5AAEEC66C6B",
+  "before": "[الحوار الرابع]",
+  "after": "[4th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/833131B949F0B6268D370397C78CEFA4",
+  "before": "[الحوار الخامس]",
+  "after": "[5th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/C27BD15D44279FFAD7C39CA1C7CEE789",
+  "before": "[الحوار السادس]",
+  "after": "[6th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/151AE22E4884F38715FBD4BE847C47C1",
+  "before": "[الحوار السابع]",
+  "after": "[7th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hilga_MasterTree_Greeting/81BEC96A4C5C5FBC42C13CA77856C0DA",
+  "before": "[الحوار الثامن]",
+  "after": "[8th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_06_40",
+  "before": "كل ما تفعله هو الأخذ، والأخذ، والأخذ.",
+  "after": "كل ما تفعله: تأخذ، وتأخذ، وتأخذ.",
+  "why": "flow"
+ }
+]

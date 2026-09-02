@@ -1,0 +1,36 @@
+{"chunk": 21, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Skills_Proxima/ProximaSkillSeizure_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Biosampler</> inflicts {X} <Stasis>Stasis</> stacks",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> {X} تراكمات <Stasis>الركود</>.",
+   "issue": "Inflicting a status stack (Stasis) should use تُنزل/يُنزل per glossary, not the damage verb يُلحق.",
+   "suggested_ar": "يُنزل <Bold>المِجسّ الحيوي</> {X} تراكمات <Stasis>الركود</>."},
+
+  {"key": "ST_Skills_Proxima/ProximaSkillBiohazard_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Biosampler</> inflicts {Y} additional <Lightning>Lightning</> stacks",
+   "ar": "يُلحق <Bold>المِجسّ الحيوي</> {Y} تراكمات إضافية من <Lightning>البرق</>.",
+   "issue": "Inflicting a status stack (Lightning) should use يُنزل, not يُلحق.",
+   "suggested_ar": "يُنزل <Bold>المِجسّ الحيوي</> {Y} تراكمات إضافية من <Lightning>البرق</>."},
+
+  {"key": "ST_Skills_Lazlo/ShellSkillLazloInflamed_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Overheated shockwaves no longer consume <Resolve>Resolve</> and inflict {X} <Burn>Burn</> stacks",
+   "ar": "لم تعد موجات الصدمة المفرطة الحرارة تستهلك <Resolve>العزيمة</>، بل تُلحق {X} تراكمات <Burn>الحرق</>.",
+   "issue": "Inflicting a Burn status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "لم تعد موجات الصدمة المفرطة الحرارة تستهلك <Resolve>العزيمة</>، بل تُنزل {X} تراكمات <Burn>الحرق</>."},
+
+  {"key": "ST_Skills_Proxima/ProximaSkillShellshock_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Proxima inflicts {Y} <Lightning>Lightning</> stacks to the attacker",
+   "ar": "تُلحق بروكسيما {Y} تراكمات <Lightning>البرق</> بالمهاجم.",
+   "issue": "Inflicting a status stack (Lightning) should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل بروكسيما {Y} تراكمات <Lightning>البرق</> بالمهاجم."},
+
+  {"key": "ST_Skills_Proxima/ProximaSkillEnergize_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Proxima releases a shockwave that inflicts {Y} <Lightning>Lightning</> stacks",
+   "ar": "تُطلق بروكسيما موجة صدمة تُلحق {Y} تراكمات <Lightning>البرق</>.",
+   "issue": "Inflicting a status stack (Lightning) should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُطلق بروكسيما موجة صدمة تُنزل {Y} تراكمات <Lightning>البرق</>."}
+]}

@@ -1,0 +1,68 @@
+[
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_AssembleGolemsArm_05/29E8C5684B0CFBE4FA366CB941D0AA05",
+  "before": "حسنًا، اذهبوا إذن.",
+  "after": "حسنًا، اذهب إذن.",
+  "why": "Rickart is one man walking out; the plural اذهبوا had no plural addressee"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_AssembleGolemsArm_05/1A614B124713B07E096C6D8C496F60AB",
+  "before": "بديلك على أي حال يكاد يكون جاهزًا.",
+  "after": "وعلى أي حال، بديلك يكاد يكون جاهزًا.",
+  "why": "على أي حال was wedged between subject and predicate"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_AttachGolemsHead_01/3CBE26524D5E81FF8652EA9C2EE88C0A",
+  "before": "أتستمتع باستراحة طويلة بينما أكدّ وحدي؟",
+  "after": "أتستمتع باستراحة طويلة بينما أكدح أنا؟",
+  "why": "أكدّ is the wrong root; أكدح is 'slave away', and أنا carries the contrast"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_TakeBackCrest_03/D31FE6A94546A02B5C15B9A97A37021B",
+  "before": "ما القصة وراء هذا حقًا؟",
+  "after": "فما حقيقة الأمر؟",
+  "why": "'what's this really all about' asks for the real reason; ما القصة وراء هذا was a calque"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_TakeBackCrest_04/672798384177DA71CBE3289641B122AC",
+  "before": "لديّ عمل عليّ إنجازه.",
+  "after": "لديّ عمل أنجزه.",
+  "why": "cut عليّ - Arabic's relative clause already carries the obligation"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheResignation_S1_TakeBackCrest_04/2E39B390421918C2F004BC9943D00FB0",
+  "before": "آسف لأن الأمر لا بد أن يكون هكذا.",
+  "after": "يؤسفني أن يكون الأمر هكذا.",
+  "why": "lighter; آسف لأن الأمر لا بد أن يكون هكذا stacked two subordinators"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheSearch_S1_BeforeBossFight_07/1E3F4C6548E298607750C4ABBFE78A48",
+  "before": "أي نوع من الآلهة الصغار أنت؟",
+  "after": "أيّ إلهٍ صغيرٍ أنت؟",
+  "why": "'what kind of X are you' is أيّ X أنت in Arabic, not أي نوع من"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheSearch_S1_ExamineDestroyedOvum_03/9323B15140D05957B02ECDA1653026F3",
+  "before": "هذه ليست غايتنا.",
+  "after": "ليست هذه غنيمتنا.",
+  "why": "prize = غنيمة; غاية lost the object sense and the verb-initial shape"
+ },
+ {
+  "key": "Dialogue_DLG_SarielMemory_TheSearch_S1_ExamineOvum_04/D812AF18429DF32F577A0498DC50DE99",
+  "before": "ربما هناك خطأ ما؟",
+  "after": "لعلّ ثمّة خطبًا ما؟",
+  "why": "لعلّ carries 'perhaps' in a worried question better than ربما هناك"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_AnswerTruthfully/667C56784BC0F085F2815F8AE08D1A56",
+  "before": "المزيد من الكفر.",
+  "after": "مزيدٌ من التجديف.",
+  "why": "blasphemy is التجديف; الكفر is unbelief, a different charge"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_Intro/425996F04CBF9425F114BD9AF06E8C94",
+  "before": "اعترف أنك كاذب، دجّال.",
+  "after": "اعترف أنك كاذبٌ ودجّال.",
+  "why": "Arabic coordinates the two nouns with و; the bare comma read as apposition"
+ }
+]

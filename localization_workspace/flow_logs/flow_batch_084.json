@@ -1,0 +1,50 @@
+[
+ {
+  "key": "ST_Core_GroupFights/Sword_Tomb_Arena",
+  "before": "فيلق القَتام",
+  "after": "الفيلق المقيَّد بالقَتام",
+  "why": "'Gloombound' is bondage to the Gloom; فيلق القَتام read as a legion made of it"
+ },
+ {
+  "key": "ST_Core_Map/MapFilter_Dungeons",
+  "before": "الزنازين",
+  "after": "السراديب",
+  "why": "FROZEN GLOSSARY: Dungeon = سرداب; الزنزانة is a jail cell, explicitly ruled out"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/IncreaseBondLevel",
+  "before": "تعميق الرابطة [اضغط مطولًا]",
+  "after": "تعميق الرابطة [ضغط مطوّل]",
+  "why": "FROZEN GLOSSARY: the [Hold] tag renders as [ضغط مطوّل]; اضغط مطوّلًا is the bare instruction form"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/EnterMemoryButton",
+  "before": "دخول الذاكرة",
+  "after": "دخول الذكرى",
+  "why": "a Shell Memory is a ذكرى (a remembered episode), not الذاكرة (the faculty); matches the plural الذكريات already used in the sibling rows"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/EnterMemoryPromptMessage",
+  "before": "أتريد الدخول إلى هذه الذاكرة؟",
+  "after": "أتريد الدخول إلى هذه الذكرى؟",
+  "why": "a Shell Memory is a ذكرى (a remembered episode), not الذاكرة (the faculty); matches the plural الذكريات already used in the sibling rows"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/InteractWithUnlockedShellGhost",
+  "before": "سكن {X}",
+  "after": "سُكنى {X}",
+  "why": "FROZEN GLOSSARY: Inhabit Shell = سُكنى الهَيكل"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/ShellSeveranceCost",
+  "before": "اقطع رابطتك مع",
+  "after": "اقطع رابطتك بـ",
+  "why": "FROZEN GLOSSARY: Bond takes رابطة بـ, not مع"
+ },
+ {
+  "key": "ST_Core_Menu_Shellkeeper/ShellMemorySingle",
+  "before": "ذاكرة الهَيكل",
+  "after": "ذكرى الهَيكل",
+  "why": "a Shell Memory is a ذكرى (a remembered episode), not الذاكرة (the faculty); matches the plural الذكريات already used in the sibling rows"
+ }
+]

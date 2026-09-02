@@ -1,0 +1,42 @@
+{
+ "chunk": 64,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheTreasure_GetLockpick_03/8DB200B44B98FECD26FD18B96ED66670",
+   "type": "mistranslation",
+   "severity": "major",
+   "source_en": "One lockpick just as promised.",
+   "ar": "مفتاحٌ واحد، تمامًا كما وُعِدت.",
+   "issue": "lockpick rendered as مفتاح (a key). Tiel is a thief who picks the lock in the very next beat (Only one lock? / Easy.); a key and a lockpick are different objects and the Arabic removes the whole point of the scene.",
+   "suggested_ar": "أداةُ فتح أقفالٍ واحدة، تمامًا كما وُعِدت."
+  },
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheTreasure_Intro_01/FFD684AE4FEE14BF7F1A07A8EA633C0A",
+   "type": "mistranslation",
+   "severity": "major",
+   "source_en": "Now… where’d my “friend” leave the lockpick?",
+   "ar": "الآن... أين ترك \"صديقي\" المفتاح؟",
+   "issue": "Same defect as the sibling row: lockpick rendered as المفتاح (the key). Both rows must use the same corrected term.",
+   "suggested_ar": "الآن... أين ترك «صديقي» أداة فتح الأقفال؟"
+  },
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheCure_02_Intro/1C4FDE3C45EDB9E89FC36A8B5D6F0104",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Your initiation is almost complete.",
+   "ar": "أوشك تنصيبك على الاكتمال.",
+   "issue": "تنصيب means installing/appointing someone to an office (تنصيب الملك). This is a cult initiation rite being performed on a restrained Tiel, not an appointment to a post.",
+   "suggested_ar": "أوشك طقس انتسابك على الاكتمال."
+  },
+  {
+   "key": "Dialogue_Dlg_UnderMether_Tower_Interact/89AD85AD46F096F2CE5F80BA41EE6AA0",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "But you—you–can be strong, in ways that I’m not.",
+   "ar": "لكنك... أنت... قد تقوى حيث أعجز أنا.",
+   "issue": "can be strong is a statement of capability, but قد تقوى reads as may perhaps grow strong and injects doubt into what is the Undermether key thematic line about the Harbinger.",
+   "suggested_ar": "لكنك... أنت... تستطيع أن تقوى حيث أعجز أنا."
+  }
+ ]
+}

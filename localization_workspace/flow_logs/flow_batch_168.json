@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_PrologueCultist_LastDance/A7AF8B6E4128F68F4042ADAEFF950E0D",
+  "before": "لكني أعرف أفضل من ذلك.",
+  "after": "لكني أعلم الحقيقة.",
+  "why": "'أعرف أفضل من ذلك' is a calque of 'I know better'"
+ },
+ {
+  "key": "Dialogue_Dlg_PrologueCultist_LastDance/688C43A248D12424DA6D50811EC8E65A",
+  "before": "يعجبني أسلوب رقصك، يا لافندر.",
+  "after": "تعجبني طريقة رقصك، يا لافندر.",
+  "why": "طريقة is the natural collocation; أسلوب is stylistic analysis"
+ },
+ {
+  "key": "Dialogue_Dlg_PrologueCultist_LastDance/2AA6053645A9984C82E3DCAB28C0722E",
+  "before": "نعم، هذا هو.",
+  "after": "نعم، هكذا تمامًا.",
+  "why": "the line encourages the dance; 'هذا هو' read as identifying an object"
+ }
+]

@@ -1,0 +1,22 @@
+{"chunk": 17, "rows_reviewed": 90, "findings": [
+  {"key": "ST_LandingAreaNames/LandingArea_DwarfRunup_02",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Ovate's Chamber",
+   "ar": "حُجرة العَرّاف",
+   "issue": "Glossary explicitly names 'Ovate's Chamber' as one of the two locations where 'Ovate' (named NPC) must be transliterated أوفيت, not translated as a generic title. This row translates it as العَرّاف ('the diviner').",
+   "suggested_ar": "حُجرة أوفيت"},
+
+  {"key": "ST_LandingAreaNames/LandingArea_Boss_Hex",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Hexapod's Burrow",
+   "ar": "جُحر السُّداسي",
+   "issue": "Glossary freezes 'Hexapod' as السداسيّ الأرجل; this row drops الأرجل, leaving just 'the six-part one'.",
+   "suggested_ar": "جُحر السداسيّ الأرجل"},
+
+  {"key": "ST_LandingAreaNames/LandingArea_Pro_02",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Disciple's Grotto",
+   "ar": "مَغارة المُريد",
+   "issue": "Glossary reserves المُريد strictly for Tiel's Acolyte title and says generic 'disciples/followers' must use أتباع, never مريدون/مُريد. This is a generic disciple, not Tiel.",
+   "suggested_ar": "مَغارة التابِع"}
+]}

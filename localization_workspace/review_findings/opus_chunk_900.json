@@ -1,0 +1,78 @@
+{
+ "chunk": 900,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrelContinue_04/C5321AFF431949A3922BBAB0F9E59A25",
+   "type": "addition",
+   "severity": "critical",
+   "source_en": "Well, no sense in lettin’ it go to waste.",
+   "ar": "وعلى أي حال، من العبث أن ندعه يضيع، وقد مات أخوه في الحرب.",
+   "issue": "The Arabic appends an invented clause وقد مات أخوه في الحرب (“and his brother died in the war”) that has no counterpart anywhere in the English line.",
+   "suggested_ar": "وعلى أي حال، من العبث أن ندعه يضيع."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_MerrickWalking_03/42C924AC4E7EE7227F9FDA8B5A9C0C02",
+   "type": "negation_flip",
+   "severity": "critical",
+   "source_en": "There’s not really much to tell.",
+   "ar": "ثمة كثيرٌ يُروى، بصراحة.",
+   "issue": "The negation is dropped: the Arabic asserts “there is much to tell”, the exact opposite of Merrick deflecting Proxima’s question about his people’s funerals.",
+   "suggested_ar": "ليس ثمة الكثير لأرويه، بصراحة."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchCorpse_05/8A9AE1914B6301437F81D6A7A02466E5",
+   "type": "row_misalignment",
+   "severity": "critical",
+   "source_en": "Every brigand within fifty miles has probably been here.",
+   "ar": "لا يمكنك الجزم بذلك؛ فلم ينتهِ البحث بعد.",
+   "issue": "This row carries the Arabic belonging to the sibling key 90E99614… (“You cannot know that. There is more to search.”) — the two rows’ Arabic are swapped.",
+   "suggested_ar": "الأرجح أن كل لصٍّ في نطاق خمسين ميلًا مرّ من هنا."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchCorpse_05/90E99614417F71E54241C188B86BB8A0",
+   "type": "row_misalignment",
+   "severity": "critical",
+   "source_en": "You cannot know that. There is more to search.",
+   "ar": "الأرجح أن كل لصٍّ في نطاق خمسين ميلًا مرّ من هنا.",
+   "issue": "This row carries the Arabic belonging to the sibling key 8A9AE191… (“Every brigand within fifty miles has probably been here.”) — the two rows’ Arabic are swapped.",
+   "suggested_ar": "لا يمكنك الجزم بذلك؛ فلم ينتهِ البحث بعد."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_AskAboutBrigands_06/2F8D350C4E56C7FC4E4754BC45A027A8",
+   "type": "gender_error",
+   "severity": "major",
+   "source_en": "Hm. You may prove useful after all.",
+   "ar": "همم. قد تكونين مفيدة في النهاية.",
+   "issue": "Addressee is wrong: this is Proxima appraising Merrick after he offers to find her weapon, so it must be masculine — the feminine تكونين مفيدة points the line back at Proxima herself.",
+   "suggested_ar": "همم. قد تكون مفيدًا في النهاية."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/8CA46A0B4282F27E9C43FF8C7323129D",
+   "type": "gender_error",
+   "severity": "major",
+   "source_en": "Proxima! There you are.",
+   "ar": "بروكسيما! ها أنتَ ذي.",
+   "issue": "Merrick addresses Proxima (female) but the pronoun is explicitly vowelled masculine أنتَ while the demonstrative ذي is feminine — internally contradictory and wrong for the addressee.",
+   "suggested_ar": "بروكسيما! ها أنتِ ذي."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/A068BDB546E5478776D17D932532E7E8",
+   "type": "gender_error",
+   "severity": "major",
+   "source_en": "(scoffs) Your weapon?",
+   "ar": "(يهزأ) سلاحكَ؟",
+   "issue": "The Brigand King is scoffing at Proxima’s claim “My weapon. You have it.”, and he addresses her with feminine forms elsewhere in the same scene (أتقصدين، حاولي، تفضّلي); the explicitly masculine سلاحكَ contradicts that.",
+   "suggested_ar": "(يهزأ) سلاحكِ؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/F23A04EE43660CC8FA1D6A8FE59436A4",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Hexapod.",
+   "ar": "الهكسابود.",
+   "issue": "Glossary freezes Hexapod as السداسيّ الأرجل, but this row and its sibling EC396378… (“What did the, uh, Hexapod do to you?”) transliterate it as الهكسابود; note the transliteration may be deliberate, since Merrick’s “hexa-dog” mishearing in row 38A7630B… only works on a transliterated stem.",
+   "suggested_ar": "السداسيّ الأرجل. (أو أقرّ النقل الصوتي رسميًا في المسرد لأجل التورية)"
+  }
+ ]
+}

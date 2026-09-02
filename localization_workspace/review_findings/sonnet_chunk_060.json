@@ -1,0 +1,6 @@
+{"chunk": 60, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Ruk_Boss_Mouth_Interact/C819EF6A4C3D79EE37B389BCF4510AC2","type":"term_violation","severity":"major",
+   "source_en":"The disciples snatched him in the night.","ar":"خطفه المريدون ليلًا.",
+   "issue":"05_glossary.csv reserves المُريد/المريدون exclusively for Tiel's title 'Acolyte' and explicitly states generic 'disciples/followers' must use أتباع, never مريدون. This row uses the reserved term for a generic group of cultists (unrelated to Tiel), violating the reservation.",
+   "suggested_ar":"خطفه الأتباع ليلًا."}
+]}

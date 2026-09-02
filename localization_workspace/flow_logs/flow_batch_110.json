@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_CrazedHorde_Greeting/A50D29E046AEEA3E6B27B5964942E51C",
+  "before": "إنه الليل من يبحث عنّا...",
+  "after": "إنه الليل الذي يطلبنا…",
+  "why": "'إنه الليل من يبحث عنّا' is a broken cleft; ASCII ellipsis"
+ },
+ {
+  "key": "Dialogue_Dlg_CrazedHorde_HitResponse/D2CB20D04BB6263EC100A9801FF9FFCC",
+  "before": "أنت... لن تأخذ اللهب منّا.",
+  "after": "أنت… أنت لن تأخذ اللهب منّا.",
+  "why": "the source's stutter was collapsed into one 'أنت'"
+ }
+]

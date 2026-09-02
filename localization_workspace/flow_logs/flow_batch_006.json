@@ -1,0 +1,32 @@
+[
+ {
+  "key": "ST_Core_Actions/ActionAim",
+  "before": "التصويب [مع الاستمرار]",
+  "after": "التصويب [ضغط مطوّل]",
+  "why": "frozen Hold convention; [مع الاستمرار] replaced by the shorter [ضغط مطوّل] everywhere"
+ },
+ {
+  "key": "ST_Core_Actions/ActionFaceRight",
+  "before": "مراوغة / ركض [مع الاستمرار]",
+  "after": "مراوغة / ركض [ضغط مطوّل]",
+  "why": "frozen Hold convention; [مع الاستمرار] replaced by the shorter [ضغط مطوّل] everywhere"
+ },
+ {
+  "key": "ST_Core_Actions/ActionInteractSprint",
+  "before": "تفاعل / ركض [مع الاستمرار]",
+  "after": "تفاعل / ركض [ضغط مطوّل]",
+  "why": "frozen Hold convention; [مع الاستمرار] replaced by the shorter [ضغط مطوّل] everywhere"
+ },
+ {
+  "key": "ST_Core_Actions/ActionSprint",
+  "before": "الركض [مع الاستمرار]",
+  "after": "الركض [ضغط مطوّل]",
+  "why": "frozen Hold convention; [مع الاستمرار] replaced by the shorter [ضغط مطوّل] everywhere"
+ },
+ {
+  "key": "ST_Core_Actions/ActionWalk",
+  "before": "المشي [مع الاستمرار]",
+  "after": "المشي [ضغط مطوّل]",
+  "why": "frozen Hold convention; [مع الاستمرار] replaced by the shorter [ضغط مطوّل] everywhere"
+ }
+]

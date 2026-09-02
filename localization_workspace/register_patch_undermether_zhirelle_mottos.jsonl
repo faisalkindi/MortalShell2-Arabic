@@ -1,0 +1,75 @@
+{"key": "/16E110E041D5A2F82F0AA1991F1C411D", "old_ar": "عندما لا تملك شيئًا، فأنت حر في أخذ كل شيء.", "new_ar": "من لا يملك شيئًا فله أن يأخذ كل شيء."}
+{"key": "ST_Core_Shells/TielTagline", "old_ar": "عندما لا تملك شيئًا، فأنت حر في أخذ كل شيء.", "new_ar": "من لا يملك شيئًا فله أن يأخذ كل شيء."}
+{"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Objects/C6A4EEBA43F6C21697F4B7B16C97C314", "old_ar": "السلم له ثمن.", "new_ar": "لا سلامَ بلا ثمن."}
+{"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Intro/DE86420F40BCAD5CBC5DEEA1E91B9589", "old_ar": "السلم له ثمن.", "new_ar": "لا سلامَ بلا ثمن."}
+{"key": "ST_Core_Shells/EredrimTagline", "old_ar": "السلم له ثمن.", "new_ar": "لا سلامَ بلا ثمن."}
+{"key": "ST_Core_Shells/KnightLadyTagline", "old_ar": "الغاية تمنح الروح شكلها.", "new_ar": "الغاية تصوغ للروح شكلها."}
+{"key": "ST_Core_Shells/GraguTagline", "old_ar": "قلبها لا يكذب", "new_ar": "القلبُ لا يكذب."}
+{"key": "/C47B1A9B4AE8A887D51EC2A16C49F534", "old_ar": "لا شيء مكسور لدرجة أنه لا يمكن إصلاحه مرة أخرى", "new_ar": "ما من كسرٍ لا يُجبَر من جديد."}
+{"key": "ST_Core_Shells/GenessaTagline", "old_ar": "لا شيء مكسور لدرجة أنه لا يمكن إصلاحه مرة أخرى", "new_ar": "ما من كسرٍ لا يُجبَر من جديد."}
+{"key": "Dialogue_Dlg_Undermehter_MidpointMemory_01/A93336C54334EDC2E1F2D0BC426C7573", "old_ar": "طفل...", "new_ar": "يا طفل..."}
+{"key": "Dialogue_Dlg_Undermehter_MidpointMemory_01/7EFAA9E043F19DD3128103B25C2082B7", "old_ar": "نحن ونخدم أسلافنا.", "new_ar": "أنت وأنا نخدم ذريتنا الآتية."}
+{"key": "Dialogue_Dlg_UnderMether_BossEggsClaimed/60AFF100426C78BBC5F4E18500807A5A", "old_ar": "نعم، تعرف غرضك", "new_ar": "نعم، أنت تعرف غايتك."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/25E6FFC84C9A2AA0BF26EB83AB250274", "old_ar": "(ندم) لم نكن مقدرين أن نكون هنا", "new_ar": "(ندم) لم يُكتب لنا أن نكون هنا."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/7F1241B343A1D68DB6C16FA9A9E60A86", "old_ar": "كل بويضة تكتشفها تعطيني الأمل", "new_ar": "كل أوفةٍ تكتشفها تمنحني الأمل."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/5D9116BA4C2A0EC58A30F39D62C9C4D7", "old_ar": "كم عدد البويضات المتبقية؟", "new_ar": "كم عدد الأوفا المتبقية؟"}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/8F6AA87B49CA2FA1C7DEFFB19E1BF932", "old_ar": "كنت أملك آمالاً لهذا.", "new_ar": "كنت أعقد آمالاً على هذا."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/86110413401633AEAB3C16AC43EDF40F", "old_ar": "طفلي... ترك في مكان بائس كهذا.", "new_ar": "طفلي القادم... تُرِك في مكانٍ بائسٍ كهذا."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/46466F464686DCA9DFE54EB391F056B3", "old_ar": "غير ملموس... غير مشوه...", "new_ar": "بلا مساس... بلا شائبة..."}
+{"key": "Dialogue_Dlg_UnderMether_EggClaimed/BAF731424251A2EFA8FDC3939AB2A5EF", "old_ar": "لقد وجدت بويضة أخرى.", "new_ar": "لقد وجدت أوفةً أخرى."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_01/EFA9D34A45A76EE326858590A7B7DB78", "old_ar": "الطفل…", "new_ar": "يا طفل..."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_01/78990182441E88CE779AED9156E6EFEA", "old_ar": "نحن ونخدم أسلافنا.", "new_ar": "أنت وأنا نخدم ذريتنا الآتية."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_02/CFB659394CF35DB10F1174AAEEFE830E", "old_ar": "ولكنك وأنا—نحن—سننهي.", "new_ar": "ولكنك وأنا—نحن—سننتهي."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_02/3BBB747545EE65432CB4F793FD8C49E7", "old_ar": "فارغ من المعنى… إنه لا ينتهي.", "new_ar": "خاوٍ من المعنى… لا نهاية له."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_03/BE7F6022457FD08479A97189DBDF3F54", "old_ar": "ولكنك وأنا—نحن—سننهي.", "new_ar": "ولكنك وأنا—نحن—سننتهي."}
+{"key": "Dialogue_Dlg_Undermether_Midpoint_03/2E35E57941270E5A7FA361AFB6A715D6", "old_ar": "فارغ من المعنى… إنه لا ينتهي.", "new_ar": "خاوٍ من المعنى… لا نهاية له."}
+{"key": "Dialogue_Dlg_Undermether_PostFinalBoss/17726F1A443A34D78C2FDC99C68A8DD3", "old_ar": "لقد تم.", "new_ar": "قد تمّ الأمر."}
+{"key": "Dialogue_Dlg_Undermether_PostFinalBoss/6AA37A88435C117772C440843FAE994F", "old_ar": "هناك غرض واحد نهائي لنا.", "new_ar": "لم يبق لنا إلا غايةٌ واحدة أخيرة."}
+{"key": "Dialogue_Dlg_Undermether_PostFinalBoss/EA42995240ADF1A82E73EE804E11DEBF", "old_ar": "يجب أن نرسل الأوفا إلى السماوات...", "new_ar": "لا بدّ أن نرسل الأوفا إلى السماوات..."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_01/CB09A2394E54691D17D05C94D3E61D57", "old_ar": "الطفل…", "new_ar": "يا طفل..."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_01/2B83236641A23C114CEF44AC4CB5BE3D", "old_ar": "نحن قريبون جدًا.", "new_ar": "لقد اقتربنا كثيرًا."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_02/9369ABF54C2EF9E8A8A8769CF65747E5", "old_ar": "لكن لا يمكننا إرسالها إلى السماء بعد.", "new_ar": "لكن لم يحن الأوان بعد لإرسالها إلى السماء."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_02/29B15B0C443203ADAAEE7C8FADA6F577", "old_ar": "ستكون كافية لضمان مستقبلنا.", "new_ar": "ستكفي لضمان غدنا."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_03/065D73A7402733DF350F77AD19544A03", "old_ar": "حان الوقت للسير في الطريق غير المعروف.", "new_ar": "حان الوقت لنسلك الطريقَ المجهول."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_03/6A8AE6CB4A14D32BEEFEFBA370A95B42", "old_ar": "فقط بعد ذلك يمكننا تحرير أقاربنا.", "new_ar": "عندئذٍ فقط نستطيع تحرير ذريتنا الآتية."}
+{"key": "Dialogue_Dlg_Undermether_Slice3Opens_03/6AFC923C42CA19D10219378EA76044F1", "old_ar": "يجب أن تطهرني…", "new_ar": "لا بد أن تطهرني…"}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/EC6E324A4A06B5A03DEA65971C65480B", "old_ar": "لقد رعيتها.", "new_ar": "لقد «رعَيتُها»."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/159A1D0A4CBBA47A26F256A05B6308CF", "old_ar": "إنها تثقلني...", "new_ar": "إنه يُثقل كاهلي..."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/74D513CF4C1BDD5BEA4BF6B418E36A6D", "old_ar": "هذا الخطأ تفاقم في داخلي.", "new_ar": "هذا الفساد تفشّى في داخلي."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/533BBB4842EBF584849573A0570D8D91", "old_ar": "وبدون قصد، المسافر أيضًا.", "new_ar": "ودون قصد، الراكب أيضًا."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/E3B66F8F457CB62CC00EF1B3E1CEF4F1", "old_ar": "كأنها استجابت للفساد الذي كان يتقيح في جلدي.", "new_ar": "كأنها استُدعِيت بفعل الفساد الذي كان يتفشّى في لحمي."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/89AD85AD46F096F2CE5F80BA41EE6AA0", "old_ar": "لكن أنت – أنت – يمكن أن تكون قويًا، بطرق لا أستطيع أن أكونها.", "new_ar": "لكنك—أنت—تقوى على ما لا أقوى عليه."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/B9C83DE3409871460D0299A7F5CE3788", "old_ar": "طفل… (تنهد)", "new_ar": "يا طفل... (تنهد)"}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/942218E4484737CD80EE4DBFD3481EF8", "old_ar": "لكل منهم دوره ليلعبه.", "new_ar": "لكلٍّ منهم دورٌ يؤديه."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/4CCAAB6448DAA79CEB79ADA7D3473DDA", "old_ar": "شعرت به يتلوى، ينبض بعمق داخلي.", "new_ar": "كنت أكنّ لهم مودةً أيضًا."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/C6507B6F4972B9CCEED89B9AE1F5DD35", "old_ar": "كنت أحبهم أيضًا.", "new_ar": "كنت أكنّ لهم مودةً أيضًا."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/297325B84C4AFF81939FE0A64C75E4A4", "old_ar": "إنه ضعفي، الذي علقنا هنا.", "new_ar": "ضعفي هو مَن جنَح بنا إلى هذا المكان."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/FF7F19BA4D5DAEE5A636899E91C7931A", "old_ar": "معرفة هذا… الدخيل تغذى بعمق داخل لحمي.", "new_ar": "مع علمي بهذا… دخيلٌ نَخَر عميقًا في لحمي، يلتهم."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/246C877242C65930D3D6129E482B5726", "old_ar": "دعهم يقويونك.", "new_ar": "دعهم يمنحونك القوة."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/C632AD6B4DAAD47FC83FC4A6EDBF2BF2", "old_ar": "الآن لا يوجد سوى أصداء.", "new_ar": "لم يبقَ الآن سوى أصداء."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/8584AFD34277E04D657C91BE3CF2F612", "old_ar": "أنا وحدي أحمل العديد من الأرواح والعديد من العقول في آن واحد.", "new_ar": "وحدي أحمل في آنٍ واحد أرواحًا شتّى وعقولاً شتّى."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/4E25EC9C4313707F9F7310A1A95414AB", "old_ar": "آخر من ذريتك.", "new_ar": "آخر ذريتك."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/AAE1D00F4409FB06DDF653BD45690A94", "old_ar": "هناك الكثير للقيام به.", "new_ar": "لا يزال أمامنا الكثير لنفعله."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/35167E0343812DA454E05AB53CE98D51", "old_ar": "كان هناك وقت عندما ازدهرت ذريتي.", "new_ar": "كان لي زمنٌ ازدهرت فيه ذريتي."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/E97450F044D741696F94049B4D8D0389", "old_ar": "أخذوك، غير مولود، وكل شيء.", "new_ar": "أخذوك، وأنت لم تولد بعد، بكامل كيانك."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/A4698D754B677CBD575D0DA4EBD9B667", "old_ar": "كانوا يبحثون عن هدف.", "new_ar": "كانوا يبحثون عن غاية."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/AA1136044329455DB7B48FA73F39E161", "old_ar": "استخدموا طرقهم الملتوية للدخول.", "new_ar": "تسلّلوا في الخفاء إلى الداخل."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/8C2B9C72476B14EF31726BB1E01ED140", "old_ar": "لم نكن مهيئين لهذا العالم.", "new_ar": "لم يُكتب لنا هذا العالم."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/CAF122A54F4F19A128104F858A0EE41D", "old_ar": "عندما وصلنا، كان هذا صخرة فارغة جرداء.", "new_ar": "حين وصلنا، لم يكن هذا سوى صخرةٍ خاويةٍ جرداء."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/5D288A0B4483415AF5CD63A224AB6D0E", "old_ar": "أنت من دم مختلط.", "new_ar": "في عروقك يجري دمان."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/4B74A3804D6B804E722F0287ADBDA288", "old_ar": "هل نسيت لغتك الخاصة؟", "new_ar": "أنسيتَ لسانك؟"}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/E3410D3A479992000A87CB9A76C294DF", "old_ar": "أنت تبدأ في التذكر.", "new_ar": "بدأتَ تتذكّر."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/AE9C90C94F6430ACFCC5FFB3609E5F24", "old_ar": "أنت تحبهم - أليس كذلك؟", "new_ar": "أنت تكنّ لهم مودةً — أليس كذلك؟"}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/0D4AB72D4B970838C531128F2634A9F4", "old_ar": "...الطفل؟", "new_ar": "...يا طفل؟"}
+{"key": "Dialogue_DLG_Undermether_Tutorial_PerfectBlock/0BB5B15C47DC69DD83B7C397805108D9", "old_ar": "لكي تعيد الأوفا الخاصة بي، يجب أن تنجو.", "new_ar": "لتُعيد إليّ أوفاي، عليك أن تنجو."}
+{"key": "Dialogue_DLG_Undermether_Tutorial_ShellAbility/876D906B458C01D06C038CACFC47CB89", "old_ar": "الغلاف الذي يخدمك كأخ.", "new_ar": "غلافك يخدمك كأخٍ."}
+{"key": "Dialogue_Dlg_Shellkeeper_ChooseShell_Playtest/3245EC034328F578105C4A803FD9122A", "old_ar": "يناسب كالقفاز—آمل ذلك.", "new_ar": "كأنه صُنع له—على ما أرجو."}
+{"key": "Dialogue_Dlg_Shellkeeper_Generic/84812E4C46C9025B97670D8023E51AE5", "old_ar": "هذه الأغلفة ضائعة، لكنها غير منسية.", "new_ar": "هذه الأغلفة ضاعت، ولكن لم تُنسَ."}
+{"key": "Dialogue_Dlg_Shellkeeper_Interact_02a/3315D1AA47D508C780FF549696E4DA43", "old_ar": "قصصهم تحمل الحقيقة.", "new_ar": "في حكاياتهم حقيقةٌ."}
+{"key": "Dialogue_Dlg_Shellkeeper_Interact_02b/DBC333E34F2B6091981E008AFC181B58", "old_ar": "قصصهم تحمل الحقيقة.", "new_ar": "في حكاياتهم حقيقةٌ."}
+{"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/995E76A34A8953C9617E9DA0D7E28CF1", "old_ar": "يتردد مثل نبضة القلب… في كل شيء.", "new_ar": "يتردد كنبضة القلب… في كل شيء."}
+{"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/E1E0D402410BEACEFBC82DA452E69D35", "old_ar": "ما يربط ينكسر أيضًا.", "new_ar": "بقدر ما يربط، ينكسر."}
+{"key": "Dialogue_Dlg_Shellkeeper_PostCinematic/CF3928B04B048ABA5748A7BEEA208B53", "old_ar": "تواصل معهم.", "new_ar": "تآلف معهم."}
+{"key": "Dialogue_Dlg_Shellkeeper_Sense_Tiel/684F23FB41C541360BE199915A6532BA", "old_ar": "خارج عن القانون بلا وجه.", "new_ar": "طريدٌ بلا وجه."}
+{"key": "Dialogue_Dlg_Shellkeeper_ShellReaction_Greeting/C732D48A4FDDD1ABBB0A73BA8A4B550D", "old_ar": "دعونا نكتشف هدفها.", "new_ar": "فلنكتشف غايتها."}
+{"key": "Dialogue_Dlg_Shellkeeper_ShellReaction_Greeting/49CF306146593429FEF8EDA024C4DC09", "old_ar": "فلنكتشف هدفه معًا.", "new_ar": "فلنكتشف غايته معًا."}

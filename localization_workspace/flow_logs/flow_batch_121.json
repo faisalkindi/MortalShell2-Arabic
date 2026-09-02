@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_01_Intro/A2D55AE843B9615D5C3C1791D980914E",
+  "before": "إنه أنا، إردريم المُبَجَّل.",
+  "after": "أنا هو إردريم المُبَجَّل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_01_Kneel/6CB63A79446BBED03B0EFBA683273A6B",
+  "before": "أحضرتُ العشور…",
+  "after": "جئتُ بالعشور…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_01_OfferCoinPurse/8951076244ADDCE7E8AA40909889C2B1",
+  "before": "سيخدم هو أيضًا بإخلاص.",
+  "after": "وسيخدم بإخلاص هو الآخر.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/6963D62945987A63FC83B3A94D4BD5DD",
+  "before": "لكن إردريم رجل... قوة.",
+  "after": "لكنّ إردريم رجل… قوة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/F7D4044F4FF80CB1ED663E8436956FD5",
+  "before": "لكن أرجل شرف أنت، يا إردريم؟",
+  "after": "لكن هل أنت رجل شرف يا إردريم؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/434BCF7B427D38D5157EAEB129DBDCEB",
+  "before": "أنا مقترنٌ بالفضيلة.",
+  "after": "عاهدتُ الفضيلة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/A3DC08D046698BEF4FBEC1AF11D19D20",
+  "before": "لقد جلبتُ العار على نفسي…",
+  "after": "لقد لطّختُ شرفي…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/DC93AFA0443D8933E9DE3F9C06768688",
+  "before": "هذا ما جاء بي إلى هنا.",
+  "after": "وهو ما جاء بي إلى هنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/1335EECD4E75836D9D684C8E4378B00D",
+  "before": "أنا… حسنًا… أبي كاذب وغشّاش… إنه ضعيف.",
+  "after": "أنا… حسنًا… أبي كاذبٌ ومحتال… إنه ضعيف.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Swear/72874D98483B460184BD39B9795F1E3F",
+  "before": "أنشد الدرب الطا—",
+  "after": "أنشد المعصـ—",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Swear/ABAF2DA94DD96C064E1142BB48E9B657",
+  "before": "أنّ المعصوم يحرر المرء",
+  "after": "أنّ المعصوم قادر على تحرير المرء",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Intro/2E3559A14293903F4F92D09B25BC1058",
+  "before": "حقيقة",
+  "after": "صدق",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_Swear/B63786B244626B008A73919A65B46207",
+  "before": "حقيقة",
+  "after": "صدق",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_02_WraithMoves/524E2CCB49CA22B145F32F854A5ADD89",
+  "before": "وتجلب النظام إلى فولغريم.",
+  "after": "وتُقيم النظام في فولغريم.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_01_WraithsGone/9366C2524DEE102193A49E832EA49CA9",
+  "before": "أنت من سيقرر مصيره.",
+  "after": "أنت من يقرر مصيره.",
+  "why": "flow"
+ }
+]

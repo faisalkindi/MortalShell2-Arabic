@@ -1,0 +1,29 @@
+{"chunk": 20, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Skills_Eredrim/ShellSkillEredrimRadiance_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Ethereal Diapason inflicts {Z} <Fragile>Fragile</> stacks to all enemies in range",
+   "ar": "يُلحق النغم الأثيري {Z} تراكمات <Fragile>الهشاشة</> بجميع الأعداء ضمن مداه.",
+   "issue": "Inflicting a status stack (Fragile) should use تُنزل per glossary, not the damage verb يُلحق.",
+   "suggested_ar": "يُنزل النغم الأثيري {Z} تراكمات <Fragile>الهشاشة</> بجميع الأعداء ضمن مداه."},
+
+  {"key": "ST_Skills_Gragu/GraguSkillAnger_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Staggering Blow</> inflicts {X} <Weak>Weak</> stacks",
+   "ar": "تُلحق <Bold>ضربة الترنيح</> {X} تراكمات <Weak>الضعف</>.",
+   "issue": "Inflicting a Weak status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل <Bold>ضربة الترنيح</> {X} تراكمات <Weak>الضعف</>."},
+
+  {"key": "ST_Skills_Gragu/GraguSkillAnger_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Staggering Blow</> inflicts {Y} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق <Bold>ضربة الترنيح</> {Y} تراكمات <Fragile>الهشاشة</>.",
+   "issue": "Inflicting a Fragile status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل <Bold>ضربة الترنيح</> {Y} تراكمات <Fragile>الهشاشة</>."},
+
+  {"key": "ST_Skills_Gragu/GraguSkillBloodcurse_Effect_3",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "When inflicting <Bleed>Bloodcurse</> Gragu has {Y} chance to fully replenish <Bold>Revered Heart</>",
+   "ar": "عند إلحاق <Bleed>لعنة الدم</>، لدى غراغو احتمال قدره {Y} لتجديد <Bold>القلب المُكرَّم</> كاملًا.",
+   "issue": "Inflicting the Bloodcurse status should use the إنزال/تُنزل family, not إلحاق (reserved for damage).",
+   "suggested_ar": "عند إنزال <Bleed>لعنة الدم</>، لدى غراغو احتمال قدره {Y} لتجديد <Bold>القلب المُكرَّم</> كاملًا."}
+]}

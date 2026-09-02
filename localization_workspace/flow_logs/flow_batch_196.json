@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/5D288A0B4483415AF5CD63A224AB6D0E",
+  "before": "أنت من دمَين اثنين.",
+  "after": "أنت من دمَين.",
+  "why": "the dual already says 'two'"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/4B74A3804D6B804E722F0287ADBDA288",
+  "before": "أنسيتَ لغتك أنت؟",
+  "after": "أنسيتَ لسانك أنت؟",
+  "why": "لسان for a mother tongue in this register"
+ }
+]

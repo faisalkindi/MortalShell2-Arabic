@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyTarwine/5C4F1B15425D0EEC1ED745B080E0F1AA",
+  "before": "انظر. لن تتحكّم بي.",
+  "after": "انظر. أنت لا تتحكّم بي.",
+  "why": "لن تتحكّم is future; the source is a present-tense denial"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheBottle_01_WarnGenessa/069E9C0F43AF0D48A36866B7D6A5E3A0",
+  "before": "لن يكون الأمر بيننا وحدنا أبدًا.",
+  "after": "لن نكون وحدنا أبدًا.",
+  "why": "makes the pair with 'It's just us' audible as one exchange"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheBottle_01_WarnGenessa/BD8F81554BC83AA5A48504837968D2AE",
+  "before": "ماذا؟ نحن وحدنا فقط.",
+  "after": "ماذا؟ نحن وحدنا.",
+  "why": "drops فقط, which Arabic already implies"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheBottle_02_Intro/99A707954B2429F55BE390A453F1B058",
+  "before": "تيل؟ تبدو متعبًا.",
+  "after": "تيل؟ لا تبدو بخير.",
+  "why": "'unwell' is not 'tired'"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_02_Intro/FC5ED23247F990F17AA6FB8C754D217A",
+  "before": "لقد استُؤصلت... العلة.",
+  "after": "العلّة... قد استُؤصلت.",
+  "why": "keeps the ellipsis where the source pauses"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_02_Intro/1C4FDE3C45EDB9E89FC36A8B5D6F0104",
+  "before": "أوشك تنصيبك أن يكتمل.",
+  "after": "أوشك تنصيبك على الاكتمال.",
+  "why": "أوشك ... على is the Arabic collocation"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_Intro/483221E141FE37F0FC548F8A1E62646D",
+  "before": "أنا مستعد، أيها المُتعبِّد.",
+  "after": "أنا مستعد، أيها القربان.",
+  "why": "Oblate is frozen as القربان in the glossary"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_Intro/61EDBFF041DC36801E0F979F47B3AF09",
+  "before": "انهض أيها المُريد.",
+  "after": "انهض، أيها المُريد.",
+  "why": "vocative comma, matching the other cult address lines"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_Intro/E5BEBBC04EFF6BB61510E1A8B3FAC573",
+  "before": "اللهب جائع.",
+  "after": "اللهب يتضوّر جوعًا.",
+  "why": "ritual register; جائع is flat for a cult invocation"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_PupilRises/269D5A1A4FC0A68732BA47A7086208D7",
+  "before": "لا يزال خائفًا أكثر من أن يدافع عن نفسه.",
+  "after": "حتى الآن، الخوف يمنعه من الدفاع عن نفسه.",
+  "why": "replaces the 'too...to' calque with an Arabic construction"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_StrikeOblate/4EE9CA7B48F16F97FD6CA59BB989533E",
+  "before": "(أنين ألم)",
+  "after": "(يئنّ من الألم)",
+  "why": "matches the corpus form for a pained grunt"
+ },
+ {
+  "key": "Dialogue_Dlg_TielMemory_TheCure_03_StrikeOblate_Continue/EBBF0CC046D5B994867504A72849E18D",
+  "before": "لا أريد أي دخل في هذا...",
+  "after": "لا أريد أن أكون طرفًا في هذا...",
+  "why": "'no part in this' as Arabic idiom, not a literal دخل"
+ }
+]

@@ -1,0 +1,42 @@
+{
+ "chunk": 77,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/CC7C31EB42CB462B7B15BC9D1055AA2D",
+   "type": "wrong_referent",
+   "severity": "major",
+   "source_en": "Forever searching for a purpose, even losing sight of why they visited in the first place? Perhaps that's what will happen to me, brether.",
+   "ar": "أنبحث أبدًا عن غاية، حتى نغفل عمّا جئنا من أجله أصلًا؟ ربما هذا ما سيحدث لي، يا أُخَيّ.",
+   "issue": "The English question is about THEM (the traveller whose wanderings the speaker has been reading), and the second sentence then turns it on himself: they … me. The Arabic puts the first sentence in the first-person plural (أنبحث / نغفل / جئنا = 'do we search … until we lose sight of why we came'), which destroys that contrast and makes the closing 'ربما هذا ما سيحدث لي' a non-sequitur. This is the same traveller-observation series as the {hours}/{game name} rows.",
+   "suggested_ar": "أيبحثون أبدًا عن غاية، حتى يغفلوا عمّا جاؤوا من أجله أصلًا؟ ربما هذا ما سيحدث لي، يا أُخَيّ."
+  },
+  {
+   "key": "/8D23B767487630B07BFB6E9C85D8938E",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Genessa Tertius",
+   "ar": "جينيسا الثالثة",
+   "issue": "Latin sister-names are one system, transliterated (Secundus = سيكوندوس, and the two Genessa Prime rows in this same chunk now read جينيسا برايم). Tertius alone is translated as an Arabic ordinal, so two members of the same set are named by two different rules.",
+   "suggested_ar": "جينيسا تيرتيوس"
+  },
+  {
+   "key": "/12D107064597AE2AF4FE27920DA47415",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Gaze upon the young general. Spin around and look again. Once more, spin around. Now the next time you look to the young general, it will change your surrounds.",
+   "ar": "حدّق في الجنرال الشاب. ثم دُر وانظر ثانية. ودُر مرة أخرى. وحين تنظر إلى الجنرال الشاب من جديد، ستتبدل من حولك الجهات.",
+   "issue": "'your surrounds' is the surroundings — the room the player is standing in changes. الجهات means the compass directions, which makes the riddle's payoff read as disorientation rather than the room itself changing.",
+   "suggested_ar": "حدّق في الجنرال الشاب. ثم دُر وانظر ثانية. ودُر مرة أخرى. وحين تنظر إلى الجنرال الشاب من جديد، يتبدّل ما حولك."
+  },
+  {
+   "key": "/AD29B5F446E824884912AA8AC0C565A1",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Give Weltcap",
+   "ar": "إعطاء ويلتكاب",
+   "issue": "Frozen glossary term: Weltcap = قبعة الوَرَم, with the note 'NOT transliterated'. ويلتكاب also leaves the item unrecognisable against its own pickup/flavour rows.",
+   "suggested_ar": "إعطاء قبعة الوَرَم"
+  }
+ ]
+}

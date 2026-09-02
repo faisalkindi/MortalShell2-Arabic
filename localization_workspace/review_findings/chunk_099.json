@@ -1,0 +1,24 @@
+{
+ "chunk": 99,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_Sariel_TheDead_S1_ExamineResurrected_05/293BA99243FBBE5CF915E3B9143FF385",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "It’s for the best.",
+   "ar": "لعلّ في ذلك خيرًا.",
+   "issue": "لعلّ introduces a hedge ('perhaps there is good in it') that the English does not have. 'It's for the best' is a flat consoling assertion, and in this scene it is the line that settles the matter after the failed resurrection.",
+   "suggested_ar": "الخير في ذلك."
+  },
+  {
+   "key": "Dialogue_DLG_Sariel_TheCrow_S1_TakeCrow_01/71323AC5491DAAEF0BD8D4891FDFD87A",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "You were right… Rickart.",
+   "ar": "كنت محقًا... يا ريكارت.",
+   "issue": "Undiacriticized كنت محقًا reads equally as كنتَ (you were right) and كنتُ (I was right) - and Sariel admitting he himself was right is a live misreading in a confession scene. The sibling line in TheDead_S1 disambiguates with أنك; this one does not.",
+   "suggested_ar": "كنتَ محقًّا... يا ريكارت."
+  }
+ ]
+}

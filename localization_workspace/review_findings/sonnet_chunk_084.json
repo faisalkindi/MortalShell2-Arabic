@@ -1,0 +1,7 @@
+{"chunk": 84, "rows_reviewed": 90, "findings": [
+  {"key": "/933CDAED4207D75862312A84CCEFB4EE", "type": "term_violation", "severity": "major",
+   "source_en": "The Blessed Mether's ova—her eggs—have been stolen. \n\nYour disciples have already managed to recover two ova and you have successfully delivered one. \n\nThe rest must be found. Returning Unblemished Ova to Marrow Keep will yield rewards at the gloom siphon and progress the story.",
+   "ar": "سُرقت بُيوض الأُمَّهة المباركة. \n\nتمكّن مريدوك من استرداد بيضتين، ونجحت أنت في تسليم واحدة. \n\nيجب إيجاد البقية. وتمنحك إعادة البُيوض الطاهرة إلى حصن النخاع مكافآتٍ عند مِصفاة القَتام، وتدفع القصة قدمًا.",
+   "issue": "'Your disciples' (generic plural followers, not the Tiel-specific Acolyte title) is rendered مريدوك. The glossary's Acolyte entry explicitly reserves this: generic 'disciples/followers' must use أتباع, never مريدون (05_glossary.csv, Acolyte note).",
+   "suggested_ar": "سُرقت بُيوض الأُمَّهة المباركة. \n\nتمكّن أتباعك من استرداد بيضتين، ونجحت أنت في تسليم واحدة. \n\nيجب إيجاد البقية. وتمنحك إعادة البُيوض الطاهرة إلى حصن النخاع مكافآتٍ عند مِصفاة القَتام، وتدفع القصة قدمًا."}
+]}

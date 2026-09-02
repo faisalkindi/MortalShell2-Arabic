@@ -1,0 +1,56 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/2001120_description",
+  "before": "رأيتُ راويين حُبسا داخل مسوّداتهما، تُجرّهما إلى السفن الفضائية وإلى التنانين جملٌ كتباها بأنفسهما.",
+  "after": "رأيتُ راويين حُبسا داخل مسوّداتهما، تجرّهما من التنانين إلى السفن الفضائية جملٌ كتباها بأنفسهما.",
+  "why": "restored the source's from-to direction, which the rendering had reversed"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1046930_description",
+  "before": "رأيتُ محاربين يُصفّون كالدُّمى، ثم يُتركون للقتال بينما يتظاهر قائدهم أن الترتيب حكمة.",
+  "after": "رأيتُ محاربين يُصفّون كالدُّمى، ثم يُتركون للقتال بينما يتظاهر قائدهم بأن الترتيب حكمة.",
+  "why": "تظاهر takes بأن"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/501300_description",
+  "before": "مشيتُ في بيتٍ حفظت كل غرفةٍ مقفلة فيه شكل حكاية عائلةٍ أخيرة.",
+  "after": "مشيتُ في بيتٍ حفظت كل غرفة نومٍ مقفلة فيه شكلَ آخر حكايةٍ لعائلة.",
+  "why": "'a family's last story' had been parsed as 'a last family'; also restored 'bedroom'"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/400_description",
+  "before": "شاهدتُ أسيرةً تسير بين جروحٍ زرقاء وبرتقالية في الجدران؛ وفي النهاية وُعدت بكعكة، ولا أعرف بعدُ لمَ وثقت بها.",
+  "after": "شاهدتُ أسيرةً تسير بين جروحٍ زرقاء وبرتقالية في الجدران؛ وفي النهاية وُعدت بكعكة، ولا أعرف بعدُ لمَ وثقت بالكعكة.",
+  "why": "the pronoun بها could attach to the prisoner or the walls; the source repeats 'the cake' for the joke"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/945360_description",
+  "before": "شاهدتُ طاقمًا يُنجز إصلاحاتٍ صغيرة وسط جدالٍ حول من يُلقى في الفراغ؛ والقاتل، بطبيعة الحال، سلك الممرّات.",
+  "after": "شاهدتُ طاقمًا يُنجز إصلاحاتٍ صغيرة وسط جدالٍ حول من يُلقى في الفراغ؛ والقاتل، بطبيعة الحال، سلك فتحات التهوية.",
+  "why": "vents are ventilation ducts, and the whole joke rests on that word"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/72850_description",
+  "before": "شاهدتُ سجينًا يمتطي هادئًا نحو إعدامه، حتى حوّل تنّينٌ عتيق رحلة العربة نبوءةً.",
+  "after": "شاهدتُ سجينًا يمضي راكبًا هادئًا نحو إعدامه، حتى حوّل تنّينٌ عتيق رحلة العربة نبوءةً.",
+  "why": "امتطى needs an object"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/2246340_description",
+  "before": "شاهدتُ صيّادين يلتهمون وجباتٍ ضخمة، ويمتطون وحوشًا مريشة، ويطاردون فريسةً تفرّ منها الصحراء نفسها.",
+  "after": "شاهدتُ صيّادين يلتهمون وجباتٍ ضخمة، ويمتطون وحوشًا مريشة، ويطاردون فريسةً من الضخامة بحيث بدت الصحراء نفسها تفرّ منها.",
+  "why": "restored 'so large that' - the size is what makes the desert flee"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/3764200_description",
+  "before": "شاهدتُ ناجين يقنّنون الأعشاب الخضراء كأنّ أوراقًا وحدها تجادل الكوابيس.",
+  "after": "شاهدتُ ناجين يقنّنون الأعشاب الخضراء كأنّ الأوراق وحدها تجادل الكوابيس.",
+  "why": "the indefinite أوراقًا read as 'some leaves'; the sentence needs the generic definite"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1966720_description",
+  "before": "شاهدتُ لاقطي خردةٍ زهيدي الأجر يبيعون الخردة لربّ عملٍ بحجم جدار، ويسمّون ذلك مهنة.",
+  "after": "شاهدتُ لاقطين زهيدي الأجر يبيعون الخردة لربّ عملٍ بحجم جدار، ويسمّون ذلك مهنة.",
+  "why": "خردة appeared twice in one clause"
+ }
+]

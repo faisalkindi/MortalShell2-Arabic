@@ -1,0 +1,116 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ReachBush/209CB91F46326D20564ED78720D89EA1",
+  "before": "أرجل؟ أم وحش؟",
+  "after": "أرجلٌ أنت؟ أم وحش؟",
+  "why": "bare 'أرجل' reads as أرجُل (feet); tanwin + أنت removes the misreading"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ReachBush/19D1608645D7F32ECA1434BD320A9FF1",
+  "before": "توجّب عليّ أن أرى... بنفسي.",
+  "after": "كان لا بدّ أن أرى... بنفسي.",
+  "why": "توجّب عليّ is officialese"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ReachBush/2615A2314BCBFCFEFD047DA0583A9969",
+  "before": "أنا مُدرك لذلك.",
+  "after": "أعلم.",
+  "why": "'أنا مُدرك لذلك' is three words of bureaucracy for a two-word retort"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ThreatenGrisha/406A2C5249B25833E2976C9E4EC2516A",
+  "before": "لكنك أنت وأنا...",
+  "after": "لكن أنت وأنا...",
+  "why": "'لكنك أنت وأنا' doubles the pronoun"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ThreatenGrisha/8B176D1742E08A033F51148B4A481E51",
+  "before": "أجل! إذًا نحن متشابهان.",
+  "after": "أجل! إذًا نحن من طينة واحدة.",
+  "why": "'akin' is kinship, not mere resemblance; also answers 'لا نتشابه في شيء' properly"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_ThreatenGrisha/5878B10345FB40429B2C18BA7E0BCD15",
+  "before": "قد تعيش... الآن على الأقل.",
+  "after": "لك أن تعيش... إلى حين.",
+  "why": "'may' here is Gragu granting leave; 'الآن على الأقل' misreads 'for now'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_ThePassenger_01_DreamTalk00/2B0C92444C634592295E8B92F62E804C",
+  "before": "(ضحكة خافتة عميقة)",
+  "after": "(ضحكة عميقة)",
+  "why": "'خافتة عميقة' piles two adjectives onto one word"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_ThePassenger_01_DreamTalk02/D5596C1F4BA6A60648715EB1C0B53BA8",
+  "before": "...كل البشر.",
+  "after": "...كلّ الفانين.",
+  "why": "mortals are الفانون; البشر loses the pairing with 'all flesh'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_Intro/6D344A0F462CFC456206C38B75096833",
+  "before": "فقط... ابتعد عن المشروبات القوية.",
+  "after": "فقط... إيّاك والشراب القويّ.",
+  "why": "إيّاك و is the Arabic warning construction"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_Intro/E38523964CCFEDF98F1323958E191B11",
+  "before": "سيعتنون بك، يا صاح.",
+  "after": "سيعتنون بك يا صاح.",
+  "why": "no comma before the vocative يا in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_PlaceOrder/3066DB3244B5B4611D4086A9328AD884",
+  "before": "فقط... أبقِ كأسي ممتلئًا.",
+  "after": "فقط... لا تدع كأسي يفرغ.",
+  "why": "'أبقِ كأسي ممتلئًا' is a calque of 'keep my cup full'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_PlaceOrder/6835291241E1CA26C2ADD2B1E053A5A4",
+  "before": "آه؟",
+  "after": "أوه؟",
+  "why": "آه reads as a groan of pain in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_PlaceOrder/8F31246044D1AF5643C52694BF7C1C7A",
+  "before": "اجلس، يا صديقي.",
+  "after": "اجلس يا صديقي.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_TakeSeat/C521F48F43E4FD8F89E33A8311D3CC9D",
+  "before": "(يسخر) نحن مجرد لحم. يتعفّن... ببطء... شيئًا فشيئًا.",
+  "after": "(يسخر) لسنا إلا لحمًا. ببطء... يتعفّن... ويتلاشى.",
+  "why": "restores the source's three-beat decay; 'شيئًا فشيئًا' was invented to cover 'away'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_TakeSeat/58DB3DFB42933930ECAFBAB5150A4236",
+  "before": "إلى... إلى مصير كل لحم.",
+  "after": "نخب... نخب مصير كل لحم.",
+  "why": "'إلى' does not read as a toast in Arabic; نخب does"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheTavern_01_TakeSeat/7FFCAEA54D0E76EE84793CB250E2E93A",
+  "before": "...على ماذا... نشرب؟",
+  "after": "...نخبَ ماذا... نشرب؟",
+  "why": "matches the toast idiom of the answering line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ClaimHeart/4C1BC868421C213BCA5FBD89AEE12C56",
+  "before": "شظية من اللحم العظيم؟",
+  "after": "نُتفة من اللحم العظيم؟",
+  "why": "شظية is a splinter of wood or bone, not of flesh"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ClaimHeart/57CD2B054C0829598D470886B4F23C42",
+  "before": "أتتذوّق الإلهي؟",
+  "after": "أتتذوّق طعم الألوهة؟",
+  "why": "the bare adjective 'الإلهي' has no referent in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheWayOfAllFlesh_ClaimHeart/CD7BDA9F4D2DA7D144523FAA3C8EFF31",
+  "before": "لا... مجرد لحم خائف آخر.",
+  "after": "لا... ليس إلا لحمًا خائفًا آخر.",
+  "why": "'مجرد ... آخر' is an English 'just more' carried across"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "key": "/F9018B7C46CDC492B8F01980E8482A8C",
+  "before": "فتح استدعاء الهيكل؟",
+  "after": "فتح استدعاء الهَيكل؟",
+  "why": "Frozen Shell = الهَيكل carries its diacritic everywhere else in the corpus."
+ },
+ {
+  "key": "/13A7E68B4E22E5F9A8A20EA3DCF52CD4",
+  "before": "يكلّف استخدام قدرات الهيكل <Resolve>عزيمة</>، تتجدد عند توجيه ضرباتٍ قريبة.",
+  "after": "يكلّف استخدام قدرات الهَيكل <Resolve>عزيمة</>، تتجدد عند توجيه ضربات اشتباك.",
+  "why": "Two frozen terms: Shell = الهَيكل, and melee = الاشتباك (ضربات قريبة contradicted the skill trees)."
+ },
+ {
+  "key": "/7339D9324E71A68E06F5C8B468894932",
+  "before": "استيقظ",
+  "after": "الاستيقاظ",
+  "why": "Its sibling 'Wake Up Egon' is the verbal noun إيقاظ إيغون; the imperative broke the pair."
+ },
+ {
+  "key": "/1E9F89BB42C33AA8779A65A207C8F6AF",
+  "before": "استيقظ",
+  "after": "الاستيقاظ",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/CF285EDA4981B2C4006AAA8208454039",
+  "before": "لا نعلم من رآها أولًا، الحقيقة المنقوشة في الحجر. لكنها كانت لا تُنكَر. كُتب بوضوحٍ على السبج كل ما تآمروا عليه: المُكرَّمون وسقوطهم على يد اللقيط. تاريخنا، مستقبلنا، نُقشا على المِسلّة. وهي التي قادتنا إلى دولمن.",
+  "after": "لا نعلم من رآها أولًا، الحقيقة المنقوشة في الحجر. لكنها كانت لا تُنكَر. كُتب بوضوحٍ على السبج كل ما جرى: المُكرَّمون وسقوطهم على يد اللقيط. تاريخنا، مستقبلنا، نُقشا على المِسلّة. وهي التي قادتنا إلى دولمن.",
+  "why": "'all that had conspired' here means all that had come to pass; ما تآمروا عليه turned it into a plot the Revered hatched, which reverses who did what."
+ },
+ {
+  "key": "/E63B732D45AF9E6BC2CF83AF2B524423",
+  "before": "تحذير. البوابة مغلقة حتى إشعارٍ آخر. فرّ أحمقٌ خائن بالرافعة، وستُمنح مكافأة لمن يعيدها. آخر ما شُوهد الجاني هاربًا نحو الوادي.",
+  "after": "تحذير. البوابة مغلقة حتى إشعارٍ آخر. فرّ أحمقٌ خائن بالرافعة، وستُمنح مكافأة لمن يعيدها. وآخر مرة شُوهد فيها الجاني كان هاربًا نحو الوادي.",
+  "why": "آخر ما شُوهد + a noun leaves the sentence without a predicate; the notice's last line now closes properly."
+ }
+]

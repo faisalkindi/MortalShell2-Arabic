@@ -1,0 +1,27 @@
+{"chunk": 25, "rows_reviewed": 90, "findings": [
+  {"key": "/88B3B4904202B7ED1704EAB0B9C6276B",
+   "type": "term_violation", "severity": "major",
+   "source_en": "By the will and royal order of High Lord of Mammon, King Vellen, it is hereby decreed that the Grand Prince Egon shall be stripped of all titles, lands, and put to death.",
+   "ar": "بمشيئة سيد مَمُّون الأعظم، الملك ڤيلن، وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+   "issue": "Two inconsistencies with the rest of the corpus: (1) 'Mammon' is spelled مَمُّون here vs. مامون everywhere else (Outskirts of Mammon, Gate of Mammon, Royal Crypt of Mammon); (2) 'High Lord' is rendered السيد الأعظم here vs. the consistent السيد الأعلى used for this exact title elsewhere (including Vellen's own 'Vellen, High Lord of Mammon' -> ڤيلن، سيّد مامون الأعلى).",
+   "suggested_ar": "بمشيئة سيد مامون الأعلى، الملك ڤيلن، وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل."},
+
+  {"key": "/75B69AC343E9C1E4B11A7D80C61CA6A8",
+   "type": "term_violation", "severity": "major",
+   "source_en": "By the will and royal order of High Lord of Mammon, it is hereby decreed that the Grand Prince Egon shall be stripped of all titles, lands, and put to death.",
+   "ar": "بمشيئة سيد مَمُّون الأعظم وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+   "issue": "Same two inconsistencies as the sibling decree row: مَمُّون vs. the corpus-standard مامون, and السيد الأعظم vs. the corpus-standard السيد الأعلى for 'High Lord'.",
+   "suggested_ar": "بمشيئة سيد مامون الأعلى وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل."},
+
+  {"key": "/4067D465427D043B70EDD39372B66328",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Disciple", "ar": "المريد",
+   "issue": "Generic Disciple NPC label using reserved-for-Tiel المُريد instead of the generic أتباع/تابِع (compare 'Cultist' in the same batch, correctly رendered تابع الطائفة).",
+   "suggested_ar": "التابِع"},
+
+  {"key": "/7E0C2A994050417E290F88A541D85A16",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Disciple", "ar": "المريد",
+   "issue": "Same reservation violation as the other 'Disciple' row in this batch.",
+   "suggested_ar": "التابِع"}
+]}

@@ -1,0 +1,8 @@
+[
+ {
+  "key": "Dialogue_Dlg_Blacksmith_GiveLathe/D3506BEB42FC680BAA0831B4194535A1",
+  "before": "يكاد… منظرها يُذهب العقل.",
+  "after": "يكاد… منظره يُذهب العقل.",
+  "why": "'يُجنّن النظر إليه' is clumsy; referent is the Obsidianite (masc.)"
+ }
+]

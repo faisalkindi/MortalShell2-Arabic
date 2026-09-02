@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_Hexapod/A2357E1A4EE5938C99FF1DAE00091F1E",
+  "before": "أسمعه... يزحف بخفة.",
+  "after": "أسمعه... يدبّ مسرعًا.",
+  "why": "skittering is scuttling, not the slow crawl of يزحف"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_Mouth_Interact/AF0D64D64B329AC9FD187EB24C50A423",
+  "before": "ما هو إلا فمٌ عظيم لا غير.",
+  "after": "ما هو إلا فمٌ هائل.",
+  "why": "'إلا' and 'لا غير' both did the exclusion; one of them had to go"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_Mouth_Interact/6AAB5CA14994955ED97ECC80C5F1F280",
+  "before": "بكر السيدة...",
+  "after": "بكر السيدة الحاضنة...",
+  "why": "'the matron' is rendered السيدة الحاضنة in row 9 of the same scene"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_ScholarPince/D9F5138B4C8DBBBC071C04B039B0ECEC",
+  "before": "سمعتُ أجنحة عظيمة... تُصدر طنينًا.",
+  "after": "سمعتُ أجنحة عظيمة... تطنّ.",
+  "why": "'تُصدر طنينًا' is a filler verb Arabic does not need"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_Boss_Swordman_Interact/B67DF81A4116910016CDFA9A9864A836",
+  "before": "ذلك العذاب... يبدو مألوفًا.",
+  "after": "ذلك العذاب... صوته مألوف.",
+  "why": "Ruk is hearing the screams; 'يبدو مألوفًا' lost the auditory sense"
+ }
+]

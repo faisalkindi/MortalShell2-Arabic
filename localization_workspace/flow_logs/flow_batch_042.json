@@ -1,0 +1,74 @@
+[
+ {
+  "key": "/0427A0FC4ADDBBE39A23A8AB4C203B6F",
+  "before": "فحص هارولد",
+  "after": "فحص هارْوالد",
+  "why": "Harwald was transliterated as هارولد (Harold) — a different name; Hilga's dead partner is Harwald."
+ },
+ {
+  "key": "/2AE984F940C29853F0415BA85B4EC8D0",
+  "before": "فحص رفات هارولد",
+  "after": "فحص رفات هارْوالد",
+  "why": "Same name fix, kept identical to its sibling row."
+ },
+ {
+  "key": "/9C70AFB64AFEAA569BFBD9B0EC88AC40",
+  "before": "إعدام القروي المتوسل",
+  "after": "الإجهاز على القروي المتوسل",
+  "why": "Frozen glossary term: Execution = الإجهاز, explicitly NOT الإعدام (capital punishment). Two rows above already read الإجهاز, so the column was split against itself."
+ },
+ {
+  "key": "/B4DE271041D97D3446BB0984DAE16304",
+  "before": "إعدام القروي المتوسل",
+  "after": "الإجهاز على القروي المتوسل",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/D67C78AA44B8AEB40AC3309529CAC65B",
+  "before": "إعدام القروي المتوسل",
+  "after": "الإجهاز على القروي المتوسل",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/E8551E0442414AF859BB70A68EE6CA21",
+  "before": "إعدام القروي المتوسل",
+  "after": "الإجهاز على القروي المتوسل",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/F1E69EB7428CB91C0D068C8F8F25A68E",
+  "before": "إعدام القروي المتوسل",
+  "after": "الإجهاز على القروي المتوسل",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/4FEDBAE346FED887D3C4E196DE1402C6",
+  "before": "إعدام اللورد ڤيلن",
+  "after": "الإجهاز على اللورد ڤيلن",
+  "why": "Same frozen Execution term."
+ },
+ {
+  "key": "/8C8C5327435E40ABDB60FCB9807C0EE5",
+  "before": "إعدام الطفل الفاسد",
+  "after": "الإجهاز على الطفل الفاسد",
+  "why": "Same frozen Execution term."
+ },
+ {
+  "key": "/DD27FC1A419B17442658C385C199DF3A",
+  "before": "إعدام القاضي",
+  "after": "الإجهاز على المُقتَصّ",
+  "why": "Two frozen terms in one row: Execution = الإجهاز and Justiciar = المُقتَصّ (not القاضي)."
+ },
+ {
+  "key": "/A0241D4840B8E21FB9CDA2B04A688C22",
+  "before": "إعدام المسافر",
+  "after": "الإجهاز على المسافر",
+  "why": "Same frozen Execution term."
+ },
+ {
+  "key": "/769DDC0E46D1B975920A8B95C7B77BDC",
+  "before": "فشل. فرغم أن الخاضع يبدو معافى، ظل مزاجه الوحشي كما هو. ومع هذا الانتكاس، لا بد أن تُقرّ حتى أنت، يا ريكارت، أنه لأعجوبة أن ترى أطرافه المطعَّمة تعمل في وئامٍ تام.",
+  "after": "فشل. فرغم أن موضوع التجربة يبدو معافى، ظل مزاجه الوحشي كما هو. ومع هذا الانتكاس، لا بد أن تُقرّ حتى أنت، يا ريكارت، أنه لأعجوبة أن ترى أطرافه المطعَّمة تعمل في وئامٍ تام.",
+  "why": "الخاضع alone reads as 'the submissive one'; موضوع التجربة is the phrase the sibling research note now uses, keeping the two lab reports in one voice."
+ }
+]

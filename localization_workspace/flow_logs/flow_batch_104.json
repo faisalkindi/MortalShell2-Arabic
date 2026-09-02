@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/07B3928F4D89B3444F11E88D8BAFCB59",
+  "before": "أوه، هيا يا ابن العمّ.",
+  "after": "هيّا يا ابن العمّ.",
+  "why": "'أوه' is out of the mock-courtly register"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/AC3CF6A04D0234C18C787EA0A41E9F0E",
+  "before": "بينما لا زلتُ أسمح بذلك.",
+  "after": "ما دمتُ لا أزال أسمح بذلك.",
+  "why": "'لا زلتُ' is ungrammatical for ما زلت, and بينما is the wrong connector here"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/584BD6E04AA649E4CF622C88CE0A15F5",
+  "before": "تسحب مساهمتك؟ هذا... غير حكيم.",
+  "after": "تسحب مساهمتك؟ هذا… غير حكيم.",
+  "why": "ASCII ellipsis inside Arabic text"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Test/8F672D964943E4C3AAA6D884BB5B3BD5",
+  "before": "قليل، لكنّها بداية. أحضِر المزيد وسأُكافئك بسخاء.",
+  "after": "نزرٌ يسير، لكنّه بداية.",
+  "why": "gender clash between 'قليل' and 'لكنّها'"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Greeting_Test/A7E2626E4F5F685C74983885844AAEC8",
+  "before": "أوه، ما هذا؟ ضيف؟",
+  "after": "عجبًا، ما هذا؟ ضيف؟",
+  "why": "'أوه' is out of register for the mock-courtly voice"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Greeting_Test/9B523F394A1F486E507413A19B62C2A4",
+  "before": "أوه، ما هذا؟ فارس؟",
+  "after": "عجبًا، ما هذا؟ فارس؟",
+  "why": "same fix as its sibling row"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Interact_01/C4C383C543D7ED23EE4EBDBA3E948E47",
+  "before": "واجعله يستحقّ.",
+  "after": "واجعله يُذكَر.",
+  "why": "'يستحقّ' is left dangling without an object"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Interact_01/217F99704C11A0DE0B7079BE38895FB1",
+  "before": "فأنا الأمير الأعظم إيغون على أي حال.",
+  "after": "فأنا الأمير الأعظم إيغون، لا أقلّ.",
+  "why": "'على أي حال' misreads 'afterall' as concession rather than self-aggrandisement"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Interact_Test/1121B6874EAA1CD90761EEB095BA8854",
+  "before": "ستُردّ عطيّتك ضِعفين... حين أرث عرش أبي.",
+  "after": "ستُردّ عطيّتك ضِعفين… حين أعتلي عرش أبي.",
+  "why": "ASCII ellipsis; 'أرث' presumes inheritance where the source says 'take'"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_InteractEnd_09_Repeatable/6BF4D07040A966562230CEA8BE329928",
+  "before": "أانتهينا هنا؟",
+  "after": "أفرغنا من هذا؟",
+  "why": "'أانتهينا' stacks two hamzas awkwardly"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Lazlo_Gifts_10/B3C86B2146BA9D60CA0242B88BAEEA6B",
+  "before": "الآن هذا هو لازلو الذي أعرفه.",
+  "after": "ها هو لازلو الذي أعرفه.",
+  "why": "'الآن هذا هو' is word-for-word 'Now that's the'"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Lazlo_Interact_01/0497FD1D4AEC0E5505C289A5EB364CEE",
+  "before": "آه... من الجيد رؤيتك مجددًا.",
+  "after": "آه… كم يسرّني أن أراك ثانية.",
+  "why": "ASCII ellipsis and missing space; 'من الجيد رؤيتك' is a calque"
+ },
+ {
+  "key": "Dialogue_Dlg_BlisterBoi_Greeting_09_Repeatable/A804E46E4FD58671E53C62AAB3B54628",
+  "before": "ليس آمنًا هنا.",
+  "after": "المكان هنا غير آمن.",
+  "why": "'ليس آمنًا هنا' has no subject in Arabic"
+ }
+]

@@ -1,0 +1,51 @@
+{
+ "chunk": 11,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Menu_Tarstones/CombatTarstonesTutorial",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Grant a variety of enhancements to Weapons and Sidearms",
+   "ar": "تمنح تعزيزات متنوعة للأسلحة والأسلحة الجانبية",
+   "issue": "\"Weapons and Sidearms\" is frozen as الأسلحة الرئيسية والجانبية (owner ruling 2026-09-01). Its three sibling rows in the same menu (InfusionTarstonesTutorial, AbilityTarstonesTutorial) use the frozen form; this one does not, so the same UI screen shows two renderings of one term.",
+   "suggested_ar": "تمنح تعزيزات متنوعة للأسلحة الرئيسية والجانبية"
+  },
+  {
+   "key": "ST_Core_Menu_Tarstones/TarstoneCompatibilityTutorial",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Some Tarstones can be equipped only to specific Weapons and Sidearms",
+   "ar": "بعض أحجار القار لا تُجهَّز إلا على أسلحة وأسلحة جانبية بعينها",
+   "issue": "Same frozen term as above, here in its indefinite form; 'أسلحة وأسلحة جانبية' repeats the noun instead of using the frozen pairing.",
+   "suggested_ar": "بعض أحجار القار لا تُجهَّز إلا على أسلحة رئيسية وجانبية بعينها"
+  },
+  {
+   "key": "ST_Core_Tarforge/DorsaliteFlavorText",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "A remnant of the chitinous carapace that allowed the Blessed Mether to descend upon what would become Fainweald.",
+   "ar": "بقيّةٌ من الدِّرع القِرنيّ الذي أهبط الأُمَّهة المباركة على ما صار فيما بعد فاينوالد.",
+   "issue": "'أهبط' makes the carapace the agent that brought her down; the English says it ENABLED her descent (it is what she descended in). Reverses the causal relation.",
+   "suggested_ar": "بقيّةٌ من الدِّرع القِرنيّ الذي مكّن الأُمَّهة المباركة من الهبوط على ما صار فيما بعد فاينوالد."
+  },
+  {
+   "key": "ST_Core_Weapons/ClockworkScytheAbility",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Clockwork Chainsaw",
+   "ar": "المنشار الدوّار",
+   "issue": "Its parent weapon 'Clockwork Scythe' is rendered المنجل الآليّ, so 'Clockwork' is آليّ there but becomes الدوّار here; 'chainsaw' is also lost. Same adjective should read the same on the same weapon's card.",
+   "suggested_ar": "المنشار السلسليّ الآليّ"
+  },
+  {
+   "key": "ST_Core_Weapons/BattleAxe",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Veteran's Battle Axe",
+   "ar": "فأس المُخَضرَم",
+   "issue": "'Battle' is dropped; the item's weapon class is part of its name here (its description calls it a solid steel axe).",
+   "suggested_ar": "فأس المُخَضرَم القتاليّ"
+  }
+ ]
+}

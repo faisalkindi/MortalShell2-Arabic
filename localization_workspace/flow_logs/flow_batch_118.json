@@ -1,0 +1,20 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Neutral_05_30",
+  "before": "أنت حرّ في الذهاب.",
+  "after": "لك أن تنصرف.",
+  "why": "'أنت حرّ في الذهاب' is the English phrase transposed; a prince dismisses with لك أن تنصرف"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Greeting_09_10",
+  "before": "لقد عدت؟",
+  "after": "أعُدتَ؟",
+  "why": "a declarative with a question mark tacked on; the interrogative alif carries it"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_08_20",
+  "before": "…كسولون، بسطاء، و…",
+  "after": "…كسولون، غِلاظ الطبع، و…",
+  "why": "بسطاء is kind; Egon's 'unsophisticated' is contemptuous"
+ }
+]

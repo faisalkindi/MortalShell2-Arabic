@@ -1,0 +1,43 @@
+source_term,type,approved_ar,status,notes
+Shell,mechanic,غلاف,approved,possessable warrior corpse/class; matches Asmar draft consistently
+Harbinger,character,النذير,approved,player character; matches Asmar draft consistently
+Gloom,mechanic,الظلمة,approved,souls-like currency; matches Asmar draft consistently
+Resolve,mechanic,العزيمة,approved,replaces stamina; matches Asmar draft consistently
+Beacon,mechanic,منارة,approved,checkpoint/fast-travel; matches Asmar draft consistently
+Tarstone,mechanic,تارستون,approved,transliterated upgrade gem; matches Asmar draft
+Tarforge,location/mechanic,تارفورج,approved,transliterated upgrade station; matches Asmar draft
+Seal,mechanic,ختم,approved,defensive-mechanic equipment; matches Asmar draft
+Hardening,mechanic,التصلب,approved,Vatra's Seal block/petrify action; NOT in Asmar draft sample - freeze now
+Ova,mechanic/story,أوفا,approved,invariant plural/singular transliteration; matches Asmar draft (Ovum singular = أوفة if ever needed - verify in pilot)
+Glimpse,mechanic,لمحة,approved,Shell-bonding currency; matches Asmar draft consistently
+Etching Needles,item,إبر النقش,approved,"CONFLICT FOUND in Asmar draft: appears as both ""إبر النقش"" (2x) and ""إبر الحفر"" (1x) - freezing إبر النقش as canonical, sweep corpus to fix the variant"
+Mether's Pulse,mechanic,نبض ميثر,approved,matches Asmar draft; keep distinct from Mether's Breath
+Mether's Breath,mechanic,نفَس ميثر,approved,matches Asmar draft; keep distinct from Mether's Pulse
+Undermether,character,أندرميثر,approved,deity; matches Asmar draft consistently; also appears as UnderMether/Undermehter in source namespaces (same entity per corpus research)
+Fallgrim,location,فولغريم,approved,"CONFLICT FOUND in Asmar draft: appears as فالجرام / فالغريم / فالغرين (3 different spellings) - freezing فولغريم as canonical, sweep corpus to fix all variants"
+Marrow Keep,location,حصن النخاع,approved,"CONFLICT FOUND in Asmar draft: appears as حصن النخاع AND قلعة العظم (bone vs marrow, two different words) - freezing حصن النخاع (matches source word ""Marrow"" exactly), sweep corpus to fix the bone-keep variant"
+Foul Passenger,story,الراكب الفاسد,approved,matches Asmar draft consistently
+Ascended Usurper,story,المغتصب الصاعد,pending,final boss; not found in Asmar draft sample - needs verification against in-game boss name string before freezing
+False gods,story,الآلهة الزائفة,approved,standard rendering; matches common Arabic gaming-press usage for this game already
+Break,mechanic,الكسر,approved,posture-break damage meter; matches Asmar draft; NOTE "Break In" (different UI action, possibly unrelated meaning) mistranslated as السرقة in draft - needs individual content check, not a glossary case
+Sester,honorific/title,سستر,approved,in-fiction cult honorific (NOT literal "sister") - transliterate invariant per Asmar draft; do not map to Arabic أخت
+Ova (singular Ovum),story,أوفة,pending,verify against in-game singular usage before freezing - Asmar draft only shows plural أوفا
+Egon,character,إيغون,approved,Grand-Prince/heir of Dannor; male; also appears as BlisterBoi (same character, earlier life stage) - one name across both contexts
+Gorf,character,غورف,approved,frog-man NPC; male
+Hilga,character,هيلغا,approved,tavern-keeper NPC; female; post-transformation same name (HilgaTransformed)
+Franz,character,فرانز,approved,blacksmith/Tarforge NPC; male; corpus speaker key "Blacksmith" = this character
+Merrick,character,ميريك,approved,merchant NPC; male; corpus speaker key "Merchant" = this character
+Vlas,character,فلاس,approved,trader NPC with escape questline; likely male (unconfirmed by pronoun)
+Zhirelle,character,زيريل,approved,the Shellkeeper; corpus speaker key "Shellkeeper" = this character
+Tiel,character,تيل,approved,playable Shell; male
+Eredrim,character,إردريم,approved,playable Shell; male
+Proxima,character,بروكسيما,approved,playable Shell; female; also a deceased hunter NPC tied to Merrick's subplot (verify if same-named or coincidence before batch translation)
+Gragu,character,غراغو,approved,playable Shell; male
+Smert,character,سميرت,approved,playable Shell; male
+Lazlo,character,لازلو,approved,playable Shell; male
+Sariel,character,سارييل,approved,playable Shell; male
+Genessa,character,جينيسا,approved,playable Shell / Sester Genessa; female
+Harros the Vassal,character,هاروس التابع,approved,prologue-only Shell; male
+Lucian,character,لوسيان,approved,"the Thirsting Knight, miniboss; VERIFIED against in-game key ST_Core_MiniBosses/VampireKnight_MiniBoss (not ""Lucien"" per one inconsistent web source)"
+Baghead,character,باغهيد,approved,secret NPC; male
+Mircam,character,,rejected,"web research flagged as UNCONFIRMED; corpus search returned ZERO hits for this name - does not exist in this game, drop entirely, was a hallucinated/misheard name"

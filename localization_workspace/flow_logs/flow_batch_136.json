@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_DropChild/3E67EAD4446CE215A369C7B7439DB846",
+  "before": "الآن، أخبرني عن هذه… «لافندر».",
+  "after": "الآن، أخبرني عن هذه... «لافندر».",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_Intro/A1FAAC574D2FA0A43158F582AC792257",
+  "before": "الآن، أخبرني عن هذه… «لافندر».",
+  "after": "الآن، أخبرني عن هذه... «لافندر».",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_ExamineStatue/70DAD1F44632FD9DE771DCBC00DCA356",
+  "before": "(يئنّ) رأيتُ هذا من قبل.",
+  "after": "(يهمهم) رأيتُ هذا من قبل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_Intro/0A83BF2149EBA2535DE48EA27E5134A6",
+  "before": "… في نذيرٍ من لحم.",
+  "after": "… في آيةٍ من لحم.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_PickUpChild/340CB08B4AABBD72EE34CFAD36FFDEA2",
+  "before": "إنه… إنه كله خطؤه.",
+  "after": "كل هذا… كل هذا ذنبه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_UrgeChildToContinue/7324338D4B328B6361F7EE99FA6CF427",
+  "before": "فقط إن اضطُررت.",
+  "after": "إن اضطررتُ فقط.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_DefyCannibalLeader/51B2D42C48567E746196D5B797AF808A",
+  "before": "لكن هؤلاء لصوص… فلاحون… أطفال.",
+  "after": "لكن هؤلاء قُطّاع طرق… فلاحون… أطفال.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_Intro/9075C98E4CD5DD0CF93D32A60ABD50EF",
+  "before": "لا تركض… حين أُطيح بك.",
+  "after": "لا تركض… حين أُنزلك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_Intro/EE8577A743F91ADD981A1EB5A434EFFD",
+  "before": "إنه لحم الإله الصغير ما أنشده. هذه… «لافندر».",
+  "after": "لحم الإله الصغير هو ما أنشده. هذه… «لافندر».",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_02_SpeakUp/7D9A371F46880765C609FB9A10873EC4",
+  "before": "إذن سيكفي قلب الطفل بدلًا منه.",
+  "after": "إذن فليكفِ قلب الطفل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheDivine_01_ClaimTheDivine_Continue/90DDDC5F423EEAD53A3C258B190D4D25",
+  "before": "الآن بعد أن ذُقتَ الإلهي.",
+  "after": "الآن وقد ذقتَ طعم الألوهة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheDivine_01_Intro/424DDBB645C370928BB06E8800E02769",
+  "before": "من خلالي يكمن الإلهي!",
+  "after": "بي تُدرَك الألوهة!",
+  "why": "flow"
+ }
+]

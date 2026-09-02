@@ -1,0 +1,14 @@
+[
+ {
+  "key": "/C53E19F844804432384DE4AE6029264A",
+  "before": "ابحث عن خنجري. تلك هي الإشارة. أسفل الزقاق، خلف العربة. أثق أنك ستعرف ما تفعله.",
+  "after": "ابحث عن خنجري. تلك هي الإشارة. في آخر الزقاق، بعد العربة. أثق أنك ستعرف ما تفعله.",
+  "why": "'Down the alley, past the cart' became أسفل/خلف — 'beneath the alley, behind the cart'. The directions are along the alley and past the cart."
+ },
+ {
+  "key": "/CB8ADA1040F50FBC518A3F89D297FFC2",
+  "before": "الأقحوان",
+  "after": "الآذريون",
+  "why": "الأقحوان is chamomile/daisy; marigold is الآذريون."
+ }
+]

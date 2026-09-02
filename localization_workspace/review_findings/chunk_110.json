@@ -1,0 +1,33 @@
+{
+ "chunk": 110,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Barkeep/Barkeep_Option_Speak",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Speak with Barkeep",
+   "ar": "محادثة الساقي",
+   "issue": "Not glossary-frozen, but 'Barkeep'/'Tavern Keeper' is rendered صاحب الحانة in all seven other rows of this corpus - including 'Tavern Keeper' two rows away in this same shop widget. This prompt alone calls him الساقي, so one screen names the NPC twice, differently.",
+   "suggested_ar": "محادثة صاحب الحانة"
+  },
+  {
+   "key": "ST_Core_Bosses/Boss_Swordman",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "The Nameless Captive",
+   "ar": "الأسير المجهول",
+   "issue": "'Nameless' is rendered بلا اسم elsewhere in the corpus ('Nameless Pass' = مَعبَر بلا اسم). المجهول means 'unknown', which is a claim about who he is rather than about his lacking a name.",
+   "suggested_ar": "الأسير بلا اسم"
+  },
+  {
+   "key": "ST_Core_Charges/DefaultChargesDesc",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A reverberation from the Underglade that mends wounds and knits flesh anew. There is no question that the Harbinger has been bred for a task no mortal could undertake.",
+   "ar": "صدىً من الأجمة السفلى يرأب الجراح ويعيد نسج اللحم. لا شكّ أن النذير استُولد لمهمّةٍ لا يطيقها فانٍ.",
+   "issue": "A glade is a clearing in a forest; أجمة is a dense thicket - the opposite feature. The 'Under-' half correctly mirrors Undermether = الأُمَّهة السُّفلى, so only the second element is wrong.",
+   "suggested_ar": "صدىً من الفَسحة السفلى يرأب الجراح ويعيد نسج اللحم. لا شكّ أن النذير استُولد لمهمّةٍ لا يطيقها فانٍ."
+  }
+ ]
+}

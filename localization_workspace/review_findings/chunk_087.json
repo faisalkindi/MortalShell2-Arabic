@@ -1,0 +1,60 @@
+{
+ "chunk": 87,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/MangoGameplayDesc",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Improves life.",
+   "ar": "يحسّن الحياة.",
+   "issue": "'يحسّن الحياة' reads as improving quality of life. This row sits in a run of stat-item descriptions (Heals a small amount / Restores Resolve / Increases X resistance), so 'life' is the health stat, not life-the-condition.",
+   "suggested_ar": "يحسّن الصحة."
+  },
+  {
+   "key": "/MapFragmentItem",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Map Fragment:",
+   "ar": "شظية الخريطة:",
+   "issue": "شظية is a splinter of a hard, brittle thing - correct for 'Monolith Fragment' two rows later, wrong for a map. The map itself is described elsewhere in this batch set as 'A rudimentary cloth map'.",
+   "suggested_ar": "قصاصة الخريطة:"
+  },
+  {
+   "key": "/EternalCore",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Endless Core",
+   "ar": "النواة الأبدية",
+   "issue": "الأبدية is 'eternal'. The corpus already has a settled rendering for this family - Infinite Seal is frozen as الخاتم اللانهائي, and 'infinity' is اللانهاية throughout these lore rows. The item removes the upgrade level cap ('Install Endless Core' at the Tarforge), so the endless/limitless sense is the point. Not the Sariel title case - that stays السَّرْمَدي.",
+   "suggested_ar": "النواة اللانهائية"
+  },
+  {
+   "key": "/ThestusFlameFlavorText",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "The flame burns impossibly. Shadows appear to grow and stretch in its cold brilliance. Within one’s grasp, it begins to feel as if a hopeless, endless night will threaten even the brightest day.",
+   "ar": "يحترق اللهب على نحوٍ يستحيل تفسيره. تكبر الظلال وتتمدد في وهجه البارد. ومن يقبض عليه يكاد يشعر أن ليلًا يائسًا لا ينتهي سيهدّد أصفى الأيام.",
+   "issue": "'Shadows appear to grow' loses 'appear to' - the Arabic asserts the shadows do grow. Third instance of the same dropped-hedge pattern in this chunk pair (see chunk 086, the Biosampler and throbbing-sensation rows).",
+   "suggested_ar": "يحترق اللهب على نحوٍ يستحيل تفسيره. تبدو الظلال وكأنها تكبر وتتمدد في وهجه البارد. ومن يقبض عليه يكاد يشعر أن ليلًا يائسًا لا ينتهي سيهدّد أسطع الأيام."
+  },
+  {
+   "key": "/PoisonedDaggerGameplayText",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Only a knowledgeable inhabitant of these lands will know how to concoct a cure.",
+   "ar": "لا يعرف صنع الترياق إلا من عرف هذه الأرض حق المعرفة.",
+   "issue": "'inhabitant of these lands' became 'من عرف هذه الأرض' - one who knows the land. The English says the person both lives there and is knowledgeable; this is a quest hint pointing at a resident NPC, so dropping 'inhabitant' weakens what the player is told to look for.",
+   "suggested_ar": "لا يعرف صنع الترياق إلا عارفٌ من أهل هذه الأرض."
+  },
+  {
+   "key": "/Artifact_FinalBossFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "The severed remains of the Unbidden. At first, he was not unlike the Harbinger. And yet, as he matured into a new form, he succumbed to that which he was meant to destroy. The Foul Passenger breached his flesh, reshaping it for his own purposes. What was left of the original child? Who can say?",
+   "ar": "بقايا غير المدعُوّ المقطوعة. في البداية لم يكن يختلف كثيرًا عن النذير، لكنه حين نضج واتخذ هيئةً جديدة، استسلم لما كان يُفترض أن يدمّره؛ فاخترق الراكب الفاسد جسده وأعاد تشكيله لغاياته. فماذا بقي من الطفل الأول؟ من يدري؟",
+   "issue": "'the original child' became الطفل الأول (the first child). The English asks what remained of the child he originally was, not whether he was born first.",
+   "suggested_ar": "بقايا غير المدعُوّ المقطوعة. في البداية لم يكن يختلف كثيرًا عن النذير، لكنه حين نضج واتخذ هيئةً جديدة، استسلم لما كان يُفترض أن يدمّره؛ فاخترق الراكب الفاسد جسده وأعاد تشكيله لغاياته. فماذا بقي من الطفل الأصلي؟ من يدري؟"
+  }
+ ]
+}

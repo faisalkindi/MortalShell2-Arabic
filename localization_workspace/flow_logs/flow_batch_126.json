@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_02_RaisedHands/466DDF9D4BCAA6DBD4CA1E8DA2E592A7",
+  "before": "حسنًا جدًا.",
+  "after": "أحسنتِ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_03_QuestionSecundus/FC19B2574A9F8E9D3DB7FD8495D5B2B1",
+  "before": "حمراء من الذنب.",
+  "after": "محمرّةَ الوجه من الذنب.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheCenser_03_QuestionSecundus/077C19504A01272803C9D6B8064EE1C1",
+  "before": "يا أُخَيّة، هل ضللتِ... الطريق؟",
+  "after": "يا أُخَيّة، هل ضللتِ… الطريق؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_AfterTakingPlace/ABFC8DBF4FF0ABEBB284D1A57F7A76F1",
+  "before": "لا تنُحن.",
+  "after": "لا تحزنّ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_AfterTakingPlace/1A1C893E43D6AB48DB3CBC9BCA916F8D",
+  "before": "أُخَيّاتي…",
+  "after": "أيتها الأُخَيّات…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_AfterTakingPlace/1BD941C94D393E2623E006A774525713",
+  "before": "يمكن للّقيط أن يرتاح أخيرًا.",
+  "after": "لِيَنعَم اللقيط بالراحة أخيرًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_DefyPrime/268248674BF91E3FF829F4A82D9E0239",
+  "before": "لا تكوني طفولية.",
+  "after": "كفاكِ صِبيانية.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_DefyPrime/195ACAFF456C7D63D63634B3ADB4391E",
+  "before": "مصيره كان محتومًا. كمصيرنا.",
+  "after": "كان مصيره محتومًا، كمصيرنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_Intro/E381799749B0F31A9F16F288AE2C2C4F",
+  "before": "لقد أبقيتِنا ننتظر، يا أُخَيّة.",
+  "after": "أطلتِ علينا الانتظار، يا أُخَيّة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_PostOutro/08D914C64785212E5A87009263870F04",
+  "before": "رأيتُ ما ينتظر.",
+  "after": "رأيتُ ما هو آتٍ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_PostOutro/894848C548E49BADA84974BAC19E5B64",
+  "before": "إن لم تستطيعي الموافقة على هذا…",
+  "after": "إن عجزتِ عن قبول هذا…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_PostOutro/B81F6EAF48AC3F2F18ECB8B3882AB278",
+  "before": "إذن سنُريكِ خطأ طريقك.",
+  "after": "إذن سنجعلكِ ترين ضلالَ طريقكِ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_TheFuneral_01_PostOutro/41FE8C10439583AD3A20B3917C36A53C",
+  "before": "أيّ خيار لديّ؟",
+  "after": "وأيّ خيار لي؟",
+  "why": "flow"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "key": "ST_GorfDialogues/Gorf_FarGreeting_Repeat_06",
+  "before": "(صفيرٌ ضعيف)",
+  "after": "(أزيز نفَسٍ ضعيف)",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_07_FarGreeting",
+  "before": "(صفيرٌ ضعيف)",
+  "after": "(أزيز نفَسٍ ضعيف)",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_HilgaItem_08_60",
+  "before": "يبدو أن لديها مفاجأةً من نوعٍ ما لي.",
+  "after": "يبدو أن لديها مفاجأةً ما لي.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_09_23",
+  "before": "لكن سيكون لديّ دومًا وقتٌ لأغنية خاصة بك.",
+  "after": "لكن سيبقى عندي دومًا وقتٌ لأغنيةٍ لك وحدك.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_02_20",
+  "before": "لكن هل لديك ربما…",
+  "after": "لكن ألديك ربما…",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_GenericReturn_04_10",
+  "before": "أيمكنني إزعاجك بطلب رشفة أخرى؟",
+  "after": "أأثقل عليك برشفةٍ أخرى؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_06_20",
+  "before": "لا تُهدر مُقوّيك عليّ.",
+  "after": "لا تُهدر شرابك عليّ.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_BabyFrog_10_30",
+  "before": "حظًا موفقًا في الإمساك به.",
+  "after": "بالتوفيق في الإمساك به.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Corpse_05_20",
+  "before": "اقتحم المكان، يهذي عن «فروغا العظيم» هذا.",
+  "after": "اقتحم المكان، يهذي عن «فروغا العظيم» ذاك.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_10_40_Hilga",
+  "before": "إنه متعَب. أعطه شرابًا.",
+  "after": "لقد تعب. اسقِه شرابًا.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_03_30",
+  "before": "كان لديّ وقتٌ طويل للتأمّل.",
+  "after": "أتيح لي وقتٌ طويل للتأمّل.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Corpse_05_10",
+  "before": "عرفتُ أنه لم يكن أنت، على الفور.",
+  "after": "عرفتُ على الفور أنه ليس أنت.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_GenericReturn_03_30",
+  "before": "سيرفع معنوياتي.",
+  "after": "لرفع ذلك معنوياتي.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_GenericReturn_03_10",
+  "before": "إنه تطفّلٌ منّي، لكن…",
+  "after": "قد يكون هذا تطفّلًا منّي، لكن…",
+  "why": "flow"
+ }
+]

@@ -1,0 +1,60 @@
+{
+ "chunk": 86,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/ProximaSpecimenFlavorText",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "A small shred of flesh extracted by the Biosampler. The rare few who’ve studied this mechanism agree it appears to “ingest” the specimen. But what exactly happens to the extract is a source of great disagreement. Perhaps it's best not to know.",
+   "ar": "قطعةٌ صغيرة من اللحم استخلصها المِجسّ الحيوي. يتفق القلة النادرة ممن درسوا هذه الآلية على أنها «تبتلع» العينة، أما ما يحدث للمستخلَص بعد ذلك فمثارُ خلافٍ كبير. ولعلّ الأفضل ألا يُعرف.",
+   "issue": "Biosampler is frozen as جامع العينات الحيوية (that is the rendering used across the ST_Skills_Proxima rows and ST_Core_Player_Abilities). This row invents المِجسّ الحيوي, so the item description no longer names the ability the player has equipped. Secondary: 'appears to' is dropped, so the Arabic asserts as fact what the English reports only as an appearance - the hedge is load-bearing, since the next sentence turns on nobody actually knowing what the mechanism does.",
+   "suggested_ar": "قطعةٌ صغيرة من اللحم استخلصها جامع العينات الحيوية. يتفق القلة النادرة ممن درسوا هذه الآلية على أنها تبدو وكأنها «تبتلع» العينة، أما ما يحدث للمستخلَص بعد ذلك فمثارُ خلافٍ كبير. ولعلّ الأفضل ألا يُعرف."
+  },
+  {
+   "key": "/465BBB71439571237D906DBFEBFC42A3",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "What ever became of Queen Irenia? Unfortunately, we shall likely never know, for the ensuing revolts in Mammon destroyed much of the historical records and the royal crypts. I, for one, believe she [blood blots out the rest]",
+   "ar": "ماذا آل إليه أمر الملكة إيرينيا؟ للأسف، لن نعرف على الأرجح أبدًا، فالثورات التي تلت في مَمُّون دمّرت كثيرًا من السجلات التاريخية والأقبية الملكية. أنا شخصيًّا أعتقد أنها [يطمس الدم البقية]",
+   "issue": "'crypt' is سرداب throughout this corpus - Crypt of Martyrs = سرداب الشهداء is frozen, and 'Royal Crypt of Mammon' / 'The King's Crypt' are the same referent as these 'royal crypts'. الأقبية means cellars and breaks the link to the Royal Crypt the player actually visits.",
+   "suggested_ar": "ماذا آل إليه أمر الملكة إيرينيا؟ للأسف، لن نعرف على الأرجح أبدًا، فالثورات التي تلت في مَمُّون دمّرت كثيرًا من السجلات التاريخية والسراديب الملكية. أنا شخصيًّا أعتقد أنها [يطمس الدم البقية]"
+  },
+  {
+   "key": "/27888FBE45B55D3628630AB385A5B56E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Vault",
+   "ar": "الخزنة",
+   "issue": "Uncertain - flagged for verification, not asserted. Its sibling rows in ST_LandingAreaNames are 'Obsidian Vault' and \"Shellkeeper's Vault\", i.e. vault here is a chamber the player walks into, not a strongbox. الخزنة reads as a safe or deposit box.",
+   "suggested_ar": "القبو"
+  },
+  {
+   "key": "/ElectricConduitFlavorText",
+   "type": "omission",
+   "severity": "low",
+   "source_en": " A strange, throbbing sensation emanates from within like distant thunder. Some objects even seem to draw the energy, but only with careful focus.",
+   "ar": "إحساسٌ غريب نابض يتردّد من الداخل، أشبه برعدٍ بعيد. بل إن بعض الأشياء تستدرّ هذه الطاقة، ولا يتأتّى ذلك إلا بتركيزٍ شديد.",
+   "issue": "'seem to' is dropped - the Arabic asserts that some objects do draw the energy, where the English only says they appear to. Same hedge-loss as the Biosampler row.",
+   "suggested_ar": "إحساسٌ غريب نابض يتردّد من الداخل، أشبه برعدٍ بعيد. بل إن بعض الأشياء تبدو وكأنها تستدرّ هذه الطاقة، ولا يتأتّى ذلك إلا بتركيزٍ شديد."
+  },
+  {
+   "key": "/HPUpgradeFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A strange, root-like growth that radiates warmth as it pulses with an unseen heartbeat.",
+   "ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+   "issue": "'heartbeat' became قلب (a heart) and 'as' became كلما (every time), turning a continuous state into a repeated event. The identical text also appears on key /HealingUpgradeFlavorText in this chunk and needs the same fix.",
+   "suggested_ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا وهو ينبض بنبضٍ لا يُرى."
+  },
+  {
+   "key": "/HealingUpgradeFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A strange, root-like growth that radiates warmth as it pulses with an unseen heartbeat.",
+   "ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+   "issue": "Duplicate of the /HPUpgradeFlavorText row: 'heartbeat' became قلب and 'as' became كلما.",
+   "suggested_ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا وهو ينبض بنبضٍ لا يُرى."
+  }
+ ]
+}

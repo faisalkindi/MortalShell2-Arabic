@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_BrigMerchant_Buy/7E244C6248EDB8F5BD85B086CC9BED6E",
+  "before": "عقدتَ صفقة.",
+  "after": "اتفقنا إذن.",
+  "why": "'عقدتَ صفقة' is a calque; اتفقنا is what a trader says"
+ },
+ {
+  "key": "Dialogue_Dlg_BrigMerchant_CantBuy/8FC883D146BA00B50DC55885932AB797",
+  "before": "لا هبات هنا.",
+  "after": "لا صدقات هنا.",
+  "why": "'هبات' misses the alms sense of 'handouts'"
+ },
+ {
+  "key": "Dialogue_Dlg_BrigMerchant_OnFocus/7BF31ABF4F1B6D1F564F8E8708BE1522",
+  "before": "تريد أن تتذوّق؟ إذن ادفع.",
+  "after": "أتريد أن تذوق؟ فادفع إذن.",
+  "why": "missing interrogative hamza; ف of consequence instead of a bare إذن"
+ }
+]

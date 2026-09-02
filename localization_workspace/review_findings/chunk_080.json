@@ -1,0 +1,78 @@
+{
+ "chunk": 80,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/9F3EAC2B4AE6CA6650DC1986BEAF9F18",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Look at the young general. Spin around. Look at the young general. Spin around. The next time you look to young general, it will change your surrounds.",
+   "ar": "انظر إلى الجنرال الشاب. دُر. انظر إلى الجنرال الشاب. دُر. وحين تنظر إليه مجددًا، ستتبدل من حولك الجهات.",
+   "issue": "Same defect as its near-duplicate /12D107064597AE2AF4FE27920DA47415 (chunk 77): 'your surrounds' is the surroundings — the room itself changes. الجهات means the compass directions, turning the riddle's payoff into disorientation. Fix both together, since the two rows are the same puzzle hint.",
+   "suggested_ar": "انظر إلى الجنرال الشاب. دُر. انظر إلى الجنرال الشاب. دُر. وحين تنظر إليه مجددًا، يتبدّل ما حولك."
+  },
+  {
+   "key": "/58B11F9941E613DA4F5B63818A338FC0",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Muradean Actuator",
+   "ar": "محرّك مورادين",
+   "issue": "An actuator is the part that drives a mechanism, not an engine. محرّك is a motor, which overstates the item — it is one of the four key items handed to Franz to unlock a Tarforge function, not a power source.",
+   "suggested_ar": "مُشغِّل مورادين"
+  },
+  {
+   "key": "/64FFC34847E21EE5EC1115A315C5F5A6",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Map Station Flavour Text",
+   "ar": "نص نكهة محطة الخريطة",
+   "issue": "This is an unfilled authoring placeholder that shipped in the string table, and 'flavour text' has been translated word-for-word: نكهة is the taste of food, so the string reads 'the taste-text of the map station'. If it stays translated it needs the editorial sense (نص وصفي); the safer option is to leave it byte-identical to the English like the other dev markers.",
+   "suggested_ar": "Map Station Flavour Text"
+  },
+  {
+   "key": "/544613014977E9A7873156ADCE3D6CC1",
+   "type": "gender_error",
+   "severity": "minor",
+   "source_en": "My love, do not worry. We’ve finally picked up the Grisha’s tracks again. I left the key by our hut. It's in the usual spot.",
+   "ar": "يا حبيبتي، لا تقلقي. عثرنا أخيرًا على أثر الغريشا من جديد. تركت المفتاح قرب كوخنا، في المكان المعتاد.",
+   "issue": "The Arabic commits to a FEMALE addressee (حبيبتي، تقلقي) on a note whose English marks no gender at all. Nothing in the surrounding hunter notes in batches 44-45 establishes who the letter is to. Flagging as an unverified commitment rather than a confirmed error: if the recipient is checked in-game and is male, both forms are wrong; if unverifiable, a gender-neutral opening avoids the guess.",
+   "suggested_ar": "يا حبيبي، لا تقلق. عثرنا أخيرًا على أثر الغريشا من جديد. تركت المفتاح قرب كوخنا، في المكان المعتاد."
+  },
+  {
+   "key": "/CB8ADA1040F50FBC518A3F89D297FFC2",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Marigold ",
+   "ar": "الآذريون",
+   "issue": "CORRECTION to my earlier reading of this row. The glossary now rules Marigold = ماريغولد, an NPC name in ST_Core_NpcNames alongside Basil/Daisy/Holly (all transliterated), explicitly 'NOT the plant الآذريون'. The current Arabic translates a person's name into a flower.",
+   "suggested_ar": "ماريغولد"
+  },
+  {
+   "key": "/5D59E1A04E319FEA32A84BA8C552DBA9",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Mad Cultist",
+   "ar": "تابع الطائفة المجنون",
+   "issue": "Frozen glossary term: Cultist = عابد الطائفة, explicitly NOT تابع الطائفة, because التابِع is frozen as Harros's Vassal title.",
+   "suggested_ar": "عابد الطائفة المجنون"
+  },
+  {
+   "key": "/3D3E2A36476359BBCC2CD696FDA162C7",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Mutton",
+   "ar": "موتن",
+   "issue": "Frozen glossary transliteration: Mutton = ماتون (Vlas's caged companion). موتن is a second spelling of the same name.",
+   "suggested_ar": "ماتون"
+  },
+  {
+   "key": "/D51976874171F0754DD8C7B821A4C211",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Mutton",
+   "ar": "موتن",
+   "issue": "Duplicate of the row above; must move with it.",
+   "suggested_ar": "ماتون"
+  }
+ ]
+}

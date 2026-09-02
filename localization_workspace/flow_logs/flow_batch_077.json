@@ -1,0 +1,14 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/814380_description",
+  "before": "رأيتُ من عالمٍ آخر شينوبي بذراعٍ واحدة يُبعث مرارًا حتى غدا الموت أهون من دَين.",
+  "after": "رأيتُ من عالمٍ آخر شينوبي بذراعٍ واحدة يُبعث مرارًا حتى غدا الموت دَينًا أكثر منه عقابًا.",
+  "why": "MEANING FIX: 'less punishment than debt' is a comparison of what death IS; أهون من دَين turned it into a comparison of severity"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/620_description",
+  "before": "سمعتُ آلةً محبوسة في بطاطا تناقش العلم باستياء، بينما واصل موضوع الاختبار قفزه عبر جروحٍ زرقاء وبرتقالية في الجدران.",
+  "after": "سمعتُ آلةً محبوسة في بطاطا تناقش العلم باستياء، بينما واصل الخاضعُ للاختبار قفزه عبر جروحٍ زرقاء وبرتقالية في الجدران.",
+  "why": "'test subject' is the person tested; موضوع الاختبار named the topic instead"
+ }
+]

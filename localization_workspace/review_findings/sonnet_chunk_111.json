@@ -1,0 +1,13 @@
+{"chunk": 111, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_FastTravel/PrologueAreaName",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Disciple's Pass", "ar": "ممر التلميذ",
+   "issue": "Glossary now freezes 'Disciple' as الحواريّ; this row uses التلميذ (pupil/student) instead.",
+   "suggested_ar": "ممر الحواريّ"},
+
+  {"key": "ST_Core_FastTravel/BossAreaName_HexapodBoss",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Withered Shoals", "ar": "الضِّحال الذابلة",
+   "issue": "Same location name 'Withered Shoals' is translated الضِّحال الذاوية elsewhere in the corpus (world-map location name). Two different Arabic words for 'withered' applied to the identical English phrase for the same place.",
+   "suggested_ar": "الضِّحال الذاوية"}
+]}

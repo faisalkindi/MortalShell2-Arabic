@@ -1,0 +1,6 @@
+{"chunk": 77, "rows_reviewed": 90, "findings": [
+  {"key": "/AD29B5F446E824884912AA8AC0C565A1", "type": "term_violation", "severity": "minor",
+   "source_en": "Give Weltcap", "ar": "إعطاء ويلتكاب",
+   "issue": "Frozen glossary term 'Weltcap' is approved as قبعة الوَرَم with the explicit note 'NOT transliterated' (05_glossary.csv). This row transliterates it as ويلتكاب instead.",
+   "suggested_ar": "إعطاء قبعة الوَرَم"}
+]}

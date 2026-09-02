@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_ExamineBottle/6FA0C5E249A4306B654A1AB958F72101",
+  "before": "لا... أنا أفضل الآن.",
+  "after": "لا... صرتُ أفضل الآن.",
+  "why": "أنا أفضل reads as a comparison; صرتُ carries 'I'm better now'"
+ },
+ {
+  "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_ExamineBottleAgain/F434B9A645DF9DFE635FF38FF27EE148",
+  "before": "لعلها أرادت أن يكون هذا لي.",
+  "after": "لعلها أرادت لي هذا؟",
+  "why": "source is a question; restores the mark and tightens the clause"
+ },
+ {
+  "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_ExamineBottleAgain_B/804D631A4E47F4CE358DD59C284FDAE3",
+  "before": "آه... يا صديقي القديم.",
+  "after": "آه... يا صديقتي القديمة.",
+  "why": "the addressee is the bottle, feminine in the very next line — one voice, one gender"
+ },
+ {
+  "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_GenessaConvo/D2BB44AC404736BAB0B6D28D8481AE83",
+  "before": "يجب أن...",
+  "after": "عليه أن...",
+  "why": "keeps the 'he' of the trailing English fragment"
+ },
+ {
+  "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_GenessaConvo/3F7962654C4DDEEF41D8619619EED37D",
+  "before": "هذا أكبر منّي ومنك ومنه.",
+  "after": "هذا أكبر منك ومنّي ومنه.",
+  "why": "restores the source's you/I/him order"
+ }
+]

@@ -1,0 +1,15 @@
+{
+ "chunk": 107,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "mortal_shell_meta_descriptions/391220_description",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "A tomb seeker chased immortality through snow, ruins, and men who mistook relics for ownership.",
+   "ar": "طارد باحثٌ عن المقابر الخلودَ عبر الثلج والأطلال ورجالٍ خلطوا بين الأثر والملكية.",
+   "issue": "appid 391220 is Rise of the Tomb Raider - the protagonist is Lara Croft, female. The sibling blurb for the same character (appid 203160, chunk 106) renders her feminine: نهضت ناجيةٌ صغيرة. Masculine باحثٌ contradicts both the character and the corpus's own choice.",
+   "suggested_ar": "طاردت باحثةٌ عن المقابر الخلودَ عبر الثلج والأطلال ورجالٍ خلطوا بين الأثر والملكية."
+  }
+ ]
+}

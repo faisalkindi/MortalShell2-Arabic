@@ -1,0 +1,14 @@
+[
+ {
+  "key": "ST_Core_Tarstones/ID_Sidearm_StickyBombDesc",
+  "before": "يُنفِق {R} من <Resolve>العزيمة</> لإطلاق مقذوف لاصق يُحدث انفجارًا هائلًا بعد لحظات",
+  "after": "أنفِق {R} من <Resolve>العزيمة</> لإطلاق مقذوف لاصق يُحدث انفجارًا هائلًا بعد لحظات",
+  "why": "The English slips from 'Consume' to 'Consumes' in two of some forty sibling rows; Arabic must not echo the slip - the whole family is second-person أنفِق."
+ },
+ {
+  "key": "ST_Core_Tarstones/ID_Sidearm_ThreadweaverShotDesc",
+  "before": "يُنفِق {R} من <Resolve>العزيمة</> لإطلاق دفقٍ من المقذوفات تتنقّل متسلسلةً بين عدة أهداف",
+  "after": "أنفِق {R} من <Resolve>العزيمة</> لإطلاق دفقٍ من المقذوفات تتنقّل متسلسلةً بين عدة أهداف",
+  "why": "Same: يُنفِق -> أنفِق so the Tarstone ability set reads in one voice."
+ }
+]

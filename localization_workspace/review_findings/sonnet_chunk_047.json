@@ -1,0 +1,22 @@
+{"chunk": 47, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Gragu_Poison_01_QuestionBrigand/8BB060324A3F2DC0342087AD2919C698","type":"term_violation","severity":"minor",
+   "source_en":"You don’t look good, brev.","ar":"لا تبدو بخير، يا صاحبي.",
+   "issue":"'brev' is frozen in 05_glossary.csv as يا صاح exactly. Rendered as يا صاحبي here instead.",
+   "suggested_ar":"لا تبدو بخير، يا صاح."},
+  {"key":"Dialogue_Dlg_Gragu_Poison_02_SitDown/8941DA0144354B4C8877D59C40A83497","type":"term_violation","severity":"minor",
+   "source_en":"For a brev like you.","ar":"من أجل صاحبٍ مثلك.",
+   "issue":"'brev' frozen as يا صاح; rendered صاحب here, deviating from the glossary term.",
+   "suggested_ar":"من أجل صاحٍ مثلك."},
+  {"key":"Dialogue_Dlg_Gragu_Poison_02_SitDown/B1A9F39540F78399094CD899C75FD44F","type":"term_violation","severity":"minor",
+   "source_en":"Sure, brev.","ar":"بالتأكيد، يا صاحبي.",
+   "issue":"'brev' frozen as يا صاح; rendered يا صاحبي here, deviating from the glossary term (3rd occurrence in this chunk).",
+   "suggested_ar":"بالتأكيد، يا صاح."},
+  {"key":"Dialogue_Dlg_Gragu_Poison_02_GetUp/4750FAD14804C467B5A403B180418DF1","type":"wrong_referent","severity":"major",
+   "source_en":"It… wasn’t me… I was trying to kill.","ar":"لستُ… أنا من… كنت أحاول قتله.",
+   "issue":"English trails off with no stated object of 'kill' (ambiguous, plausibly self-directed given Gragu just deliberately drank poison and said 'I'm counting on it'). Arabic supplies a specific third-person object قتله ('kill HIM'), inventing a referent the English never states and steering the line toward killing someone else rather than the suicidal ambiguity of the source.",
+   "suggested_ar":"لستُ… أنا من… كنت أحاول أن أقتل…"},
+  {"key":"Dialogue_Dlg_Gragu_TheChild_01_DropChild/3E67EAD4446CE215A369C7B7439DB846","type":"gender_error","severity":"minor",
+   "source_en":"Now tell me about this... \"Lavender\".","ar":"الآن، أخبرني عن هذه... «لافندر».",
+   "issue":"04_game_context.md identifies 'Lavender' as an in-world alias for the Harbinger (player character), who defaults masculine per style guide. The demonstrative هذه is feminine, gendering 'Lavender' female. Low confidence this scene's 'Lavender' is the Harbinger rather than an unrelated noun, but worth verifying against the scene's actual referent.",
+   "suggested_ar":"الآن، أخبرني عن هذا... «لافندر»."}
+]}

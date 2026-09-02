@@ -1,0 +1,32 @@
+[
+ {
+  "key": "ST_Core_Sidearms/CursedChildDesc",
+  "before": "عالقٌ بين الحياة والموت، يتوق هذا الطفل إلى حِضْنٍ يضمّه، ويذود عن كافلِه حتى اليأس.",
+  "after": "عالقٌ بين الحياة والموت، يتوق هذا الطفل إلى حِضْنٍ يضمّه، ويذود عن كافلِه ذَودَ المستميت.",
+  "why": "حتى اليأس is a literal trace of 'desperately'; ذَودَ المستميت (مفعول مطلق) produces the same effect in Arabic."
+ },
+ {
+  "key": "ST_Core_Sidearms/ParasiteGunDesc",
+  "before": "تَنخُس الآلةُ المخلوقَ المحبوس في جوفها، فيثور ردُّ فعلٍ عنيف، نافعٍ في الأغلب.",
+  "after": "تَنخُس الآلةُ المخلوقَ المحبوس في جوفها، فيثور ردُّ فعلٍ عنيفٌ نافعٌ في الأغلب.",
+  "why": "Case error: نافعٍ sat in the genitive but qualifies the nominative ردُّ فعل."
+ },
+ {
+  "key": "ST_Core_Sidearms/CrossbowDesc",
+  "before": "باعه مُدمنٌ يائسٌ لتاجر؛ ومع ذلك فهو مضبوطُ التعيير على غير ما يُظَنّ.",
+  "after": "باعه مُدمنٌ يائسٌ لتاجر، لكنه مضبوطُ التعيير إلى حدٍّ يُدهش.",
+  "why": "ومع ذلك ف + على غير ما يُظَنّ states the same concession twice; لكن carries it once, and it breaks the batch's third repetition of على غير."
+ },
+ {
+  "key": "ST_Core_Weapons/MartyrBladeDesc",
+  "before": "سلاحُ الشهيدِ الأولِ طرسوس التقيّ، أُعيدت صياغته بعد قُربانه الأخير.",
+  "after": "سلاحٌ تقيٌّ للشهيد الأول طرسوس، أُعيدت صياغته بعد قُربانه الأخير.",
+  "why": "Meaning fix: التقيّ had attached to Tarsus, but 'devout' qualifies the weapon in the English."
+ },
+ {
+  "key": "ST_Core_Weapons/BattleAxeDesc",
+  "before": "فأسٌ من فولاذٍ صُلب، يُشاع أنه سُقي في دم المُبَجَّل.",
+  "after": "فأسٌ من فولاذٍ مُصمَت، يُشاع أنه سُقي في دم المُبَجَّل.",
+  "why": "'solid steel' is مُصمَت (unhollowed); فولاذ صُلب is a tautology in Arabic."
+ }
+]

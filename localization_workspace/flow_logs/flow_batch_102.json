@@ -1,0 +1,104 @@
+[
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_01_10",
+  "before": "يا للرحمة! عادت تُخَرخِر من جديد.",
+  "after": "يا للرحمة! عادت تُخَرخِر.",
+  "why": "'عادت… من جديد' is a doubled redundancy"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic04_Upgrade_10",
+  "before": "أوه... رائع. أيها الجاحد التافه.",
+  "after": "آه… رائع. أيها الجاحد التافه.",
+  "why": "ASCII ellipsis; 'أوه' out of Franz's voice"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_70",
+  "before": "أوه… إنها لطيفة معك.",
+  "after": "آه… إنها تُلاطفك.",
+  "why": "'لطيفة معك' loses the temporary 'is being nice'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_04_10",
+  "before": "عملنا يجب أن يستمرّ. إنها بحاجة إلينا.",
+  "after": "لا بدّ أن يمضي عملنا. إنها بحاجة إلينا.",
+  "why": "'عملنا يجب أن يستمرّ' is English clause order"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_TurnInProof_Upgrade_12_10",
+  "before": "مسرور، أليس كذلك؟ حظّك أنني لست أصغر سنًّا.",
+  "after": "مسرور، أليس كذلك؟ من حسن حظّك أنني لم أعد شابًّا.",
+  "why": "'حظّك أنني لست أصغر سنًّا' only parses via the English"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_NoHelp_04_10",
+  "before": "يمكنها الانتظار! ساعدني.",
+  "after": "لتنتظر! مُدّ لي يدك.",
+  "why": "'يمكنها الانتظار' is a modal calque; لام الأمر is the Arabic move"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic02_10",
+  "before": "إنها نائمة، لكن ليس طويلًا.",
+  "after": "إنها راقدة، ولن يطول رقادها.",
+  "why": "'لكن ليس طويلًا' is an English elliptical Arabic cannot carry"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_10_10",
+  "before": "إنها رفيقة جيدة على الأقل. لا تحمل الضغائن.",
+  "after": "إنها رفيقة طيّبة على الأقل. وهي لا تحمل ضغينة.",
+  "why": "'لا تحمل الضغائن' reads as an order to the player; the subject is the forge"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_07_10",
+  "before": "إنها شرهة، ملهمتنا.",
+  "after": "شرهة هي، ملهمتنا.",
+  "why": "تقديم of the predicate gives the appositive its beat"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_110",
+  "before": "ثبات.",
+  "after": "ثبّت يدك.",
+  "why": "bare 'ثبات' is not an Arabic instruction"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_120",
+  "before": "هذا هو.",
+  "after": "هكذا.",
+  "why": "'هذا هو' is not what 'That's it' means as encouragement at the anvil"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_05_20",
+  "before": "ماذا؟ كنت تتمنّى أن أموت؟",
+  "after": "ماذا؟ أكنت ترجو أن أنفق؟",
+  "why": "'أن أموت' is neutral where 'croak' is crude"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_08_20",
+  "before": "لا يمكنك تحميلي ذلك، يا فتى.",
+  "after": "لا تُلقِ بذلك عليّ، يا فتى.",
+  "why": "'تحميلي ذلك' is a calque of 'put that on me'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_50",
+  "before": "تستطيع أن تفعل أفضل من هذا.",
+  "after": "بوسعك ما هو أفضل.",
+  "why": "'تفعل أفضل من هذا' is English shape"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_NoHelp_04_10",
+  "before": "انتهيت؟",
+  "after": "أفرغت؟",
+  "why": "bare 'انتهيت؟' lacks the interrogative marking"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_13_20",
+  "before": "لن تصدّق الزيارة التي حظيت بها.",
+  "after": "لن تصدّق من زارني.",
+  "why": "'الزيارة التي حظيت بها' is heavy and unidiomatic"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_11_10",
+  "before": "صمتك يقول الكثير.",
+  "after": "صمتك أبلغ من الكلام.",
+  "why": "'يقول الكثير' is a calque of 'speaks volumes'"
+ }
+]

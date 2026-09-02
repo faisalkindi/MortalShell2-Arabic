@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Greeting_Needles/3A7B782149C259150FDD298436C45323",
+  "before": "حسنًا، لا تخجل. دعني أرَ.",
+  "after": "حسنًا، لا تخجل. أرِني إياه.",
+  "why": "'دعني أرَ' is truncated; 'Let's see it' has an object"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_01/09A1958248D1F13CA75B14B726BE653D",
+  "before": "فما لم يكن معك، فلن يكون هناك صهر.",
+  "after": "فما لم يكن معك، فلا صهر.",
+  "why": "doubled ف plus 'لن يكون هناك' existential calque"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_01/25D7725348F097BB4F26D4A3FE40633D",
+  "before": "للأسف، مِصهَري العزيزة تنقصها قطعة أساسية.",
+  "after": "للأسف، مِصهَر القار عزيزتي… تنقصها قطعة أساسية.",
+  "why": "restores the frozen term مِصهَر القار while keeping Franz's feminine personification"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_01/A20C00054549F4C6239838B299A3A50A",
+  "before": "لستَ من المريدين، أليس كذلك؟ لا بدّ أنك النذير.",
+  "after": "لستَ من الأتباع، أليس كذلك؟ لا بدّ أنك النذير.",
+  "why": "المريد is frozen as Tiel's title (Acolyte); freed here for the generic 'disciple'"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_01_PartGiven/D28A5C6048BA0D2018C89E84D4BC2C7F",
+  "before": "لكنك أنت—أنت—تستطيع... على الأقل من أجلها.",
+  "after": "لكنك أنت—أنت—تستطيع… من أجلها على الأقل.",
+  "why": "ASCII ellipsis; 'على الأقل' belongs at the end in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_01_PartGiven/EF68976F42B3D5D3E189419CB40CF5D2",
+  "before": "لستَ من المريدين، أليس كذلك؟ لا بدّ أنك النذير.",
+  "after": "لستَ من الأتباع، أليس كذلك؟ لا بدّ أنك النذير.",
+  "why": "same fix as its sibling row"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/320377554BF371FBBA9700B6144AA2F2",
+  "before": "(يتنهد) إنه خطئي.",
+  "after": "(يتنهد) الذنب ذنبي.",
+  "why": "'إنه خطئي' is a calque; الذنب ذنبي is the Arabic idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/C10F88FB4F67137EA8B1FBB3341DAE07",
+  "before": "وهذا يعني إبقاءها تُخَرخِر.",
+  "after": "وهذا يعني أن نُبقيها تُخَرخِر.",
+  "why": "'إبقاءها تُخَرخِر' is ungrammatical"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/E5116E21480BF30A3F52ADBE81742823",
+  "before": "سآخذ هذا موافقة.",
+  "after": "سأعدّ هذا موافقة.",
+  "why": "'سآخذ هذا' is a calque of 'take that as'"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/EDCEA0D04BE7F4252BE4AAA335600FAF",
+  "before": "لا فواصل. لا راحة.",
+  "after": "لا توقّف. لا راحة.",
+  "why": "'فواصل' reads as commercial breaks"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/35ED813B4ED40EBC771060B40C5E10E4",
+  "before": "هي من ستقوم بالعمل الحقيقي.",
+  "after": "هي التي ستقوم بالعمل الحقيقي كلّه.",
+  "why": "'هي من' plus dropped 'all'"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_02/B41F2F5E4D98E80C43BFA692FE023FF7",
+  "before": "أواضح؟",
+  "after": "أفهمت؟",
+  "why": "'أواضح؟' asks about clarity, not comprehension"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_AllPartsGiven/6CA90FEF4DFBBBAF390D8096D1B254EB",
+  "before": "قد تبدو قاسية، لكن…",
+  "after": "قد تبدو صلبة، لكن…",
+  "why": "'قاسية' misreads 'tough' about a forge; صلبة keeps the metal sense"
+ },
+ {
+  "key": "Dialogue_Dlg_Blacksmith_Interact_Generic/5B63FC4449B269BAB269FDB67E0FEF83",
+  "before": "هي من ستقوم بالعمل الحقيقي.",
+  "after": "هي التي ستقوم بالعمل الحقيقي كلّه.",
+  "why": "same fix as its sibling row"
+ }
+]

@@ -1,0 +1,8 @@
+{"chunk": 106, "rows_reviewed": 90, "findings": [
+  {"key": "mortal_shell_meta_descriptions/278360_name",
+   "type": "term_violation", "severity": "major",
+   "source_en": "A Story About My Uncle",
+   "ar": "قصة عن عمي",
+   "issue": "This is a third-party Steam game title (like the other *_name rows in this batch, all correctly left in English: Baldur's Gate 3, Cyberpunk 2077, Counter-Strike, etc.). This one was translated instead of kept verbatim.",
+   "suggested_ar": "A Story About My Uncle"}
+]}

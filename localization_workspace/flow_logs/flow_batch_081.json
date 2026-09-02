@@ -1,0 +1,14 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/535930_description",
+  "before": "وصل مرضى برؤوسٍ كالمصابيح وعظامٍ يسكنها السخرية؛ فعالجهم الأطباء بآلاتٍ تبدو بالكاد مشروعة.",
+  "after": "وصل مرضى برؤوسٍ كالمصابيح وعظامٍ من سخرية؛ فعالجهم الأطباء بآلاتٍ تبدو بالكاد مشروعة.",
+  "why": "the parallel is heads-of-bulbs / bones-of-mockery; يسكنها السخرية broke the parallel and mis-agreed with a feminine noun"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/815370_description",
+  "before": "منحتني الغابة عطشًا وعلقًا وحمّى وفقدانًا للعقل؛ ولم أجد دليلًا على أنها ترغب بضيوف.",
+  "after": "قدّمت الغابة عطشًا وعلقًا وحمّى وفقدانًا للعقل؛ ولم أجد دليلًا على أنها ترغب في ضيوف.",
+  "why": "منحتني added a first-person object the source withholds until the second clause; and رغب takes في"
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_03_20",
+  "before": "لكن لا يمكنك أكل هذا العدد من الفئران.",
+  "after": "لكن كم فأرًا يستطيع المرء أن يأكل؟",
+  "why": "calque; rhetorical question is the Arabic equivalent (matches batch 090)"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_04_50",
+  "before": "لكن… رحل هو.",
+  "after": "لكنه… رحل.",
+  "why": "English-driven word order"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Ineract_02_50",
+  "before": "يه، هناك.",
+  "after": "آه، هناك.",
+  "why": "'يه' is not an Arabic interjection"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_05_10",
+  "before": "همم… أتعرف؟",
+  "after": "همم… أتدري ماذا؟",
+  "why": "'أتعرف؟' drops the 'you know what' turn-opener"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_No_30",
+  "before": "أعني انظر إلى حالك.",
+  "after": "أعني، انظر إلى نفسك.",
+  "why": "'انظر إلى حالك' reads as an insult"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_Yes_60",
+  "before": "أحتاج شيئًا أكثر.",
+  "after": "أحتاج إلى ما هو أكثر.",
+  "why": "'شيئًا أكثر' is bare English structure"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_04_40",
+  "before": "ظننت أننا سنبقى صديقين إلى الأبد.",
+  "after": "ظننت أننا سنصير أعزّ صديقين إلى الأبد.",
+  "why": "'best friends' nuance restored (matches batch 090)"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_02_10",
+  "before": "كنت فقط أمزح بكل هذا… الأمر.",
+  "after": "كنت أعبث فحسب… بكل هذه الحكاية.",
+  "why": "'أمزح بكل هذا الأمر' is not an Arabic collocation"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Greeting_No_02_70",
+  "before": "ليس صعب الإيجاد.",
+  "after": "ليس يصعب العثور عليه.",
+  "why": "'ليس صعب الإيجاد' is a non-Arabic construction"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Greeting_Yes_02_50",
+  "before": "ليس صعب الإيجاد.",
+  "after": "ليس يصعب العثور عليه.",
+  "why": "same fix as its sibling row"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Ineract_02_30",
+  "before": "فقط دع الحياة تمرّ.",
+  "after": "دع الحياة تمرّ وحسب.",
+  "why": "fronted 'فقط' is English word order"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Nothing_05_40",
+  "before": "ربما... آه... تستطيع مساعدتي؟",
+  "after": "ربما… آه… تستطيع مساعدتي؟",
+  "why": "ASCII ellipsis normalized; filler matched to the rest of the voice"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_QuestBegins_50",
+  "before": "ليس شيئًا تجده في أي مكان.",
+  "after": "ليس مما تجده في كل مكان.",
+  "why": "'في أي مكان' under negation reads wrong"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_Yes_110",
+  "before": "أوه، لن تراني مجددًا.",
+  "after": "آه، لن تراني بعد اليوم.",
+  "why": "matches the sibling line in batch 090; 'مجددًا' is weaker than the farewell sense"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_QuestBegins_30",
+  "before": "انظر ما يلفت انتباهك.",
+  "after": "وانظر ما الذي يستوقفك.",
+  "why": "'يلفت انتباهك' is flat; يستوقفك carries 'strikes you'"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_Yes_90",
+  "before": "شخصٌ لا يعرف شيئًا حقًا.",
+  "after": "شخصٌ لا يعرف شيئًا البتّة.",
+  "why": "'حقًا' is ambiguous here; البتّة gives the emphatic 'really nothing'"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_No_20",
+  "before": "هذا لن ينجح أبدًا.",
+  "after": "لن ينجح هذا أبدًا.",
+  "why": "verb-initial reads naturally"
+ }
+]

@@ -1,0 +1,24 @@
+{
+ "chunk": 90,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_Interact_Objects/80083FBB42477805453385918CCCE308",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Just… leave us in peace already.",
+   "ar": "كفى... اتركونا وشأننا.",
+   "issue": "Addressee number flips. The villager speaks to Eredrim alone everywhere else in this memory - 'قلتُ ابتعد' and 'أحذّرك' in the Intro, and 'أرجوك... إردريم... اتركنا وشأننا' which is the same sentence in the singular. Only this row uses the plural اتركونا.",
+   "suggested_ar": "كفى... اتركنا وشأننا."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_FocusWeltcap/0BAA34FD4B0592F7D3E8A29C5CBBE83D",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Red flesh… a good sign",
+   "ar": "اللحم أحمر... علامة طيبة.",
+   "issue": "The namespace is FocusWeltcap - the speaker is inspecting a mushroom, not meat or a wound. اللحم in Arabic is animal flesh; the flesh of a fungus or fruit is اللُّبّ. As written the line reads as though someone is looking at red meat.",
+   "suggested_ar": "لُبّه أحمر... علامة طيبة."
+  }
+ ]
+}

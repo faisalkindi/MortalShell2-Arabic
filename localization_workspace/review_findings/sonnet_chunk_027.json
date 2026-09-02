@@ -1,0 +1,31 @@
+{"chunk": 27, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_New_Merrick_02/7DF9B78440D80191C86B21B61590A69D",
+   "type": "term_violation", "severity": "major",
+   "source_en": "If the Hexapod returns...", "ar": "إن عاد الهكسابود...",
+   "issue": "Glossary freezes 'Hexapod' as السداسيّ الأرجل; this row uses the unapproved transliteration.",
+   "suggested_ar": "إن عاد السداسيّ الأرجل..."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_RefuseMerricksHelp_07/F91139754F63282E60BB86BD682FD812",
+   "type": "term_violation", "severity": "major",
+   "source_en": "If the Hexapod returns...", "ar": "إن عاد الهكسابود...",
+   "issue": "Same Hexapod transliteration violation.",
+   "suggested_ar": "إن عاد السداسيّ الأرجل..."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/E0B1D8684350E2F13BF36DA9EB8CB770",
+   "type": "term_violation", "severity": "major",
+   "source_en": "This will not help us find the Hexapod.", "ar": "لن يساعدنا هذا في العثور على الهكسابود.",
+   "issue": "Same Hexapod transliteration violation (note the neighboring row correctly uses the informal nickname الهكسا for the English's own informal 'Hexa-thing' - this row uses the formal English term 'Hexapod' and should get the frozen السداسيّ الأرجل).",
+   "suggested_ar": "لن يساعدنا هذا في العثور على السداسيّ الأرجل."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/5D18C82F412D812C471922A34F554183",
+   "type": "mistranslation", "severity": "critical",
+   "source_en": "Right.", "ar": "جامع العينات الحيوية لا يطعن.",
+   "issue": "This one-word acknowledgment has been replaced with an entire unrelated sentence ('The Biosampler does not stab') that duplicates the content already correctly present in the very next row (line_index 4, 'المِجسّ الحيوي لا يطعن.'). This row's own English is not translated at all.",
+   "suggested_ar": "صحيح."},
+
+  {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/15AC71CC46D20AE5A4BD00933A7D8ABE",
+   "type": "term_violation", "severity": "major",
+   "source_en": "The Biosampler does not stab.", "ar": "المِجسّ الحيوي لا يطعن.",
+   "issue": "Glossary freezes 'Biosampler' as جامع العينات الحيوية (note the stray duplicate text in the preceding row actually uses this correct frozen term); the mainline translation instead consistently uses the unapproved المِجسّ الحيوي. This appears to be a corpus-wide substitution, not a one-off - flagging here as the clearest evidence; a full-text search for المِجسّ الحيوي across the corpus is recommended rather than relying on row-by-row findings for every instance.",
+   "suggested_ar": "جامع العينات الحيوية لا يطعن."}
+]}

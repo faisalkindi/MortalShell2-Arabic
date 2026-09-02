@@ -1,0 +1,24 @@
+{
+ "chunk": 58,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Merchant_Greeting_Generic/64E6AEC747C528DCBDF8119B17D693D1",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Well, look what the Grisha dragged in!",
+   "ar": "انظروا من جرّته الغريشا إلى هنا!",
+   "issue": "انظروا is plural, but Merrick is alone in his shop and this is a greeting aimed at the arriving player — the 'look what the cat dragged in' idiom is addressed to the person walking in. The plural imperative has no audience in the scene. Every other greeting in this namespace uses the singular.",
+   "suggested_ar": "انظر من جرّته الغريشا إلى هنا!"
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_Greeting_Proxima/605F90CB442FAEA3A6B625A61C967AE2",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Mether’s milk!",
+   "ar": "يا لبن الأُمَّهة!",
+   "issue": "The Mether's Milk is rendered حليب الأُمَّهة everywhere else it appears (Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/5C295B89..., Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/A02A010D...). This oath uses لبن instead, so the in-world substance and the oath sworn on it no longer share a name.",
+   "suggested_ar": "يا حليب الأُمَّهة!"
+  }
+ ]
+}

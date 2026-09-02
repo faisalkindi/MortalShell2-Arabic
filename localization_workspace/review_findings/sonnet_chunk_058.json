@@ -1,0 +1,6 @@
+{"chunk": 58, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Merchant_HexapodKilled/F028CD7A45B262955299C88DBA1B2B48","type":"term_violation","severity":"major",
+   "source_en":"I heard you did it… you killed the Hexapod.","ar":"سمعتُ أنك فعلتها... قتلتَ السداسيّ الأرجل.",
+   "issue":"05_glossary.csv explicitly freezes Hexapod as الهكسابود (transliterated) and explicitly forbids السداسيّ الأرجل by name, because Merrick has a running mishearing gag built on the transliterated stem (هكسا) elsewhere in the corpus. This row uses exactly the forbidden term, breaking both the glossary lock and the gag setup.",
+   "suggested_ar":"سمعتُ أنك فعلتها... قتلتَ الهكسابود."}
+]}

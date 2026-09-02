@@ -1,0 +1,14 @@
+{"chunk": 35, "rows_reviewed": 90, "findings": [
+  {"key":"ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_10","type":"term_violation","severity":"minor",
+   "source_en":"Baerand? Let me guess... the anger.","ar":"بايراند؟ دعني أخمّن… الغضب.",
+   "issue":"Glossary freezes 'Baer / Baerand' as باير (see 05_glossary.csv #152), but this row transliterates 'Baerand' as بايراند instead — a different spelling for the same character appearing elsewhere correctly as باير (e.g. 'About time, little Baer.' → 'يا باير الصغير' in the same batch).",
+   "suggested_ar":"باير؟ دعني أخمّن… الغضب."},
+  {"key":"ST_Dialogue_Blacksmith/Blacksmith_Greeting_02_10","type":"term_violation","severity":"minor",
+   "source_en":"Baerand? That you cloppin’ around?","ar":"بايراند؟ أهذا صوت خطواتك؟",
+   "issue":"Same 'Baerand'→بايراند deviation from the frozen glossary transliteration باير used correctly elsewhere for this character.",
+   "suggested_ar":"باير؟ أهذا صوت خطواتك؟"},
+  {"key":"ST_Dialogue_Blacksmith/Blacksmith_Greeting_04_10","type":"term_violation","severity":"minor",
+   "source_en":"Baerand? That you? Laddie? Son?","ar":"بايراند؟ أهذا أنت؟ يا فتى؟ يا بنيّ؟",
+   "issue":"Same 'Baerand'→بايراند deviation from the frozen glossary transliteration باير used correctly elsewhere for this character.",
+   "suggested_ar":"باير؟ أهذا أنت؟ يا فتى؟ يا بنيّ؟"}
+]}

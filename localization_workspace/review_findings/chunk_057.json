@@ -1,0 +1,42 @@
+{
+ "chunk": 57,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Lazlo_TheMassacre03_WalkUp/C947C1A9411991F6B2F2F3AC8F8C512E",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "The Justiciars are… displeased.",
+   "ar": "المُقتَصّون... ساخطون.",
+   "issue": "'Displeased' after a deliberate pause is aristocratic understatement — the speaker is minimising. ساخط is wrath/indignation and removes it. It also inverts the intensity gradient against its sibling row in the same namespace (EFAF98A64B173370BC9DC4BDBB56313F), where the stronger English word 'outraged' is rendered with the milder غاضبون: as translated, the Justiciars come out angrier than the peasants, which reverses the English.",
+   "suggested_ar": "المُقتَصّون... مستاؤون."
+  },
+  {
+   "key": "Dialogue_Dlg_Lazlo_TheMassacre03_WalkUp/EFAF98A64B173370BC9DC4BDBB56313F",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "The peasants… outraged.",
+   "ar": "الفلاحون... غاضبون.",
+   "issue": "The other half of the pair. 'Outraged' is the stronger of the two English words and should sit above the Justiciars' 'displeased'; غاضبون is plain anger and sits below ساخطون as currently rendered. Fix both rows together or neither.",
+   "suggested_ar": "الفلاحون... ساخطون."
+  },
+  {
+   "key": "Dialogue_Dlg_Memory_EmberOfRebirth_01/0EDE174842553031775E1280CB1B3838",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Yes, Oblate. My flesh is weak, ravaged by disease.",
+   "ar": "نعم أيها القربان. جسدي ضعيف، نهشه الداء.",
+   "issue": "Raised by the Oblate ruling, not by the original pass — correct under the older glossary. The Oblate rank is now المُتبتِّل; القربان is reserved for the player-facing 'Offering' mechanic. Suggestion also adds the comma before the vocative that the rest of the corpus uses.",
+   "suggested_ar": "نعم، أيها المُتبتِّل. جسدي ضعيف، نهشه الداء."
+  },
+  {
+   "key": "Dialogue_Dlg_Memory_EmberOfRebirth_02/94171BA042E62468D6BAA28F289A51D2",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "I have sinned greatly, Oblate. Lying, stealing, even murder.",
+   "ar": "أذنبتُ ذنوبًا عظيمة أيها القربان. الكذب، السرقة، وحتى القتل.",
+   "issue": "Raised by the Oblate ruling, not by the original pass — correct under the older glossary. The Oblate rank is now المُتبتِّل; القربان is reserved for the player-facing 'Offering' mechanic. Suggestion also adds the comma before the vocative that the rest of the corpus uses.",
+   "suggested_ar": "أذنبتُ ذنوبًا عظيمة، أيها المُتبتِّل. الكذب، السرقة، وحتى القتل."
+  }
+ ]
+}

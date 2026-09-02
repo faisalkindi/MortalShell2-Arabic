@@ -1,0 +1,62 @@
+[
+ {
+  "key": "/04999290435617F86C4194AAFDE09AB1",
+  "before": "انهض",
+  "after": "النهوض",
+  "why": "Its sibling prompts 'Get Up' and 'Stand Up' are both النهوض; the imperative broke the set."
+ },
+ {
+  "key": "/7A25490F41B8BF09C8CDDC99E26B3983",
+  "before": "انهض",
+  "after": "النهوض",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/6A0590F1D5DBC88B46985DCF308BF449",
+  "before": "تكشف خريطة روك عن آثارٍ ضائعة وهياكل وبُيوض.",
+  "after": "تكشف خريطة روك عن آثارٍ ضائعة وهَياكل وبُيوض.",
+  "why": "Frozen Shell plural = الهَياكل carries its diacritic, as البُيوض does in the same list."
+ },
+ {
+  "key": "/676B41BF449FC386781DC88A771A3F89",
+  "before": "عمرت الشائعات بوفاتها البلاط، لكن ما جرؤ أحد على ادعاءٍ رسمي. ومن ألمح فحسب إلى مثل هذا الاحتمال، وُجد ميتًا أو اختفى، ومنهم ابنها الأمير إسحاق.",
+  "after": "ملأت الشائعات عن وفاتها البلاط، لكن ما جرؤ أحد على ادعاءٍ رسمي. بل إن من ألمح إلى هذا الاحتمال وُجد ميتًا أو اختفى، ومنهم ابنها الأمير إسحاق.",
+  "why": "عمرت … البلاط is not a collocation, and the second sentence's escalation needs بل — the chronicle is going further, not merely adding."
+ },
+ {
+  "key": "/B9BF217B4A0DA8CD3EF266B2B42838BC",
+  "before": "ملاحظة الكاتب: يطلب أحدهم يُدعى \"بارتول\" أجرًا. عقد اتفاقًا شفهيًّا لبناء \"جدارٍ مختوم\" لآخر يُعرف فيما يلي باسم \"سارييل\". وسأسرد بالتفصيل المستحقات. [يطمس الدم البقية]",
+  "after": "ملاحظة الكاتب: يطلب أحدهم يُدعى «بارتول» أجرًا. عقد اتفاقًا شفهيًّا لبناء «جدارٍ مختوم» لآخر يُعرف فيما يلي باسم «سارييل». وسأسرد بالتفصيل المستحقات. [يطمس الدم البقية]",
+  "why": "ASCII double quotes inside Arabic text; the corpus uses the Arabic guillemets «»."
+ },
+ {
+  "key": "/2581F01C41961AC0EAF4B682B5E78C09",
+  "before": "أرأيت كفايتك؟",
+  "after": "أرأيت ما يكفي؟",
+  "why": "رأى كفايتك is not Arabic; ما يكفي is the idiom."
+ },
+ {
+  "key": "/250CD4B74036B18F9E373F925CF40D78",
+  "before": "سبحت عبر الظلام، أمَّهتنا المباركة، مستدعاةً من قبل أقرباء بعيدين، لتفدي عالمًا ملعونًا.",
+  "after": "سبحت عبر الظلام، أمَّهتنا المباركة، دعاها أقرباء بعيدون لتفدي عالمًا ملعونًا.",
+  "why": "من قبل + agent is the imported English passive; Arabic turns it active and the line keeps its liturgical swing."
+ },
+ {
+  "key": "/C67A67664D3010E11E318C865567050B",
+  "before": "عرض عناصر التحكم بالقدرات على الواجهة",
+  "after": "إظهار أزرار القدرات في الواجهة",
+  "why": "The label ran long for a settings row, and Show toggles in this menu are إظهار; عناصر التحكم بالقدرات was a literal 'ability controls'."
+ },
+ {
+  "key": "/DDE226D2437C1575D0C5D496E2A66C9B",
+  "before": "تخطٍّ [اضغط مطولًا]",
+  "after": "تخطٍّ [ضغط مطوّل]",
+  "why": "Frozen UI form: the [Hold] tag is [ضغط مطوّل]; the bare instruction اضغط مطوّلًا belongs on overlays, not inside a bracketed tag."
+ },
+ {
+  "key": "/9DEAAC9443DD115362157B872F8863A5",
+  "before": "كفوف سميرت النحاسية",
+  "after": "قبضة سميرت النحاسية",
+  "why": "كفوف means gloves; brass knuckles are a قبضة."
+ }
+]

@@ -1,0 +1,24 @@
+{
+ "chunk": 14,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Tarstones_Fragile/FragileStone_DungeonRespawn_Effect",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Upon death inside a <Bold>Dungeon</>, gives the option to revive at its entrance",
+   "ar": "إذا هلكتَ داخل <Bold>سرداب</>، أتاح لك النهوض عند مدخله",
+   "issue": "'revive' is rendered النهوض (standing back up). This is the death/respawn mechanic — the player is brought back to life at the Dungeon entrance — and النهوض does not say that. Dungeon=سرداب is correct.",
+   "suggested_ar": "إذا هلكتَ داخل <Bold>سرداب</>، أتاح لك أن تُبعَث عند مدخله"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_CriticalFlowDesc",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Your <Bold>Weapon</> deals a guaranteed <Critical>Critical Hit</>",
+   "ar": "يُنزل <Bold>سلاحك</> <Critical>ضربة حاسمة</> مضمونة",
+   "issue": "يُنزل is the frozen verb for inflicting a STATUS, kept deliberately distinct from the damage verb. A guaranteed Critical Hit is on the damage side, so this reuses the status verb and blurs the split the glossary set up.",
+   "suggested_ar": "يُسدّد <Bold>سلاحك</> <Critical>ضربة حاسمة</> مضمونة"
+  }
+ ]
+}

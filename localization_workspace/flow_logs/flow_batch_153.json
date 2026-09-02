@@ -1,0 +1,98 @@
+[
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_01/AFFC9C014F5F2D0610EAB28920345ED8",
+  "before": "شارب الأرواح العظيم... الموت.",
+  "after": "مُرتشِف الأرواح القدير... الموت.",
+  "why": "'شارب' flattened the comic 'slurper'; القدير carries 'almighty'"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody/91FD252244160F8F445DBD95EF317781",
+  "before": "نعم! هذا أنا. أشمّ رائحتي.",
+  "after": "آه، نعم! هذا أنا. أشمّ رائحتي.",
+  "why": "restored the dropped 'Oh, yeah!' beat"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Gold/39081869474FA3BBB1EFFA920B172E12",
+  "before": "همم. تعرف أنّ ذاكرتي كلّها ضبابية.",
+  "after": "همم. تعرف أنّ ذاكرتي ضبابية تمامًا.",
+  "why": "'كلّها ضبابية' was English word order; Arabic puts the intensifier last"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Materials/8B873070464D2ECABF86A3A3C11A71D7",
+  "before": "مهلًا. جثتي يمكنها الانتظار.",
+  "after": "مهلًا. يمكن لجسدي أن ينتظر.",
+  "why": "جثة is a corpse - he is hunting his living body; also fixed the clause order"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Materials/269C6FDA4882F56C401334871787C660",
+  "before": "ألقِ نظرة على هذا الرفيق... وعربته.",
+  "after": "ألقِ نظرة على هذا الرجل... وعربته.",
+  "why": "'fella' is a guy, not a رفيق (companion)"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Tarwine_01/B61EE51842FFD85BD1F67F918A3F5045",
+  "before": "كانا ثملين تمامًا حين تسللتُ من أمامهما.",
+  "after": "ثملين حتى الثمالة حين تسللتُ من أمامهما.",
+  "why": "idiom for idiom: 'drunk as skunks' -> ثمل حتى الثمالة, and the fragment matches the English fragment"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Tarwine_01/0BCB427D4CCAC810728B3CBB25966FD5",
+  "before": "كان هذان يُفترض أن يكونا في \"الحراسة\".",
+  "after": "هذان كانا على \"الحراسة\".",
+  "why": "'يُفترض أن يكونا' spelled out what the scare quotes already say"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_XP/023B7A384C8B073AD4EE5EB597D20909",
+  "before": "لم يُفده رأسه كثيرًا، أليس كذلك؟",
+  "after": "إيه. لم يُفده رأسه كثيرًا، أليس كذلك؟",
+  "why": "restored the dropped 'Eh.'"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_Greeting/43CA9D04431022A57B0EA0937F2B03F4",
+  "before": "ساعدني، فأنا... لا أستطيع الحركة.",
+  "after": "أعِرني يدًا. أنا، إيه... عَلِقتُ.",
+  "why": "keeps the macabre 'give me a hand' pun from a dismembered speaker, and 'stuck'; verb form stays gender-neutral"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_HitReaction/23582BAA4B15D27958F942ADBE763706",
+  "before": "هيا. اضربني وكأنك تعني ذلك.",
+  "after": "هيا. اضربني بجدية!",
+  "why": "'وكأنك تعني ذلك' is a calque of 'like you mean it'"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_InteractBody/4BF7434D402B16CC620A0AAE42EE770C",
+  "before": "...أشعر أنني لعبة مضغ لغريشا.",
+  "after": "...أشعر وكأني لعبة مضغ لدى غريشا.",
+  "why": "added وكأني so the simile reads as a simile in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_InteractBody/C8EC15C74112B54A96A790B55F04735A",
+  "before": "أُف. يا أمّ الماعز ذات الأثداء السبعة المقدّسة...",
+  "after": "أُف. يا أمّ الماعز المقدّسة ذات الأثداء السبعة...",
+  "why": "Arabic adjective order: the epithet attaches to the mother, not to the udders"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_OnHorseBody/D3CE3D9341E8851C62A7C1913CDCFA54",
+  "before": "حقًا بارع. مضحك جدًا.",
+  "after": "ذكيّ جدًا. مُضحك للغاية.",
+  "why": "clever is ذكي; بارع is skilful and blunts the sarcasm"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_PickUpHead/6CB228AD44ED4CBF26A661B7019F8A48",
+  "before": "حتى إن كنتُ أتدلّى من مؤخرتك.",
+  "after": "حتى إن كنتُ أتدلّى عند مؤخرتك.",
+  "why": "من implies emerging out of; عند is hanging at"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_PickUpHead/ED0AD2E144BD93D86E63AEA3689F1157",
+  "before": "الآن هذا أقرب لما أريد.",
+  "after": "هكذا يكون الأمر.",
+  "why": "'أقرب لما أريد' is a literal gloss of 'more like it'"
+ },
+ {
+  "key": "Dialogue_Dlg_ImmortalBrigand_PickUpHead/32D48A4141E8BEACDEE022AD3F7DAB0E",
+  "before": "أانتهيت من السخرية؟",
+  "after": "أانتهيت من المزاح؟",
+  "why": "'having a laugh' is joking, not mocking"
+ }
+]

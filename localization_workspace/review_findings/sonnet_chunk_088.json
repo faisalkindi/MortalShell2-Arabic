@@ -1,0 +1,6 @@
+{"chunk": 88, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_Dlg_Ruk_Prologue_PostHarrosClaim/149DB5F943FE23C84E8EC7916CE9EEE2", "type": "term_violation", "severity": "major",
+   "source_en": "Your true disciples are waiting.", "ar": "مريدوك الحقيقيون في انتظارك.",
+   "issue": "Generic 'disciples' (followers, not Tiel's specific Acolyte title) rendered مريدوك. Glossary's Acolyte entry explicitly reserves this: generic 'disciples/followers' must use أتباع, never مريدون (05_glossary.csv). Same issue as chunk_084's 'Your disciples'.",
+   "suggested_ar": "أتباعك الحقيقيون في انتظارك."}
+]}

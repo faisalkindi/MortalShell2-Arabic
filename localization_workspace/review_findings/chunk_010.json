@@ -1,0 +1,33 @@
+{
+ "chunk": 10,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Shells/EredrimTagline",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Peace has a price.",
+   "ar": "للسِّلْمِ ثمن.",
+   "issue": "Glossary freezes Eredrim's motto as السلام له ثمن. and notes it must be identical at every recurrence; this row rewrites it, so the Shell's motto no longer matches the same line where it appears elsewhere.",
+   "suggested_ar": "السلام له ثمن."
+  },
+  {
+   "key": "ST_Core_Weapons/HadernSwordEffect",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "A balanced two-handed sword with long reach.",
+   "ar": "سيف بيدين متّزن، بعيد المدى.",
+   "issue": "بعيد المدى is the frozen term for the 'ranged' weapon class, so describing a two-handed melee sword with it reads as a ranged weapon on the stat card.",
+   "suggested_ar": "سيف بيدين متّزن ذو مدى طويل."
+  },
+  {
+   "key": "ST_Core_Sidearms/Crossbow",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Forgotten Crossbow",
+   "ar": "القوس المنسيّ",
+   "issue": "The crossbow's own ammunition is سهم النشّاب (ST_Core_Interactions/CrossbowBolt), so the weapon should be النشّاب; القوس ('bow') both loses the crossbow distinction and mismatches its ammo item.",
+   "suggested_ar": "النشّاب المنسيّ"
+  }
+ ]
+}

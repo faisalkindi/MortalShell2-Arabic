@@ -1,0 +1,15 @@
+{
+ "chunk": 70,
+ "rows_reviewed": 28,
+ "findings": [
+  {
+   "key": "ST_CreditsTitles/ST_Role_William",
+   "type": "wrong_fact",
+   "severity": "minor",
+   "source_en": "Willam",
+   "ar": "ويليام",
+   "issue": "The source spells the name Willam, not William. ويليام transliterates William and silently renames a real credited person. If Willam is that persons actual spelling the Arabic is wrong; if it is a source typo the fix belongs upstream, not in the Arabic. Needs confirmation against the credited person, not a translator judgement call.",
+   "suggested_ar": "ويلام"
+  }
+ ]
+}

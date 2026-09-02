@@ -1,0 +1,68 @@
+[
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_09_10",
+  "before": "أوه، هذا... هذا كل شيء؟",
+  "after": "أوه، هذا… هذا كل شيء؟",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_12_20",
+  "before": "أو الأفضل من ذلك، سمّني.",
+  "after": "بل الأفضل من ذلك: سمّني.",
+  "why": "'أو الأفضل' is a weak و-chain; بل is the escalation connector"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_09_20b",
+  "before": "ربما يكسب ذلك حسن النية؟",
+  "after": "لعلّ ذلك يستجلب حسن النيّة؟",
+  "why": "'يكسب حسن النية' is a mismatch; استجلب collocates"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_05_10",
+  "before": "هناك الكثير في قصري.",
+  "after": "وفي قصري ما هو أكثر.",
+  "why": "fronting the adverbial gives the Arabic its own movement instead of 'there is a lot in my palace'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_17_10",
+  "before": "أجهز عليّ.",
+  "after": "أردِني قتيلًا.",
+  "why": "أجهز عليّ collides with الإجهاز, the frozen term for the Execution mechanic"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_03_10",
+  "before": "«هدايا» عديمة الفائدة كهذه",
+  "after": "يا لها من «هدايا» عديمة الفائدة",
+  "why": "'كهذه' at the tail is an English 'such' dragged across; يا لها من carries the contempt"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Interact_08_20",
+  "before": "ذلك المسكين كان يُساعد… تمامًا كما تفعل أنت الآن.",
+  "after": "كان ذلك المسكين يُساعد… تمامًا كما تفعل أنت الآن.",
+  "why": "verb-initial; the noun-first shape was English clause order"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_03_30",
+  "before": "يدعونني «المُبجَّل».",
+  "after": "يدعونني «المُكرَّم».",
+  "why": "GLOSSARY: Revered is frozen as المُكرَّم; المُبَجَّل is reserved for Eredrim's title Venerable"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_01_40",
+  "before": "رغم أنني أُفضّل لو استطعتَ فعل الأمرين معًا.",
+  "after": "وإن كنتُ أُفضّل لو دبّرتَ الأمرين معًا.",
+  "why": "وإن is the Arabic concessive; 'فعل الأمرين' is a filler verb, دبّر carries 'manage'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_01_10",
+  "before": "رغم أنها زهيدة… سأقبل جزيتك.",
+  "after": "وإن كانت زهيدة… فسأقبل جزيتك.",
+  "why": "the وإن…ف pair is the Arabic concessive; رغم أنها is a translated 'though'"
+ },
+ {
+  "key": "ST_Dialogue_Egon/Egon_Gift_Lazlo_03_40",
+  "before": "رغم أنه للأسف لا معالف وليمة.",
+  "after": "لكن لا معالف وليمة، للأسف.",
+  "why": "'رغم أنه للأسف لا' stacks three functions on one clause"
+ }
+]

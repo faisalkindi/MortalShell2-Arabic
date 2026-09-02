@@ -1,0 +1,60 @@
+{
+ "chunk": 16,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Dungeons/LI_Tomb_Medium_Layout_23",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Feeding Grounds",
+   "ar": "مَرتَع الافتراس",
+   "issue": "'Feeding Grounds' is frozen as مَرتَع, bare. الافتراس ('predation') is added content the English does not carry, and it makes the location name diverge from the frozen term used elsewhere.",
+   "suggested_ar": "المَرتَع"
+  },
+  {
+   "key": "ST_Core_Dungeons/LI_IcePostBossDungeon",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Conquerer's Rise",
+   "ar": "مُرتقى الفاتح",
+   "issue": "Second occurrence of the Conqueror name split: this location and the Tarstone 'Conqueror's Reward' use الفاتح, while Dialogue_Dlg_ConquerorBossDefeated calls the same boss الغازي. Pick one and sweep.",
+   "suggested_ar": "مُرتقى الغازي"
+  },
+  {
+   "key": "ST_Core_Dungeons/LI_Tomb_Layout_03",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Discple's Stash",
+   "ar": "خبيئة المُريد",
+   "issue": "المُريد is frozen as Acolyte — Tiel's title. Using it for the generic 'disciple' collides with a named character's title. Franz's dialogue has the same collision ('You're not a disciple').",
+   "suggested_ar": "خبيئة التابع"
+  },
+  {
+   "key": "ST_Core_Dungeons/LI_Tomb_layout_20",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Obsidianite Mines",
+   "ar": "مناجم السَّبَج",
+   "issue": "The glossary separates Obsidian = السَّبَج from Obsidianite = حجر السَّبَج. As written this reads 'Obsidian Mines' and loses the material the mines actually yield.",
+   "suggested_ar": "مناجم حجر السَّبَج"
+  },
+  {
+   "key": "ST_Core_Locations/S2_Outskirts",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Deserted Slums ",
+   "ar": "الأحياء المهجورة",
+   "issue": "'Slums' is dropped; the Arabic says only 'the deserted quarters'. The poverty of the district is the descriptive content of the name.",
+   "suggested_ar": "الأحياء الفقيرة المهجورة"
+  },
+  {
+   "key": "ST_Core_Dungeons/LI_Tomb_Layout_29",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Illusionist's Cache",
+   "ar": "خبيئة المُشعوذ",
+   "issue": "المُشعوذ is a charlatan/quack. 'Illusionist' is one who works illusions, and the neighbouring dungeon 'Hall of Illusions' already uses الأوهام — the two should share the root.",
+   "suggested_ar": "خبيئة صانع الأوهام"
+  }
+ ]
+}

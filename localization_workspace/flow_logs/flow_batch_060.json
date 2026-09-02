@@ -1,0 +1,104 @@
+[
+ {
+  "key": "/LegendaryArtifactFlavorText",
+  "before": "أي شيء أثمن من أسرار موراديان؟",
+  "after": "وهل من شيءٍ أثمن من أسرار موراديان؟",
+  "why": "rhetorical question idiom (وهل من) instead of the literal 'أي شيء'"
+ },
+ {
+  "key": "/Artifact_ParasiteGolemFlavorText",
+  "before": "في الأوسينيت والحديد المُصلَّد تكمن علامة صانعه: كلمةٌ واحدة نُقشت بعناية بلغة مامون، «اصمد». وقد صمد الغولم فعلًا، لكن صانعه لم يتوقع قط أن يسكن تحفته مخلوقٌ آخر ويستغلها.",
+  "after": "في الأوسينيت والحديد المُصلَّد تكمن علامة صانعه: كلمةٌ واحدة نُقشت بإتقان بلغة مامون، تقرأ: «اصمد». فصمد الغولم فعلًا، لكن صانعه لم يخطر له قط أن يسكن تحفته مخلوقٌ آخر فيستغلها.",
+  "why": "inscription introduced with تقرأ as in source; ف of consequence replaces وقد; فيستغلها links the two verbs"
+ },
+ {
+  "key": "/HeartOfVatraFlavorText",
+  "before": "في اللحم المتحجّر لا يزال نبضٌ بطيء ثابت يُحَسّ. وقلّة يذكرون اسم ڤاترا، لكن من يذكرها ينتظر بركاتها في صبر؛ فالحجر يصمد في صمت، وحين ينكسر، سيُعاد تشكيله يومًا ما.",
+  "after": "في اللحم المتحجّر ما زال يُحَسّ نبضٌ بطيءٌ ثابت. قلّةٌ من يذكرون اسم ڤاترا، لكن من يذكرونها ينتظرون بركاتها في صبر؛ فالحجر يصمد صامتًا، وحتى إن انكسر فسيُعاد تشكيله يومًا ما.",
+  "why": "verb-initial recast of the passive opener; dropped the sentence-initial و; حتى إن…ف for the concessive"
+ },
+ {
+  "key": "BeaconTutorial_1/BeaconTutorial_1",
+  "before": "لقد وجدتَ منارة، تتيح لـ<Bold>الأُمَّهة السُّفلى</> تحديد موضعك في هذا العالم، وإحياءك هنا إن هُزمت.",
+  "after": "لقد وجدتَ منارةً تتيح لـ<Bold>الأُمَّهة السُّفلى</> أن تتبيّن موضعك في هذا العالم وأن تُحييك هنا إن هُزمت.",
+  "why": "restrictive relative clause without comma; أن-clauses instead of a bare masdar chain"
+ },
+ {
+  "key": "BeaconTutorial_3/BeaconTutorial_3",
+  "before": "المنارة ما تزال فاسدة، لكن يمكن <bold>تطهيرها</> لتمنحك فوائد إضافية عند الراحة فيها.",
+  "after": "المنارة ما تزال فاسدة، لكن يمكن <bold>تطهيرها</> فتمنحك فوائد إضافية حين تستريح عندها.",
+  "why": "ف of consequence replaces the purpose-lām; حين تستريح عندها over the nominal عند الراحة فيها"
+ },
+ {
+  "key": "BlockLargeTut_2/BlockLargeTut_2",
+  "before": "الصدّ يستنزف مقياسه ويقلل سرعة الحركة.",
+  "after": "يستنزف الصدّ مقياسه ويبطئ حركتك.",
+  "why": "verb-initial; يبطئ حركتك is how Arabic says 'reduces movement speed'"
+ },
+ {
+  "key": "BlockLargeTut_3/BlockLargeTut_3",
+  "before": "نفاد مقياس الصدّ يُصيبك بذهولٍ مؤقت.",
+  "after": "إن نفد مقياس الصدّ أصابك ذهولٌ مؤقت.",
+  "why": "conditional shape instead of masdar-as-subject; matches sibling tutorial rows"
+ },
+ {
+  "key": "BlockLargeTut_4/BlockLargeTut_4",
+  "before": "يُعاد شحن مقياس الصدّ عند تحرير الصدّ.",
+  "after": "يعود المقياس إلى الامتلاء متى أفلتَّ الصدّ.",
+  "why": "cut the doubled الصدّ; uses the frozen أفلت for Release"
+ },
+ {
+  "key": "Dialogue_DLG_HubCultist_GreetingHubCorruption/20B2F404440D3F8586D38F9CFE4AF113",
+  "before": "الراكب الفاسد... لقد وجدنا.",
+  "after": "الراكب الفاسد... لقد عثر علينا.",
+  "why": "وجدنا was ambiguous (found-us / we-found); عثر علينا is unambiguous"
+ },
+ {
+  "key": "Dialogue_DLG_HubCultist_GreetingHubCorruption/EB5CF98242835A92DD6D318776CDB3F2",
+  "before": "نفوذ الراكب يتمدّد.",
+  "after": "يمتدّ نفوذ الراكب.",
+  "why": "verb-initial, shorter"
+ },
+ {
+  "key": "Dialogue_DLG_HubCultist_InteractHubCorruption/72A3009B4131869F754C8982D821FE7B",
+  "before": "لم أستطع إيقاف هذا الفساد الرهيب.",
+  "after": "لم أقوَ على ردّ هذا الفساد الرهيب.",
+  "why": "لم أقوَ على ردّ fits the cultist's devotional register better than لم أستطع إيقاف"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_ConfrontMerrick_05/7860A7F24365BD90D4F5D4BA833EEF7C",
+  "before": "أتتوقع مني أن أصدّق هذا؟",
+  "after": "أتحسبني أصدّق ذلك؟",
+  "why": "'expect me to buy that' is idiom, not literal expectation; أتحسبني أصدّق is the Arabic equivalent"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_Intro_01/618D6A7A42C5B4C7DEBBE698375B3B04",
+  "before": "(تئنّ)",
+  "after": "(يئنّ)",
+  "why": "the groan is Merrick's (the wounded man Proxima is operating on); was feminine, inconsistent with the other grunt rows in the same memory"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_RebukeTheThief_04/34E5D2D649A56E4078EB249EFA079106",
+  "before": "لكن أظن أنني فهمت الفكرة.",
+  "after": "لكنني أظنني فهمت المقصود.",
+  "why": "tightened; المقصود over الفكرة for 'the idea' in speech"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_RebukeTheThief_04/893D2AB54506D62BBF6168BDD7DFE548",
+  "before": "في الواقع، أظن أنه يمكننا مساعدة بعضنا.",
+  "after": "بل أظن أن بوسعنا أن يعين أحدنا الآخر.",
+  "why": "بل carries 'in fact' as escalation; يعين أحدنا الآخر is the Arabic reciprocal, not مساعدة بعضنا"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_RebukeTheThief_04/A513F0B14858E1644630C7BCDD9E0822",
+  "before": "اسمعي. لا أقصد لك أذى.",
+  "after": "اسمعي. لا أريد بك سوءًا.",
+  "why": "لا أريد بك سوءًا is the set Arabic phrase; لا أقصد لك أذى traces back to English"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheArrival_S1_RebukeTheThief_04/740503B9417A4213186021A459C94064",
+  "before": "لستُ متأكدًا مما قلتِه.",
+  "after": "آه... لستُ متأكدًا مما قلتِه.",
+  "why": "restored the dropped hesitation marker 'Uh...'"
+ }
+]

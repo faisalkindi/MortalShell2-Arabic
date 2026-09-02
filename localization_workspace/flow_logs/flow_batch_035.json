@@ -1,0 +1,104 @@
+[
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertBeatdownDesc",
+  "before": "يُتاح استخدام <Bold>لكمة الأرض</> أثناء وضعية القتال، وهي تُعيد الزمن إلى مجراه فورًا.",
+  "after": "يُتاح استخدام <Bold>لكمة الأرض</> أثناء وضعية القتال، فتُعيد الزمن إلى مجراه فورًا.",
+  "why": "وهي as a clause hinge is dead weight; the ف of consequence carries it."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertKicker_Effect_3",
+  "before": "لركل عدو احتمال قدره {Y} لأن <Bold>يضاعف</> تراكمات <Chaos>الفوضى</> لديه قبل انفجارها.",
+  "after": "لركل عدو احتمال قدره {Y} أن <Bold>يضاعف</> تراكمات <Chaos>الفوضى</> لديه قبل انفجارها.",
+  "why": "احتمال لأن is ungrammatical; احتمال أن + verb."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertNovertime_Effect_1",
+  "before": "تدوم المعجزة {X} أطول قبل الدخول في <Bold>الوقت الإضافي</>.",
+  "after": "تدوم المعجزة أطول بمقدار {X} قبل الدخول في <Bold>الوقت الإضافي</>.",
+  "why": "{X} أطول was English adverb order; Arabic puts the measure after the comparative with بمقدار."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertLastVowDesc",
+  "before": "يدخل سميرت <Bold>وضعية القتال</> بشكل دائم، ولا يعود يستخدم سلاحًا قريب المدى.",
+  "after": "يدخل سميرت <Bold>وضعية القتال</> على الدوام، فلا يعود يستخدم سلاح اشتباك.",
+  "why": "بشكل دائم is a calque adverb, and قريب المدى contradicts the frozen melee=الاشتباك; the two clauses joined with ف, not و."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertDevotion_Effect_2",
+  "before": "ما دام سميرت <Faith>مؤمنًا</>، فإن أي مكسب من <Resolve>العزيمة</> لديه احتمال قدره {Y} لملء <Resolve>العزيمة</> كاملةً.",
+  "after": "ما دام سميرت <Faith>مؤمنًا</>، فلكل مكسب من <Resolve>العزيمة</> احتمال قدره {Y} أن تمتلئ <Resolve>العزيمة</> كاملةً.",
+  "why": "فإن أي … لديه احتمال piles up three function words; ما دام…فلـ is the Arabic conditional pair."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillShadowStalk_Effect_1",
+  "before": "تُلحق <Bold>ضربة الظل</> {X} ضررًا إضافيًا عن كل {Y} يُقضى وهو <Shadow>متظلل</>.",
+  "after": "تُلحق <Bold>ضربة الظل</> ضررًا إضافيًا قدره {X} عن كل {Y} يُقضى وهو <Shadow>متظلل</>.",
+  "why": "ضررًا قدره shape used by every sibling damage row."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillSealAffinity_Effect_3",
+  "before": "لدى <Bold>الصدّ المثالي</> أو <Bold>الدَّرء</> الناجح أو <Bold>التحجُّر المثالي</> احتمال قدره {Z} لـ<Break>كسر</> عدو كاملًا.",
+  "after": "لدى <Bold>الصدّ المثالي</> أو <Bold>الدَّرء</> الناجح أو <Bold>التحجُّر المثالي</> احتمال قدره {Z} أن <Break>تكسر</> عدوًا بالكامل.",
+  "why": "The tag had swallowed the preposition (‹لـ<Break>كسر</>›); recast so it wraps the verb alone."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillSealAffinity_Effect_1",
+  "before": "يمنح <Bold>الصد</> أو <Bold>الدَّرء</> أو <Bold>التحجُّر</> الفاشل تيل {X} تراكمات <Shadow>الظل</>.",
+  "after": "يمنح إخفاقُ <Bold>الصد</> أو <Bold>الدَّرء</> أو <Bold>التحجُّر</> تيلَ {X} تراكمات <Shadow>الظل</>.",
+  "why": "الفاشل after a three-way list attached to the last item only; إخفاق up front scopes over all three, and تيلَ now reads as the object."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillCriticalRole_Effect_1",
+  "before": "بعد <Bold>ضربة ظل</>، توجّه الهجمة القريبة التالية ضربة <Critical>حاسمة</>.",
+  "after": "بعد <Bold>ضربة ظل</>، توجّه هجمة الاشتباك التالية ضربة <Critical>حاسمة</>.",
+  "why": "القريبة for melee contradicts the frozen الاشتباك."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillCriticalRole_Effect_2",
+  "before": "بعد <Bold>ضربة ظل</>، توجّه الهجمة البعيدة التالية أيضًا ضربة <Critical>حاسمة</>.",
+  "after": "بعد <Bold>ضربة ظل</>، توجّه الهجمة التالية بعيدة المدى ضربة <Critical>حاسمة</> أيضًا.",
+  "why": "البعيدة is not the frozen بعيد المدى; paired with its melee twin."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillAffinity_Effect_4",
+  "before": "كل <Bold>صدّ مثالي</> أو <Bold>درء</> أو <Bold>تحجُّر مثالي</> متتالٍ دون التعرض لضربة يراكم {Z} إضافية من ضرر <Break>الكَسر</>.",
+  "after": "يراكم كل <Bold>صدّ مثالي</> أو <Bold>درء</> أو <Bold>تحجُّر مثالي</> متتالٍ دون التعرض لضربة {Z} إضافية من ضرر <Break>الكَسر</>.",
+  "why": "Verb-initial; the subject phrase was too long to hold the front of an Arabic sentence."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillPoisonBurst_Effect_1",
+  "before": "كل تراكم <Poison>سم</> منفجر يُلحق {X} ضررًا.",
+  "after": "يُلحق كل تراكم <Poison>سم</> مُفجَّر ضررًا قدره {X}.",
+  "why": "Verb-initial and ضررًا قدره; منفجر (intransitive) wrong for a stack the strike detonates — matches the Smert Chaos twin."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillSealAffinityDesc",
+  "before": "كل مستوى يمنح تيل تحسينات متنوعة على <Bold>الخواتِم</>.",
+  "after": "يمنح كل مستوى تيل تحسينات متنوعة على <Bold>الخواتِم</>.",
+  "why": "Verb-initial 'Each level…' family."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillPlagueBearerDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Poison>السم</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Poison>السم</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillShadowDashGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>اندفاعة الظل</>.",
+  "after": "يُحسِّن كل مستوى <Bold>اندفاعة الظل</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillShadowStrikeGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>ضربة الظل</>.",
+  "after": "يُحسِّن كل مستوى <Bold>ضربة الظل</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Tiel/TielSkillCriticalRoleDesc",
+  "before": "كل مستوى يُحسِّن هجمات تيل.",
+  "after": "يُحسِّن كل مستوى هجمات تيل.",
+  "why": "Same family, verb-initial."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_HilgaApproach/5BCB54C0414C8036747E71ACE0CD5EE4",
+  "before": "إذن، تعال.",
+  "after": "تعال إذن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_HilgaApproach/E08E79AE44D52849C99F10ABA578BB0F",
+  "before": "ماذا تريد؟",
+  "after": "تريد ماذا؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_HilgaApproach_Continue/2E99116C42A600533DD5FEB8FA068DEB",
+  "before": "اختر ما يحلو لك.",
+  "after": "اختر ما شئت.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_Interact_Mushroom/D7AF776140C8AC5403B407A663864B54",
+  "before": "ضعها معها.",
+  "after": "ألقِ بها فيه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_TakePoison/09ABF7D24932B5FE20138F9E4FF34E25",
+  "before": "احذر مع ذلك.",
+  "after": "احذر منه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_TakePoison/5CAB39554CF037EF0E7BDD8F149DC8C3",
+  "before": "ماذا… ماذا تفعل!؟",
+  "after": "ماذا… ماذا تفعل؟!",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_01_TakePoison_Continue/192BE2804EA0A390ED72A8A151547488",
+  "before": "ماذا تفعل!؟",
+  "after": "ماذا تفعل؟!",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_02_GetUp/4750FAD14804C467B5A403B180418DF1",
+  "before": "لم… يكن أنا… كنت أحاول أن أقتل.",
+  "after": "لستُ… أنا من… كنت أحاول قتله.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_Poison_02_SitDown/99994C734370727624058BAC6E6DFF37",
+  "before": "تحتاج إلى راحة. اشرب.",
+  "after": "تحتاج راحة. اشرب.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gragu_TheChild_01_CryingChild/B197047644041E442AC5E88CED864C0D",
+  "before": "(يشمّ بأنفه باكيًا)",
+  "after": "(يشهق باكيًا)",
+  "why": "flow"
+ }
+]

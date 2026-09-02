@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S1_ExamineCoffins_02/F03AFCA04F0871C885D701839801805D",
+  "before": "كل هذا الموت... من أجلي.",
+  "after": "كل هؤلاء الموتى... بسببي.",
+  "why": "'on my behalf' is causation/guilt, not benefit; من أجلي read as 'for my sake'"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S1_ExamineCorpse_01/E3E818C7440AE6A8AD0DAA8CE3837ED5",
+  "before": "كل هذا الموت... من أجلي.",
+  "after": "كل هؤلاء الموتى... بسببي.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S1_ExamineResurrected_05/293BA99243FBBE5CF915E3B9143FF385",
+  "before": "هذا للأفضل.",
+  "after": "لعلّ في ذلك خيرًا.",
+  "why": "'it's for the best' is a set consolation; هذا للأفضل is a calque"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_ExamineOpenGrave_04/FAC608B647937FB75BB85DB6F58DCBD9",
+  "before": "نبش القبور أمرٌ شائع بما يكفي.",
+  "after": "نبش القبور ليس بالأمر النادر.",
+  "why": "'common enough' is litotes; Arabic says it with ليس بالأمر النادر"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_ExamineOpenGrave_04/04E403FB42CB527026A05586FC4CCA5E",
+  "before": "على أي حال، إنه بالتأكيد ليس هنا.",
+  "after": "حسنًا، من المؤكد أنه ليس هنا.",
+  "why": "إنه بالتأكيد ليس هنا stacked two emphatics awkwardly"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_ExamineTornLimb_06/0566D5974946CDB60E6DA29EC61CF2D1",
+  "before": "إن كان صديقنا العزيز... حيًا بعد...",
+  "after": "إن كان «صديقنا» العزيز... حيًا بعد...",
+  "why": "restored the scare quotes the source puts on 'friend'"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_ExamineTornLimb_06/A367314C402941D9680D51AD3958F472",
+  "before": "قد يكون هذا اختراقًا.",
+  "after": "قد يكون هذا فتحًا حقيقيًا.",
+  "why": "اختراق reads as a security breach; فتح is the Arabic for a scientific breakthrough"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_ExamineTornLimb_06/BB269EAB4312DB6EB0E4F0817476B888",
+  "before": "ما فعل هذا... ليس بشريًا.",
+  "after": "أيًا كان فاعل هذا... فليس بشريًا.",
+  "why": "أيًا كان…ف is the Arabic concessive; ما فعل هذا was ambiguous"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_Intro_01/50357CA0468C5CC03613628EFD2ACA82",
+  "before": "وتصدّق الشائعات؟",
+  "after": "أوَتصدّق الشائعات؟",
+  "why": "أوَ carries the incredulous 'And you believe…?'"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_KnockOnDoor_05/88CF0EE54C8C4BD2AE1CD0B65C0509EA",
+  "before": "ابتعد!",
+  "after": "ابتعدوا!",
+  "why": "the villager is shouting at both men; the reply 'We just want to talk' is plural"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_KnockOnDoor_05/33EFFDF84320AF5259B383B0D824E9D3",
+  "before": "لا نريد المزيد من معروفك...",
+  "after": "لا نريد مزيدًا من صنائعك...",
+  "why": "favors plural = صنائع; المزيد من معروفك was singular and flat"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_SpeakWithVillager_03/6A990F614CD35B8A551A0CBAD359EE3A",
+  "before": "لن أسمّي هذا كذلك.",
+  "after": "ما كنت لأسمّيه كذلك.",
+  "why": "'I'd hardly call it' is conditional, not a flat future refusal"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheDead_S2_SpeakWithVillager_03/FD88E751403F86F7A321C8B07874CB21",
+  "before": "يجب أن تتراجع عنه.",
+  "after": "عليك أن تبطله.",
+  "why": "undo a deed = أبطل/ردّ, not تراجع عن (retract a statement)"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheExperiment_S1_DemandParasite_06/55B442544B3328C4377C459632D46805",
+  "before": "(يلهث من الصدمة)",
+  "after": "(يشهق مصدومًا)",
+  "why": "gasp is a sharp intake of breath (شهقة), not panting"
+ }
+]

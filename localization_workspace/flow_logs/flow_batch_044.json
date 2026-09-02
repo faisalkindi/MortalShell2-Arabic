@@ -1,0 +1,50 @@
+[
+ {
+  "key": "/417219D74EAC6DA448EF91B7B784F9DD",
+  "before": "اسمعوا، أيها الأُخَيّون الأعزاء! لن تجدوا ممرًا آمنًا أمامكم. فمن كنّا نسميهم أصدقاء أوصدوا نوافذهم وأقفلوا أبوابهم. غرينهيفن، كما عرفناها، لم تعد.",
+  "after": "اسمعوا، أيها الأُخَيّون الأعزاء! لن تجدوا ممرًا آمنًا أمامكم. فمن كنّا نسميهم أصدقاء أوصدوا نوافذهم وأقفلوا أبوابهم. غرينهيفن، كما عرفناها، لم يعد لها وجود.",
+  "why": "لم تعد dangles without a complement — Arabic needs لم يعد لها وجود to carry 'is no more', and it lands the warning's last beat."
+ },
+ {
+  "key": "/18E05D1947866A3D68B6B5AACA5611D1",
+  "before": "هارولد",
+  "after": "هارْوالد",
+  "why": "Harwald was transliterated as هارولد (Harold), a different name; unified across all its occurrences."
+ },
+ {
+  "key": "/A89A61A84102006F9A2523B5E8F88141",
+  "before": "هارولد",
+  "after": "هارْوالد",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/DFA890F14A209D81654CF4BA1769F64F",
+  "before": "هارولد",
+  "after": "هارْوالد",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/FA2E6B2448AE9B56B4E5CA8CAC8F8BFC",
+  "before": "هارولد",
+  "after": "هارْوالد",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/7C9E4CF9455790E7C7D98B84F3A4E29A",
+  "before": "هاهنا يرقد هارولد. أفضل معلّمٍ عرفته.",
+  "after": "هاهنا يرقد هارْوالد. أفضل معلّمٍ عرفته.",
+  "why": "Same name fix; the epitaph must match the character's name rows."
+ },
+ {
+  "key": "/9BC3D43549FDED487B5C038477DB333B",
+  "before": "مساعدة هاريك على النهوض",
+  "after": "مساعدة هايريك على النهوض",
+  "why": "Frozen glossary transliteration: Haeric = هايريك, not هاريك."
+ },
+ {
+  "key": "/002DE11540ADD67F3DF9A59AAA7C51EB",
+  "before": "لا بد أنه مجنون. الحكايات تروي عن عذراء جميلة، لا عجوزًا شريرة. عليّ أن أواصل البحث.",
+  "after": "لا بد أنه مجنون. تروي الحكايات عن عذراء جميلة، لا عجوزًا شريرة. عليّ أن أواصل البحث.",
+  "why": "Verb-initial: the middle sentence was nominal-initial between two verb-initial ones, and the journal entry stumbled there when read aloud."
+ }
+]

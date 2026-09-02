@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_AfterKeyGiven/9454BF5C41E7B34CF976B08424A6BF04",
+  "before": "ربما هذا ليس قدري في الحياة.",
+  "after": "لعلّ هذا ليس نصيبي في الحياة.",
+  "why": "'lot in life' is نصيب; لعلّ suits the resigned voice"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_AfterKeyGiven/6C5A39FA41265DE0E6C743BBBF81FCA2",
+  "before": "لن يكون هناك هروب جريء لي.",
+  "after": "لن يكون لي هروبٌ جريء.",
+  "why": "drops the 'there will be' calque"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_BrigMerchant/086E8D964BD8BBFEC7EDBF8D5EBFD4F4",
+  "before": "تحياتي، يا صاح. ماذا تريد؟",
+  "after": "أهلًا، يا صاح. ماذا تريد؟",
+  "why": "تحياتي is formal; the source is a clipped brigand greeting"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/8ADBE915461CE333F90BB983E2B7001B",
+  "before": "ربما هذا ليس قدري في الحياة.",
+  "after": "لعلّ هذا ليس نصيبي في الحياة.",
+  "why": "'lot in life' is نصيب; لعلّ suits the resigned voice"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/CA7A54CD48DE5E060333EBA577695D87",
+  "before": "لن يكون هناك هروب جريء لي.",
+  "after": "لن يكون لي هروبٌ جريء.",
+  "why": "drops the 'there will be' calque"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/67C7536C45BEB1533015D7967FAB097B",
+  "before": "حين يكون سجّاني ثملين بالقار.",
+  "after": "حين يثمل سجّانيّ بالقار.",
+  "why": "fixes number disagreement (سجّاني singular vs ثملين plural) and goes verb-initial"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_GloomstrickenCorpse/D92FDFFB4825EA5F76CC6EACE9BE079D",
+  "before": "من أينما يأخذهم القَتام.",
+  "after": "من حيثما يأخذهم القَتام.",
+  "why": "من أينما is ungrammatical; حيثما is the correct relative"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_Tea/E7E00FE3442AFF95F8EA33AED617B087",
+  "before": "طعمٌ صغير من العالم المتحضر.",
+  "after": "مذاقٌ يسير من العالم المتحضّر.",
+  "why": "مذاق for a taste of something; طعم صغير is a literal calque"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_03_Tea/8D6A5533447C5E912D23DDA7C51ABE63",
+  "before": "استمتع به. يجب أن يستمتع به أحد.",
+  "after": "استمتع به. لا بدّ لأحدٍ أن يفعل.",
+  "why": "avoids repeating يستمتع twice in two short clauses"
+ },
+ {
+  "key": "Dialogue_Dlg_VlasEvent_04_HordeBrig/0B0AC82D4D4998D1E7819B8054B45B29",
+  "before": "اخترق نفسه بنصلي.",
+  "after": "ارتمى على نصلي فاخترقه.",
+  "why": "he impaled himself ON the blade — the original reversed the agent"
+ }
+]

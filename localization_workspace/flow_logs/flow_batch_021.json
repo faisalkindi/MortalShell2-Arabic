@@ -1,0 +1,44 @@
+[
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_HeavyAttackFinisher_CriticalDesc",
+    "before": "يمنح <Bold>خاتمة سلسلة ثقيلة</> خاصة",
+    "after": "يتيح <Bold>خاتمة سلسلة ثقيلة</> خاصة",
+    "why": "\"grants access\" -> يتيح، موحّد على الصفوف الأربعة الشقيقة بدل يمنح"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_HeavyAttackFinisher_WeakDesc",
+    "before": "يمنح <Bold>خاتمة سلسلة ثقيلة</> خاصة",
+    "after": "يتيح <Bold>خاتمة سلسلة ثقيلة</> خاصة",
+    "why": "نفس التوحيد"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_LightAttackFinisher_BreakDesc",
+    "before": "يمنح <Bold>خاتمة سلسلة خفيفة</> خاصة",
+    "after": "يتيح <Bold>خاتمة سلسلة خفيفة</> خاصة",
+    "why": "نفس التوحيد"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_LightAttackFinisher_ResolveDesc",
+    "before": "يمنح <Bold>خاتمة سلسلة خفيفة</> خاصة",
+    "after": "يتيح <Bold>خاتمة سلسلة خفيفة</> خاصة",
+    "why": "نفس التوحيد"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_Generic_ResolveGainDesc",
+    "before": "يزيد ما تكسبه من <Resolve>العزيمة</> عند هجمات الاشتباك",
+    "after": "يزيد ما تكسبه من <Resolve>العزيمة</> في الاشتباك",
+    "why": "مواءمة مع الصفوف الشقيقة التي تنتهي كلها بـ«في الاشتباك»/«في الرمي»؛ حذف «عند هجمات»"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Sidearm_CorrosionDesc",
+    "before": "تبدأ المقذوفات بإلحاق ضرر بمرور الوقت بعد إصابة هدفها",
+    "after": "تُلحق المقذوفات ضررًا بمرور الوقت بعد إصابة هدفها",
+    "why": "بداية فعلية؛ «تبدأ بإلحاق» نقل حرفي لـstart dealing، والبدء يُفهم من «بعد إصابة هدفها»"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Support_DamageReductionDesc",
+    "before": "يمنح <Bold>تقليل ضرر</> لجميع الشخصيات",
+    "after": "يمنح جميع الشخصيات <Bold>تقليل ضرر</>",
+    "why": "ترتيب عربي: المفعول بعد الفعل مباشرة بدل جار ومجرور متأخر"
+  }
+]

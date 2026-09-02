@@ -1,0 +1,68 @@
+[
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/180193C54C5003D2EA191CBFEFA49DEB",
+  "before": "لكنك... أنت تستطيع.",
+  "after": "أما أنت... فتقوى.",
+  "why": "أما…ف connector; echoes the 'لا أقوى' of the paired line instead of stacking pronouns"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/3A3A032E43F2FF2D51C9E3A8BD2B07E3",
+  "before": "أنا... لا أستطيع الدخول هناك.",
+  "after": "أنا... لا أقوى على دخول ذلك المكان.",
+  "why": "'الدخول هناك' is a calque; لا أقوى على carries the dread"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/8E9E76DD41B32F54BF2C6E80E6B74CDC",
+  "before": "هناك أشياء... لا أريد أن أتذكّرها.",
+  "after": "ثمّة أشياء... لا أريد تذكّرها.",
+  "why": "tighter; Arabic implies the pronoun"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/6576CB28407C20AAF8BD2EBD9745B546",
+  "before": "لا بد من وجود شيء.",
+  "after": "لا بدّ أن ثمّة شيئًا.",
+  "why": "لا بد من وجود شيء is bookish; joins the next fragment better"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/41D78FEB4F1F08E5FFCD9888F7F65986",
+  "before": "بالتركيبة.",
+  "after": "فيه التركيبة.",
+  "why": "'بالتركيبة' is ambiguous in Arabic; فيه التركيبة continues the previous line as the source does"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_09/0D0F5CBD4E955210DA1EDA892BAFBD98",
+  "before": "أنت قويّ.",
+  "after": "إنك لقويّ.",
+  "why": "flat أنت قويّ loses Ruk's appraising tone"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_OutsideLab_Interact_07/AE77E59945540E992D229A9E40A7CDC5",
+  "before": "لنقتحم طريقنا للداخل.",
+  "after": "لنقتحم المكان عنوةً.",
+  "why": "'نقتحم طريقنا للداخل' is a word-for-word carry of 'force our way in'"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielQuest_OutsideLab_Intro_06/2872127E493D69AF2131E4A230FAF655",
+  "before": "لكن... إنه مُغلق الآن.",
+  "after": "لكنه الآن... مسدود.",
+  "why": "an entrance is مسدود, not مغلق; also avoids collision with the frozen الخاتَم/seal sense"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielShellReaction/D463F41C4C5B2AEC92A5CF80053C50C7",
+  "before": "أنهى أمره.",
+  "after": "أنهيتَ أمره.",
+  "why": "subject error: 'أنهى أمره' reads as a third party doing it; the addressee is the Harbinger, as in the sibling line 'لقد وجدته'"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielShellReaction/42FF6A874C735EB2EFE0D6BCD26B4580",
+  "before": "كم عددًا آخرين آذيناهم؟",
+  "after": "كم من الآخرين آذينا؟",
+  "why": "'كم عددًا آخرين' is ungrammatical تمييز"
+ },
+ {
+  "key": "Dialogue_Dlg_Ruk_SarielShellReaction/F367CDA94DB1C24475D101B8508ABE53",
+  "before": "لعلّك تستطيع الاستفادة منه...",
+  "after": "لعلّك تنتفع به...",
+  "why": "الاستفادة منه is flat prose; تنتفع به is the idiom"
+ }
+]

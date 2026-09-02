@@ -1,0 +1,26 @@
+[
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_Interact/077CDEE64F060C45E91635B058A98568",
+  "before": "لن يكون هناك… صعود.",
+  "after": "لن يكون ثمّة… صعود.",
+  "why": "'هناك' as existential is a calque; ثمّة is the Arabic form"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_InteractAfterAttack/B1A4CD32439E8681DCEC3492E770B198",
+  "before": "فأنا لستُ من الفانين الفارغين.",
+  "after": "فلستُ فانيًا فارغًا كسائرهم.",
+  "why": "'من الفانين الفارغين' drops 'another'; kept gender-neutral"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_03_InteractJoinCircle/45685DEB44279005598FCBB95763272B",
+  "before": "والجميع مُرحَّب بهم.",
+  "after": "ومرحبًا بالجميع.",
+  "why": "'الجميع مُرحَّب بهم' is a passive calque of 'all are welcome'"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_03_InteractJoinCircle/CD8183734BCC2524EA6E8A89A3142681",
+  "before": "ليس ثمّة سوى اتحادٍ كاملٍ واحد.",
+  "after": "ما من اتحادٍ كاملٍ إلا واحد.",
+  "why": "'ليس ثمّة سوى اتحادٍ كاملٍ واحد' is clumsy; ما من…إلا is the idiom"
+ }
+]

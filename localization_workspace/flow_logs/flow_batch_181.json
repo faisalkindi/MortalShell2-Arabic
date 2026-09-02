@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_02_Villagers/9FA5E7794E075F360C965AB5219B4BCC",
+  "before": "إيه. لا يعني لنا شيئًا.",
+  "after": "إيه. لا يعنينا في شيء.",
+  "why": "'لا يعني لنا شيئًا' is a calque; لا يعنينا في شيء is the idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_02_Villagers/9A28ECAC44C25CF0592A8AA467412F05",
+  "before": "مجرد مشاجرة بين نبلاء.",
+  "after": "شجارُ نبلاء، لا أكثر.",
+  "why": "'مجرد مشاجرة بين نبلاء' is flat; the dismissal belongs at the end in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03/C56506B64D3010D770A5798FDAD1DAD3",
+  "before": "لكن يمكنني إنقاذك.",
+  "after": "لكن بوسعي إنقاذك.",
+  "why": "بوسعي is warmer than the neutral يمكنني in a consoling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03/A3245FEB4310FD2DC8A7A5B41855D8C3",
+  "before": "أنا آسف، يا لازلو.",
+  "after": "أنا آسف يا لازلو.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03/6DF3CBA243EA04BA0631D5988BE19779",
+  "before": "اسمع، يا لازلو.",
+  "after": "اسمع يا لازلو.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03/4935E50647A45023A563CA952A719E2F",
+  "before": "كلانا يعرف أن هذا غير ممكن.",
+  "after": "كلانا يعلم أن هذا محال.",
+  "why": "'غير ممكن' is two words for محال"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03a/510ACD904F74D4821C82C8808CFF3AA5",
+  "before": "لكن يمكنني إنقاذك.",
+  "after": "لكن بوسعي إنقاذك.",
+  "why": "matches the sibling line in the parallel scene branch"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03a/7C312CE24991A2D8EC53DA9C3928FD8F",
+  "before": "أنا آسف، يا لازلو.",
+  "after": "أنا آسف يا لازلو.",
+  "why": "no comma before the vocative يا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03a/3F4271144A243ACE3669FEA888DBA4A3",
+  "before": "أنت... سمحتَ بحدوث هذا؟",
+  "after": "أنت... تركتَ هذا يحدث؟",
+  "why": "'سمحتَ بحدوث هذا' is a masdar calque of 'let this happen'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03b/51F617714255FE1407D75D8E06B18B5F",
+  "before": "أباك اتخذ خيارات.",
+  "after": "أبوك اتخذ خيارات.",
+  "why": "case error: the subject must be أبوك, not أباك"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03c/99901D1541CB1919EF05929EC59A7DBA",
+  "before": "كلانا يعرف أن هذا غير ممكن.",
+  "after": "كلانا يعلم أن هذا محال.",
+  "why": "matches the sibling line in the parallel scene branch"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_01/5AD147FA46163A76F6B12B8B03E65887",
+  "before": "آه، هيا.",
+  "after": "أوه، بحقّك.",
+  "why": "'آه، هيا' loses the exasperation; بحقّك is the Arabic 'oh come on'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_01/933FD33C46A520821EBDE7989B2A30F2",
+  "before": "تبدو منهك الجوع.",
+  "after": "تبدو وقد أضناك الجوع.",
+  "why": "'منهك الجوع' is not an Arabic construction"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_02_Interactable/06CF37BD4AA6876432C3A7B8A75B381B",
+  "before": "تذكّر. الاستهلاك مسعانا النبيل.",
+  "after": "تذكّر. الالتهام مسعانا النبيل.",
+  "why": "'الاستهلاك' is economics jargon; the scene is a feast of flesh"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_03/A8A0396143E9AEB05461AABBB56B5F83",
+  "before": "تشعر بالجرأة؟ هناك المزيد.",
+  "after": "أتشعر بالجرأة؟ فهناك المزيد.",
+  "why": "missing interrogative hamza; ف links the taunt to its offer"
+ }
+]

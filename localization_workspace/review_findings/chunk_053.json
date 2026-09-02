@@ -1,0 +1,33 @@
+{
+ "chunk": 53,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hub_EggCultist_On_35_Ova/DF17D450413B8C2CF8354A8067FE6867",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Harbinger.... oh my!",
+   "ar": "أيها النذير.... يا للهول!",
+   "issue": "Tone inverted. يا للهول is dread ('how awful'), but the two sibling lines in this namespace are 'You have recovered so many Ova.' and 'So many more than was foretold.' — the cultist is delighted, not horrified.",
+   "suggested_ar": "أيها النذير.... يا للعجب!"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_EggCultist_On_35_Ova_Genessa/A18A14CB413D08BAEE27C8A723F371F4",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "It is a wonder… to see these Ova.",
+   "ar": "إنها عجيبة… أن أرى هذه البُيوض.",
+   "issue": "إنها has no antecedent and then a masculine أن-clause is supplied as its subject, so the sentence does not agree with itself. The English 'It is' is a dummy subject Arabic does not carry over.",
+   "suggested_ar": "لَعجيبٌ… أن أرى هذه البُيوض."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Ruk_EggStranding_FirstOvum/A82BA2D0413F29559F4947AADAC00F7F",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Go on.",
+   "ar": "تابع.",
+   "issue": "In this scene Ruk is pushing the Harbinger to act on the spoiling egg ('Come! Look.' … 'this is what you were hatched for.'), so 'Go on' is encouragement to proceed, not 'carry on talking', which is what تابع says.",
+   "suggested_ar": "هيّا."
+  }
+ ]
+}

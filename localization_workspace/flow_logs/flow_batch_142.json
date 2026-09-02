@@ -1,0 +1,56 @@
+[
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_BigCauldron_Exit_05_10",
+  "before": "انتهيت بهذه السرعة؟ لماذا؟",
+  "after": "انتهيت بهذه السرعة؟ لمَ؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Frog_Interact_01_20",
+  "before": "هارولد حسّاسٌ جدًا.",
+  "after": "هارْوالد حسّاسٌ جدًا.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_DeadFrog_Look_06_10",
+  "before": "قتل هارولد.",
+  "after": "قتل هارْوالد.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_06_10",
+  "before": "مسكين هارولد.",
+  "after": "مسكين هارْوالد.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_GiveDagger_08_20",
+  "before": "همم. (تشمّ) مثل... الضفدع، لكن…",
+  "after": "همم. (تشمّ) مثل… ضفدع، لكن…",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Door_Interact_02_10_Brig",
+  "before": "أخبرتك من قبل. إنها خارجة.",
+  "after": "أخبرتك من قبل. إنها بالخارج.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_01_20",
+  "before": "تجاهله. يجب أن... يتجرّع غضبه.",
+  "after": "تجاهله. دعه… يغلي في غيظه.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_BrigItem_Look_04_10",
+  "before": "الرجل مثل… النار.",
+  "after": "رجل مثل… نار.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_BigCauldron_Interact_05_40",
+  "before": "فقط… حسنًا، ستری.",
+  "after": "فقط… حسنًا، سترى.",
+  "why": "flow"
+ }
+]

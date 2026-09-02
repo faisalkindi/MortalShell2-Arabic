@@ -1,0 +1,33 @@
+{
+ "chunk": 106,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "gland/BagheadMoonshine",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Special Moonshine",
+   "ar": "عَرَق خاص",
+   "issue": "'Special Moonshine' is frozen as العَرَق المُعتَّق (paired with Common Moonshine = العَرَق العاديّ). عَرَق خاص is an unapproved rendering of a frozen item name.",
+   "suggested_ar": "العَرَق المُعتَّق"
+  },
+  {
+   "key": "mortal_shell_meta_descriptions/278360_name",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "A Story About My Uncle",
+   "ar": "قصة عن عمي",
+   "issue": "This is a _name row - a real product title in the Steam metadata table. All fifteen sibling _name rows in this chunk keep the English title verbatim (Baldur's Gate 3, Cyberpunk 2077, Darkest Dungeon, Black Myth: Wukong...). This one alone was translated, breaking the table's own convention.",
+   "suggested_ar": "A Story About My Uncle"
+  },
+  {
+   "key": "gland/BagheadMoonshineFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "This is no brigand-swill. The bottle is unopened, wrapped carefully in sackcloth by its maker. Perhaps it's meant for more than mere merriment?",
+   "ar": "هذا ليس خمر قطّاع طرق رخيصًا. الزجاجة لم تُفتح بعد، لفّها صانعها بعنايةٍ في قماش الكيس. ولعلّها أُعِدّت لأكثر من مجرّد المرح؟",
+   "issue": "'sackcloth' is a fabric (burlap) = الخيش. قماش الكيس reads as 'the cloth of the sack', pointing at a specific bag that does not exist in the line.",
+   "suggested_ar": "هذا ليس خمر قطّاع طرق رخيصًا. الزجاجة لم تُفتح بعد، لفّها صانعها بعنايةٍ في الخيش. ولعلّها أُعِدّت لأكثر من مجرّد المرح؟"
+  }
+ ]
+}

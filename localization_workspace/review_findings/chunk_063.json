@@ -1,0 +1,15 @@
+{
+ "chunk": 63,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_ExamineBottle/AA541BED4E9601825A41E59C2D17BCBA",
+   "type": "gender_error",
+   "severity": "minor",
+   "source_en": "I promise.",
+   "ar": "أعدُك.",
+   "issue": "Tiel is answering Genessa in this memory scene (the paired row is \"No… I am better now\"), and the parallel bottle-scene addresses its listener as feminine (يا صديقتي القديمة / أنتِ كل ما أحتاج إليه). Unmarked أعدُك reads masculine; the corpus marks the feminine addressee explicitly elsewhere (أحتاج إليكِ، أين أنتِ). Addressee identity is inferred from scene context, so confirm before applying.",
+   "suggested_ar": "أعدُكِ."
+  }
+ ]
+}

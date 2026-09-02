@@ -1,0 +1,62 @@
+[
+ {
+  "key": "Dialogue_Dlg_Undermether_Midpoint_01/78990182441E88CE779AED9156E6EFEA",
+  "before": "أنت وأنا نخدم مَن سيكونون أهلنا.",
+  "after": "أنت وأنا نخدم أهلنا الذين لم يأتوا بعد.",
+  "why": "matches the identical line in the sibling namespace"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_Midpoint_02/CFB659394CF35DB10F1174AAEEFE830E",
+  "before": "لكنك وأنا... نحن... سننتهي.",
+  "after": "أما أنت وأنا... نحن... فسننتهي.",
+  "why": "أما...ف carries the contrast the em-dashes mark"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_Midpoint_03/1564A375481F679DA54BA7AF3CB290C0",
+  "before": "أنت وأنا. سننتهي.",
+  "after": "أما أنت وأنا. فسننتهي.",
+  "why": "matches its variant line"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_Midpoint_03/BE7F6022457FD08479A97189DBDF3F54",
+  "before": "لكنك وأنا... نحن... سننتهي.",
+  "after": "أما أنت وأنا... نحن... فسننتهي.",
+  "why": "أما...ف carries the contrast the em-dashes mark"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_PostFinalBoss/17726F1A443A34D78C2FDC99C68A8DD3",
+  "before": "تمّ الأمر.",
+  "after": "قُضي الأمر.",
+  "why": "divine register for 'It is done'"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_PostFinalBoss/0311889C4CFA91AE64EE9BA40188C46C",
+  "before": "لم يعد الراكب الفاسد موجودًا.",
+  "after": "لم يعد للراكب الفاسد وجود.",
+  "why": "موجودًا is flat; this is the Arabic phrasing"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_PostFinalBoss/6AA37A88435C117772C440843FAE994F",
+  "before": "لم يبقَ لنا سوى غاية أخيرة واحدة.",
+  "after": "لم يبقَ لنا سوى غايةٍ أخيرة.",
+  "why": "سوى already excludes; واحدة was redundant"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_PostFinalBoss/A3C772E04C71D68317B5B6BF6B151CA0",
+  "before": "...حين تكون مستعدًا.",
+  "after": "...حين تستعدّ.",
+  "why": "one verb where Arabic needs no copula"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_Slice3Opens_01/2B83236641A23C114CEF44AC4CB5BE3D",
+  "before": "نحن قريبون جدًّا.",
+  "after": "لقد أوشكنا.",
+  "why": "Arabic idiom for 'we're so close'"
+ },
+ {
+  "key": "Dialogue_Dlg_Undermether_Slice3Opens_03/6A8AE6CB4A14D32BEEFEFBA370A95B42",
+  "before": "عندها فقط نستطيع تحرير مَن سيكونون أهلنا.",
+  "after": "عندها فقط نستطيع تحرير أهلنا الذين لم يأتوا بعد.",
+  "why": "same rendering of 'kin-to-be' across the scene"
+ }
+]

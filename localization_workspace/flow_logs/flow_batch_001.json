@@ -1,0 +1,86 @@
+[
+ {
+  "key": "ST_Core_Options_Game/AimControllerSensitivity",
+  "before": "حساسية تصويب الذراع",
+  "after": "حساسية تصويب ذراع التحكم",
+  "why": "sibling labels say ذراع التحكم; الذراع alone was the odd one out"
+ },
+ {
+  "key": "ST_Core_Options_Game/EnableForceFeedback",
+  "before": "تفعيل اهتزاز الذراع",
+  "after": "تفعيل اهتزاز ذراع التحكم",
+  "why": "same controller-term standardisation"
+ },
+ {
+  "key": "ST_Core_Options_Game/LowHPVignette",
+  "before": "تعتيم عند تدني الصحة",
+  "after": "تفعيل تعتيم تدني الصحة",
+  "why": "Enable-family: every sibling opens with تفعيل; this one dropped it"
+ },
+ {
+  "key": "ST_Core_Options_Game/InvertControllerX",
+  "before": "عكس محور X للذراع",
+  "after": "عكس محور X لذراع التحكم",
+  "why": "same controller-term standardisation"
+ },
+ {
+  "key": "ST_Core_Options_Game/InvertControllerY",
+  "before": "عكس محور Y للذراع",
+  "after": "عكس محور Y لذراع التحكم",
+  "why": "same controller-term standardisation"
+ },
+ {
+  "key": "ST_Core_Progression/ShellAbilityLocked",
+  "before": "قدرة مقفلة",
+  "after": "القدرة مقفلة",
+  "why": "definiteness matched to sibling القدرة في أقصى مستوى"
+ },
+ {
+  "key": "ST_Core_Progression/ConfirmLevelUp",
+  "before": "تأكيد [مع الاستمرار]",
+  "after": "تأكيد [ضغط مطوّل]",
+  "why": "frozen Hold convention; nominal tag form of اضغط مطوّلا"
+ },
+ {
+  "key": "ST_Core_Progression/AdvanceTierLockedGenessaDesc",
+  "before": "عمّق رابطتك بجينيسا بإنفاق الوَمَضات لتقوية قدرتها.",
+  "after": "أنفِق الوَمَضات لتعميق رابطتك بجينيسا، فتزداد قوتها.",
+  "why": "recast verb-initial, killed the b...b preposition clash, purpose-lam replaced by the fa of consequence used by the sibling tier rows"
+ },
+ {
+  "key": "ST_Core_Progression/AdvanceTierLockedDesc",
+  "before": "عمّق مستوى رابطتك بهذا الهَيكل عند حارس الهَياكل لتقوية قدرته.",
+  "after": "عمّق مستوى رابطتك بهذا الهَيكل عند حارس الهَياكل، فتزداد قوته.",
+  "why": "purpose-lam replaced by the fa of consequence, matching تعمّقت الرابطة... فازدادت قوته"
+ },
+ {
+  "key": "ST_Core_Progression/FinalTierUnlockedGenessaDesc",
+  "before": "اكتملت الرابطة مع جينيسا.",
+  "after": "اكتملت الرابطة بجينيسا.",
+  "why": "bond preposition standardised to رابطة بـ (Shell rows already used بـ, Genessa rows used مع)"
+ },
+ {
+  "key": "ST_Core_Progression/AdvanceTierUnlockedGenessaDesc",
+  "before": "تعمّقت الرابطة مع جينيسا، فازدادت قوتها.",
+  "after": "تعمّقت الرابطة بجينيسا، فازدادت قوتها.",
+  "why": "same bond-preposition standardisation"
+ },
+ {
+  "key": "ST_Core_Progression/RefundAllShellsPromptMessage",
+  "before": "سيسترد هذا الإجراء كل القدرات في جميع الهَياكل، بمجموع <Bold>{X}</> من نقاط الهَيكل",
+  "after": "ستُستردّ كل القدرات في جميع الهَياكل، بمجموع <Bold>{X}</> من نقاط الهَيكل",
+  "why": "cut 'this action will' - Arabic implies the agent; passive is how a confirm dialog speaks"
+ },
+ {
+  "key": "ST_Core_Progression/TierReached",
+  "before": "تم بلوغ الرتبة",
+  "after": "بلغت الرتبة",
+  "why": "matched to بلغت الرتبة القصوى / بلغت المستوى الأقصى; cut the تم passive filler"
+ },
+ {
+  "key": "ST_Core_Progression/ToggleShellInfo",
+  "before": "إظهار المعلومات",
+  "after": "تبديل عرض المعلومات",
+  "why": "Toggle had been softened to 'show'; تبديل matches ActionToggleLockOn / ActionToggleSprint"
+ }
+]

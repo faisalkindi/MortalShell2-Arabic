@@ -1,0 +1,50 @@
+[
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/AD80D43D452957DE6E63FBB13B1601A8",
+  "before": "متأكد؟",
+  "after": "أمتأكد؟",
+  "why": "bare 'متأكد؟' lacks the Arabic interrogative marking"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/74E4A2DE46EF8F0628E7858F37070744",
+  "before": "ليس صعب الإيجاد.",
+  "after": "ليس يصعب العثور عليه.",
+  "why": "'ليس صعب الإيجاد' is a non-Arabic construction"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/C63B9E9848D969823C694490F6A5EF1F",
+  "before": "ليس صعب الإيجاد.",
+  "after": "ليس يصعب العثور عليه.",
+  "why": "same fix as its sibling row, kept identical"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/CD5F64554FFAAEC0052A88873884EFAD",
+  "before": "ليس شيئًا تجده في أي مكان.",
+  "after": "ليس مما تجده في كل مكان.",
+  "why": "'في أي مكان' under negation reads wrong; مما تجده في كل مكان is the Arabic idiom"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/4CFB5894463E0B069665369C29523291",
+  "before": "انظر ما يلفت انتباهك.",
+  "after": "وانظر ما الذي يستوقفك.",
+  "why": "'يلفت انتباهك' is flat; يستوقفك carries 'strikes you'"
+ },
+ {
+  "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/179C23454B5BC2B9A457B9BA231B169E",
+  "before": "أترى… للجلوس بلا فعل شيء فنٌّ خاص.",
+  "after": "أترى… إن للتبطّل فنًّا.",
+  "why": "'للجلوس بلا فعل شيء فنٌّ خاص' is wordy; إنّ-fronting gives the aphorism its punch"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Ineract_02_10",
+  "before": "آه... تخيّل هذا.",
+  "after": "آه… تخيّل هذا.",
+  "why": "ASCII ellipsis normalized to the Arabic-text ellipsis used everywhere else"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_03_10",
+  "before": "في البداية… كانت أوقاتًا طيّبة.",
+  "after": "في البداية… كان الأمر ممتعًا.",
+  "why": "'كانت أوقاتًا طيّبة' is ungrammatical; matches the fix in batch 090"
+ }
+]

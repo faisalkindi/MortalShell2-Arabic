@@ -1,0 +1,33 @@
+{
+ "chunk": 37,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Test/8F672D964943E4C3AAA6D884BB5B3BD5",
+   "type": "omission",
+   "severity": "high",
+   "source_en": "A pittance, but it's a start. Bring more and I will reward you handsomely.",
+   "ar": "نزرٌ يسير، لكنّه بداية.",
+   "issue": "An entire sentence is missing. 'Bring more and I will reward you handsomely.' has no Arabic at all. The two sibling tribute-tier rows in the same namespace both keep their second sentence, so this is a dropped clause, not a stylistic cut - and the promise of reward is what drives the tribute loop.",
+   "suggested_ar": "نزرٌ يسير، لكنّه بداية. ائتِني بالمزيد وسأُجزيك خير الجزاء."
+  },
+  {
+   "key": "Dialogue_Dlg_BlisterBoi_Greeting_10/EFF37CF4437861DF92E2CAB49FF8EA1D",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(sigh) Here you are again.",
+   "ar": "(يتنهد) ها أنت هنا من جديد.",
+   "issue": "Stage direction written يتنهد without the shadda; the frozen form is (يتنهّد). Same defect as Blacksmith_Interact_02.",
+   "suggested_ar": "(يتنهّد) ها أنت هنا من جديد."
+  },
+  {
+   "key": "Dialogue_Dlg_BlisterBoi_Greeting_Test/913C39AE4E08274DB73E3F8F5D1AA478",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Come to pay tribute—I assume.",
+   "ar": "جئتَ لتدفع الجزية—على ما أظنّ.",
+   "issue": "'tribute' is rendered الجزية consistently across this speaker (also Greeting_Test/16F3484E and Interact_09_Repeatable/7EE48E68). جزية carries a specific Islamic-jurisprudence sense (the poll tax on non-Muslims) that lands oddly in a European dark-fantasy court. إتاوة is the neutral word for an extorted levy and fits Egon's racket exactly. Reporting for an owner ruling since the choice is applied consistently and may be deliberate.",
+   "suggested_ar": "جئتَ لتدفع الإتاوة—على ما أظنّ."
+  }
+ ]
+}

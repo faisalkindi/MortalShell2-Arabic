@@ -1,0 +1,15 @@
+{
+ "chunk": 9,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_StatusEffects/ST_Curse_Description",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Applying enough stacks <Bold>Curses</> the target, nullifying their next melee strike against you and turning it back upon them",
+   "ar": "تراكمٌ كافٍ <Bold>يلعن</> الهدف، فيُبطل ضربته القريبة التالية عليك ويردّها إليه",
+   "issue": "Glossary unifies melee as الاشتباك and explicitly rejects الهجمات القريبة; this row renders 'melee strike' as ضربته القريبة, while the neighbouring status descriptions use هجمات الاشتباك.",
+   "suggested_ar": "تراكمٌ كافٍ <Bold>يلعن</> الهدف، فيُبطل ضربة الاشتباك التالية عليك ويردّها إليه"
+  }
+ ]
+}

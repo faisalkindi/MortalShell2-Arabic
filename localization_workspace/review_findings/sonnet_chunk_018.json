@@ -1,0 +1,36 @@
+{"chunk": 18, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_NpcNames/Ovate",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Ovate",
+   "ar": "العَرّاف",
+   "issue": "Glossary explicitly cites 'ST_Core_NpcNames/Ovate' as one of the two places this named NPC must be transliterated أوفيت, not translated as a generic title.",
+   "suggested_ar": "أوفيت"},
+
+  {"key": "ST_Core_NpcNames/Hierarch",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Hierarch",
+   "ar": "رئيس الكهنة",
+   "issue": "Glossary freezes 'Hierarch' (Smert's cult title) as الكاهن الأكبر; this row uses a different phrase.",
+   "suggested_ar": "الكاهن الأكبر"},
+
+  {"key": "ST_Core_NpcNames/Oblate",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Oblate",
+   "ar": "المَنذور",
+   "issue": "Glossary freezes 'Oblate' as القربان and specifically warns against anything from the ن-ذ-ر root because it is confusable on screen with Harbinger=النذير. المَنذور shares that exact root.",
+   "suggested_ar": "القربان"},
+
+  {"key": "ST_Core_NpcNames/Disciple",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Disciple",
+   "ar": "مُريد",
+   "issue": "Glossary reserves المُريد strictly for Tiel's Acolyte title and says generic 'disciples/followers' must use أتباع, never مريدون/مُريد.",
+   "suggested_ar": "تابِع"},
+
+  {"key": "ST_Core_NpcNames/LeadDisciple",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Lead Disciple",
+   "ar": "كبير المُريدين",
+   "issue": "Same reservation violation as 'Disciple' - المُريدين is reserved for Tiel's title, generic disciples must use أتباع.",
+   "suggested_ar": "كبير الأتباع"}
+]}

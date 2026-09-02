@@ -1,0 +1,146 @@
+[
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/4BB5E5664409D9E59BEEF6BE10659F65",
+  "before": "[بعد إتمام المهمة]",
+  "after": "[Post-Quest Completed]",
+  "why": "dev dialogue-tree node label, never shown in game; corpus-wide convention leaves these in English"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/7668472448A78FC61626A89EFB0155AC",
+  "before": "[المهمة مكتملة]",
+  "after": "[Quest Completed]",
+  "why": "dev dialogue-tree node label; left English per corpus convention"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/86B7D1544C2053919313B1AD7F5E414C",
+  "before": "[المهمة غير مقبولة - قابلة للتكرار]",
+  "after": "[Quest Not Accepted - Repeatable]",
+  "why": "dev dialogue-tree node label; left English per corpus convention"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/A4A0CFB8416D05C2A821EE9A61E6CE94",
+  "before": "[حوار قبل بدء المهمة]",
+  "after": "[Quest Not Started Dialogue]",
+  "why": "dev dialogue-tree node label; left English per corpus convention"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/63F1095A43B23A6351A23390180A98AF",
+  "before": "[المهمة بدأت ولم تكتمل - قابلة للتكرار]",
+  "after": "[Quest Started, Not Complete, Repeatable]",
+  "why": "dev dialogue-tree node label; left English per corpus convention"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_MasterTree/9BD53F454A4F65768DE1D98FCA1A494F",
+  "before": "[المهمة بدأت ولم تكتمل]",
+  "after": "[Quest Started, Not Complete]",
+  "why": "dev dialogue-tree node label; left English per corpus convention"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_01_Continue/6E3A382549330246ACA8B29476ACD8EA",
+  "before": "وأُجيب عن إخفاقي.",
+  "after": "وأُحاسَب على إخفاقي.",
+  "why": "MEANING: 'answer for' is accountability; أجاب عن means answer a question about"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_01_Continue/F50C63BC47333DB0CF7AD8AC8ED5129E",
+  "before": "أتعود إلى هنا؟ من بين كل الأماكن؟",
+  "after": "لكنّك تعود إلى هنا؟ من بين كل الأماكن؟",
+  "why": "the adversative 'But' was dropped, flattening the accusation"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_01_Continue/D18D9F1C4297D5A663F260BA0B8D78F3",
+  "before": "كان بوسعنا أن نبني حياة جديدة.",
+  "after": "بوسعنا أن نبني حياة جديدة.",
+  "why": "MEANING: 'كان بوسعنا' turns a live offer into a past counterfactual"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_DrinkChalice/BDA2A99847D5ECA2E374C5A2D8F855CB",
+  "before": "لقبٌ فاخر؟",
+  "after": "لقبٌ رنّان؟",
+  "why": "فاخر is for goods; a title is رنّان"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_DrinkChalice/FEAF63A8475A93086A780AAEAA371E19",
+  "before": "بضع عملات إضافية؟",
+  "after": "بضع عملات أخرى؟",
+  "why": "إضافية is administrative; أخرى keeps the bitter rhetorical series moving"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_DrinkChalice/637DACF042AF376D07D3228E83CB7834",
+  "before": "… قتلتني؟",
+  "after": "…قتلتني؟",
+  "why": "stray space after the ellipsis breaks the run-on with the preceding line"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_Intro/2954BBE542AF83823E98958987BDC819",
+  "before": "لقد خذلتُك... أيها الأوفيت.",
+  "after": "لقد خذلتُك… أيها الأوفيت.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_Kneel/112D84DC468CFDF6D4B9038EABE3FBCA",
+  "before": "هذا ما أستحقه... على ضعفي.",
+  "after": "هذا ما أستحقه… على ضعفي.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_Kneel/E3683E8641D4E98610D4B8A7C5DDC7C8",
+  "before": "ماذا؟ لكن... أيها الأوفيت؟",
+  "after": "ماذا؟ لكن… أيها الأوفيت؟",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_AfterFalling/8D8E0231408C33BA1246ECA6EC1FA9B5",
+  "before": "أرى ذلك.",
+  "after": "فهمت.",
+  "why": "'I see' is acknowledgement, not literal sight"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_AfterFalling/5FF1A1864BCB1C772F1C70A8453E01ED",
+  "before": "أنا... طاهر.",
+  "after": "أنا… طاهر.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_AfterFalling/55D717DE49D0E42D7DCE68A083FF621A",
+  "before": "لا... ذكريات.",
+  "after": "لا… ذكريات.",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_AfterFalling/2A95495C4801B590325F61B342D7EB6D",
+  "before": "أهذا \"مكافأتك\"، صحيح؟",
+  "after": "أهذه «مكافأتك»، صحيح؟",
+  "why": "مكافأة is feminine so أهذا does not agree; ASCII quotes replaced with the guillemets used everywhere else"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_EredrimGrunts/E925E0454BCA477BE295D38A0641C63B",
+  "before": "(يتأوّه في صدمة)",
+  "after": "(يتأوّه مصدومًا)",
+  "why": "matches the corpus form for shock stage directions (يشهق مصدومًا)"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_EredrimGrunts/845DD0A34D4D43B0AC4228ABCAF04851",
+  "before": "(أنين مؤلم)",
+  "after": "(أنين موجع)",
+  "why": "the groan is pained, not painful; موجع matches the corpus's other pained-sound directions"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_Intro/43EEFA564CF2FE94DE73A6AD4151A48F",
+  "before": "... إردريم؟",
+  "after": "…إردريم؟",
+  "why": "ellipsis normalized to the single character"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_Intro/CD7EF9F64FD2804892EE5EB989E1F7F5",
+  "before": "إردريم، أنا... تابعُك... ويليام.",
+  "after": "إردريم، أنا… وصيفُك… ويليام.",
+  "why": "GLOSSARY: squire is frozen as الوصيف; تابع is the frozen rendering of Vassal, Harros's title"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_Intro/499159C2497CF4EF0F3C3392126B16C3",
+  "before": "… من؟... من أنت؟",
+  "after": "…مَن؟… من أنت؟",
+  "why": "ellipsis normalized; diacritic disambiguates مَن from مِن"
+ }
+]

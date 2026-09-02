@@ -1,0 +1,42 @@
+{
+ "chunk": 30,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/48CACB214CFE09982CDF9F974F79758E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "No",
+   "ar": "لا.",
+   "issue": "Dialogue-choice options get a full stop the English does not have, against the frozen UI pair نعم / لا. 14 rows in this chunk: 'No' on 48CACB21..., 55035443..., 5D9A1674..., D79E09C5..., DFA5DCFC..., F32F02F2..., 68ED6DA9...; 'Yes' on 494B7124..., 5261E650..., 53E37691..., 5D7625C4..., 89F0C5A1..., D4209845..., 91295687....",
+   "suggested_ar": "لا"
+  },
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_OpensUp_04_30",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "A real one. Nice and quiet.",
+   "ar": "حقيقيّ هذه المرة. هادئ وجميل.",
+   "issue": "هذه المرة ('this time') is not in the English. Duplicate of 63895447... in chunk 029 — the same added phrase ships on both keys.",
+   "suggested_ar": "حقيقيّ. هادئ وجميل."
+  },
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_Moonshine_01_10",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Hm… smells strong",
+   "ar": "همم… رائحتها قوية.",
+   "issue": "Feminine pronoun for the moonshine, which is frozen as the masculine العَرَق. Duplicate of 4EE37FCF... in chunk 029.",
+   "suggested_ar": "همم… رائحته قوية."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/74E4A2DE46EF8F0628E7858F37070744",
+   "type": "register_break",
+   "severity": "low",
+   "source_en": "It ain’t hard to find.",
+   "ar": "ليس يصعب العثور عليه.",
+   "issue": "ليس يصعب is a stiff classical construction dropped into the game's explicit joke character, whose card calls for plain/comic فصحى ميسّرة and whose English here is maximally colloquial ('ain't'). Both duplicate rows: 74E4A2DE..., C63B9E98....",
+   "suggested_ar": "ليس من الصعب العثور عليه."
+  }
+ ]
+}

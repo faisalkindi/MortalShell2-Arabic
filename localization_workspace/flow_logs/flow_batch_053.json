@@ -1,0 +1,50 @@
+[
+ {
+  "key": "/CA04891A4727925A6E76359B69091DD4",
+  "before": "خذ فأسك",
+  "after": "أخذ فأسك",
+  "why": "The Take… prompt column is أخذ + object; the imperative broke it."
+ },
+ {
+  "key": "/6E35A9BC4BD7FA49602EC29FE595666D",
+  "before": "ساحر القار",
+  "after": "مستحضر أرواح القار",
+  "why": "ساحر is a sorcerer generally; a necromancer is مستحضر الأرواح, and the enemy roster distinguishes the two."
+ },
+ {
+  "key": "/06FE78D84D1F65D94B0084B0BAF8C09D",
+  "before": "نواة القار",
+  "after": "لُبّ القار",
+  "why": "Frozen glossary term: Tarcore = لُبّ القار."
+ },
+ {
+  "key": "/A0DC287141A4603D0E6620904E5B4878",
+  "before": "نواة القار",
+  "after": "لُبّ القار",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/275476E8429918C6E8E36083FD7548D4",
+  "before": "<bold>الخاتم اللانهائي</> أداةٌ عالية المخاطر، عالية المردود.\n\nيتطلب <bold>الصدّ</> توقيتًا أدقّ، ويُلحق ضرر كَسرٍ أكبر بالخصوم.\n\nلن ينكسر الأعداء المقاومون للصدّ حتى يمتلئ مقياسهم.",
+  "after": "<bold>الخاتم اللانهائي</> أداةٌ عالية المخاطر، عالية المردود.\n\nيتطلب <bold>الدَّرء</> توقيتًا أدقّ، ويُلحق ضرر كَسرٍ أكبر بالخصوم.\n\nلن ينكسر الأعداء المقاومون للدَّرء حتى يمتلئ مقياسهم.",
+  "why": "Frozen glossary terms: Parry = الدَّرء, kept distinct from Guard = الصد. This is the Infinite Seal, whose whole mechanic is the parry. | Same row, same frozen term: 'parry resistance' is مقاومة الدَّرء."
+ },
+ {
+  "key": "/933CDAED4207D75862312A84CCEFB4EE",
+  "before": "سُرقت بُيوض الأمَّهة المباركة — بيوضها. \n\nتمكّن مريدوك من استرداد بيضتين، ونجحت أنت في تسليم واحدة. \n\nيجب إيجاد البقية. إعادة البُيوض الطاهرة إلى حصن النخاع تمنحك مكافآتٍ عند مِصفاة القَتام، وتدفع القصة قدمًا.",
+  "after": "سُرقت بُيوض الأمَّهة المباركة. \n\nتمكّن مريدوك من استرداد بيضتين، ونجحت أنت في تسليم واحدة. \n\nيجب إيجاد البقية. وتمنحك إعادة البُيوض الطاهرة إلى حصن النخاع مكافآتٍ عند مِصفاة القَتام، وتدفع القصة قدمًا.",
+  "why": "The English gloss 'ova—her eggs—' exists to explain a Latin word to an English reader; البُيوض is already the plain Arabic word, so the apposition just repeated itself. | Verb-initial, and the tutorial's third beat now links to the sentence before it instead of restarting."
+ },
+ {
+  "key": "/09E9128F483F0C49256E6BACEDE40ABA",
+  "before": "القاضي",
+  "after": "المُقتَصّ",
+  "why": "Frozen glossary term: Justiciar = المُقتَصّ."
+ },
+ {
+  "key": "/8D8787754C33CEE736B0838B18612097",
+  "before": "وعد المِسلّة بمعجزةٍ وكارثة. تنبّأت بمجيء الأمَّهة السُّفلى. أصغينا إلى تحذيرها، لكن ما استطعنا تركها خلفنا. فكُسرت، وقُسّمت، وحملها المؤمنون. فلتكن هذه أولى العبر: الحقيقة عبؤنا.",
+  "after": "وعدت المِسلّة بمعجزةٍ وكارثة. تنبّأت بمجيء الأمَّهة السُّفلى. أصغينا إلى تحذيرها، لكن ما استطعنا تركها خلفنا. فكُسرت، وقُسّمت، وحملها المؤمنون. فلتكن هذه أولى العبر: الحقيقة عبؤنا.",
+  "why": "المِسلّة is feminine and the very next verb (تنبّأت) already treats it so; the opening verb disagreed."
+ }
+]

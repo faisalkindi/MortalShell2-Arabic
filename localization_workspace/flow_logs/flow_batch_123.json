@@ -1,0 +1,110 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_AnswerDisciple/E01E10E94A82CD9A5D6B68A5C3689012",
+  "before": "ليس... ذنبك.",
+  "after": "ليس… ذنبكِ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_AnswerDisciple/E4DC33DE4D88F1BC427792ADADE7C7E9",
+  "before": "ثمة... خطبٌ ما.",
+  "after": "ثمة… خطبٌ ما.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_End/A76D79DB4659B583C6A168922F33B656",
+  "before": "لطالما غبتِ طويلاً.",
+  "after": "لقد غبتِ طويلًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_EnterElevator/EB8D629E410780DFA3D5E2AA44D95D85",
+  "before": "هذا... ليس صائبًا",
+  "after": "هذا… ليس صوابًا",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_EnterOvumRoom/05E71E774CA22CC3365681B940F6E392",
+  "before": "آه، أهلًا بكِ، أيتها الأخيّة الكبرى.",
+  "after": "آه، أهلًا بكِ، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_EnterRoom/E88338A845B28EAF21D437B72CCBD69E",
+  "before": "أهلًا بعودتكِ، أيتها الأخيّة الكبرى.",
+  "after": "أهلًا بعودتكِ، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_Intro/7ED962D24A41FC1069322997F890B61F",
+  "before": "بالطبع رأيتِه، أيتها الأخيّة الكبرى.",
+  "after": "بالطبع رأيتِه، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_Intro/CEE946374676DE4E0910BC9DB442C47D",
+  "before": "تفضّلي، أيتها الأخيّة الكبرى، تابعي.",
+  "after": "أكملي، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_Intro/E411361E4DEF41A6E29810B47868973A",
+  "before": "أنا أصدّقكِ، أيتها الأخيّة الكبرى.",
+  "after": "أنا أصدّقكِ، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_Intro/8F9A415F4D80E8945B8BBCB70A2A9FB9",
+  "before": "لقد… لقد رأيت هذا المكان… من قبل",
+  "after": "لقد… لقد رأيتُ هذا المكان… من قبل",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_DrinkGloomChalice/F2A991014DE3AFD900D11BB22310697F",
+  "before": "كلا، إنه أشد فتكًا بكثير.",
+  "after": "كلا، بل أشدّ مفعولًا بكثير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_DrinkGloomChalice/1F29C86A4DC598CCB466B693D3FFD545",
+  "before": "هذا... القَتام.",
+  "after": "هذا… القَتام.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_Intro/BBDA81D44E4BEDA990E0C8B8BFEC7835",
+  "before": "ربما... تحتاجين إلى رؤيا جديدة؟",
+  "after": "ربما… تحتاجين إلى رؤيا جديدة؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_QuestionGenessa/76D926894C5AD53455D0C9A889C9D0CE",
+  "before": "قريبه… البعيد.",
+  "after": "قريبتُه… البعيدة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_02_QuestionGenessa/27E87A31427FBE20DC26DEA578E87C14",
+  "before": "أأنتِ… مبجَّلة؟",
+  "after": "أأنتِ… مُكرَّمة؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_01/C0DE15C443CFEC1F2FC58F8489E22BC5",
+  "before": "أنت لست روحًا شاردة—أليس كذلك؟",
+  "after": "لستَ روحًا شاردة—أليس كذلك؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_02/8079F9E34D457A886A7B4D87FAA7CBCF",
+  "before": "سأبدأ تلقينك…",
+  "after": "سألقّنك…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Interact_03/55AE3A7344B9C672896E59BC6059ACDD",
+  "before": "يجب أن تدعهم يمضون.",
+  "after": "عليك أن تدعهم يمضون.",
+  "why": "flow"
+ }
+]

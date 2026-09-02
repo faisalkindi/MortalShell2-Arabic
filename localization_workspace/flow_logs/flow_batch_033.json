@@ -1,0 +1,86 @@
+[
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillBiohazard_Effect_1",
+  "before": "يُلحق <Bold>المِجسّ الحيوي</> {X} ضررًا إضافيًا.",
+  "after": "يُلحق <Bold>المِجسّ الحيوي</> ضررًا إضافيًا قدره {X}.",
+  "why": "Number-before-noun is English order; the corpus-wide shape is ضررًا قدره {X}."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillSeizure_Effect_2",
+  "before": "يُلحق <Bold>المِجسّ الحيوي</> {Y} ضررًا انتشاريًا و{Z} من <Poise>ضرر الترنّح</>.",
+  "after": "يُلحق <Bold>المِجسّ الحيوي</> ضررًا انتشاريًا قدره {Y}، و{Z} من <Poise>ضرر الترنّح</>.",
+  "why": "Same shape; comma added so the two figures separate."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillDischarge_Effect_1",
+  "before": "يصدّ <Bold>المِجسّ الحيوي</> العدو المصاب ويُطلق عاصفة <Lightning>برق</> تدوم {X}.",
+  "after": "يدفع <Bold>المِجسّ الحيوي</> العدو المصاب إلى الوراء، فيُطلق عاصفة <Lightning>برق</> تدوم {X}.",
+  "why": "يصدّ means 'blocks/repels an attack', not 'knocks back' — the fact was wrong. Also و replaced by the ف of consequence."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillAmpereon_Effect_3",
+  "before": "يتضاعف ضرر <Shock>الصدمة الكهربائية</> ونصف قطرها <Bold>مرتين</>.",
+  "after": "ضرر <Shock>الصدمة الكهربائية</> ونصف قطرها <Bold>مضاعفان</>.",
+  "why": "يتضاعف … مرتين says it twice; one word carries 'doubled', and the Bold now wraps exactly that word."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillResolveCost_Effect_1",
+  "before": "يتطلب المِجسّ الحيوي {X} أقل من <Resolve>العزيمة</>.",
+  "after": "تقلّ كلفة المِجسّ الحيوي بمقدار {X} من <Resolve>العزيمة</>.",
+  "why": "'costs X less Resolve' calque, recast as in every sibling cost row."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillAmpereonDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Lightning>البرق</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Lightning>البرق</>.",
+  "why": "Verb-initial 'Each level…' family."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillBiosamplerGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>المِجسّ الحيوي</> لدى بروكسيما.",
+  "after": "يُحسِّن كل مستوى <Bold>المِجسّ الحيوي</> لدى بروكسيما.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillArmorGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>الدرع المطعَّم</> لدى بروكسيما.",
+  "after": "يُحسِّن كل مستوى <Bold>الدرع المطعَّم</> لدى بروكسيما.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillResolveCost",
+  "before": "كل مستوى يخفّض تكلفة <Resolve>العزيمة</> لـ<Bold>المِجسّ الحيوي</>.",
+  "after": "يخفّض كل مستوى من <Resolve>العزيمة</> التي يتطلبها <Bold>المِجسّ الحيوي</>.",
+  "why": "Verb-initial and the stacked genitive تكلفة العزيمة لـ… unwound; matches the Gragu and Lazlo twins."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillReflection_Effect_2",
+  "before": "لدى المقذوفات المُبطَلة احتمال قدره {Y} لأن <Bold>تُعكس</> نحو مطلقها.",
+  "after": "لدى المقذوفات المُبطَلة احتمال قدره {Y} أن <Bold>تُعكس</> نحو مطلقها.",
+  "why": "احتمال لأن is not Arabic; احتمال أن + verb is."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillReflection_Effect_1",
+  "before": "لدى المقذوفات احتمال قدره {X} لألا تُلحق أي ضرر ببروكسيما.",
+  "after": "لدى المقذوفات احتمال قدره {X} ألا تُلحق ببروكسيما أي ضرر.",
+  "why": "Same fix, and the object moved off the sentence end where Arabic wants the new information."
+ },
+ {
+  "key": "ST_Skills_Proxima/ProximaSkillCollectorDesc",
+  "before": "تقدر بروكسيما على حصاد <Bold>العينات</> من الأعداء القتلى.",
+  "after": "تستطيع بروكسيما حصاد <Bold>العينات</> من الأعداء القتلى.",
+  "why": "تقدر على + verbal noun is heavier than the تستطيع used across the ability set."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillReversal_Effect_3",
+  "before": "يشفي ضرر <Bold>الضربة المضادة</> أيضًا <Pain>ألم</> سارييل.",
+  "after": "يشفي ضرر <Bold>الضربة المضادة</> <Pain>ألم</> سارييل أيضًا.",
+  "why": "أيضًا was wedged between verb and object; Arabic parks it at the clause end."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillReversal_Effect_2",
+  "before": "الأعداء <Curse>الملعونون</> الذين يُلحقون الضرر بأنفسهم يُعانون أيضًا من {Y} من <Break>ضرر الكَسر</>.",
+  "after": "ينال الأعداء <Curse>الملعونون</> الذين يُلحقون الضرر بأنفسهم {Y} أيضًا من <Break>ضرر الكَسر</>.",
+  "why": "Long nominal-initial subject plus a doubled من; verb-initial recast clears both."
+ }
+]

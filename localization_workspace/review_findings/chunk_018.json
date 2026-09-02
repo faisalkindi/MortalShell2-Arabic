@@ -1,0 +1,141 @@
+{
+ "chunk": 18,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_NpcNames/Ovate",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Ovate",
+   "ar": "العَرّاف",
+   "issue": "This is the exact key the glossary note cites: Ovate is frozen as أوفيت, \"named NPC + title of address (ST_Core_NpcNames/Ovate, Ovate's Chamber); name, so transliterated\". العَرّاف translates it as 'soothsayer', so the NPC loses their name in the nameplate and in Ovate's Chamber.",
+   "suggested_ar": "أوفيت"
+  },
+  {
+   "key": "ST_Core_NpcNames/Mutton",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Mutton",
+   "ar": "خَروف",
+   "issue": "Mutton is the proper NAME of Vlas's companion animal — his dialogue says \"Mutton and I will depart in the night\". Rendered as خَروف it becomes the common noun 'a sheep', so the nameplate reads as a species label and the quest lines about him stop referring to anyone.",
+   "suggested_ar": "موتون"
+  },
+  {
+   "key": "ST_Core_NpcNames/Disciple",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Disciple",
+   "ar": "مُريد",
+   "issue": "المُريد is frozen as Acolyte, which is Tiel's title. This is the canonical NPC-name row for the generic 'Disciple', so it is the source of the collision that also shows up in Disciple's Grotto, Discple's Stash and Franz's 'You're not a disciple' line.",
+   "suggested_ar": "تابع"
+  },
+  {
+   "key": "ST_Core_NpcNames/LeadDisciple",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Lead Disciple",
+   "ar": "كبير المُريدين",
+   "issue": "Same Acolyte/disciple collision as ST_Core_NpcNames/Disciple; should move with it.",
+   "suggested_ar": "كبير الأتباع"
+  },
+  {
+   "key": "ST_Core_NpcNames/Basil",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Basil",
+   "ar": "ريحان",
+   "issue": "This NPC roster is a set of plant-themed PERSONAL names. Half of them are translated into the plant noun (Basil=ريحان، Birch=بتولا، Daisy=أُقحوان، Elm=دَردار، Fern=سَرخَس، Holly=بَهشِيّة، Lily=سَوسَن، Marigold=آذَريون، Nettle=قُرّاص، Spruce=شَرْبين) while Dahlia and Jasmine in the same list are transliterated as names (داليا، ياسمين). As it stands the nameplate for this character reads as a common noun, not a person, and the roster is internally inconsistent. Every other character name in the build is transliterated per the style guide. One direction has to be chosen for the whole set.",
+   "suggested_ar": "بازل"
+  },
+  {
+   "key": "ST_Core_NpcNames/Birch",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Birch",
+   "ar": "بتولا",
+   "issue": "Part of the same plant-name set: بتولا is read as بتولا (the birch tree), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "بيرش"
+  },
+  {
+   "key": "ST_Core_NpcNames/Daisy",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Daisy",
+   "ar": "أُقحوان",
+   "issue": "Part of the same plant-name set: أُقحوان is read as أُقحوان (the daisy flower), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "دايزي"
+  },
+  {
+   "key": "ST_Core_NpcNames/Elm",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Elm",
+   "ar": "دَردار",
+   "issue": "Part of the same plant-name set: دَردار is read as دَردار (the elm tree), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "إلم"
+  },
+  {
+   "key": "ST_Core_NpcNames/Fern",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Fern",
+   "ar": "سَرخَس",
+   "issue": "Part of the same plant-name set: سَرخَس is read as سَرخَس (the fern plant), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "فيرن"
+  },
+  {
+   "key": "ST_Core_NpcNames/Holly",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Holly",
+   "ar": "بَهشِيّة",
+   "issue": "Part of the same plant-name set: بَهشِيّة is read as بَهشِيّة (the holly shrub), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "هولي"
+  },
+  {
+   "key": "ST_Core_NpcNames/Lily",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Lily",
+   "ar": "سَوسَن",
+   "issue": "Part of the same plant-name set: سَوسَن is read as سَوسَن (the lily flower), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "ليلي"
+  },
+  {
+   "key": "ST_Core_NpcNames/Marigold",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Marigold",
+   "ar": "آذَريون",
+   "issue": "Part of the same plant-name set: آذَريون is read as آذَريون (the marigold flower), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "ماريغولد"
+  },
+  {
+   "key": "ST_Core_NpcNames/Nettle",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Nettle",
+   "ar": "قُرّاص",
+   "issue": "Part of the same plant-name set: قُرّاص is read as قُرّاص (the nettle weed), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "نيتل"
+  },
+  {
+   "key": "ST_Core_NpcNames/Spruce",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Spruce",
+   "ar": "شَرْبين",
+   "issue": "Part of the same plant-name set: شَرْبين is read as شَرْبين (the spruce tree), not as a person's name, while Dahlia/Jasmine in the same roster stay transliterated.",
+   "suggested_ar": "سبروس"
+  },
+  {
+   "key": "ST_Core_MiniBosses/Hutchback_MiniBoss",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Vrannic, the Grand Illusionist",
+   "ar": "ڤرانيك، كبير المُشعوذين",
+   "issue": "المُشعوذ is a charlatan/quack rather than a worker of illusions, and 'Hall of Illusions' / 'Illusionist's Cache' already use the الأوهام root. If Illusionist's Cache is corrected, this title should sweep with it. The name ڤرانيك is correct per the glossary.",
+   "suggested_ar": "ڤرانيك، كبير صانعي الأوهام"
+  }
+ ]
+}

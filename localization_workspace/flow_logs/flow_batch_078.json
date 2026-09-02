@@ -1,0 +1,80 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/1771300_description",
+  "before": "رأيتُ ابن حدّادٍ يتعلّم أن الطين والديون والنرد السيّئ ونصلًا كليلًا قد تكون أقسى من أي تنّين.",
+  "after": "رأيتُ ابن حدّادٍ يتعلّم أن الطين والديون والنرد السيّئ والنصل الكليل قد تكون أقسى من أي تنّين.",
+  "why": "the fourth item broke the definite series with an indefinite accusative"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1091500_description",
+  "before": "رأيتُ مدينةً استبدل أهلها اللحم بالكروم، حتى اعترضت عقولهم.",
+  "after": "رأيتُ مدينةً استبدل أهلها اللحم بالكروم، حتى رفعت عقولهم اعتراضًا.",
+  "why": "'filed objections' is the bureaucratic joke; اعترضت flattened it"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/3419430_description",
+  "before": "رأيتُ قطّةً صغيرة تقرع آلاتٍ لا تُرى، أبدًا. فرحتها تبدو مستعصيةً على أي تفسير.",
+  "after": "رأيتُ قطّةً صغيرة تقرع آلاتٍ لا تُرى بلا انقطاع. فرحتها تبدو مستعصيةً على الدرس.",
+  "why": "the stranded أبدًا read as a negative adverb; 'resistant to scholarship' is the academic joke, not mere explanation"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/3164500_description",
+  "before": "رأيتُ مشروعًا إجراميًا صغيرًا يولد من أكياسٍ ودرّاجاتٍ وسجلّاتٍ مفصّلة بريبة؛ ولم تكن السلطات، على ما أظن، مسرورة.",
+  "after": "رأيتُ مشروعًا إجراميًا صغيرًا يولد من أكياسٍ ودرّاجاتٍ وسجلّاتٍ مفصّلة على نحوٍ مريب؛ ولم تكن السلطات، على ما أظن، مسرورة.",
+  "why": "'suspiciously detailed' modifies the detail; بريبة made the ledgers the suspicious party"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/413150_description",
+  "before": "رأيتُ روحًا مُنهَكة تهرب من الدفاتر والمكاتب لتزرع الجزر الأبيض، وتودّ جيرانها، وتشكّ في شركةٍ باسمة.",
+  "after": "رأيتُ روحًا مُنهَكة تهرب من الدفاتر والمكاتب لتزرع الجزر الأبيض، وتتودّد إلى جيرانها، وتشكّ في شركةٍ باسمة.",
+  "why": "'court' is courtship (تودّد); تودّ means simply loves"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/12210_description",
+  "before": "رأيتُ مهاجرًا يطارد أرضًا موعودة عبر دعوات البولينغ والديون، ومدينةً عازمة أن تجعله قاسيًا.",
+  "after": "رأيتُ مهاجرًا يطارد أرضًا موعودة عبر دعوات البولينغ والديون ومدينةٍ عازمة على أن تجعله قاسيًا.",
+  "why": "the third item of the عبر series was in the accusative, cutting it loose from the preposition"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/8930_description",
+  "before": "رأيتُ حاكمًا خالدًا يعد بدورٍ آخر، ثم يصحو بعد قرون بجانب عالمٍ صاغته تلك الكذبة.",
+  "after": "رأيتُ حاكمًا خالدًا يعد بدورٍ أخيرٍ واحدٍ لا غير، ثم يصحو بعد قرون بجانب عالمٍ صاغته تلك الكذبة.",
+  "why": "'just one more turn' is the running joke the next sentence's 'lie' depends on"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1174180_description",
+  "before": "رأيتُ خارجًا عن القانون يُطعم جواده، ويكتب في دفتره، ويمتطي نحو غروبٍ حسم أمر انقضاء عصره.",
+  "after": "رأيتُ خارجًا عن القانون يُطعم جواده، ويكتب في دفتره، ويمضي راكبًا نحو غروبٍ كان قد حسم أن عصره انتهى.",
+  "why": "امتطى needs an object; and حسم أمر انقضاء عصره was a heavy nominal chain"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/3167020_description",
+  "before": "رأيتُ بطًّا صغيرًا مسلّحًا يزحف عبر الغارات، أقلّ خوفًا من الموت منه من فقدان ما نهبه.",
+  "after": "رأيتُ بطًّا صغيرًا مسلّحًا يزحف عبر الغارات، لا يخيفه الموت بقدر ما يخيفه فقدان ما نهب.",
+  "why": "أقلّ خوفًا من…منه من stacked three prepositions; بقدر ما is the Arabic comparative here"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1063730_description",
+  "before": "رأيتُ ناجين يبلغون جزيرةً ترفض أن تفي للموت بوعوده.",
+  "after": "رأيتُ غرقى يبلغون جزيرةً ترفض أن تفي للموت بوعوده.",
+  "why": "castaways are shipwrecked (غرقى), not survivors in general"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/346110_description",
+  "before": "رأيتُ ناجين يصحون بين الديناصورات، فيقرّرون أن الحلّ المعقول هو امتطاؤها.",
+  "after": "رأيتُ غرقى يصحون بين الديناصورات، فيقرّرون أن الحلّ المعقول هو امتطاؤها.",
+  "why": "matched to the sibling castaway line"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1085660_description",
+  "before": "رأيتُ محاربين موتى تبعثهم أضواءٌ صغيرة مخلصة، ثم تُرسَل لإطلاق النار على الآلهة حتى تُسقط أسلحةً أفضل.",
+  "after": "رأيتُ محاربين موتى تبعثهم أضواءٌ صغيرة مخلصة، ثم يُرسَلون لإطلاق النار على الآلهة حتى تُسقط أسلحةً أفضل.",
+  "why": "تُرسَل agreed with the lights; it is the warriors who are sent"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1449850_description",
+  "before": "رأيتُ مبارزين يستحضرون تنانين من بطاقاتٍ مرسومة، ويعاملون ترتيب المستطيلات كسحرٍ أعلى.",
+  "after": "رأيتُ مبارزين يستحضرون تنانين من بطاقاتٍ مرسومة، ويعاملون ترتيب المستطيلات كسحرٍ رفيع.",
+  "why": "'high sorcery' is elevated art (رفيع), not higher in degree"
+ }
+]

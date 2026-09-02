@@ -1,0 +1,6 @@
+{"chunk": 91, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_Intro/88EB36D1463E24CDD94ADDB4C00FB5A4", "type": "term_violation", "severity": "minor",
+   "source_en": "The lair of the Great Old One.", "ar": "وكر العظيم القديم.",
+   "issue": "The title 'Great Old One' is rendered العظيم القديم (Great, Old) consistently throughout this chunk's Gragu scenes, but elsewhere in the corpus (e.g. 'Examine The Great Old One') it is رendered القديم العظيم (Old, Great) — the word order is swapped, an inconsistent proper-noun rendering across the corpus.",
+   "suggested_ar": "وكر القديم العظيم."}
+]}

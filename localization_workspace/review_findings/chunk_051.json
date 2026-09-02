@@ -1,0 +1,87 @@
+{
+ "chunk": 51,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Interact_1/BE46CFE344EBA07917F37C881321FB43",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Toiling, I promise.",
+   "ar": "أكدح، أعدك بذلك.",
+   "issue": "This is the cultist's answer to 'Where are the others?' in the same namespace, so the elided subject is *they*, not *I*. The Arabic makes the speaker the one toiling, which contradicts the exchange — the speaker is standing here talking, and 'I promise' is exactly what marks the toiling as reported about someone else.",
+   "suggested_ar": "يكدحون، أعدك بذلك."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/1D81EE0947D11D267F9C6E81435A0660",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "May I wash your feet, Sester Genessa?",
+   "ar": "أيمكنني غسل قدميك، أيتها الأُخَيّة جينيسا؟",
+   "issue": "Addressee is Genessa (feminine, and the vocative is already feminine), but قدميك carries no kasra, so it reads as masculine قدميكَ. Its sibling row addressed to the Harbinger (C05129BA) is byte-identical in Arabic, which is how the distinction was lost. The corpus does write the explicit kasra elsewhere (أنتِ، لكِ).",
+   "suggested_ar": "أيمكنني غسل قدميكِ، أيتها الأُخَيّة جينيسا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/E2FC36AC4F6DDC14C6158B830B163C09",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "This may sound odd, but may I... wash your feet, Sester Genessa?",
+   "ar": "قد يبدو هذا غريبًا، لكن أيمكنني... غسل قدميك، أيتها الأُخَيّة جينيسا؟",
+   "issue": "Same missing kasra on قدميك for a feminine addressee named in the line itself.",
+   "suggested_ar": "قد يبدو هذا غريبًا، لكن أيمكنني... غسل قدميكِ، أيتها الأُخَيّة جينيسا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/DD2005014D4F7AAC24FF2784E8C9FA68",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Ah, I remember bowing at these feet once.",
+   "ar": "آه، أتذكّر أنني انحنيتُ أمام هذه القدمين ذات مرة.",
+   "issue": "Demonstrative does not agree with the dual قدمين — هذه is singular/inanimate-plural. Meaning intact; it is an agreement slip a reader will hear.",
+   "suggested_ar": "آه، أتذكّر أنني انحنيتُ أمام هاتين القدمين ذات مرة."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/4A6AC0D54B758631D6532D85ED142FF3",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Might have helped his… condition.",
+   "ar": "ربما كان ذلك ليُصلح… حالته.",
+   "issue": "'Helped' is hedged; أصلح asserts a cure. The line's comic effect is the understatement.",
+   "suggested_ar": "ربما كان ذلك ليخفّف… من حالته."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Greeting_Prologue/7543783246A0AC220FD5F8BFED8CA60E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "It's... really you.",
+   "ar": "إنه... أنت حقًا.",
+   "issue": "إنه + أنت is an English 'it's' carried across; Arabic recognises a person with هذا أنت. The same rendering sits at Dialogue_Dlg_Hub_Cultist_Interact_2/BA1AA41E4ED92DD937B870AA1CE8241F, so both should move together.",
+   "suggested_ar": "هذا... أنت حقًا."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/ABB30A53459711E9E57ABD9346A841F1",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Very clean now.",
+   "ar": "نظيفٌ جدًا الآن.",
+   "issue": "The unstated subject in this namespace is the feet being washed (قدمان, feminine dual), but the adjective is masculine singular, pointing at no antecedent the scene supplies.",
+   "suggested_ar": "نظيفتان جدًا الآن."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/03621F584E396286493C4E906C881950",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Very supple, but strong.",
+   "ar": "ليّنٌ جدًا، لكنه قوي.",
+   "issue": "Same masculine-singular agreement against the feminine-dual antecedent (the feet) as the sibling line 'Very clean now.'",
+   "suggested_ar": "ليّنتان جدًا، لكنهما قويّتان."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Pillow_OnInteract/64414FEF443B3D66F865079E10CA7491",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "We are your humble disciples, Harbinger.",
+   "ar": "نحن أتباعك المتواضعون، أيها النذير.",
+   "issue": "Raised by the Disciple ruling, not by the original pass — this row was correct under the older glossary. Disciple is now frozen as الحواريّ / pl. الحواريّون, so أتباع no longer carries it.",
+   "suggested_ar": "نحن حواريّوك المتواضعون، أيها النذير."
+  }
+ ]
+}

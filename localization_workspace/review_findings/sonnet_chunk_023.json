@@ -1,0 +1,22 @@
+{"chunk": 23, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Skills_Tiel/TielSkillDeathmark_Effect_3",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Shadow Strike</> inflicts {Z} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق <Bold>ضربة الظل</> {Z} تراكمات <Fragile>الهشاشة</>.",
+   "issue": "Inflicting a Fragile status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل <Bold>ضربة الظل</> {Z} تراكمات <Fragile>الهشاشة</>."},
+
+  {"key": "/54D116C240821139AC61A386A0190B2C",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Allow Vratko to Wash Your Feet",
+   "ar": "السماح لفراتكو بغسل قدميك",
+   "issue": "Glossary freezes 'Vratko' as ڤراتكو (V -> ڤ rule); this row spells it with plain ف (فراتكو), breaking the frozen transliteration.",
+   "suggested_ar": "السماح لڤراتكو بغسل قدميك"},
+
+  {"key": "/0112A6924484F29FF8661BA50DA4F3F2",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Answer Disciple",
+   "ar": "الرد على المريد",
+   "issue": "This is a generic Disciple NPC prompt, not Tiel. Glossary reserves المُريد strictly for Tiel's Acolyte title; generic disciples must use أتباع/تابِع.",
+   "suggested_ar": "الرد على التابِع"}
+]}

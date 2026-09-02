@@ -1,0 +1,74 @@
+[
+ {
+  "key": "ST_Core_Tutorials/Tutorial_FastTravel_Prompt_Description",
+  "before": "تحذير: استخدام نفَس الأُمَّهة <boldR>سينفق كل قَتامك</>. هل تفهم ذلك؟",
+  "after": "تحذير: استخدام نفَس الأُمَّهة <boldR>سيستنفد كل قَتامك</>. هل تفهم ذلك؟",
+  "why": "ينفق is money-spending; a consumed resource is يستنفد - the settled Arabic collocation."
+ },
+ {
+  "key": "ST_Core_Tutorials/TutorialNewGamePlusStarted_Body",
+  "before": "مرحبًا بك في <bold>اللعبة الجديدة +</>.\n\nمع أن الأُمَّهة أرسلت البُيوض في طريقها، فكثير منها لن ينجو.\n\nاستعِد مزيدًا من البُيوض لنعزز فرص النجاة.\n\nوقد عاد الراكب الفاسد، وهو يزداد قوة.",
+  "after": "مرحبًا بك في <bold>اللعبة الجديدة+</>.\n\nمع أن الأُمَّهة أرسلت البُيوض في طريقها، فكثير منها لن ينجو.\n\nاستعِد مزيدًا من البُيوض لنعزز فرص النجاة.\n\nوقد عاد الراكب الفاسد يزداد قوةً بلا انقطاع.",
+  "why": "Closing line carried two و in eight words; recast the second clause as a حال with no connector so the line lands. NG+ spacing frozen to اللعبة الجديدة+ to match batch 18."
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Small_Riposte",
+  "before": "متى <Break>انكسر</> العدو اضغط <Action ID=\"LightAttack\"/> لتسديد <Bold>ضربة مضادة</>",
+  "after": "متى <Break>انكسر</> العدو، اضغط <Action ID=\"LightAttack\"/> لتنفيذ <Bold>الضربة المضادة</>",
+  "why": "Standardised to the frozen action pattern لتنفيذ <Bold>X</> (was لتسديد) and to the glossary form الضربة المضادة; added the comma the شرط clause needs."
+ },
+ {
+  "key": "ST_Core_Tutorials/ShellProgressionTutorial_1",
+  "before": "عند استهلاك القَتام للترقية تكسب <Bold>نقاط الهَيكل</> المعروفة بـ<img id=\"SP\"/>.\n\nويمكنك إنفاق <img id=\"SP\"/> لتحسين هَياكلك واكتساب <Bold>قدرات</> جديدة.",
+  "after": "عند استهلاك القَتام للترقية تكسب <Bold>نقاط الهَيكل</> المعروفة بـ<img id=\"SP\"/>.\n\nيمكنك إنفاق <img id=\"SP\"/> لتحسين هَياكلك واكتساب <Bold>قدرات</> جديدة.",
+  "why": "Dropped the و opening a new paragraph - Arabic does not carry a connector across a paragraph break."
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_VatraSeal_4",
+  "before": "حين يكسر الضرر تحجُّرك، يستأنف هجومك الحالي بسرعة.",
+  "after": "إذا كسر الضررُ تحجُّرك، استأنف هجومك الحالي سريعًا.",
+  "why": "حين + مضارع reads as habitual; إذا + ماضٍ is the conditional Arabic uses for a mechanic trigger."
+ },
+ {
+  "key": "ST_Core_Tutorials/Tooltip_Small_ShellAbility_Hold",
+  "before": "وأنت في الهَيكل، استمر بالضغط على <Action ID=\"ShellAbility\"/> للتفعيل",
+  "after": "ما دمت في الهَيكل، اضغط مطوّلًا على <Action ID=\"ShellAbility\"/> للتفعيل",
+  "why": "Frozen استمر بالضغط -> اضغط مطوّلًا; and a standalone line cannot open with واو الحال - ما دمت carries the same 'while' sense."
+ },
+ {
+  "key": "ST_Core_Tutorials/Tooltip_Small_ShellAbility",
+  "before": "وأنت في الهَيكل، اضغط <Action ID=\"ShellAbility\"/> للتفعيل",
+  "after": "ما دمت في الهَيكل، اضغط <Action ID=\"ShellAbility\"/> للتفعيل",
+  "why": "Sibling of the Hold variant - same opening so the pair reads as one voice."
+ },
+ {
+  "key": "ST_Core_Tutorials/ShellReviveTutorial_2",
+  "before": "متى أوقعت ضرر <Bold>اشتباك</> كافيًا أمكنك استعادة <Bold>هَيكلك</>.",
+  "after": "متى ألحقت ما يكفي من ضرر <Bold>الاشتباك</> أمكنك استعادة <Bold>هَيكلك</>.",
+  "why": "Frozen deal damage -> ألحق (was أوقع); ما يكفي من is the Arabic quantifier order rather than a trailing كافيًا; tag content aligned to الاشتباك with its sibling row."
+ },
+ {
+  "key": "ST_Core_Tutorials/TutorialPPItemDesc",
+  "before": "عثرت على غرض دائم (PP).\n\nويمكن تجهيز <Bold>الأغراض الدائمة</> في الخانات الفعّالة أو الكامنة في <bold>قائمة الحقيبة</>.\n\nوالأغراض الدائمة الفعّالة تتقاسم الشحنات المستهلَكة، وهي <bold>تُستعاد عند الراحة</>.",
+  "after": "عثرت على غرض دائم (PP).\n\nيمكن تجهيز <Bold>الأغراض الدائمة</> في الخانات الفعّالة أو الكامنة في <bold>قائمة الحقيبة</>.\n\nتتقاسم الأغراض الدائمة الفعّالة شحنات مستهلَكة <bold>تُستعاد عند الراحة</>.",
+  "why": "Cut two paragraph-initial و; recast the last sentence verb-initial and dropped the dead copula وهي."
+ },
+ {
+  "key": "ST_Core_Tutorials/FastTravelTutorial",
+  "before": "استنشقتَ بخارًا قويًا من رئتي الأُمَّهة السُّفلى، فأيقظ فيك قوة لم تعرف أنك تملكها.\n\n<bold>نفَس الأُمَّهة</> متاح الآن كخيار عند المنارات. وهو يتيح لك التنقل سريعًا بين أي منارة أحييتها وزرتها.",
+  "after": "استنشقتَ بخارًا قويًا من رئتي الأُمَّهة السُّفلى، فأيقظ فيك قوة لم تعرف أنك تملكها.\n\n<bold>نفَس الأُمَّهة</> متاح الآن كخيار عند المنارات، فينقلك سريعًا بين أي منارة أحييتها وزرتها.",
+  "why": "Full stop + وهو يتيح لك التنقل replaced by the ف of consequence - one movement instead of two flat clauses."
+ },
+ {
+  "key": "ST_Core_Tutorials/ShellReviveTutorial_1",
+  "before": "انقطعت صلتك بـ<Bold>الهَيكل</>.\nاجرح أعداءك بهجمات <Bold>الاشتباك</> لاستعادته.\nويمكنك تتبع التقدم على <Bold>خاتَمك</>.",
+  "after": "انقطعت صلتك بـ<Bold>الهَيكل</>.\nاجرح أعداءك بهجمات <Bold>الاشتباك</> لاستعادته.\nوبإمكانك تتبّع التقدم على <Bold>خاتَمك</>.",
+  "why": "ويمكنك -> وبإمكانك: keeps the modality while breaking a third verb-initial line in a row."
+ },
+ {
+  "key": "ST_Core_Tutorials/AimTutorialShortHold",
+  "before": "للتصويب ثم استمر بالضغط",
+  "after": "للتصويب ثم اضغط مطوّلًا",
+  "why": "Frozen Hold rendering (was استمر بالضغط)."
+ }
+]

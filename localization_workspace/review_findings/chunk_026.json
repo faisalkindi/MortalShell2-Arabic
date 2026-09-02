@@ -1,0 +1,87 @@
+{
+ "chunk": 26,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_PickUpMachineGun_04/1A7D91564546B3F6CD2FBC98A910CAA6",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "And I will kill the Hexapod.",
+   "ar": "وسأقتل الهكسابود.",
+   "issue": "Hexapod is frozen as السداسيّ الأرجل. This row transliterates it instead, so the boss the whole Proxima memory arc is about is named one way here and another way in the enemy/UI strings.",
+   "suggested_ar": "وسأقتل السداسيّ الأرجل."
+  },
+  {
+   "key": "/Weltcap",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Weltcap",
+   "ar": "قبعة العالم",
+   "issue": "'Weltcap' has been read as German Welt = world. In English 'welt' is a raised lump on skin and '-cap' is the standard suffix for a mushroom (it sits among the harvestable flora named like Trollweed and Tarspore). قبعة العالم ('cap of the world') names a different thing entirely.",
+   "suggested_ar": "قلنسوة الوَرَم"
+  },
+  {
+   "key": "/7B43862E434D001C5DF22289FA98DE56",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Do not weep for me, brethers. I have been called by the Blessed Mether. Here I shall remain with her forevermore.",
+   "ar": "لا تبكوا عليّ أيها الأُخَيّون. فقد دعتني الأمَّهة المباركة. وهاهنا سأبقى معها إلى الأبد.",
+   "issue": "الأمَّهة written without the damma of the frozen الأُمَّهة. Both duplicate rows here (7B43862E..., D3582FAD...). Note that B4780823... 'Mether's milk' in this same chunk DOES write حليب الأُمَّهة correctly, so the build currently ships both spellings.",
+   "suggested_ar": "لا تبكوا عليّ أيها الأُخَيّون. فقد دعتني الأُمَّهة المباركة. وهاهنا سأبقى معها إلى الأبد."
+  },
+  {
+   "key": "/C69AF74B49337FC6DE9E73A03B750A51",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Disciple",
+   "ar": "المريد",
+   "issue": "Continues the Acolyte collision — المُريد is frozen as Tiel's title.",
+   "suggested_ar": "التابع"
+  },
+  {
+   "key": "/Artifact_ParasiteGolemFlavorText",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Within ossinite and quenched iron, lies the mark of its creator. A single word etched meticulously in the language of Mammon. “Endure” it reads. And so the golem did, but his creator never expected another creature might inhabit and exploit his masterwork.",
+   "ar": "في الأوسينيت والحديد المُصلَّد تكمن علامة صانعه: كلمةٌ واحدة نُقشت بإتقان بلغة مامون، تقرأ: «اصمد». فصمد الغولم فعلًا، لكن صانعه لم يخطر له قط أن يسكن تحفته مخلوقٌ آخر فيستغلها.",
+   "issue": "Mammon is مامون here but مَمُّون in the two royal-decree rows of chunk 025 (88B3B490..., 75B69AC3...). One of the two has to win; the place name appears in both lore text and a King's decree.",
+   "suggested_ar": "في الأوسينيت والحديد المُصلَّد تكمن علامة صانعه: كلمةٌ واحدة نُقشت بإتقان بلغة مَمُّون، تقرأ: «اصمد». فصمد الغولم فعلًا، لكن صانعه لم يخطر له قط أن يسكن تحفته مخلوقٌ آخر فيستغلها."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_ReleaseMerrick_03/CDC663A948D8269DC4D5C7BA4597951C",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "A life for a life.",
+   "ar": "حياة بحياة.",
+   "issue": "This is the spoken line the quest title 'A Life For A Life' is named after, but the title row (4F0B0CB8..., chunk 023) renders it النفس بالنفس. The callback between quest name and line is lost.",
+   "suggested_ar": "النفس بالنفس."
+  },
+  {
+   "key": "/LegendaryArtifactFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "What could be more valuable than the secrets of Muraden?",
+   "ar": "وهل من شيءٍ أثمن من أسرار موراديان؟",
+   "issue": "Muraden is transliterated موراديان, which reads back as 'Muradian' — an extra syllable in a proper noun.",
+   "suggested_ar": "وهل من شيءٍ أثمن من أسرار مورادن؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_MerrickStabs_06/ECB5B2F644FB5B6948B0C98FEFF9D503",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "And I’m pretty sure I just saved your life.",
+   "ar": "وأنا واثقٌ تمامًا أنني أنقذت حياتك للتو.",
+   "issue": "'pretty sure' is deliberately hedged — it is Merrick's wry, half-joking claim. واثقٌ تمامًا ('completely certain') removes the hedge and the joke.",
+   "suggested_ar": "وأنا شبه واثقٍ أنني أنقذت حياتك للتو."
+  },
+  {
+   "key": "/3F76AE6B4BC28D06FCF66AB3CF1B8718",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Do What Must Be Done",
+   "ar": "افعل ما يجب فعله",
+   "issue": "Interaction prompt written as an imperative; the frozen convention is that prompt labels are verbal nouns (Claim Heart -> أخذ القلب, Confess -> الاعتراف, Comfort Genessa -> مواساة جينيسا all follow it in the same alphabetical run). Both rows: 3F76AE6B..., AC14C675....",
+   "suggested_ar": "فعل ما يجب"
+  }
+ ]
+}

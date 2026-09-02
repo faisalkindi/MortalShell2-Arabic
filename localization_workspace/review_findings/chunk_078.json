@@ -1,0 +1,42 @@
+{
+ "chunk": 78,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/149D7A364EB1445F0534C6BA6D089F07",
+   "type": "wrong_referent",
+   "severity": "major",
+   "source_en": "In return, the warlord only needed to agree to a few provisions. His neighbors to the north and the east would be granted land and titles. And the hordes would be pacified and made into their loyal subjects.",
+   "ar": "في المقابل، لم يكن على أمير الحرب سوى الموافقة على بضعة شروط. يُمنح جيرانه في الشمال والشرق أراضيَ وألقابًا، وتُهدَّأ الجحافل وتُجعَل من رعاياه الموالين.",
+   "issue": "'their loyal subjects' is the neighbours' — plural 'their' against the warlord's singular 'his/he' two clauses earlier. The Arabic رعاياه makes the hordes the WARLORD's own subjects, which reverses the concession: the treaty's point is that he hands his horde over as subjects of the north and east, not that he keeps them.",
+   "suggested_ar": "في المقابل، لم يكن على أمير الحرب سوى الموافقة على بضعة شروط. يُمنح جيرانه في الشمال والشرق أراضيَ وألقابًا، وتُهدَّأ الجحافل وتُجعَل من رعاياهم الموالين."
+  },
+  {
+   "key": "/1A08B966450CDE6584A783AA6614980D",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Harro's Sigiled Plate",
+   "ar": "درع هاروس المُختوم",
+   "issue": "'Sigiled' means marked with sigils. المُختوم is the participle of ختم (stamping/sealing), which the glossary explicitly keeps away from the Seal mechanic (الخاتَم) — so this armour name reads as if it were Seal equipment rather than an engraved plate.",
+   "suggested_ar": "درع هاروس المنقوش بالرموز"
+  },
+  {
+   "key": "/1C6B94674CB0A8B22A95A78220699597",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Hierarch",
+   "ar": "الحَبر الأعظم",
+   "issue": "Frozen glossary term: Hierarch = الكاهن الأكبر (Smert's cult title). الحَبر الأعظم is the Catholic Supreme Pontiff and imports the wrong institution into the cult.",
+   "suggested_ar": "الكاهن الأكبر"
+  },
+  {
+   "key": "/237DB95C4F1109F08F5C71B91F92880D",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Hierarch",
+   "ar": "الحَبر الأعظم",
+   "issue": "Duplicate of the row above; must move with it.",
+   "suggested_ar": "الكاهن الأكبر"
+  }
+ ]
+}

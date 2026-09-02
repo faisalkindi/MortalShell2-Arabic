@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_BelligerentDrunk/1F51B846433EEDF111C8BA8097597C3C",
+  "before": "(تمتمة سكرانة غير مفهومة)",
+  "after": "(تمتمة ثمِلة غير مفهومة)",
+  "why": "'سكرانة' is a colloquial form in a stage direction"
+ },
+ {
+  "key": "Dialogue_Dlg_BelligerentDrunk/243FA53144CB9F9466B8B6A2636455D5",
+  "before": "أتريد أن نصنع الوحش ذا الظهرين؟",
+  "after": "أتريد أن نلتحم كوحشٍ بظهرين؟",
+  "why": "literal 'نصنع الوحش ذا الظهرين' is opaque; the simile makes it read as the bawdy joke it is"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_3/ED91199C48B0C50924BF3C98CAF40FEA",
+  "before": "أدعو أن يكون لقاؤنا لقاء بهجة تامة.",
+  "after": "أدعو أن يكون لمّ شملنا أبهج ما يكون.",
+  "why": "'reunion' must match row 17's لمّ الشمل; 'لقاء بهجة تامة' was unreadable"
+ },
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_5/7D60394B4F600E8652EE8B80B5F9415B",
+  "before": "(تنهيدة)",
+  "after": "(يتنهّد)",
+  "why": "frozen stage-direction form"
+ },
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_5/435E8D1947298D46F493C29EA633D92D",
+  "before": "ليتني أستطيع أن أكون بمثل هذا الجموح والحرية اليوم.",
+  "after": "ليتني اليوم بمثل جموحهم وخلوّ بالهم.",
+  "why": "carefree is خلوّ البال, not حرية; cut the filler 'أستطيع أن أكون'"
+ },
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_5/7B091B9241C20DC50F8290B1EFF2AF8D",
+  "before": "أنا... أخشى ألا أكون قد كفّرتُ بما فيه الكفاية... عن ذنوبي.",
+  "after": "أنا… أنا أخشى ألا أكون قد كفّرتُ بما يكفي… عن ذنوبي.",
+  "why": "restored the doubled 'I… I' stammer; بما فيه الكفاية shortened"
+ },
+ {
+  "key": "Dialogue_Dlg_IntroCultist_Greeting_5/1DFDDC0C4D9777EBC99D42BB68A2A584",
+  "before": "لعلّك تُذكر اسمي لها بخير؟",
+  "after": "لعلّك تشفع لي بكلمة طيبة؟",
+  "why": "'put in a good word' has a real Arabic idiom - شفع بكلمة"
+ }
+]

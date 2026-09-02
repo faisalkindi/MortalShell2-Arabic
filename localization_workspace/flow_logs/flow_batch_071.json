@@ -1,0 +1,104 @@
+[
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_InteractGeneric/8EF8A9E6424EBD39FDD6F5B3853461F2",
+  "before": "ما رأيك بواحد آخر؟",
+  "after": "ما رأيك بأخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_InteractGeneric/671CA6794A69444FF5CF5CA0449FE3F6",
+  "before": "آخر؟",
+  "after": "أخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_InteractGraguReaction/D7673474464E481E1E15BC92887BC06B",
+  "before": "هم... تبدو مختلفًا.",
+  "after": "همم... تبدو مختلفًا.",
+  "why": "هم is not the Arabic hesitation particle; همم is"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_InteractGraguReaction/9E54E57743F2EA000F831AAA6E1AACE8",
+  "before": "انتهيت من الكآبة يا غراغو؟",
+  "after": "هل انتهيت من التحسّر يا غراغو؟",
+  "why": "moping is self-pitying brooding (التحسّر), not الكآبة as a state"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_Order1st/22C74397424A6D3CF84AD0B489EFC3EB",
+  "before": "ما رأيك بواحد آخر؟",
+  "after": "ما رأيك بأخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_Order1st/E46D99BA4BDF51F5C994A0AAD9C32405",
+  "before": "إذن ما رأيك ببعض العملات؟",
+  "after": "إذن ما رأيك ببعض النقود؟",
+  "why": "'some coin' is money in general; العملات read as individual coin specimens"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_Order1st/3673ECE7404D105780CDDAAAA509071E",
+  "before": "أعطشان بشدة أنت؟",
+  "after": "هل أنت ظمآن إلى هذا الحد؟",
+  "why": "أعطشان بشدة أنت؟ had English word order"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_Order1st/B9DCACAA45CFACA6A1F904AB00EFA5FE",
+  "before": "آخر؟",
+  "after": "أخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_OrderMore/F284AD2441E2F2EA3721DFB135C89E20",
+  "before": "ما رأيك بواحد آخر؟",
+  "after": "ما رأيك بأخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_OrderMore/0D3457874DF225A807893AACA1B294A9",
+  "before": "آخر؟",
+  "after": "أخرى؟",
+  "why": "the referent is a كأس (feminine) - 'another' must agree"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_PlayerDeclines/5A98401046AD803703C3BB88C9F6D585",
+  "before": "همم... مُملّ.",
+  "after": "همم... مُمـــــلّ.",
+  "why": "restored the drawn-out 'booooring' with Arabic kashida elongation"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_PlayerDeclines/01190DC644A5E9B992E36282707F5C7C",
+  "before": "ربما هذا للأفضل.",
+  "after": "لعلّ ذلك خير.",
+  "why": "'for the best' is a set consolation; للأفضل is a calque"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_PlayerDeclines/3A6CA6BE4524EEC5D1D179928CF1065C",
+  "before": "أهُزمت بهذه السرعة؟",
+  "after": "أثمِلتَ بهذه السرعة؟",
+  "why": "'skunked' in a tavern is drunk, not defeated"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/BA8D426F47001D7856A7DAAE5A4D7246",
+  "before": "(تأوّه سُكارى)",
+  "after": "(تأوّه سكران)",
+  "why": "سُكارى is a plural; one drunk is groaning"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/B0AAD6544039E9F262777FA983741BCD",
+  "before": "غراغو... (يهزأ) كيف يسقط الأقوياء، أليس كذلك؟",
+  "after": "غراغو... (يهزأ) هكذا يسقط الجبابرة، أليس كذلك؟",
+  "why": "'how the mighty fall' is a set allusion; Arabic says هكذا يسقط الجبابرة"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/3D3F565448BD9721F7A0B282BD32F918",
+  "before": "انظروا إلى هذا الكسول الحزين الضخم.",
+  "after": "انظروا إلى ذلك البائس الضخم.",
+  "why": "'sad sack' is pitiable, not lazy; الكسول was the wrong charge"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/1720F68C42CE2988FCE5BD84C666B89F",
+  "before": "امشِ الآن. أنت تحجب رؤيتي.",
+  "after": "هيّا امضِ. أنت تحجب عني الرؤية.",
+  "why": "'trot along' is a shooing-away; امشِ الآن read as an instruction to walk"
+ }
+]

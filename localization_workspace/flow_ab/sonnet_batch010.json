@@ -1,0 +1,306 @@
+{
+ "model": "sonnet",
+ "batch": 10,
+ "rows": [
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_Sidearm_Hold",
+   "ar": "استمر بالضغط على <Action ID=\"Aim\"/> للتصويب وعلى <Action ID=\"SidearmPrimary\"/> للشحن، ثم ارفعه لإطلاق النار",
+   "changed": true,
+   "why": "دمج فعل \"استمر بالضغط\" المكرر مرتين (English requires it, Arabic implies)؛ حذف تكرار الفعل وربط الجملتين بواو العطف على المفعول فقط."
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_SidearmAlternativeFire_Hold",
+   "ar": "استمر بالضغط على <Action ID=\"Aim\"/> للتصويب وعلى <Action ID=\"SidearmSecondary\"/> للشحن، ثم ارفعه لإطلاق النار",
+   "changed": true,
+   "why": "نفس تكرار الفعل الزائد في السطر المطابق؛ حذف الفعل المكرر."
+  },
+  {
+   "key": "ST_Core_Tutorials/Generic_ShellAbility_Tutorial_Hold",
+   "ar": "استمر بالضغط على <Action ID=\"ShellAbility\"/> {AbilityName}",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_6",
+   "ar": "استمر بالضغط على <Action ID=\"SlayerPunch\"/> لتنفيذ لكمة القاتل، فتصير منيعًا وتندفع مسافة بعيدة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_WeaponBuff",
+   "ar": "استمر بالضغط على <Action ID=\"WeaponBuff\"/> لتشريب سلاحك",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_Warning_2_Description",
+   "ar": "أفهم أنني <boldR>أعطّل الإنجازات</> وأجهّز خاتم القاتل.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ResolveConsumption",
+   "ar": "يستهلك <Bold>2</> من مقاطع <Resolve>العزيمة</>.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_3",
+   "ar": "يستعيد شيئًا من <Health>الصحة</> و<Resolve>العزيمة</> عند تنفيذ ضربة مضادة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/FastTravelTutorial_2",
+   "ar": "يستطيع نفَس الأُمَّهة تطهير الفساد، فيكشف دروبًا خفية ويفتح مناطق كانت بعيدة المنال.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/TurorialEndGame_Name",
+   "ar": "نهاية الأُمَّهة",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/TutorialNewGamePlusStarted_Subname",
+   "ar": "لعبة جديدة +",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/TutorialNewGamePlusStarted_Title",
+   "ar": "غاية جديدة",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/GenessaTrainingRiposte",
+   "ar": "متى <Break>انكسر</> الخصم صار مكشوفًا مؤقتًا أمام <Bold>ضربة مضادة</> قوية.\n\nسدّد ضربة مضادة لعدو لتوقع به ضررًا كبيرًا وتُذهله مدة طويلة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EquippingSeals_2",
+   "ar": "افتح حقيبتك وغيّر العتاد.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Fragile_Tarstones_Heading_2",
+   "ar": "القدرة الكامنة",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_PerfectGuard",
+   "ar": "الصدّ المثالي",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/TutorialPPItemName",
+   "ar": "الأغراض الدائمة",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_Resolve_Description",
+   "ar": "مورد قوي يُستهلك لإطلاق الأسلحة الجانبية وتفعيل القدرات.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/MiscPressButton",
+   "ar": "اضغط",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_PerfectGuard",
+   "ar": "اضغط <Action ID=\"ActiveBlock\"/> قبيل تلقّي الضربة لتنفيذ <Bold>صدّ مثالي</>",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_LowHealthHeal",
+   "ar": "اضغط <Action ID=\"Heal\"/> للشفاء",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tooltip_Smert_Kicker",
+   "ar": "اضغط <Action ID=\"HeavyAttack\"/> لتنفيذ <Bold>ركلة</>",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_Parry_Short",
+   "ar": "اضغط <Action ID=\"Parry\"/> قبيل تلقّي الضربة",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_Parry",
+   "ar": "اضغط <Action ID=\"Parry\"/> قبيل تلقّي الضربة لتنفيذ <Bold>الدَّرء</> ضد الهجوم",
+   "changed": true,
+   "why": "\"الدَّرء للهجوم\" كلكة من الإنجليزية (parry for the attack)؛ \"الدرء ضد الهجوم\" تعبير عربي طبيعي."
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_ShellAbility",
+   "ar": "اضغط <Action ID=\"ShellAbility\"/> لتفعيل قدرة هَيكلك",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_ShellRevive",
+   "ar": "اضغط <Action ID=\"ShellAbility\"/> لإحياء هَيكل قابل للاستعادة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Generic_ShellAbility_Tutorial",
+   "ar": "اضغط <Action ID=\"ShellAbility\"/> {AbilityName}",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_WeaponAbility",
+   "ar": "اضغط <Action ID=\"WeaponAbility\"/> للتفعيل",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tooltip_Smert_Beatdown",
+   "ar": "اضغط <Action ID=\"WeaponBuff\"/> لتنفيذ <Bold>لكمة أرضية</>",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/MiscPressOrHoldButton",
+   "ar": "اضغط أو استمر بالضغط",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_Guard",
+   "ar": "اضغط أو استمر بالضغط على <Action ID=\"ActiveBlock\"/> لتنفيذ <Bold>الصدّ</>",
+   "changed": true,
+   "why": "أُضيف فعل \"لتنفيذ\" المحذوف ليطابق بنية بقية أسطر نفس المجموعة (Perfect Guard وغيرها) وتزول الركاكة في \"...للصد\" بلا فعل."
+  },
+  {
+   "key": "ST_Core_Tutorials/EvilStatueTutorial_Title",
+   "ar": "قربان مدنَّس",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_7",
+   "ar": "لكم العدو يوقع به <break>ضرر كَسر</> هائلًا، وينفّذ <Bold>ضربة مضادة</> تلقائيًا إن انكسر.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ReleaseMisc",
+   "ar": "ارفع",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ShellReviveTutorial_Action",
+   "ar": "إحياء الهَيكل",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_ShellAbilities",
+   "ar": "قدرات الهَيكل",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ShellProgressionTutorial_3",
+   "ar": "قدرات الهَيكل مقفلة خلف <Bold>رتبة رابطة الهَيكل</>.\n\n<miscwidget ID=\"ShellBonding\"/>\n\nويمكنك رفع رتبة رابطة الهَيكل بإنفاق <Bold>الوَمَضات</> <img id=\"Glimpses\"/> عند حارس الهَياكل.\n\nوخلافًا لـ<img id=\"SP\"/>، لا يمكن استرداد الوَمَضات المنفَقة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ShellProgression",
+   "ar": "تطوّر الهَيكل",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_2",
+   "ar": "توقع الأسلحة الجانبية <break>ضرر الكَسر</>، فتكشف الأعداء أمام <Bold>الضربات المضادة</>.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_VulnerabilityDesc",
+   "ar": "بعض الأعداء أكثر <bold>هشاشة</> أمام هجمات بعينها.\n\nجرّب أنواع الهجوم <bold>الخفيف</> و<bold>القوي</> و<bold>البعيد</> على خصومك.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Fragile_Tarstones_Desc_2",
+   "ar": "بعض أحجار القار الهشّة تمنح قدرة كامنة ما دامت مجهَّزة وسليمة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EnemyDodgeBreakLock",
+   "ar": "بعض الخصوم يستطيعون المراوغة بما يجعلهم غير قابلين للتثبيت فترة وجيزة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Fragile_Tarstones_Desc_1",
+   "ar": "بعض أحجار القار هشّة ولها متانة، أي أنها تنكسر عند تكرار شرط معيّن، ويختلف الشرط باختلاف الحجر.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_ToggleScythe",
+   "ar": "انقر <Action ID=\"WeaponBuffTap\"/> للتشغيل أو الإيقاف",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/WeaponBuffToggle",
+   "ar": "انقر <Action ID=\"WeaponBuffTap\"/> للتشغيل أو الإيقاف",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Tarcore_1",
+   "ar": "لُبّ القار مادة تُستعمل لترقية أحجار القار من المستوى 2 إلى المستوى 3.\n\nوتُنال هذه المادة بترقية أحجار قار أخرى.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/ShellProgressionTutorial_2",
+   "ar": "تحدد <Bold>سعة نقاط الهَيكل</> المعروفة بـ<img id=\"SC\"/> عدد القدرات التي يمكن امتلاكها في وقت واحد.\n<miscwidget ID=\"ShellCapacity\"/>\nغير أن القدرات تُسترد بحرية وتُنفَق النقاط من جديد.\n\nجرّب المزج بين قدرات مختلفة لتصنع أساليب لعب فريدة.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_1",
+   "ar": "يمنح <Bold>خاتم القاتل</> قوى مجيدة:",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_4",
+   "ar": "يخفّض خاتم القاتل <bold>صعوبة القتال</> بمنحه قدرات تعزز الهجمات البعيدة والضربات المضادة.\n\n<boldR>تجهيز خاتم القاتل يعطّل الإنجازات في ملف الحفظ هذا.</>",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_5",
+   "ar": "يمنح خاتم القاتل كذلك <Bold>لكمة القاتل</>.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EndGame",
+   "ar": "طُهّرت الأُمَّهة السُّفلى من الراكب الفاسد، وصارت البُيوض مهيأة لرحلتها.\n\nمتى شئت، أرسل البُيوض في طريقها من <Bold>مِصفاة القَتام</>. وكلما زادت البُيوض التي وجدتها، عظمت فرص نجاتها.\n\nوإرسال البُيوض يختم هذا الفصل من الحكاية ويبدأ دورة <Bold>اللعبة الجديدة +</>.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EvilStatue",
+   "ar": "ترك الأتباع قرابين لاستدراج سارقي البُيوض.\n\nوإن أردت المكافأة فعليك القضاء على السارقين في الوقت المتاح.\n\nوإن ابتعدت كفاية عن القربان ضاع كذلك، ولن يتبعك السارقون.",
+   "changed": true,
+   "why": "حذف الضمير الزائد \"هو\" (ضاع هو أيضًا -> ضاع كذلك) الذي تقتضيه الإنجليزية ولا يحتاجه العربي."
+  },
+  {
+   "key": "ST_Core_Tutorials/CharacterProgressionTutorial_2",
+   "ar": "تُختار الصفات المحسّنة عند الترقية بالقَتام تلقائيًا بحسب مستوى النذير.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/CharacterProgressionTutorial_1",
+   "ar": "ثمة طرق عدة لتقوية النذير والهَياكل.\n\nإنفاق القَتام للترقية يحسّن صفات النذير وهَياكلك معًا",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Small_ToggleLockOn",
+   "ar": "تبديل التثبيت",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_EquippingSeals_3",
+   "ar": "جهّز خاتم ڤاترا الآن.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_Tarcore_2",
+   "ar": "جرّب استخدام أحجار قار مختلفة وترقيتها للحصول على ألباب القار.\n\nثم استعمل تلك الألباب لترقية مزيد من أحجار القار.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/GuardTutorial_1",
+   "ar": "استعمل صدّك لتدفع هجمات الأعداء.",
+   "changed": false
+  },
+  {
+   "key": "ST_Core_Tutorials/Tutorial_SlayerSeal_Equipwarning_Title_2",
+   "ar": "تحذير 2: خاتم القاتل",
+   "changed": false
+  }
+ ]
+}

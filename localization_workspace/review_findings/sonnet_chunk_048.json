@@ -1,0 +1,10 @@
+{"chunk": 48, "rows_reviewed": 90, "findings": [
+  {"key":"Dialogue_Dlg_Gragu_TheChild_02_Intro/EE8577A743F91ADD981A1EB5A434EFFD","type":"gender_error","severity":"minor",
+   "source_en":"It’s the godling’s flesh I seek. This… “Lavender.”","ar":"لحم الإله الصغير هو ما أنشده. هذه… «لافندر».",
+   "issue":"'Lavender' is the game's alias for the Harbinger (04_game_context.md), who defaults masculine per style guide. Feminine demonstrative هذه genders the referent female here and in the row below (and in the chunk_047 occurrence at Dialogue_Dlg_Gragu_TheChild_01_DropChild) — a repeated pattern, not a one-off typo.",
+   "suggested_ar":"لحم الإله الصغير هو ما أنشده. هذا… «لافندر»."},
+  {"key":"Dialogue_Dlg_Gragu_TheChild_02_Intro/A1FAAC574D2FA0A43158F582AC792257","type":"gender_error","severity":"minor",
+   "source_en":"Now tell me about this... \"Lavender\".","ar":"الآن، أخبرني عن هذه... «لافندر».",
+   "issue":"Same repeated pattern: feminine هذه applied to 'Lavender' (the Harbinger's in-world alias, masculine default) — third occurrence of this exact substitution across chunks 47-48.",
+   "suggested_ar":"الآن، أخبرني عن هذا... «لافندر»."}
+]}

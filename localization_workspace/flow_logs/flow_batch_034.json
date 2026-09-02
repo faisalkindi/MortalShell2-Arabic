@@ -1,0 +1,134 @@
+[
+ {
+  "key": "ST_Skills_Sariel/SarielSkillAfflictionDesc",
+  "before": "إلحاق الضرر بعدو <Curse>ملعون</> يُلحق ضررًا بجميع الأعداء الملعونين الآخرين.",
+  "after": "يمتد الضرر الذي يُلحَق بعدو <Curse>ملعون</> إلى جميع الأعداء الملعونين الآخرين.",
+  "why": "إلحاق … يُلحق stutters the same root twice; يمتد … إلى is the Arabic idiom for damage spreading."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillReaper_Effect_1",
+  "before": "إلحاق الضرر بعدو يشفي {X} إضافية من <Pain>الألم</>.",
+  "after": "يشفي إلحاق الضرر بعدو {X} إضافية من <Pain>الألم</>.",
+  "why": "Verb-initial."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillRemedy_Effect_2",
+  "before": "إلحاق الضرر بالأعداء <Curse>الملعونين</> يشفي {Y} من <Pain>الألم</>.",
+  "after": "يشفي إلحاق الضرر بالأعداء <Curse>الملعونين</> {Y} من <Pain>الألم</>.",
+  "why": "Verb-initial, matching its sibling row."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillScourgeDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Curse>اللعنة</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Curse>اللعنة</>.",
+  "why": "Verb-initial 'Each level…' family."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillExodusGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>خروج الأشواك</>.",
+  "after": "يُحسِّن كل مستوى <Bold>خروج الأشواك</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillReaperDesc",
+  "before": "كل مستوى يُيسِّر شفاء <Pain>ألم</> سارييل.",
+  "after": "يُيسِّر كل مستوى شفاء <Pain>ألم</> سارييل.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillPainGenericDesc",
+  "before": "كل مستوى يخفّف الآثار السلبية لـ<Pain>الألم</>.",
+  "after": "يخفّف كل مستوى الآثار السلبية لـ<Pain>الألم</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillGrowth_Effect_1",
+  "before": "تُلحق الأشواك المقذوفة {X} ضررًا إضافيًا.",
+  "after": "تُلحق الأشواك المقذوفة ضررًا إضافيًا قدره {X}.",
+  "why": "ضررًا قدره shape, as in every sibling damage row."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillThornfall_Effect_1",
+  "before": "تُلحق الأشواك المقذوفة {X} ضررًا انتشاريًا عند الارتطام.",
+  "after": "تُلحق الأشواك المقذوفة ضررًا انتشاريًا قدره {X} عند الارتطام.",
+  "why": "Same shape."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillReaper_Effect_3",
+  "before": "الضرر البعيد يشفي أيضًا <Pain>ألم</> سارييل.",
+  "after": "يشفي الضرر بعيد المدى <Pain>ألم</> سارييل أيضًا.",
+  "why": "الضرر البعيد is not the frozen بعيد المدى; also verb-initial and أيضًا moved to the end."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillTorment_Effect_1",
+  "before": "تُلحق الأشواك حتى {X} من <Poise>ضرر الترنّح</> بحسب مقدار <Pain>ألم</> سارييل.",
+  "after": "تُلحق الأشواك ما يصل إلى {X} من <Poise>ضرر الترنّح</> بحسب مقدار <Pain>ألم</> سارييل.",
+  "why": "'up to' rendered as bare حتى reads as 'until'; ما يصل إلى is unambiguous."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillTorment_Effect_2",
+  "before": "تُلحق الأشواك حتى {Y} ضررًا بحسب مقدار <Pain>ألم</> سارييل.",
+  "after": "تُلحق الأشواك ضررًا يصل إلى {Y} بحسب مقدار <Pain>ألم</> سارييل.",
+  "why": "Same, and the ضررًا/number order fixed."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillTorment_Effect_3",
+  "before": "تبدأ الأشواك بإلحاق حتى {Z} من <Break>ضرر الكَسر</> بحسب مقدار <Pain>ألم</> سارييل.",
+  "after": "تبدأ الأشواك بإلحاق ما يصل إلى {Z} من <Break>ضرر الكَسر</> بحسب مقدار <Pain>ألم</> سارييل.",
+  "why": "Same 'up to' fix, so the three Torment rows read as one tier list."
+ },
+ {
+  "key": "ST_Skills_Sariel/SarielSkillRemedy_Effect_1",
+  "before": "{X} من <Pain>الألم</> المشفي يشفي أيضًا سارييل.",
+  "after": "يعود {X} من <Pain>الألم</> المشفيّ شفاءً لسارييل أيضًا.",
+  "why": "المشفي يشفي repeated the root back to back; يعود … شفاءً is the natural phrasing."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertBlessing_Effect_1",
+  "before": "أي شفاء يتلقاه سميرت يُلحق {X} من <Bold>ضرر انتشاري</> حوله.",
+  "after": "يُلحق كل شفاء يتلقاه سميرت {X} من <Bold>ضرر انتشاري</> حوله.",
+  "why": "Verb-initial; أي شفاء … يُلحق was English subject-first order."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertStriker_Effect_2",
+  "before": "كل تراكم <Chaos>فوضى</> منفجر يُلحق {Y} ضررًا.",
+  "after": "يُلحق كل تراكم <Chaos>فوضى</> مُفجَّر ضررًا قدره {Y}.",
+  "why": "Verb-initial and the ضررًا قدره shape; منفجر (intransitive) wrong for a stack the player detonates."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertAbsolutionDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Bold>الحالات السلبية</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Bold>الحالات السلبية</>.",
+  "why": "Verb-initial 'Each level…' family."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertDeadlyRevelationGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>الوحي المُميت</> لدى سميرت.",
+  "after": "يُحسِّن كل مستوى <Bold>الوحي المُميت</> لدى سميرت.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertFightStanceGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>وضعية القتال</> لدى سميرت.",
+  "after": "يُحسِّن كل مستوى <Bold>وضعية القتال</> لدى سميرت.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertMiracleGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>معجزة</> سميرت.",
+  "after": "يُحسِّن كل مستوى <Bold>معجزة</> سميرت.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertResilienceDesc",
+  "before": "كل مستوى يزيد مقاومة سميرت لـ<Bold>الانفصال</>.",
+  "after": "يزيد كل مستوى مقاومة سميرت لـ<Bold>الانفصال</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Smert/ShellSkillSmertLastVow_Effect_1",
+  "before": "تُلحق هجمات وضعية القتال {X} ضررًا و{Y} من <Poise>ضرر الترنّح</>.",
+  "after": "تُلحق هجمات وضعية القتال ضررًا قدره {X}، و{Y} من <Poise>ضرر الترنّح</>.",
+  "why": "ضررًا قدره shape and a comma so the two figures don't run together."
+ }
+]

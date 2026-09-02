@@ -1,0 +1,203 @@
+source_term,type,approved_ar,status,notes
+Gloom,mechanic,القَتام,approved,goddess-marrow substance; 'crudely called Gloom'. NOT الظلمة (darkness)
+Blackmarrow,story,النُّخاع الأسود,approved,true name of Gloom
+Gloomslayer,story,قاتل القَتام,approved,
+Gloom Siphon,location,مِصفاة القَتام,approved,
+Shell,mechanic,الهَيكل,approved,possessable warrior husk; plural الهَياكل. NOT الغلاف (wrapper)
+Shellkeeper,character,حارسة الهَياكل,approved,"Zhirelle's title; she is female, so the title is feminine throughout"
+Tar,mechanic,القار,approved,literal in-world substance; classical Arabic word for tar/pitch
+Tarstone,mechanic,حجر القار,approved,NOT transliterated تارستون
+Tarforge,location,مِصهَر القار,approved,NOT transliterated تارفورج
+Ovum,story,البَيضة,approved,singular sacred egg
+Ova,story,البُيوض,approved,plural; NOT transliterated أوفا
+Ovum Keeper,character,حارس البُيوض,approved,
+Unblemished Ova,story,البُيوض الطاهرة,approved,
+Spoiled Ovum,story,بَيضة فاسدة,approved,
+Seal,mechanic,الخاتَم,approved,worn signet-object granting abilities; NOT ختم (the act of stamping)
+Slayer Seal,mechanic,خاتم القاتل,approved,
+Harden,mechanic,التحجُّر,approved,flesh to stone; matches the game's own 'petrifies'
+Perfect Harden,mechanic,تحجُّر مثالي,approved,
+Glimpse,mechanic,الوَمضة,approved,collectible memory-flash; plural الوَمَضات. NOT لمحة
+Sester,honorific/title,أُخَيّة,approved,"warped 'sister' -> archaic Arabic diminutive, not transliteration"
+Brether,honorific/title,أُخَيّ,approved,warped 'brother'
+High Sester,honorific/title,الأُخَيّة الكُبرى,approved,
+Mether,character,الأُمَّهة,approved,warped 'Mother'; أُمَّهة is an attested classical variant of أُمّ (Lisan al-Arab)
+Undermether,character,الأُمَّهة السُّفلى,approved,
+Blessed Mether,character,الأُمَّهة المباركة,approved,
+Mether's Pulse,mechanic,نبض الأُمَّهة,approved,
+Mether's Breath,mechanic,نفَس الأُمَّهة,approved,
+Harbinger,character,النذير,approved,"player character. RESERVED: the common noun 'omen' must use آية/بشير, never نذير"
+Beacon,mechanic,المنارة,approved,
+Resolve,mechanic,العزيمة,approved,
+Break,mechanic,الكَسر,approved,posture-break; 'Break Damage' = ضرر الكَسر
+Marrow Keep,location,حصن النخاع,approved,
+Fallgrim,location,فولغريم,approved,
+Foul Passenger,story,الراكب الفاسد,approved,
+False gods,story,الآلهة الزائفة,approved,
+Etching Needles,item,إبر النقش,approved,
+Vlas,character,ڤلاس,approved,V -> ڤ
+Vatra,character,ڤاترا,approved,V -> ڤ
+Vellen,character,ڤيلن,approved,V -> ڤ
+Vellis,character,ڤيليس,approved,V -> ڤ
+Vratko,character,ڤراتكو,approved,V -> ڤ
+Vrago,character,ڤراغو,approved,V -> ڤ
+Vrannic,character,ڤرانيك,approved,V -> ڤ
+Vish,character,ڤيش,approved,V -> ڤ
+Viola,character,ڤيولا,approved,V -> ڤ
+Ventrium,location,ڤنتريوم,approved,V -> ڤ
+Egon,character,إيغون,approved,
+Gorf,character,غورف,approved,
+Genessa,character,جينيسا,approved,
+Franz,character,فرانز,approved,
+Merrick,character,ميريك,approved,
+Hilga,character,هيلغا,approved,
+Zhirelle,character,زيريل,approved,
+Tiel,character,تيل,approved,
+Eredrim,character,إردريم,approved,
+Proxima,character,بروكسيما,approved,
+Gragu,character,غراغو,approved,
+Smert,character,سميرت,approved,
+Lazlo,character,لازلو,approved,
+Sariel,character,سارييل,approved,
+Baghead,character,باغهيد,approved,
+Lucian,character,لوسيان,approved,"verified against in-game key, not 'Lucien'"
+Harros,character,هاروس,approved,
+Ruk,character,روك,approved,
+Thestus,character,ثيستوس,approved,
+Milos,character,ميلوس,approved,
+Riposte,mechanic,الضربة المضادة,approved,"frozen over الطعنة المضادة - works for hammers/axes, not just thrusts"
+Stagger,mechanic,الترنّح,approved,frozen over التعثّر
+Moonshine,item,العَرَق,approved,the actual Arabic word for distilled spirit; NOT مشروب القمر
+Common Moonshine,item,العَرَق العاديّ,approved,
+Special Moonshine,item,العَرَق المُعتَّق,approved,
+Guard,mechanic,الصد,approved,
+Perfect Guard,mechanic,الصدّ المثالي,approved,
+Parry,mechanic,الدَّرء,approved,"classical 'ward off a blow', kept distinct from الصد"
+Sidearm,mechanic,السلاح الجانبي,approved,
+Lock-On,mechanic,التثبيت,approved,
+Doubles,mechanic,القرناء,approved,doppelganger sense
+Tarcore,item,لُبّ القار,approved,
+Obsidian,item,السَّبَج,approved,classical Arabic for obsidian
+Obsidianite,location,حجر السَّبَج,approved,
+Infusion,mechanic,التشريب,approved,verb يُشرِّب; replaces تشبيع
+Dungeon,location,سرداب,approved,crypt beneath a Beacon; NOT زنزانة (jail cell)
+Execution,mechanic,الإجهاز,approved,finishing blow; NOT الإعدام (capital punishment)
+Perforation,mechanic,الثَّقب,approved,
+Trauma,mechanic,الرَّضّ,approved,
+Confusion,mechanic,التشويش,approved,
+Phantom,mechanic,الطيف,approved,
+Seedbearer,story,حامل البذرة,approved,
+Twiceborn,story,المولود مرّتين,approved,
+Foundling,story,اللقيط,approved,
+Blackridge,location,الحَيْد الأسود,approved,
+Acolyte,character,المُريد,approved,"Tiel's title. RESERVED: generic 'disciples/followers' must use أتباع, never مريدون"
+Broodseeker,character,طالبة الحَضْنة,approved,Proxima's title
+Endless,character,السَّرْمَدي,approved,Sariel's title
+Insatiable,character,النَّهِم,approved,Gragu's title
+Justiciar,character,المُقتَصّ,approved,Lazlo's title
+Wayward,character,الشارِدة,approved,Genessa's title
+Vassal,character,التابِع,approved,Harros's title
+Venerable,character,المُبَجَّل,approved,Eredrim's title
+Apostate,character,المُرتَدّ,approved,Smert's title
+Solomon,character,سولومون,approved,"transliterated, deliberately not سليمان"
+Hold (button),ui,اضغط مطوّلًا,approved,frozen over استمر بالضغط - idiomatic and shorter for overlays
+Press or Hold,ui,اضغط أو اضغط مطوّلًا,approved,
+Release (button),ui,أفلت,approved,frozen over ارفع
+deal damage,phrase,تُلحق ضررًا,approved,settled collocation; not توقع به ضررًا
+Faithful Doubles,mechanic,القرناء المخلصون,approved,
+Stray Doubles,mechanic,القرناء الضالّون,approved,"Stray = ضالّ so الشارِدة stays free for Wayward, Genessa's title"
+Ethereal Diapason,item,النغم الأثيري,approved,Eredrim ability
+Biosampler,mechanic,جامع العينات الحيوية,approved,Proxima
+Shellshock,mechanic,صدمة الهَيكل,approved,preserves the Shell pun
+Ground Punch,mechanic,لكمة الأرض,approved,
+Kicker,mechanic,الرَّكّال,approved,
+Deadly Revelation,mechanic,الوحي المُميت,approved,
+Warp,mechanic,الالتواء,approved,
+Stasis,mechanic,الركود,approved,
+Weak,mechanic,الضعف,approved,
+Fragile,mechanic,الهشاشة,approved,
+Slaughterer,mechanic,السفّاح,approved,
+Frost,mechanic,الصقيع,approved,
+Poison,mechanic,السم,approved,
+Bloodcurse,mechanic,لعنة الدم,approved,
+Faith,mechanic,الإيمان,approved,
+Wraith,mechanic,شبح,approved,distinct from الطيف which is frozen for Phantom
+Sentry,mechanic,الرقيب,approved,الحارس reserved for Warden/Guardian
+Ritualist,character,صاحب الطقوس,approved,
+Feeding Grounds,location,مَرتَع,approved,
+grants access to,phrase,يتيح,approved,distinct from يمنح (grants)
+melee,mechanic,الاشتباك,approved,unified; not الهجمات القريبة
+ranged,mechanic,بعيد المدى,approved,
+Inhabit Shell,ui,سُكنى الهَيكل,approved,"prompt labels are verbal nouns, never imperatives"
+Talk,ui,محادثة,approved,verbal noun per prompt convention
+New Game+,ui,اللعبة الجديدة+,approved,no space before +
+per rest,phrase,في كل راحة,approved,
+Weapons and Sidearms,phrase,الأسلحة الرئيسية والجانبية,approved,owner ruling 2026-09-01
+[Hold] tag,ui,[ضغط مطوّل],approved,label tag; bare instruction = اضغط مطوّلًا; option name = الضغط المطوّل
+inflict status,phrase,تُنزل,approved,"status verb, kept distinct from تُلحق for damage"
+prioritize,phrase,يعطي الأولوية لـ,approved,
+Controller (label),ui,ذراع التحكم,approved,running prose may use الذراع as anaphora
+Bond (preposition),phrase,رابطة بـ,approved,not مع
+screen distortion,mechanic,تشويه,approved,frees التشويش for the Confusion status
+Sesters (plural),honorific/title,الأُخَيّات,approved,feminine plural; vocative أيتها الأُخَيّات with feminine plural verbs
+Brethers (plural),honorific/title,الأُخَيّون,approved,masculine plural; never plain الإخوة - the warp is the point
+Revered,story,المُكرَّم,approved,distinct from المُبَجَّل which is Eredrim's title (Venerable)
+Tarwine,item,خمر القار,approved,
+Tarspore,item,بوغة القار,approved,
+Trollweed,item,عشب الغول,approved,
+Untarnished Seal,mechanic,الخاتم الطاهر,approved,
+Infinite Seal,mechanic,الخاتم اللانهائي,approved,
+ungrafted,phrase,غير مطعَّم,approved,matches grafted = مطعَّم
+laddie,phrase,يا فتى,approved,Franz's address to the player
+Baer / Baerand,character,باير,approved,Franz's estranged son
+Haeric,character,هايريك,approved,
+Foundry Stone,item,حجر المسبك,approved,
+Tarforge (personified),note,مؤنّث في كلام فرانز,approved,"Franz calls his forge 'she'; feminine agreement in HIS lines is deliberate, not an error, despite مِصهَر القار being masculine"
+Nektar,story,الرَّحيق,approved,sacred remedy drunk from glands; classical/Quranic register. NOT transliterated النيكتار
+True Nektar,story,الرحيق الحقّ,approved,"الحقّ not الحقيقي - sacred-truth register, pairs with الآلهة الزائفة"
+Venerated Nektar,story,الرحيق المُكرَّم,approved,reuses Revered=المُكرَّم; avoid التبجيل (collides with Eredrim's Venerable المُبَجَّل)
+Immaculate (the),story,المعصوم,approved,divine title; طاهر is taken by Untarnished/Unblemished
+Immaculate Path,story,درب المعصوم,approved,
+Immaculate Crown,item,تاج المعصوم,approved,
+Ovate,character,أوفيت,approved,"named NPC + title of address (ST_Core_NpcNames/Ovate, Ovate's Chamber); name, so transliterated"
+Crypt of Martyrs,location,سرداب الشهداء,approved,
+godling,story,إله صغير,approved,Gragu's term for the child
+Great Frogga,character,فروغا العظيم,approved,frog-god of the marsh folk; froggas (creatures) = فروغات
+Oblate,character,المُتبتِّل,approved,cult rank = a person consecrated. NOT القربان - that is the player-facing 'Offering' mechanic (26 rows). NOT الناذر - one letter from Harbinger=النذير
+Matka,character,ماتكا,approved,Smert's own name for the Mether; kept distinct from الأُمَّهة
+Lord Agne,character,اللورد أغني,approved,"Slavic-register reading, matches Vratko/Smert/Matka; not أنييه"
+Hexapod,enemy,الهكسابود,approved,"transliterated, NOT السداسيّ الأرجل: Merrick's running mishearing gag (Hexa-thing -> الهكسا, hexa-dog -> الهكسا-كلب) needs the stem"
+Hierarch,honorific/title,الكاهن الأكبر,approved,Smert's cult title
+Prophet Smert,character,النبي سميرت,approved,cult's deification; distinct from his Shell title المُرتَدّ
+squire,character,الوصيف,approved,
+brev,phrase,يا صاح,approved,warped casual 'brother'; distinct from the cult term Brether=أُخَيّ
+skullface,phrase,يا وجه الجمجمة,approved,Merrick's jab at the Harbinger
+Peace has a price.,phrase,السلام له ثمن.,approved,Eredrim's motto; identical every recurrence
+Harpy,enemy,هاربي,approved,credits creature role; no established Arabic mythological equivalent used in this corpus
+tithes,story,العُشور,approved,"religious tenth. NOT الجزية, which is a poll tax on non-Muslims - wrong institution"
+Farmer,character,المزارع,approved,occupation label; kept distinct from Peasant
+Peasant,character,الفلّاح,approved,the nobles' contemptuous term for commoners
+Genessa Prime,character,جينيسا برايم,approved,clone-set uses one Latin system: برايم / سيكوندوس / تيرتيوس
+Marigold,item,ماريغولد,approved,NPC name in ST_Core_NpcNames beside Basil/Daisy/Holly - all transliterated. NOT the plant الآذريون
+Stray,mechanic,ضالّ / الضالّة,approved,"Genessa's transformed state. NOT الشاردة (that is Wayward, her title) and NOT التائهة. 'Stray shot' is a different sense = طلقة طائشة"
+Stray Genessa,character,جينيسا الضالّة,approved,
+Stray Sester,character,الأُخَيّة الضالّة,approved,
+Cultist,character,عابد الطائفة,approved,NOT تابع الطائفة - التابِع is frozen as Harros's Vassal title
+Weltcap,item,قبعة الوَرَم,approved,"a welt is a swelling. NOT قبعة العالم (misread as German Welt=world), NOT transliterated"
+Disciple,character,الحواريّ,approved,"pl. الحواريّون. NOT تابع (Vassal=التابِع, Harros), NOT المُريد (Acolyte, Tiel), NOT عابد الطائفة (Cultist)"
+stacks (status),mechanic,طبقات,approved,not تراكمات
+shockwave,mechanic,موجة صدمية,approved,not موجة صدم / موجة صدمة
+Mutton,character,ماتون,approved,Vlas's caged companion. NEVER لحم الضأن - he is not food
+The Conqueror,character,الفاتح,approved,not الغازي
+Sunken Village,location,القرية الغارقة,approved,
+Flooded Village,location,القرية المغمورة,approved,kept distinct from Sunken Village
+Ovate's Chamber,location,حُجرة أوفيت,approved,Ovate is a name; never العَرّاف
+Willam,character,ويليام,approved,"source spells it 'Willam'; the variant carries no meaning, so one consistent spelling"
+High Lord,honorific/title,السيد الأعلى,approved,not السيد الأعظم
+Vault,location,القبو,approved,"a chamber (Obsidian Vault, Shellkeeper's Vault), not a strongbox خزنة"
+Mammon,location,مامون,approved,the realm; one spelling
+tribute,story,الإتاوة,approved,"a levy exacted by force. NOT الجزية, a poll tax on non-Muslims - wrong institution, same error as tithes"
+There is no justice without retribution,phrase,لا عدلَ بلا قِصاص,approved,Justiciar's Sword inscription; identical at every recurrence
+Mortal Clothing,ui,زيّ الفانين,approved,"cosmetic skins; the mortals' garb, not 'the perishable garment'"
+Brigand,character,قاطع طريق,approved,pl. قُطّاع الطرق; never اللصوص
+Barkeep,character,صاحب الحانة,approved,"male on his own dialogue evidence ('sorry, lass', 'drink up, brev'); never الساقي"

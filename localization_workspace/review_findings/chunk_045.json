@@ -1,0 +1,15 @@
+{
+ "chunk": 45,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_GorfDialogues/Gorf_Interact_04_10",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(gulp) Mmm… wait!",
+   "ar": "(يزدرد) ملم… مهلًا!",
+   "issue": "ملم is not a readable transcription of 'Mmm' (reads as the word malam). The sibling row two lines away renders the same interjection مم… ('(gulp) Mm… please.').",
+   "suggested_ar": "(يزدرد) ممم… مهلًا!"
+  }
+ ]
+}

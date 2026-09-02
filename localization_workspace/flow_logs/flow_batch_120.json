@@ -1,0 +1,122 @@
+[
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_TakeWillamsHand/CEF0265A4741F186060FCD984F320B88",
+  "before": "لكن هذا للأفضل.",
+  "after": "لكنّ في هذا خيرًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_TakeWillamsHand/CD6341E142832B23C52DB7A390C2EE72",
+  "before": "في هذه الحياة… أو التي تليها.",
+  "after": "في هذه الحياة… أو في الأخرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_03_TakeWillamsHand/EB9810EA43F051E94A2B1B914D7A9B16",
+  "before": "عسى أن تجد السلام.",
+  "after": "لِتَنعَم بالسلام.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_AfterKick/554846704EC13893220C72AA4B17026D",
+  "before": "أنا مقسمٌ يمين الولاء للملك.",
+  "after": "أقسمتُ يميني للملك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Execution/CFB340B141BA51D91316F5BA32BB9FB2",
+  "before": "ماذا!؟",
+  "after": "ماذا؟!",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Idle/A13A7C434E9E9ED40B70B3B89964DC61",
+  "before": "بل أنت تملك خيارًا.",
+  "after": "بل أنت تملكه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Interrogate/F6E8ABDD4DDC19944532738825D0A492",
+  "before": "لكن الصبي يستحق الرحمة.",
+  "after": "لكنّ الصبي يستحق الرحمة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Intro/4A86863446222F093958318A9004E3D5",
+  "before": "أين ابن الزنا؟",
+  "after": "أين ابن الحرام؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_OpenDoor/05C367E44EF333C2B850E3B4E5DFD498",
+  "before": "أيها اللورد إردريم!",
+  "after": "مولاي إردريم!",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_01_OpenDoor/D19D7518403F5A0E86C7A59ED536E68C",
+  "before": "مهلاً… أين أمي؟",
+  "after": "مهلًا… أين أمي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadBrigand_Focus/1977C69446A3611F2A70BE895AD1E59E",
+  "before": "مجرد لصّ.",
+  "after": "مجرّد قاطع طريق.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadBrigand_Interact/E2678B314C33D3682D34918D0F6DB75A",
+  "before": "كمنوا لنا ليلاً…",
+  "after": "باغتونا في الليل…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadBrigand_Interact/9D15EFB74443EF4339FC15BBF3B221F9",
+  "before": "… يا جبناء.",
+  "after": "… جبناء.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadSentry_DeadGrisha_Focus/FBDFEBF34DED4CFB828FA59513F2FB61",
+  "before": "إلى أن هجم الغريشا.",
+  "after": "حتى اقتحم الغريشا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadSentry_DeadGrisha_Focus/74EC006646C1BEF519AA63BF85377564",
+  "before": "كنا نكسب المعركة…",
+  "after": "كنا ننتصر…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadSentry_Focus/DA46934B43A9274CAD4A778BF71DA668",
+  "before": "كان رجالي لا يزالون بلا خبرة.",
+  "after": "لم يكن رجالي قد خاضوا معركة بعد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_DeadSentry_Interact/5904FC8844AF5EF874C20EB88F17D565",
+  "before": "لكنني أذكر ويليام… ينادينا للسلاح.",
+  "after": "لكني أذكر ويليام… يدعونا إلى السلاح.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_Intro/4BDAA00044B90E312A0C169E3572748F",
+  "before": "إنه تابعي، لا أكثر.",
+  "after": "إنه حامل سلاحي، لا أكثر.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_Willam_Focus/66316A5B4A071B2E488607B9A5221A28",
+  "before": "مهلاً! إنه… هنا.",
+  "after": "مهلًا! إنه… هنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Eredrim_TheBattle_02_Willam_Interact/4EFEAEAE474474BB5BA5AEA71E7AEF16",
+  "before": "ويليام! أنا هنا.",
+  "after": "ويليام! هذا أنا.",
+  "why": "flow"
+ }
+]

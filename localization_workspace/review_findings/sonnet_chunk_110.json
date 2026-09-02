@@ -1,0 +1,8 @@
+{"chunk": 110, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_Barkeep/Barkeep_Option_Speak",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Speak with Barkeep",
+   "ar": "محادثة الساقي",
+   "issue": "Glossary explicitly freezes 'Barkeep' as صاحب الحانة and says 'never الساقي' - this row uses exactly the forbidden word. The sibling row in the same batch (Barkeep_ShopSubtitle) correctly uses صاحب الحانة.",
+   "suggested_ar": "محادثة صاحب الحانة"}
+]}

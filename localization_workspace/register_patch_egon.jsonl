@@ -1,0 +1,58 @@
+{"key": "Dialogue_Dlg_BlisterBoi_Greeting_01/8361BD8845442521076EBEAF072A8978", "old_ar": "ماذا تريد يا فلاح؟", "new_ar": "أيها الفلاح. ماذا تبغي؟"}
+{"key": "Dialogue_Dlg_BlisterBoi_Greeting_02/5DDF9CD742EC7F23B6AC6A9775EFDA6D", "old_ar": "ماذا تريد يا فلاح؟", "new_ar": "أيها الفلاح. ماذا تبغي؟"}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/CCEE729E4978B72455C91D8E8921619E", "old_ar": "لم أكن أعرفك أبدًا بأنك بخيل.", "new_ar": "ما كنتُ أحسبكَ يومًا بهذا البخل."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/AC3CF6A04D0234C18C787EA0A41E9F0E", "old_ar": "سأسمح بذلك.", "new_ar": "سأسمح بذلك... إحسانًا مني."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/584BD6E04AA649E4CF622C88CE0A15F5", "old_ar": "سحب مساهمتك؟ هذا... غير حكيم.", "new_ar": "سحب مساهمتك؟ هذا... تصرّف غير حكيم على الإطلاق."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/B62D795C41BDD2732109059AEEC7ED30", "old_ar": "يجب أن تعيد النظر.", "new_ar": "حريٌّ بك أن تعيد النظر."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Test/8F672D964943E4C3AAA6D884BB5B3BD5", "old_ar": "مبلغ بسيط، لكنه بداية. اجلب المزيد وسأكافئك بسخاء.", "new_ar": "أمرٌ زهيد، لكنّها بداية لا بأس بها. ازدد عطاءً، وسأجزيك إحسانًا يليق بمقامي."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Test/DDE1A8C24247BF4030AEB284AB7D0E2D", "old_ar": "هدية فاخرة، لكن لا تدعها تكون آخر هدية.", "new_ar": "هديّة فاخرة حقًّا، لكن إيّاك أن تجعلها آخر هداياك."}
+{"key": "Dialogue_Dlg_BlisterBoi_Goodbye_Test/ADB77D5243F47DEBB5569EA4D8477A2E", "old_ar": "تقديرنا لمساهمتك. الآن إذا كنت ترغب في رضاي، عد بمزيد.", "new_ar": "مساهمتك محل تقدير. والآن، إن كنتَ تصبو إلى نيل رضاي، فعُد إليّ بأوفر منها."}
+{"key": "Dialogue_Dlg_BlisterBoi_Greeting_Test/913C39AE4E08274DB73E3F8F5D1AA478", "old_ar": "تعال لتقدم التحية - أفترض.", "new_ar": "أتيتَ لتؤدّي الجزية، على ما أظن."}
+{"key": "Dialogue_Dlg_BlisterBoi_Greeting_Test/16F3484E42236CE2B4C55CA35F1CB300", "old_ar": "هل جئت لتقدم التحية؟", "new_ar": "أجئتَ لتؤدّي الجزية؟"}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_01/AB24918947A21D8B2A42D880A66533AA", "old_ar": "هل ترغب في أن تكون موضوعي؟", "new_ar": "أتودّ أن تكون من رعيّتي؟"}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_01/217F99704C11A0DE0B7079BE38895FB1", "old_ar": "فلأني الأمير الكبير إيغون على أي حال.", "new_ar": "فأنا، على كلّ حال، الأمير الكبير إيغون."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_01/1F6093E44901DE6EF2FB3CAA2E6B52F2", "old_ar": "فإذن تفضل. قدم عرضك.", "new_ar": "حسنًا إذن، تفضّل بتقديم عرضك."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_09_Repeatable/1A7964474613F0E537BA759E2D5E6196", "old_ar": "لنستغل الفرصة", "new_ar": "فلنغتنم الفرصة إذن."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_09_Repeatable/7EE48E6844D697E20F41E8A9CDD2282D", "old_ar": "لنرى ما يسمى بـ ", "new_ar": "لنرَ ما تسمّيه أنت بـ«جزيتك»."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_09_Repeatable/E524304B46987821A9612B96FFE01F18", "old_ar": "حسنًا، إذا كنت مصرًا", "new_ar": "حسنًا، ما دمتَ مصرًّا."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_09_Repeatable/F71E1A0B48D6163243061A8C92EE6B50", "old_ar": "حسنًا، أنت هنا", "new_ar": "حسنًا، ها أنت هنا."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_Test/72364DA24D51B606285D9B971177C111", "old_ar": "اختر بحكمة. يمكنك أن تنجح في محكمتي المستقبلية", "new_ar": "اختر بحكمة. فقد تنعم بمكانة رفيعة في بلاطي المرتقب."}
+{"key": "Dialogue_Dlg_BlisterBoi_Interact_Test/1121B6874EAA1CD90761EEB095BA8854", "old_ar": "عرضك سيتم رده مضاعفًا... عندما أجلس على عرش والدي.", "new_ar": "سأردّ لك عرضك أضعافًا مضاعفة... حين أعتلي عرش أبي."}
+{"key": "Dialogue_Dlg_BlisterBoi_InteractEnd_09_Repeatable/13BECEA644D60E9B5D3347811D14A9DA", "old_ar": "آمل ألا تتوقع الامتنان.", "new_ar": "آمل ألا تتوقّع منّي امتنانًا."}
+{"key": "Dialogue_Dlg_BlisterBoi_InteractEnd_09_Repeatable/BE57D97F414E3BE6744588A10D9C60DA", "old_ar": "الآن من الأفضل أن تذهب.", "new_ar": "والآن، من الأليق أن تنصرف."}
+{"key": "Dialogue_Dlg_BlisterBoi_Lazlo_Interact_01/07978486485951F872A4CB9E809ECD3E", "old_ar": "أعتقد أنك مدين لي بمعروف أو اثنين.", "new_ar": "إن ذاكرتي لا تخونني، فأنت مدينٌ لي بمعروفٍ أو اثنين."}
+{"key": "ST_Dialogue_Egon/Egon_Greeting_04_10", "old_ar": "خادم! اليوم هو يومك المحظوظ.", "new_ar": "أيها الخادم! يبدو أنّ الحظّ حالفك اليوم."}
+{"key": "ST_Dialogue_Egon/Egon_Greeting_13_10", "old_ar": "خادم، هل تريد الحقيقة؟", "new_ar": "أيها الخادم، أتريد الحقيقة؟"}
+{"key": "ST_Dialogue_Egon/Egon_Greeting_08_10", "old_ar": "خادم؟ لدي أخبار مروعة.", "new_ar": "أيها الخادم؟ لديّ أنباءٌ مروّعة."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_03_10", "old_ar": "هل هذا كل شيء، الخادم؟", "new_ar": "أهذا كلّ ما لديك، أيها الخادم؟"}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Negative_05_20", "old_ar": "شكرًا لك يا خادم متواضع.", "new_ar": "شكري لك، أيها الخادم المتواضع."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_01_30", "old_ar": "‘العبد الجيد يجب أن يُرى... لا يُسمع.’", "new_ar": "‘الخادم الجيد ينبغي أن يُرى... لا أن يُسمع له.’"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_11_20", "old_ar": "ما قيمة حياة الفلاحين مقارنة بحياة نبيل واحد؟", "new_ar": "وما قيمة أرواح حفنةٍ من الفلاحين، مقارنةً بروح نبيلٍ واحد؟"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_13_30", "old_ar": "سأذبحهم جميعاً.", "new_ar": "لذبحتهم جميعًا عن بكرة أبيهم."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_13_20", "old_ar": "بسبب بعض الفلاحين الميتين؟", "new_ar": "أكلّ هذا بسبب حفنةٍ من الفلاحين الموتى؟"}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_08_20", "old_ar": "يريدون، لا، يحتاجون إلى أن يُحكم عليهم!", "new_ar": "إنّهم يريدون - لا بل يحتاجون - أن يُحكَموا بيدٍ من حديد!"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_Repeated_30", "old_ar": "نعم، نعم. لنرى ما يسمى بـ ", "new_ar": "نعم، نعم. لنرَ ما تسمّيه بـ«جزيتك»."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Positive_03_30", "old_ar": "استمتع بتلك ", "new_ar": "فاستمتع بتلك «الهدايا»."}
+{"key": "ST_Dialogue_Egon/Egon_Note_Lazlo_10_20", "old_ar": "هل أنا مسؤول عن ", "new_ar": "أأنا المسؤول عن ما يسمّونه بـ«ثورة الفلاحين»؟"}
+{"key": "ST_Dialogue_Egon/Egon_Note_Lazlo_10_30", "old_ar": "رموني بأشياء حرفية.", "new_ar": "لقد رموني بالبراز، حرفيًّا!"}
+{"key": "ST_Dialogue_Egon/Egon_Exit_04_20", "old_ar": "ستفعل ما سيفعله.", "new_ar": "أيّتها الدودة الوقحة الحقيرة."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Positive_01_10", "old_ar": "بداية جيدة، لكنني أحتاج إلى المزيد من التقدير.", "new_ar": "بداية طيّبة، غير أنّني أطلب مزيدًا من الجزية."}
+{"key": "ST_Dialogue_Egon/Egon_Interact_01_30", "old_ar": "أنا الأول في الطابور للحصول على مقعد مامون.", "new_ar": "أنا الأحقّ بوراثة عرش مامون."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_03_30", "old_ar": "حتى عندما أكون سيد المون.", "new_ar": "حتى عندما أُصبح سيّد مامون الأعلى."}
+{"key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_02_20", "old_ar": "يجب أن أكون سمينًا بشكل رائع", "new_ar": "لا بدّ أنّني صرتُ بديناً أيّما بدانة."}
+{"key": "ST_Dialogue_Egon/Egon_Greeting_11_20", "old_ar": "يجب أن تكون قد سحرت طريقك للدخول.", "new_ar": "لا بدّ أنّك تملّقتَ حرّاسي لتُدخِل نفسك."}
+{"key": "ST_Dialogue_Egon/Egon_Greeting_Lazlo_15_10", "old_ar": "هل تعرف لماذا عفوت عنك يا أبي؟", "new_ar": "أتعلم لِمَ عفا عنك أبي؟"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_14_20", "old_ar": "تتجرأ على الخيانة في دمك.", "new_ar": "الخيانة تجري في عروقك."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_13_30", "old_ar": "أنا سيّدي. أنا حر من الأب.", "new_ar": "أنا سيّد نفسي. تحرّرتُ من سلطة أبي."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_16_10", "old_ar": "لقد ترك الخدم أن يربيَّ.", "new_ar": "تركني لتربية الخدم."}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_04_20", "old_ar": "وريث العرش الشرعي لمامون", "new_ar": "آمُرُكَ أن تتكلّم!"}
+{"key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_04_30", "old_ar": "أمرُك يا لازلو!", "new_ar": "آمُرُكَ يا لازلو!"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_05_20", "old_ar": "ما الذي أحضرته لي الآن؟", "new_ar": "والآن، بماذا أتيتني؟"}
+{"key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_01_30", "old_ar": "ما الذي أحضرته لي الآن؟", "new_ar": "والآن، بماذا أتيتني؟"}
+{"key": "ST_Dialogue_Egon/Egon_Thief_Lazlo_09_10", "old_ar": "عادةً، كنت سأقوم بتنفيذه.", "new_ar": "في العادة، كنتُ لأحكم عليه بالإعدام فورًا."}
+{"key": "ST_Dialogue_Egon/Egon_KillThief_Lazlo_09_20", "old_ar": "ماذا غير ذلك سيمنع النهب؟", "new_ar": "وما الذي عساه يردع اللصوصية غير ذلك؟"}
+{"key": "ST_Dialogue_Egon/Egon_SpareThief_Lazlo_09_20", "old_ar": "هل هذا لن يشجع اللصوصية؟", "new_ar": "أفلن يكون هذا تشجيعًا على اللصوصية؟"}
+{"key": "Dialogue_Dlg_Lazlo_TheMassacre02_EgonReaction/1FF70B3449D2B0ED67C2C1A25E3CFC76", "old_ar": "إنه… سيء.", "new_ar": "إنه... قذارة!"}
+{"key": "Dialogue_Dlg_Lazlo_TheMassacre02_EgonReaction/BF0851094376AC0867C7D7873473A6B0", "old_ar": "لقد رموا عليّ أشياء؟ الحرس!", "new_ar": "رموني بالقذارة؟ أنا؟! الحرس!!"}
+{"key": "ST_Dialogue_Egon/Egon_Cancel_01_20", "old_ar": "يجب أن تعيد النظر.", "new_ar": "حريٌّ بك أن تعيد النظر."}
+{"key": "ST_Dialogue_Egon/Egon_Interact_Repeated_20", "old_ar": "حسنًا، إذا كنت مصرًا", "new_ar": "حسنًا، ما دمتَ مصرًّا."}

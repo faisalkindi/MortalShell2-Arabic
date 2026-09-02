@@ -1,0 +1,140 @@
+[
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralCopyResolveCost",
+  "before": "يكلّف استدعاء <Bold>القرناء المخلصين</> {X} أقل من <Resolve>العزيمة</>.",
+  "after": "تقلّ كلفة استدعاء <Bold>القرناء المخلصين</> بمقدار {X} من <Resolve>العزيمة</>.",
+  "why": "Calque of 'cost X less Resolve' (يكلّف ... {X} أقل من) recast as Arabic's own تقلّ الكلفة ... بمقدار, with the placeholder kept ahead of the Resolve tag as in the source."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralCloneResolveCost",
+  "before": "يكلّف استدعاء <Bold>القرناء الشاردين</> {Y} أقل من <Resolve>العزيمة</>.",
+  "after": "تقلّ كلفة استدعاء <Bold>القرناء الشاردين</> بمقدار {Y} من <Resolve>العزيمة</>.",
+  "why": "Sibling row: same recast so the two Doubles-cost rows read as one pair."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillDistraction_Effect_1",
+  "before": "لدى <Bold>القرناء المخلصين</> احتمال قدره {X} لأن يهاجمهم الأعداء.",
+  "after": "لدى <Bold>القرناء المخلصين</> احتمال قدره {X} أن يهاجمهم الأعداء.",
+  "why": "لأن يهاجمهم is ungrammatical-sounding; احتمال أن + verb is the natural Arabic."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillDistraction_Effect_2",
+  "before": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون في موجة صدمة تُلحق {Y} تراكمات <Stasis>الركود</>.",
+  "after": "عند إصابة <Bold>القرناء المخلصين</> بضربات الأعداء، ينفجرون موجةَ صدمة تُلحق {Y} تراكمات <Stasis>الركود</>.",
+  "why": "انفجر في موجة is a calque of 'burst into'; Arabic takes the cognate accusative directly."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAlterationDesc",
+  "before": "لم تعد <Bold>الأُخَيّة جينيسا</> موجودة، وتصير <Bold>ضالة</> افتراضيًا.",
+  "after": "لم تعد <Bold>الأُخَيّة جينيسا</> موجودة، فتصير <Bold>ضالة</> افتراضيًا.",
+  "why": "و replaced by the ف of consequence — the second clause follows from the first."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralClone_MeleeDamage",
+  "before": "يُلحق <Bold>القرناء الشاردون</> {X} ضررًا قريب المدى.",
+  "after": "يُلحق <Bold>القرناء الشاردون</> ضرر اشتباكٍ قدره {X}.",
+  "why": "Aligns with the sibling 'deal {X} damage' shape (ضررًا قدره) and with the frozen melee=الاشتباك."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralClone_RangedDamage",
+  "before": "يُلحق <Bold>القرناء الشاردون</> {Y} ضررًا بعيد المدى.",
+  "after": "يُلحق <Bold>القرناء الشاردون</> ضررًا بعيد المدى قدره {Y}.",
+  "why": "Same shape as its melee twin so the pair reads together."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_3",
+  "before": "تُلحق هجمات <Bold>القرناء الشاردين</> القريبة {Z} تراكمات <Weak>الضعف</>.",
+  "after": "تُلحق هجمات <Bold>القرناء الشاردين</> في الاشتباك {Z} تراكمات <Weak>الضعف</>.",
+  "why": "القريبة/البعيدة adjectives stranded after the tag; recast on the frozen الاشتباك / بعيد المدى pair."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillInstigation_Effect_4",
+  "before": "تُلحق هجمات <Bold>القرناء الشاردين</> البعيدة {W} تراكمات <Fragile>الهشاشة</>.",
+  "after": "تُلحق هجمات <Bold>القرناء الشاردين</> بعيدة المدى {W} تراكمات <Fragile>الهشاشة</>.",
+  "why": "Twin of the melee row above."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillHealthIncrease_Effect_1",
+  "before": "لدى <Bold>جينيسا الضالة</> {X} من <Health>الصحة</> الإضافية.",
+  "after": "لدى <Bold>جينيسا الضالة</> {X} إضافية من <Health>الصحة</>.",
+  "why": "الصحة الإضافية was split across the tag and read as a definite noun phrase; adjective moved onto the number."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillDoublesDuration_Effect_1",
+  "before": "مدة بقاء <Bold>القرناء الشاردين</> تزداد بمقدار {X}.",
+  "after": "تزداد مدة بقاء <Bold>القرناء الشاردين</> بمقدار {X}.",
+  "why": "Verb-initial; the nominal-initial shape was English clause order carried over."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillStasisMitigationDesc",
+  "before": "كل مستوى يمنح أثرًا جديدًا ضد <Stasis>الركود</>.",
+  "after": "يمنح كل مستوى أثرًا جديدًا ضد <Stasis>الركود</>.",
+  "why": "Verb-initial across the whole 'Each level…' family."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralCopyDesc",
+  "before": "كل مستوى يُحسِّن <Bold>القرناء المخلصين</>.",
+  "after": "يُحسِّن كل مستوى <Bold>القرناء المخلصين</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAllDoublesDesc",
+  "before": "كل مستوى يُحسِّن <Bold>قرناء جينيسا</>.",
+  "after": "يُحسِّن كل مستوى <Bold>قرناء جينيسا</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillAstralCloneDesc",
+  "before": "كل مستوى يُحسِّن <Bold>القرناء الشاردين</>.",
+  "after": "يُحسِّن كل مستوى <Bold>القرناء الشاردين</>.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillMakeStrongerDesc",
+  "before": "كل مستوى يزيد <Bold>جينيسا الضالة</> قوةً.",
+  "after": "يزيد كل مستوى <Bold>جينيسا الضالة</> قوةً.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillStasis_Effect_3",
+  "before": "الأعداء الذين يُلحقون <Stasis>الركود</> بجينيسا ينالون بدلًا منه {Y} تراكمات <Phantom>الطيف</>.",
+  "after": "ينال الأعداء الذين يُلحقون <Stasis>الركود</> بجينيسا {Y} تراكمات <Phantom>الطيف</> بدلًا منه.",
+  "why": "Verb-initial and بدلًا منه moved to the end where Arabic puts it, instead of wedged mid-sentence."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillStasis_Effect_2",
+  "before": "لدى جينيسا حيال <Stasis>الركود</> <Bold>مناعة</>.",
+  "after": "لدى جينيسا ضد <Stasis>الركود</> <Bold>مناعة</>.",
+  "why": "حيال is stilted here; ضد is the collocation used with مناعة."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaCloneMeleeInfusion_Effect_1",
+  "before": "لدى <Bold>القرناء الشاردين</> في الاشتباك القريب احتمال قدره {X} لتطبيق أي <Bold>تشريب سلاح</> مجهز.",
+  "after": "لدى <Bold>القرناء الشاردين</> المشتبكين احتمال قدره {X} لتطبيق أي <Bold>تشريب سلاح</> مجهز.",
+  "why": "في الاشتباك القريب was doubled and asymmetric with its ranged twin; adjectival المشتبكين / بعيدي المدى pairs cleanly."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaCloneRangedInfusion_Effect_1",
+  "before": "لدى <Bold>القرناء الشاردين</> في المدى البعيد احتمال قدره {Y} لتطبيق أي <Bold>تشريب سلاح جانبي</> مجهز.",
+  "after": "لدى <Bold>القرناء الشاردين</> بعيدي المدى احتمال قدره {Y} لتطبيق أي <Bold>تشريب سلاح جانبي</> مجهز.",
+  "why": "Twin of the melee row above."
+ },
+ {
+  "key": "ST_Skill_Genessa/GenessaSkillMirage_Effect_2",
+  "before": "تقدر جينيسا الضالة على استدعاء <Bold>قرين شارد</> إضافي.",
+  "after": "تستطيع جينيسا الضالة استدعاء <Bold>قرين شارد</> إضافي.",
+  "why": "تقدر على is heavier than needed; تستطيع + verbal noun is the plain form used elsewhere in the set."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimSealAffinity_Effect_3",
+  "before": "نافذة <Bold>الدَّرء</> أطول <Bold>بشكل معتدل</>.",
+  "after": "نافذة <Bold>الدَّرء</> أطول <Bold>بقدر معتدل</>.",
+  "why": "بشكل is a modern calque adverb; بقدر is the register-appropriate form and matches قليلًا in the sibling row."
+ },
+ {
+  "key": "ST_Skills_Eredrim/ShellSkillEredrimTankDesc",
+  "before": "تراكمات <Slaughterer>السفّاح</> تمنح أيضًا <Bold>خفض ضرر</>.",
+  "after": "تمنح تراكمات <Slaughterer>السفّاح</> أيضًا <Bold>خفضًا للضرر</>.",
+  "why": "Verb-initial, and خفض ضرر (bare construct) fixed to a proper object."
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_UnderMether_BossEggsClaimed/4E179E0E405E99EE570B0586DF384AD0",
+  "before": "أعِد إليّ البُيوض.",
+  "after": "رُدَّ إليّ البُيوض.",
+  "why": "divine register — رُدَّ over the everyday أعِد"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_BossEggsClaimed/BAFF26C04F067A4F390F3B80E1456D99",
+  "before": "تقدّم.",
+  "after": "أقبِلْ.",
+  "why": "'Come forth' is a summons, not a step forward"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_BossEggsClaimed/60AFF100426C78BBC5F4E18500807A5A",
+  "before": "نعم، أنت تعرف غايتك.",
+  "after": "نعم، إنك تعرف غايتك.",
+  "why": "إنّ carries the affirmation Arabic uses here"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_EggClaimed/5D9116BA4C2A0EC58A30F39D62C9C4D7",
+  "before": "كم منها بقي بعد؟",
+  "after": "كم بقي منها بعد؟",
+  "why": "verb before the partitive — natural Arabic order"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_EggClaimed/8F6AA87B49CA2FA1C7DEFFB19E1BF932",
+  "before": "كانت لي آمال في هذه.",
+  "after": "كنتُ أعقد آمالي على هذه.",
+  "why": "عقد الآمال على is the collocation for 'had hopes for'"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_EggClaimed/11E7417840B1331A87E693B8B2AAC12B",
+  "before": "ربما سأفعل مجددًا.",
+  "after": "ولعلّي أفعل مجددًا.",
+  "why": "ولعلّ links it to the line it answers"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/EC6E324A4A06B5A03DEA65971C65480B",
+  "before": "أنا \"رعيتُه\".",
+  "after": "لقد \"رعيتُه\".",
+  "why": "drops the redundant أنا; لقد carries the bitter emphasis"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/74D513CF4C1BDD5BEA4BF6B418E36A6D",
+  "before": "...هذا الفساد تفشّى في جسدي.",
+  "after": "...هذا الفساد استشرى فيَّ.",
+  "why": "'in me' — the source does not say 'in my body'; استشرى matches 'festered'"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/E3B66F8F457CB62CC00EF1B3E1CEF4F1",
+  "before": "كأنه استُدعي بالخبث الذي تعفّن في لحمي.",
+  "after": "كأنّ الخبث الذي استشرى في لحمي هو ما ناداه.",
+  "why": "استُدعي بالخبث was the wrong government; recast so the vileness is the caller"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/89AD85AD46F096F2CE5F80BA41EE6AA0",
+  "before": "لكنك... أنت... يمكن أن تكون قويًّا، بطرقٍ لست أنا عليها.",
+  "after": "لكنك... أنت... قد تقوى حيث أعجز أنا.",
+  "why": "replaces the بطرق calque with a حيث clause"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/839719A54B26212D133223A0BD8C0C5C",
+  "before": "لستُ مختلفةً عنك كثيرًا، يا ولدي.",
+  "after": "ما أنا عنك ببعيدة، يا ولدي.",
+  "why": "litotes in the Arabic idiom, matching 'not unlike you'"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/297325B84C4AFF81939FE0A64C75E4A4",
+  "before": "كان ضعفي هو ما حصرنا هنا.",
+  "after": "ضعفي هو ما قطع بنا هنا.",
+  "why": "قطع بنا is the Arabic for being stranded"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/FF7F19BA4D5DAEE5A636899E91C7931A",
+  "before": "وأنا أعلم أن هذا الدخيل نَقَبَ عميقًا في لحمي، وكان يلتهم.",
+  "after": "وأنا أعلم أن هذا الدخيل قد نَقَبَ عميقًا في لحمي، وأخذ يلتهم.",
+  "why": "قد + أخذ give the two verbs their aspect"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/AAE1D00F4409FB06DDF653BD45690A94",
+  "before": "هناك الكثير لنفعله.",
+  "after": "ما زال أمامنا الكثير.",
+  "why": "drops هناك, which Arabic does not need"
+ },
+ {
+  "key": "Dialogue_Dlg_UnderMether_Tower_Interact/35167E0343812DA454E05AB53CE98D51",
+  "before": "كان هناك زمنٌ ازدهر فيه أبنائي.",
+  "after": "كان زمنٌ ازدهر فيه أبنائي.",
+  "why": "drops the 'there was' calque"
+ }
+]

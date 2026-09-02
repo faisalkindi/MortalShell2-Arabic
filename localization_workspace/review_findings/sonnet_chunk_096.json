@@ -1,0 +1,15 @@
+{
+  "chunk": 96,
+  "rows_reviewed": 90,
+  "findings": [
+    {
+      "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_PickUpMachineGun_04/1A7D91564546B3F6CD2FBC98A910CAA6",
+      "type": "term_violation",
+      "severity": "major",
+      "source_en": "And I will kill the Hexapod.",
+      "ar": "وسأقتل السداسيّ الأرجل.",
+      "issue": "Glossary freezes Hexapod as transliterated الهكسابود specifically NOT السداسيّ الأرجل (that descriptive phrase is banned because it breaks Merrick's recurring mishearing-gag stem \"الهكسا\"). This is plain narration (Proxima), not the gag, so it should use the frozen term.",
+      "suggested_ar": "وسأقتل الهكسابود."
+    }
+  ]
+}

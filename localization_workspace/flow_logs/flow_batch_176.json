@@ -1,0 +1,122 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_AMercy_01_End/0F6C96324BEC5E503D9F0989401AC043",
+  "before": "أنا... أتعهّد بالولاء لك، أيها اللورد إردريم.",
+  "after": "أنا... أُبايعك، أيها اللورد إردريم.",
+  "why": "fealty oath idiom بايع, unified across the three oath lines in this memory"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_AMercy_01_Intro/C66B400D494C5D54BE9905A9E8C65B56",
+  "before": "لم يعد لي أب بعد الآن.",
+  "after": "لم يعد لي أب.",
+  "why": "بعد الآن is redundant after لم يعد"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_AMercy_01_OfferPouch/9C380AF846213EC1A0B4C9AC193646B9",
+  "before": "عِش على الفتات والبضائع المسروقة.",
+  "after": "عِش على الفتات وما تسرقه.",
+  "why": "'البضائع المسروقة' is inventory language; the line is contempt, not a manifest"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_AMercy_01_OfferPouch/E2D0FB194761489DD9F336ABBF041ECD",
+  "before": "أقسِم لي الولاء.",
+  "after": "بايِعني.",
+  "why": "'أقسِم لي الولاء' is a paraphrase; بايعني is the Arabic act of swearing fealty"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_GiveTarwine/A9D5C1944D4687129BCE53835CD26232",
+  "before": "أفضّل ألا... أيها اللورد إردريم.",
+  "after": "أوثر ألا أفعل... أيها اللورد إردريم.",
+  "why": "'أفضّل ألا...' dangles with no verb"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_GiveTarwineForcefully/A6098A264952D77456FF32A7D21B2384",
+  "before": "(يسعل مجددًا) ما هذا... سمّ؟",
+  "after": "(يسعل مجددًا) ما هذا... سُمٌّ؟",
+  "why": "harakat disambiguate سُمّ (poison) from سَمّ; the bare form reads wrong aloud"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_GiveTarwineForcefully/D64EC3274A2AB63A58CBA3BCF2C951C8",
+  "before": "(يلهث، يسعل)",
+  "after": "(يشرق، يسعل)",
+  "why": "splutter on a drink is الشرق بالشراب, not اللهث (panting)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_Intro/3755169E4AD560D1C7EEEEA8009D61B1",
+  "before": "أانتهيت من التذمّر؟",
+  "after": "أفرغتَ من كآبتك؟",
+  "why": "mope is not التذمّر (grumbling); also fixes the awkward أانتهيت"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_Intro/A4DEB7604AF10258F4B88FB4E7E5CFF5",
+  "before": "كان إما أنت أو هو.",
+  "after": "إمّا أنت أو هو.",
+  "why": "كان is dead weight before إما"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_Intro/CCD2FF9E4C80006D130340A8624EC8F4",
+  "before": "إنه خفيف، لكنه سيرمّم معنوياتك.",
+  "after": "إنه خفيف، لكنه يجبر الخاطر.",
+  "why": "'يرمّم معنوياتك' is a calque collocation; جبر الخاطر is the Arabic for lifting someone's spirits"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor/4633DBCA4562E7EE3274D4A02E0093CA",
+  "before": "الأمر فقط... أننا مرضى بشدة.",
+  "after": "الأمر وحسب... أننا مرضى حتى الموت.",
+  "why": "'مرضى بشدة' flattens 'deathly ill'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor/4BFA2F3E447A4CB913B643AAB94AC1A0",
+  "before": "على الأرجح إنه الطاعون.",
+  "after": "الطاعون على الأرجح.",
+  "why": "'على الأرجح إنه' is ungrammatical; fronting the noun matches the clipped source"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor/43527F934DFBBF1A2E9F088F0630868F",
+  "before": "لا داعي لقول المزيد.",
+  "after": "لا تزد.",
+  "why": "'لا داعي لقول المزيد' is limp; Eredrim cuts the man off"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor/9E0BAEF5439023E0175F1088CAE7B9F8",
+  "before": "أيها القملة عديمة القيمة!",
+  "after": "يا لك من قملة حقيرة!",
+  "why": "'أيها القملة' breaks gender agreement (قملة is feminine)"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor_OpenReaction/CEC38308490B450D9A82AE970DB6FBA0",
+  "before": "همم. تبدو بصحة جيدة بالنسبة لي.",
+  "after": "همم. تبدو لي في تمام الصحة.",
+  "why": "'بالنسبة لي' is a calque of 'to me'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor_OpenReaction/5FD3A0A642DCDC17B3EA94A063E9D9CF",
+  "before": "والآن، ماذا عن تلك الجزية؟",
+  "after": "والآن، ماذا عن تلك العُشور؟",
+  "why": "tithes are العُشور (a religious tenth); الجزية is a different institution entirely"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager/A1118B474E0A024537F0919625CE454E",
+  "before": "آسف، لكن أخشى أنه ليس لديّ الكثير لأقدّمه.",
+  "after": "آسف، لكن ما عندي كثيرٌ أقدّمه.",
+  "why": "'أخشى أنه ليس لديّ' stacks two English hedges Arabic folds into آسف"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager/EE70FBE244F35C1E0A9990A3E32DE091",
+  "before": "افتحوا. جزيتكم مستحقة.",
+  "after": "افتحوا. حان أجل عُشوركم.",
+  "why": "matches the العُشور fix and reads as a demand rather than an accounting note"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager_OfferTithe/A99FBDD744BE5BA0E2654584004909E3",
+  "before": "من الأفضل أن يكون كذلك.",
+  "after": "الأجدر بك أن ترجو ذلك.",
+  "why": "'من الأفضل أن يكون كذلك' loses the threat carried by 'you best hope'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_02_End/2EBEA5FB4BBD913C36B1748E5B2B3825",
+  "before": "أنا، ويليام من فولغريم، أقسم لك الولاء... أيها اللورد إردريم.",
+  "after": "أنا، ويليام من فولغريم، أُبايعك... أيها اللورد إردريم.",
+  "why": "unifies the oath idiom with the two sibling lines"
+ }
+]

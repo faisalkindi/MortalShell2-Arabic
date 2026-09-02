@@ -1,0 +1,15 @@
+{
+ "chunk": 108,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "mortal_shell_meta_descriptions/377160_description",
+   "type": "addition",
+   "severity": "medium",
+   "source_en": "I saw a vault open on a dead world, a parent chasing a stolen child while strangers kept requesting help with settlements.",
+   "ar": "رأيتُ قبوًا يُفتح على عالمٍ ميت، وأبًا يطارد طفلًا مسروقًا، بينما يطلب غرباءُ العون في مستوطناتهم.",
+   "issue": "'a parent' is deliberately gender-neutral - appid 377160 is Fallout 4, whose Sole Survivor is either mother or father by player choice, and the blurb avoids committing. أبًا ('a father') states a fact the English withholds.",
+   "suggested_ar": "رأيتُ قبوًا يُفتح على عالمٍ ميت، وأحدَ الوالدين يطارد طفلًا مسروقًا، بينما يطلب غرباءُ العون في مستوطناتهم."
+  }
+ ]
+}

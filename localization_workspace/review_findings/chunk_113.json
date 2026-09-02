@@ -1,0 +1,24 @@
+{
+ "chunk": 113,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Telemetry/ColdSymmetryPrivacyPolicy",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "[privacy policy, section 2, Progression measures bullet] ... total time played, cumulative in-game currency earned, and difficulty-related settings active at the time ...",
+   "ar": "…وإجمالي وقت اللعب، والعملة المكتسبة، وإعدادات الصعوبة النشطة حينها…",
+   "issue": "In the enumeration of what telemetry collects, 'cumulative' and 'in-game' are both dropped from 'cumulative in-game currency earned'. The neighbouring item keeps its quantifier (total time played = إجمالي وقت اللعب), and 'in-game' is what distinguishes this from the payment information the policy separately promises not to collect. A data-collection list in a privacy policy should enumerate exactly.",
+   "suggested_ar": "…وإجمالي وقت اللعب، وإجمالي العملة المكتسبة داخل اللعبة، وإعدادات الصعوبة النشطة حينها…"
+  },
+  {
+   "key": "tra/ApplyClothing",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Apply Mortal Clothing",
+   "ar": "تطبيق الزيّ الفاني",
+   "issue": "Same slip as 'New Mortal Clothing Unlocked' in chunk 112: 'Mortal Clothing' is the cosmetic category of clothing worn by mortals, but الزيّ الفاني makes the garment itself the perishable thing. Flagged in both chunks so the pair can be fixed together or left alone together.",
+   "suggested_ar": "تطبيق زيّ الفانين"
+  }
+ ]
+}

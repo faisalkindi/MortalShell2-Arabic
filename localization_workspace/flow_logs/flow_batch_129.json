@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_PostTielInteract/962371CF4E2BD3C91FBF628453785FB7",
+  "before": "ما زال يفوح منه رائحة الشقيّ.",
+  "after": "ما زالت تفوح منه رائحة الوغد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_LookWithin/E4E1E8E240D48D826BBA61893F7254D2",
+  "before": "يمكنني مساعدتك على تذكّر… ما نحن عليه.",
+  "after": "أستطيع أن أذكّرك… بما نحن عليه.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Genessa_Training_LookWithin/DDF7DB384C092BEB1C47FDAD9582578C",
+  "before": "دَعِ الماضي يُشكّل مستقبلنا.",
+  "after": "ليصنع الماضي مستقبلنا.",
+  "why": "flow"
+ }
+]

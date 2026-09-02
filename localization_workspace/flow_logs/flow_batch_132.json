@@ -1,0 +1,236 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_10/A70A2A8A43063B342F81B9A365933828",
+  "before": "خذ لحظة للراحة.",
+  "after": "استرح لحظة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_10/E229E7DD417EE0086E2B449C019F814D",
+  "before": "أنت مرحبٌ بك في أي وقت.",
+  "after": "أهلًا بك في أي وقت.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_Generic/3F4DE7984BD2FC2AA7089D8AD8A7A930",
+  "before": "شكرًا لك... كان حلقي جافًا كالصحراء.",
+  "after": "شكرًا لك... كان حلقي جافًّا كالصحراء.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem/7775CCC2448484838DD0BFAFF7512B2B",
+  "before": "لا تقلق. أرى أن لديك القليل لتشاركه.",
+  "after": "لا تقلق. أرى أنه ليس لديك ما تجود به.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_Mushroom/BB0F81A74DE0E961DB0509AEED719645",
+  "before": "لا تقلق. أرى أن لديك القليل لتشاركه.",
+  "after": "لا تقلق. أرى أنه ليس لديك ما تجود به.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/84172EFB4EBBBBC3B7273DA6FA7B42B1",
+  "before": "من رجلٍ غريب برأسٍ كالكيس",
+  "after": "من رجلٍ غريب يعتمر كيسًا على رأسه",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/A4A237A5435FAB5A2AA0A0B92896B758",
+  "before": "أظنّني رأيت لصوصًا يشربونها.",
+  "after": "أظنّني رأيت قُطّاع طرق يشربونها.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/4E9B25994855D4C2C32C189AFF642881",
+  "before": "مذاقها كان فاسدًا، لكنها بثّت في خطواتي نشاطًا.",
+  "after": "كان مذاقها فاسدًا، لكنها بثّت النشاط في خطواتي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/E92F81C247A8795A2C0587994D854734",
+  "before": "بالتأكيد يوجد شيء؟",
+  "after": "لا بد أن هناك شيئًا؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/A298A136423A105BFD8A31A561656BA5",
+  "before": "أتعلم، كان لديّ مرة مُقوٍّ فعّال.",
+  "after": "أتعلم، كان لديّ يومًا شرابٌ قويّ الأثر.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_04/F3B25CCC440C42B5A55C678ACE6F7EDB",
+  "before": "ربما هذا للأفضل.",
+  "after": "ربما كان ذلك خيرًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_NoItem_04/B07586A648A2B2050CDAE3A13D21A1BD",
+  "before": "بالتأكيد لا يوجد إكسير يحل كل متاعبي؟",
+  "after": "لا بد أنه ما من إكسيرٍ يحلّ كل متاعبي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_InteractCorpse_05/365628D043CF9E4574EC828659EF428E",
+  "before": "اقتحم المكان، يهذي عن «فروغا العظيم» هذا.",
+  "after": "اقتحم المكان، يهذي عن «فروغا العظيم» ذاك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_InteractCorpse_06/D957076944AC276A6D775A8130F20EF8",
+  "before": "اقتحموا المكان، يهذون عن «فروغا العظيم» هذا.",
+  "after": "اقتحموا المكان، يهذون عن «فروغا العظيم» ذاك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_InteractCorpse_05/93DC7DF94489A6BD90247C9BA8525696",
+  "before": "يبدو أن أغنيتي جذبت الرفقة الخطأ.",
+  "after": "يبدو أن أغنيتي جلبت إليّ صحبةً من النوع السيئ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_InteractCorpse_06/F63B33DE41640E500E483BA9D24680C5",
+  "before": "يبدو أن أغنيتي جذبت الرفقة الخطأ.",
+  "after": "يبدو أن أغنيتي جلبت إليّ صحبةً من النوع السيئ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/5DB2173042D9D1654A1036B0F6F479CE",
+  "before": "[الحوار العاشر]",
+  "after": "[10th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/90DE711D42EF62EFAF3B6C8B5C182BC2",
+  "before": "[الحوار الحادي عشر]",
+  "after": "[11th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/4D04FDE943EFD8E932B84FB6E4928147",
+  "before": "[الحوار الرابع]",
+  "after": "[4th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/83D15A044635CF1110C899B37766550A",
+  "before": "[الحوار الخامس]",
+  "after": "[5th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/F17595F6453FDE8B33A8929A67D351EB",
+  "before": "[الحوار السادس]",
+  "after": "[6th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/342A79834CF61DD1E538199C286AF335",
+  "before": "[الحوار السابع]",
+  "after": "[7th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/88AE8E4C4C0B86492410B482C8F4C4F1",
+  "before": "[الحوار الثامن]",
+  "after": "[8th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/3E3CC7454A5F5B7A4CCF69968D63E167",
+  "before": "[الحوار التاسع]",
+  "after": "[9th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/5ACF33F44B2063A1A6C740AF70EB2415",
+  "before": "[الحوار الأول]",
+  "after": "[First Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/766D20D54F78A4EB6038D9A9286A1AFA",
+  "before": "[لا علاج - حوار متكرر]",
+  "after": "[No Cure - Repeated Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/3A31119D4072037AC03BDABDE45F34AC",
+  "before": "[حوارات متكررة عند عدم تقدّم القصة]",
+  "after": "[Repeated Dlgs if Story Not Progressed]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/BB3A81CC455EC831B9A43FA1FA75DC1E",
+  "before": "[الحوار الثاني]",
+  "after": "[Second Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_MasterTree_Greeting/EDD9D4B44E2B04452B74569B8A99981F",
+  "before": "[الحوار الثالث]",
+  "after": "[Third Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_07_30_Hilga",
+  "before": "(بتسلٍّ) الآن، أدّيتُ دوري.",
+  "after": "(بمرح) الآن أدّيتُ دوري.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Greeting_06_10",
+  "before": "(يئنّ) أظنّ… أظنّ أن هذه هي النهاية.",
+  "after": "(يئنّ) أنا… أظنّ أن هذه هي النهاية.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_05_10",
+  "before": "(جرعة) آه، شكرًا لك.",
+  "after": "(يزدرد) آه، شكرًا لك.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_01_20",
+  "before": "(جرعة) آاه…",
+  "after": "(يزدرد) آاه…",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_02_10",
+  "before": "(جرعة) آاه… تستحق المحاولة.",
+  "after": "(يزدرد) آاه… تستحق المحاولة.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_04_10",
+  "before": "(جرعة) ملم… مهلًا!",
+  "after": "(يزدرد) ملم… مهلًا!",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_Repeat_06_10",
+  "before": "(جرعة) مم… أرجوك.",
+  "after": "(يزدرد) مم… أرجوك.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_03_10",
+  "before": "(جرعة) هذا… الإكسير.",
+  "after": "(يزدرد) هذا… الإكسير.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_07_10",
+  "before": "(جرعة) … (تجشّؤ)",
+  "after": "(يزدرد) … (تجشّؤ)",
+  "why": "flow"
+ },
+ {
+  "key": "ST_GorfDialogues/Gorf_Interact_06_10",
+  "before": "(جرعة، ضحكة خفيفة) إنها رحمةٌ لطيفة.",
+  "after": "(يزدرد، ضحكة خفيفة) إنها رحمةٌ كريمة.",
+  "why": "flow"
+ }
+]

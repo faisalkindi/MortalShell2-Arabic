@@ -1,0 +1,80 @@
+[
+ {
+  "key": "ST_Skills_Gragu/GraguSkillUsingHeart_Effect_1",
+  "before": "تُلحق هجمة غراغو القريبة التالية ضررًا قدره {X}.",
+  "after": "تُلحق هجمة غراغو التالية في الاشتباك ضررًا قدره {X}.",
+  "why": "القريبة for melee contradicts the frozen الاشتباك used two rows later; unified."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillFortify_Effect_1",
+  "before": "الراحة عند منارة تجدد <Bold>القلب المُكرَّم</> حتى {X} استخدامات.",
+  "after": "تُجدِّد الراحةُ عند المنارة <Bold>القلبَ المُكرَّم</> حتى {X} استخدامات.",
+  "why": "Verb-initial; the verbal-noun subject in front was English clause order."
+ },
+ {
+  "key": "ST_Skills_Gragu/GraguSkillResolveCost_Effect_1",
+  "before": "تتطلب ضربة الترنيح {X} أقل من <Resolve>العزيمة</>.",
+  "after": "تقلّ كلفة ضربة الترنيح بمقدار {X} من <Resolve>العزيمة</>.",
+  "why": "'costs X less Resolve' calque; same recast applied to every cost-reduction row in the corpus."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillLazloInflamed_Effect_1",
+  "before": "لا يستنزف <Bold>مقياس الحرارة</> بمرور الوقت.",
+  "after": "لم يعد <Bold>مقياس الحرارة</> ينضب بمرور الوقت.",
+  "why": "استنزف is transitive — لا يستنزف المقياس reads as 'does not drain something'. ينضب is the intransitive verb, and لم يعد carries 'no longer'."
+ },
+ {
+  "key": "ST_Skills_Lazlo/LazloSkillInnerFireDesc",
+  "before": "كل مستوى يمنح لازلو أثرًا جديدًا ضد <Burn>الحرق</>.",
+  "after": "يمنح كل مستوى لازلو أثرًا جديدًا ضد <Burn>الحرق</>.",
+  "why": "Same 'Each level…' family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillSpendidArmorGenericDesc",
+  "before": "كل مستوى يُحسِّن <Bold>القصاص</> لدى لازلو.",
+  "after": "يُحسِّن كل مستوى <Bold>قصاص</> لازلو.",
+  "why": "Verb-initial; and القصاص لدى لازلو reduced to the plain construct."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillLazloAdaptationDesc",
+  "before": "كل مستوى يخفّض زمن تهدئة <Bold>درع</> لازلو.",
+  "after": "يخفّض كل مستوى زمن تهدئة <Bold>درع</> لازلو.",
+  "why": "Same family, verb-initial."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillLazloWorthyArmorDesc",
+  "before": "كل مستوى يخفّض تكلفة <Resolve>العزيمة</> لـ<Bold>قصاص</> لازلو.",
+  "after": "يخفّض كل مستوى من <Resolve>العزيمة</> التي يتطلبها <Bold>قصاص</> لازلو.",
+  "why": "Verb-initial, stacked genitive unwound; matches the identical Gragu row."
+ },
+ {
+  "key": "ST_Skills_Lazlo/LazloSkillInnerFire_Effect_2",
+  "before": "لدى لازلو، حيال <Burn>الحرق</>، مناعة ضد <Bold>الضرر</>.",
+  "after": "لا يلحق لازلو من <Burn>الحرق</> أي <Bold>ضرر</>.",
+  "why": "The comma-parenthetical ‹لدى لازلو، حيال الحرق، مناعة ضد الضرر› was tag placement driving the syntax; recast as a plain negated clause, same tags in the same order, same fact (Burn deals him no damage)."
+ },
+ {
+  "key": "ST_Skills_Lazlo/LazloSkillWarmedUp_Effect_3",
+  "before": "يمنح درع لازلو خفض ضرر إضافيًا يصل إلى {Z}.",
+  "after": "يمنح درع لازلو خفضًا إضافيًا للضرر يصل إلى {Z}.",
+  "why": "خفض ضرر إضافيًا was a broken construct chain; the adjective now agrees with a proper object."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillLazloBreaker_Effect_2",
+  "before": "لدى موجات الصدمة المفرطة الحرارة احتمال قدره {Y} <Break>لكسر</> الأعداء فورًا.",
+  "after": "لدى موجات الصدمة المفرطة الحرارة احتمال قدره {Y} أن <Break>تكسر</> الأعداء فورًا.",
+  "why": "The tag had swallowed a preposition (‹<Break>لكسر</>›); recast so the tag wraps the verb alone."
+ },
+ {
+  "key": "ST_Skills_Lazlo/ShellSkillLazloInflamed_Effect_2",
+  "before": "لم تعد موجات الصدمة المفرطة الحرارة تستهلك <Resolve>العزيمة</>، وتُلحق {X} تراكمات <Burn>الحرق</>.",
+  "after": "لم تعد موجات الصدمة المفرطة الحرارة تستهلك <Resolve>العزيمة</>، بل تُلحق {X} تراكمات <Burn>الحرق</>.",
+  "why": "و after a negation reads as still negated; بل is the connector Arabic uses to pivot from denial to assertion."
+ },
+ {
+  "key": "ST_Skills_Lazlo/LazloSkillWorthyArmor_Effect_1",
+  "before": "يتطلب القصاص {X} أقل من <Resolve>العزيمة</>.",
+  "after": "تقلّ كلفة القصاص بمقدار {X} من <Resolve>العزيمة</>.",
+  "why": "Same 'costs X less Resolve' recast as the rest of the corpus."
+ }
+]

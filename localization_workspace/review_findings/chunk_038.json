@@ -1,0 +1,60 @@
+{
+ "chunk": 38,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_Buy/6F00D86A40FB1E2AB6F521B0859873F5",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "All yours, brev.",
+   "ar": "كلّه لك يا صاحبي.",
+   "issue": "'brev' is frozen as يا صاح but this whole speaker renders it يا صاحبي (also CantBuy/3BD24135 and both Goodbye rows). Merrick's lines use the frozen يا صاح, so the same word sounds different depending on which merchant says it.",
+   "suggested_ar": "كلّه لك يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_CantBuy/3BD2413540C4948813D3A184D2C756E6",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Nothin's free, brev.",
+   "ar": "لا شيء مجانيّ يا صاحبي.",
+   "issue": "Same frozen-term deviation: brev -> يا صاحبي instead of يا صاح.",
+   "suggested_ar": "لا شيء مجانيّ يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_Goodbye/949C6D084676765B928D01BC0E1015D7",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Fare thee well, brev.",
+   "ar": "مع السلامة يا صاحبي.",
+   "issue": "Same frozen-term deviation: brev -> يا صاحبي instead of يا صاح.",
+   "suggested_ar": "مع السلامة يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_Goodbye/ED346EF04F542F1BCDD5008A496CC2B8",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Fare thee well, brev.",
+   "ar": "مع السلامة يا صاحبي.",
+   "issue": "Same frozen-term deviation: brev -> يا صاحبي instead of يا صاح. This row is a verbatim duplicate of 949C6D08 and must be fixed with it.",
+   "suggested_ar": "مع السلامة يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_ConquerorBossDefeated/F7BC25F3424527736E196B90FAA16390",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "The Conqueror's reign is over. All thanks to you.",
+   "ar": "انتهى حكم الغازي. وذلك كلّه بفضلك.",
+   "issue": "'The Conqueror' is a boss title, but it is rendered الغازي (the raider/invader) here while Ruk's account of the same boss ('A conqueror who wished to be a god', Dialogue_Dlg_Ruk_Boss_ToxicDwarf) calls him فاتح. One boss, two names. فاتح is the better fit for someone who reigned for a century. The title is not in the glossary and should be added.",
+   "suggested_ar": "انتهى حكم الفاتح. وذلك كلّه بفضلك."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Intro/4DC99B644D5D0E00693A748170730DD4",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Or throw us in a dungeon?",
+   "ar": "أم تزجّ بنا في سرداب؟",
+   "issue": "The glossary freezes Dungeon = سرداب for the crypt-beneath-a-Beacon location, explicitly ruling out زنزانة for THAT sense. This row is the other sense. Evidence is the row itself plus namespace membership, not position: the English opens with 'Or', so it completes an alternative question, and the only other alternative question in Dialogue_Dlg_Eredrim_TheBattle_01_Intro is 'Will you drag us before the court?' - both are things a captor does to a prisoner. سرداب makes the line read as being entombed by court order.",
+   "suggested_ar": "أم تزجّ بنا في زنزانة؟"
+  }
+ ]
+}

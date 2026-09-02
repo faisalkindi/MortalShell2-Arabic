@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_Death/29A83D7A41FD71E6758C33B5C9AE1B06",
+  "before": "(يئنّ) هذه الأصابع... كيف خانتني؟ ",
+  "after": "(يئنّ) أصابع القدم هذه... كيف خانتني؟ ",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/0CCC8139491E04CEA1CEB297BDD61E67",
+  "before": "حتى بين أصابع قدميك وصلت.",
+  "after": "حتى ما بين أصابع قدميك نظّفته.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/8DE1F781444C94CD5CD3B491A2A85B1C",
+  "before": "حتى بين أصابع قدميك وصلت.",
+  "after": "حتى ما بين أصابع قدميك نظّفته.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/7A22834947CE36EC58EBFDB7DC6C9B95",
+  "before": "أرى أنك تستمتع بها أيضًا.",
+  "after": "أرى أنك تستمتع بذلك أيضًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/ACEFD68F4BF7BCF6A9585C9301C0D2FB",
+  "before": "أرى أنك تستمتع بها أيضًا.",
+  "after": "أرى أنك تستمتع بذلك أيضًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/C56B027E45BEEE7082DD24B643B316E3",
+  "before": "لمّعتُ درعه الساقي، أيها النذير.",
+  "after": "لمّعتُ واقيات ساقيه، أيها النذير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/751F8F814EFCE48045C2CABC4D7C2B44",
+  "before": "لمّعتُ درعه الساقي، أيها النذير.",
+  "after": "لمّعتُ واقيات ساقيه، أيها النذير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/4A6AC0D54B758631D6532D85ED142FF3",
+  "before": "ربما كان سيساعد… حالته.",
+  "after": "ربما كان ذلك ليُصلح… حالته.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/155B26644F59705EEA4AD8BADF6075FC",
+  "before": "ربما كان سيساعد… حالته.",
+  "after": "ربما كان ذلك ليُصلح… حالته.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/8A5BD48F407C9AC70ECF2797AD67219E",
+  "before": "من الجدير الآن؟",
+  "after": "فمن الجدير الآن؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/22B036C3450E891CDDA2CB9BC7FF89B2",
+  "before": "من الجدير الآن؟",
+  "after": "فمن الجدير الآن؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/61889C4B43AFCEAA893F5F805E8D5D71",
+  "before": "هذه أصابع قوية.",
+  "after": "هذه أصابع قدمٍ قوية.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_FootWash/356393074427E6D095D7D3A8519458CA",
+  "before": "أنت لطيفٌ جدًا.",
+  "after": "أنت بالغ اللطف.",
+  "why": "flow"
+ }
+]

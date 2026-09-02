@@ -1,0 +1,80 @@
+[
+ {
+  "key": "/47676F574C82A75B8FD7F4AC10BBD3F8",
+  "before": "تنفّس بعمق",
+  "after": "التنفّس بعمق",
+  "why": "Interaction prompts are verbal nouns across this whole column; unified with its three duplicate keys and the one in batch 38."
+ },
+ {
+  "key": "/7A6377EA458703E9C77093B00F5E9BDE",
+  "before": "تنفّس بعمق",
+  "after": "التنفّس بعمق",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/7F88C1B646B7A645C0289694CFC312F2",
+  "before": "تنفّس بعمق",
+  "after": "التنفّس بعمق",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/8A41C06D42D1D632F213428C56DC8DBC",
+  "before": "تنفّس بعمق",
+  "after": "التنفّس بعمق",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/A41B6B5448051BBC43DA5EAF75FF783A",
+  "before": "يا أُخَيّ، رحلتك تدنو من ختامها. فامضِ. تعمّق في الكهوف. تركنا خلفنا شظيّةً من لحم الأمَّهة. ومن خلالها يتجلّى دربك الأخير.",
+  "after": "يا أُخَيّ، رحلتك تدنو من ختامها. فامضِ. تعمّق في الكهوف. تركنا خلفنا شظيّةً من لحم الأمَّهة. وبها يتجلّى دربك الأخير.",
+  "why": "من خلالها is the standard calque of 'through her'; بها is the Arabic instrumental and lands the closing line on a beat."
+ },
+ {
+  "key": "/6813405A45D875857D94E8B638D84672",
+  "before": "لكننا نعرف الحقيقة. تسلّل الراكب الفاسد إلى قلوبهم، فاستبدل غايتهم برغباته التي لا تنتهي. عادوا إليها ناهبين سارقين، فنهبوا حصننا، وقتلوا إخوتنا.",
+  "after": "لكننا نعرف الحقيقة. تسلّل الراكب الفاسد إلى قلوبهم، فاستبدل غايتهم برغباته التي لا تنتهي. عادوا إليها ناهبين سارقين، فسلبوا حصننا وقتلوا أُخَيّينا.",
+  "why": "brethers rendered as the plain إخوتنا — the glossary freezes الأُخَيّون precisely because the warp is the point. Also ناهبين … نهبوا repeated the root back to back."
+ },
+ {
+  "key": "/88B3B4904202B7ED1704EAB0B9C6276B",
+  "before": "بمشيئة سيد مَمُّون الأعظم، الملك ڤيلن، وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأكبر إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+  "after": "بمشيئة سيد مَمُّون الأعظم، الملك ڤيلن، وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+  "why": "الأمير الأكبر reads as 'the eldest prince', a rank Egon does not hold; Grand Prince is الأمير الأعظم."
+ },
+ {
+  "key": "/75B69AC343E9C1E4B11A7D80C61CA6A8",
+  "before": "بمشيئة سيد مَمُّون الأعظم وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأكبر إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+  "after": "بمشيئة سيد مَمُّون الأعظم وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل.",
+  "why": "Second copy of the same decree; the two must be word-identical where the English is."
+ },
+ {
+  "key": "/017B250E4694BE3C3A88DA8166F56613",
+  "before": "وحدة التحكم",
+  "after": "ذراع التحكم",
+  "why": "UI vocabulary lock: Controller = ذراع التحكم. وحدة التحكم is a console/control unit."
+ },
+ {
+  "key": "/DC5385C44AF09DCAA74986866B709D3A",
+  "before": "يجعل الضحية يهاجم حلفاءه القريبين طوال مدته. وإن لم يوجد أحد، تعرّض الضحية بدلًا من ذلك لـ<Break>ضرر كَسر</> شديد.",
+  "after": "يجعل الضحية تهاجم حلفاءها القريبين طوال مدته. فإن لم يكن ثمّة أحد، تعرّضت الضحية بدلًا من ذلك لـ<Break>ضرر كَسر</> شديد.",
+  "why": "الضحية is feminine in Arabic but the first clause conjugated it masculine and the second feminine; agreement unified and the two sentences joined with the ف of consequence."
+ },
+ {
+  "key": "/2710C17F4A2E5AD44D636382D698749A",
+  "before": "خُذ ما لك",
+  "after": "أخذ ما هو لك",
+  "why": "Every sibling Claim prompt in this block is a verbal noun (أخذ التذكار، أخذ القلب); the imperative broke the column."
+ },
+ {
+  "key": "/917D3D9C405D239F9EE374B729EFADB2",
+  "before": "خُذ ما لك",
+  "after": "أخذ ما هو لك",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/F0E6C9A54970B7639A203B9FC8AC4F3F",
+  "before": "خُذ ما لك",
+  "after": "أخذ ما هو لك",
+  "why": "Duplicate of the row above; kept identical."
+ }
+]

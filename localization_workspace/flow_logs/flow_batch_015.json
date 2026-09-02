@@ -1,0 +1,44 @@
+[
+ {
+  "key": "ST_StatusEffects/ST_Execution_Description",
+  "before": "تتلقّى الضحايا المتأثرة <Break>ضرر الكَسر</> من الهجمات القريبة.",
+  "after": "تتلقّى الضحايا المتأثرة <Break>ضرر الكَسر</> من هجمات الاشتباك.",
+  "why": "melee standardised to الاشتباك (was القريبة) - the term the tutorial rows already use."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Confusion_Description",
+  "before": "يدفع الضحية إلى مهاجمة من حولها من الحلفاء طوال مدته. فإن لم يكن حولها أحد، تلقّت هي <Break>ضرر كَسر</> شديدًا.",
+  "after": "يدفع الضحية إلى مهاجمة من حولها من الحلفاء طوال مدته. فإن خلا محيطها منهم، تلقّت <Break>ضرر كَسر</> شديدًا.",
+  "why": "'If none are present' as إن لم يكن حولها أحد repeats حولها from the previous clause; خلا محيطها منهم carries it once. Dropped the redundant emphatic هي."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Stasis_Description",
+  "before": "يشوّه الزمن فيُبطئ الهدف، وكل تراكم إضافي يزيد الأثر سوءًا.",
+  "after": "يشوّه الزمن فيُبطئ الهدف، ويزيد كل تراكم إضافي الأثر سوءًا.",
+  "why": "Verb-initial, matching the other stack rows."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Slaughterer_Description",
+  "before": "كل تراكم يرفع عتبة <Health>الصحة المنخفضة</> التي <Bold>يُجهَز</> عندها على الأعداء",
+  "after": "يرفع كل تراكم عتبة <Health>الصحة المنخفضة</> التي <Bold>يُجهَز</> عندها على الأعداء",
+  "why": "Subject-initial كل تراكم يرفع is English clause order; Arabic puts the verb first."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Leech_Description",
+  "before": "اكسب تراكمات بقتل الأعداء. \nكل تراكم يرفع <Health>أقصى صحة</>. \nتُفقد التراكمات كلها عند <bold>الموت</>.",
+  "after": "اكسب تراكمات بقتل الأعداء. \nيرفع كل تراكم <Health>أقصى صحة</>. \nتُفقد التراكمات كلها عند <bold>الموت</>.",
+  "why": "Same verb-initial standardisation so the three stack rows read as one voice."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Pain_Description",
+  "before": "يجعل الصحة <Bold>صحةً رمادية</>، تُفقد بضربة واحدة وتشفيها الهجمات القريبة.",
+  "after": "يجعل الصحة <Bold>صحةً رمادية</>، تُفقد بضربة واحدة وتشفيها هجمات الاشتباك.",
+  "why": "melee standardised to الاشتباك."
+ },
+ {
+  "key": "ST_StatusEffects/ST_Faith_Description",
+  "before": "في هذه الحالة تُجدّد الهجمات القريبة <Resolve>عزيمة</> إضافية.",
+  "after": "في هذه الحالة تُجدّد هجمات الاشتباك <Resolve>عزيمة</> إضافية.",
+  "why": "melee standardised to الاشتباك."
+ }
+]

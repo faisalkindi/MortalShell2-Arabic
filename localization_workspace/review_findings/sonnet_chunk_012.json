@@ -1,0 +1,6 @@
+{"chunk": 12, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_Tarforge/AboutTarcores", "type": "term_violation", "severity": "minor",
+   "source_en": "About Tarcores", "ar": "عن نوى القار",
+   "issue": "Frozen glossary term 'Tarcore' is approved as لُبّ القار (05_glossary.csv). This row uses نوى القار (a different word, 'pits/seeds' rather than 'core') for the same UI label that elsewhere in the corpus (ST_Core_Tutorials/AboutTarcores, same English string 'About Tarcores') is correctly rendered عن ألباب القار — an inconsistent duplicate of the same UI text.",
+   "suggested_ar": "عن ألباب القار"}
+]}

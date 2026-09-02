@@ -1,0 +1,116 @@
+[
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/A068BDB546E5478776D17D932532E7E8",
+  "before": "(يهزأ) سلاحك؟",
+  "after": "(يهزأ) سلاحكِ؟",
+  "why": "Larreth is taunting Proxima - feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/5D21E06B4361246DED8753B3C277F463",
+  "before": "تفضل.",
+  "after": "هيا، تفضّلي.",
+  "why": "Larreth is taunting Proxima - feminine addressee; 'Go ahead' here is a dare, so it needs the taunting هيا, not a bare polite تفضل"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/46E690DC451E2A50F5DC228013E2FE2F",
+  "before": "أوه... هيا بنا.",
+  "after": "أوه... بحقّك.",
+  "why": "'come on' here is exasperation, not an invitation to move; هيا بنا was the wrong sense"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/268DD6A8417A2DD9068B68BDA575996E",
+  "before": "حاول أن تأخذه.",
+  "after": "حاولي أن تأخذيه.",
+  "why": "Larreth is taunting Proxima - feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_062/1A7951864F38CEF907DA2BA43137ED1B",
+  "before": "أتقصد «قاذف الرعد» خاصتي؟",
+  "after": "أتقصدين «قاذفَ الرعد» خاصتي؟",
+  "why": "Larreth is taunting Proxima - feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachCamp_02/382FD89D4CE9D8810F0C1EBAED2FA10D",
+  "before": "حسنًا، من لدينا هنا.",
+  "after": "انظروا من جاءنا.",
+  "why": "'look who it is' is a greeting-taunt; من لدينا هنا read as an inventory question"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_EnterCampHeart_05/30C4C76447BF5BC57935318FF1FD5D54",
+  "before": "تفضل، إذن.",
+  "after": "تفضّلي إذًا.",
+  "why": "Larreth is taunting Proxima - feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ExamineMerrickWound_10/3153FAA442021FBD8EAA8AA2010A4C8B",
+  "before": "حسنًا، على الأقل استرددتَ سلاحك.",
+  "after": "حسنًا، على الأقل استرددتِ سلاحكِ.",
+  "why": "Merrick speaking to Proxima - feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_Intro_01/700FE337438A26AB4BA09A83F7C28713",
+  "before": "وإن متّ؟",
+  "after": "وإن مِتِّ؟",
+  "why": "Merrick questioning Proxima; also disambiguates مِتَّ / مِتُّ with one harakah"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_Intro_01/ABE2F29B4C0E680F38F9048A35831C12",
+  "before": "من باب الافتراض... ماذا لو لم نجد سلاحك؟",
+  "after": "من باب الافتراض... ماذا لو لم نجد سلاحكِ؟",
+  "why": "feminine addressee"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_Intro_01/E1F3832C4D2D9EFDC49060BCF73F3A38",
+  "before": "سأستمر.",
+  "after": "كنت لأمضي.",
+  "why": "answers a hypothetical - 'would', not a plain future"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_Intro_01/D42EB05D478B1D5297B83789AA73D779",
+  "before": "ماذا ستفعل؟",
+  "after": "ماذا كنتِ لتفعلين؟",
+  "why": "feminine addressee, and 'would' in a hypothetical"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_RunTowardsBrigandKing_07/E5B99DFD4ED0846B596053875F604EB0",
+  "before": "افعل شيئًا!",
+  "after": "افعلي شيئًا!",
+  "why": "Merrick shouting at Proxima - feminine imperative"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_TakeWeapon_08/97730FCF4C6AFE5F29CE3DA1B1395BDA",
+  "before": "خذه!",
+  "after": "خذيه!",
+  "why": "the yielding brigand is handing the weapon to Proxima - feminine imperative"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_TakeWeapon_08/93857C8B45CC1C34B6784D96105B73F1",
+  "before": "خذه! أرجوك، إنّي... أستسلم.",
+  "after": "خذيه! أرجوكِ، إنّي... أستسلم.",
+  "why": "same speaker and addressee as the sibling line"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheCrow_S1_OfferApology_02/D1E33DFC41DD9A4EB531EFBFA9467F47",
+  "before": "لكنني كنت بطيئًا للغاية... حذِرًا أكثر مما ينبغي.",
+  "after": "لكنني تباطأت أكثر من اللازم... وأفرطت في الحذر.",
+  "why": "two mismatched intensifier shapes replaced with parallel Arabic verbs"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheCrow_S1_OfferApology_02/1D976CEC46F2BC977005B498B25360AC",
+  "before": "فماذا لو ارتُكبت بعض «الأخطاء»؟",
+  "after": "وماذا لو وقعت «أخطاء»؟",
+  "why": "cut the added بعض; وقعت is what Arabic does with أخطاء"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheCrow_S1_OfferApology_02/B758268141DF9B39D3CF329B590F4432",
+  "before": "أصبحنا قريبين جدًا.",
+  "after": "لقد أوشكنا.",
+  "why": "أوشك is the Arabic idiom for 'we're so close'"
+ },
+ {
+  "key": "Dialogue_DLG_Sariel_TheCrow_S1_OpenOvum_04/2664E34E4D4AFB603F0FE699E4A57465",
+  "before": "لا... نحتاج إلى حقّهم بالميلاد.",
+  "after": "لا... نحتاج إلى حقّهم بالمولد.",
+  "why": "birthright = حق المولد"
+ }
+]

@@ -1,0 +1,42 @@
+{
+ "chunk": 112,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_ShellMemory_MiniBosses/HeavyCultist",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Hierarch Michal",
+   "ar": "الهيرارك ميخال",
+   "issue": "'Hierarch' is frozen as الكاهن الأكبر (Smert's cult title). الهيرارك is a bare transliteration that carries no meaning in Arabic and breaks the link to every other Hierarch row.",
+   "suggested_ar": "الكاهن الأكبر ميخال"
+  },
+  {
+   "key": "ST_Core_ShellMemory_MiniBosses/Brigand_King",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Larreth, the Brigand King",
+   "ar": "لارِث، ملك اللصوص",
+   "issue": "'Brigand' is قُطّاع طرق throughout the corpus; اللصوص means 'thieves'. Same slip as 'Brigand Sac' = كيس اللصوص in chunk 111, and this one is a boss nameplate.",
+   "suggested_ar": "لارِث، ملك قُطّاع الطرق"
+  },
+  {
+   "key": "ST_Core_Seals/StoneSealDesc",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "Used in stonebirth rituals, this seal possesses a fraction of its creator’s power.",
+   "ar": "خاتمٌ يُستخدم في طقوس الميلاد الحجري، ويحمل جزءًا من قوة صانعته.",
+   "issue": "صانعته is 'its female maker'. The English 'its creator' is genderless and Vatra's gender is not established anywhere in the glossary or context docs, so the Arabic commits to a fact the source withholds.",
+   "suggested_ar": "خاتمٌ يُستخدم في طقوس الميلاد الحجري، ويحمل جزءًا من قوة من صنعه."
+  },
+  {
+   "key": "ST_Core_Notify/NewClothingUnlockedNotify",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "New Mortal Clothing Unlocked",
+   "ar": "زيّ فانٍ جديد مفتوح",
+   "issue": "'Mortal Clothing' is the cosmetic category - clothing belonging to mortals (cf. Lavender's Robe). زيّ فانٍ makes the garment itself the mortal/perishable thing.",
+   "suggested_ar": "زيّ فانين جديد مفتوح"
+  }
+ ]
+}

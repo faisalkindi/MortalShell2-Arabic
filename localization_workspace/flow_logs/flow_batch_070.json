@@ -1,0 +1,98 @@
+[
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_Outro/4700B4B64A30BDE87A0FE08E4D71FFC9",
+  "before": "سأصنعك من جديد.",
+  "after": "سأخلقك من جديد.",
+  "why": "a god remaking a man is خلق, not صنع"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_TakeSacrament/73AFACBB42409E8914318EAEB6ABEF27",
+  "before": "أتوسل إليك يا ماتكا العزيزة. أجيبيني. (يتنفس بعمق)",
+  "after": "أتوسل إليك يا ماتكا العزيزة. أجيبيني. (شهيق عميق)",
+  "why": "'deep inhale' is a single intake (شهيق), not continuous deep breathing"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_TakeSacrament/6B0E0DD04F389F9792C61BB72CAB9F6D",
+  "before": "أحتاج أن أعرف أنني لم أهدر عمري كله في عبادتك.",
+  "after": "أحتاج إلى أن أعرف أنني لم أهدر عمري كله في عبادتك.",
+  "why": "احتاج takes إلى"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheVision_SMM6_Outro/398AAF36429FED281281A8AD5D178115",
+  "before": "لا! لا مزيد.",
+  "after": "لا! كفى.",
+  "why": "لا مزيد was an unfinished phrase; كفى is what Arabic shouts here"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheVision_SMM6_Outro/A1B5B86D461641F58E43648E536B6863",
+  "before": "لستِ إلهًا.",
+  "after": "ما أنتِ بإله.",
+  "why": "ما…بـ is the emphatic Arabic denial the renunciation needs"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheVision_SMM6_SmertMovesForward/B663F63044FC255B8B24AE9146CC832F",
+  "before": "ماذا أخطأت؟",
+  "after": "ما الذي أخطأت فيه؟",
+  "why": "أخطأ takes فيه for the thing done wrong"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/CA82753F4C65A998BF61A0B1F3D767B2",
+  "before": "شربتها دفعة واحدة؟",
+  "after": "أجرعتها دفعة واحدة؟",
+  "why": "جرع is the verb for downing a drink"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/CCDFE112493C6BD9B559E4B7825D737B",
+  "before": "بضاعة جيدة، أليس كذلك؟",
+  "after": "شرابٌ طيب، أليس كذلك؟",
+  "why": "بضاعة is merchandise; the barkeep is talking about the drink itself"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/FBBDB10446B023CB50621B90246A176A",
+  "before": "انتظر حتى تخرج مجددًا.",
+  "after": "مهلًا حتى تعود من حيث نزلت.",
+  "why": "'comes back up' is the vomit joke; تخرج مجددًا lost it"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/57FB8B474F47BDEBB9048CB1A4C99A87",
+  "before": "هذا سينبت لك شعرًا على صدرك.",
+  "after": "هذا سيُنبت الشعر في صدرك.",
+  "why": "tighter; the doubled لك was filler"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/F9B901204C5F2031B41A4D825CE35ABD",
+  "before": "هذا سينبت لك شعرًا على صدرك.",
+  "after": "هذا سيُنبت الشعر في صدرك.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact02/568C213348DC0F6CC74E7095A41CCB3B",
+  "before": "انتظر حتى تخرج مجددًا.",
+  "after": "مهلًا حتى تعود من حيث نزلت.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact03/5B07754D49D4E084B4F4D38C60F9A5A2",
+  "before": "بضاعة جيدة، أليس كذلك؟",
+  "after": "شرابٌ طيب، أليس كذلك؟",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact04/527E218D4E92DC65839C08B8253E1CFA",
+  "before": "شربتها دفعة واحدة؟",
+  "after": "أجرعتها دفعة واحدة؟",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact05/4FEB4A5C47F0DF641EA1ECBDC0BE0CB2",
+  "before": "هذا سينبت لك شعرًا على صدرك.",
+  "after": "هذا سيُنبت الشعر في صدرك.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact05Female/CD954BE54DD979559E7F79BB06E511A4",
+  "before": "هذا سينبت لك شعرًا على صدرك.",
+  "after": "هذا سيُنبت الشعر في صدرك.",
+  "why": "same line, kept identical"
+ }
+]

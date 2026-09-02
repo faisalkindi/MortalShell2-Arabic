@@ -1,0 +1,15 @@
+{
+ "chunk": 73,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Egon/Egon_Thief_Lazlo_09_10",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Usually, I would simply execute him.",
+   "ar": "عادةً، كنتُ لأُعدمه ببساطة.",
+   "issue": "'Usually, I would simply execute him' is habitual ('normally I just execute them, but…' — it sets up 09_20 'But perhaps you see another way?'). كنتُ لأُعدمه is the counterfactual 'I would have executed him', the same construction used for a genuine counterfactual at Interact_13_20 ('I’d do it all over again', which is governed by 'If I could…'). Here there is no protasis, so the counterfactual reading implies the execution is already off the table before Egon offers Lazlo the choice.",
+   "suggested_ar": "عادةً، كنتُ سأُعدمه ببساطة."
+  }
+ ]
+}

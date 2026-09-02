@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_Child_01/392F452E4A9D56766A8484841E769CA5",
+  "before": "لنلعب لعبة قُطّاع الطرق والفرسان مجددًا.",
+  "after": "لنلعب قُطّاع الطرق والفرسان مجددًا.",
+  "why": "children name the game directly; لعبة is filler"
+ },
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_Child_01/A64DB0D84C455E5FA981969DC587E0DB",
+  "before": "بابا؟ أنجزتُ أعمالي المنزلية.",
+  "after": "بابا؟ أنهيتُ أعمالي.",
+  "why": "a village child would not say أعمالي المنزلية"
+ },
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_LonelyWoman_01/E13820DE4DC868F89E777888AC642C8C",
+  "before": "أستكسر بابي؟",
+  "after": "أستحطّم بابي؟",
+  "why": "'break down' a door is تحطيم"
+ },
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_SadFather_01/950467E741A56D28C154F4B0633EF206",
+  "before": "أما تزال سيدة الغابة غير راضية؟",
+  "after": "أما اكتفت سيدة الغابة؟",
+  "why": "source has no 'still'; اكتفى is the natural verb"
+ },
+ {
+  "key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_01/97AAA9AA43DDC9A38AF0A0A0B82D591C",
+  "before": "لن تدخل ما لم توقف تلك الموسيقى الجنونية.",
+  "after": "لن تدخل ما لم توقف تلك الموسيقى التي تُذهب العقل.",
+  "why": "الموسيقى الجنونية is not Arabic for 'maddening'"
+ }
+]

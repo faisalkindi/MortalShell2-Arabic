@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_End/4A7586984833F780CFB735A9AF8161A4",
+  "before": "عليك أن تُظهر الرحمة.",
+  "after": "عليك أن ترحم.",
+  "why": "'تُظهر الرحمة' is a calque of 'show mercy'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_ExecuteTraveller/613090224E5232C6932B59AA25988F54",
+  "before": "لكن هذا أبعد ما ستذهب إليه.",
+  "after": "لكن إلى هنا ينتهي طريقك.",
+  "why": "'هذا أبعد ما ستذهب إليه' is unreadable; Arabic says it as a road ending"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_Intro/BFB67B454972058FF86B7B9D540736BB",
+  "before": "أفعل.",
+  "after": "أعرفها.",
+  "why": "bare 'أفعل' is meaningless as an answer in Arabic - it must repeat the verb of the question ('You know this land?')"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_Intro/4DADD52F4BB17121C50D9583CF542298",
+  "before": "أخشى أن لا.",
+  "after": "أخشى أنّي لا أستطيع.",
+  "why": "'أخشى أن لا' is an incomplete clause in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_QuestionTraveller/96C6762A4A8272533119ABB872030A7E",
+  "before": "...غير المولود... الحالِم.",
+  "after": "...الذي لم يُولد... الحالِم.",
+  "why": "'غير المولود' does not work as a title"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh01_LouderBushRustle/BD3A838B4AA2427D017887A3741DFAC9",
+  "before": "(يزداد الحفيف صخبًا)",
+  "after": "(يعلو الحفيف)",
+  "why": "tighter stage direction; 'يزداد صخبًا' is three words for one verb"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh01_TwigSnap/654287884812FD63958EAB8A8AAC2FC6",
+  "before": "(غصن يتكسّر، حفيف أكثر)",
+  "after": "(غصن ينكسر، حفيف متزايد)",
+  "why": "'حفيف أكثر' is a comparative calque"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineGreatOldOne/3074B2D843AC95616E577592A5202803",
+  "before": "لكن هذه هدية. لحم سهل.",
+  "after": "لكن هذه هدية. لحمٌ بلا عناء.",
+  "why": "'لحم سهل' is a word-for-word carry of 'easy meat'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineGreatOldOne/C57A825B4A995F68EBF5A39ABDBF3395",
+  "before": "لا لحم عظيم.",
+  "after": "لا لحمَ عظيمًا.",
+  "why": "fixes the case ending on the لا النافية للجنس construction"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineGreatOldOne/1179737B4B0F01E8092E7FB99A6A0643",
+  "before": "ما زال بإمكانك أخذ قلبه.",
+  "after": "ما زال بوسعك أن تنتزع قلبه.",
+  "why": "'أخذ قلبه' is flat for 'claim'; Gragu's register is visceral"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineRemains/D3F0CCB64165AB0ADD2592A929C887AE",
+  "before": "قربان. تضحيات.",
+  "after": "قربان. أضاحٍ.",
+  "why": "'تضحيات' means abstract self-sacrifice; these are sacrificial victims"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_ExamineRemains/F7A839844B0D765C21EB59975DED8370",
+  "before": "همم. لم يُمسّوا.",
+  "after": "همم. لم تُمسّ.",
+  "why": "agreement error: non-human plural takes feminine singular, not يُمسّوا"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_Intro/B5FA2452467E9E8CEBFE20B9FEE109F4",
+  "before": "ما الذي يحتاج إلى تخطيط؟",
+  "after": "وأيّ تخطيطٍ يلزم؟",
+  "why": "'ما الذي يحتاج إلى تخطيط' is a flat rendering of a scornful question"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh02_SeeGreatOldOne/C302F1F44068F40FCFF746A096A01265",
+  "before": "هذا... لا يمكن...",
+  "after": "هذا... لا يُعقل...",
+  "why": "'لا يمكن' states impossibility; the line is disbelief"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "key": "gland/DungeonFPKeyBook_02FlavorText",
+  "before": "مُنذر الحياة، وحامل اللهب.",
+  "after": "قارعُ الحياة، وحاملُ اللهب.",
+  "why": "'ringer' is the bell-ringing image the riddle turns on; مُنذر lost it"
+ },
+ {
+  "key": "gland/DungeonSunkenKeyFlavorText",
+  "before": "رطبٌ ولزجٌ قليلًا، لكنه لا يحمل أي سمة أخرى.",
+  "after": "رطبٌ لزجٌ بعض الشيء، وما عدا ذلك فلا سمة له.",
+  "why": "'non-descript' is the absence of features; لا يحمل أي سمة أخرى implied it had one"
+ },
+ {
+  "key": "gland/MethersFleshFlavorText",
+  "before": "لحم الأُمَّهة اكتشافٌ مذهل. طوال قرون، سعى ملوك مامون وملكاته وراءه مهما كلّف الثمن. وكان النبلاء يلتهمون هذا اللحم المقدّس ظنًّا منهم أنه سيهبهم مواهب عجيبة؛ وقد فعل، بمعنىً ما، إلى أن نفد كليًّا.",
+  "after": "لحم الأُمَّهة اكتشافٌ مذهل. طوال قرون، سعى ملوك مامون وملكاته وراءه مهما كلّفهم الأمر. وكان النبلاء يلتهمون هذا اللحم المقدّس ظنًّا منهم أنه سيهبهم مواهب عجيبة؛ وقد فعل، بمعنىً ما، إلى أن نفد كليًّا.",
+  "why": "مهما كلّف الثمن is not the Arabic collocation; مهما كلّفهم الأمر is"
+ },
+ {
+  "key": "gland/MethersFleshEffect",
+  "before": "سمك الليل يحلم بلحم الأُمَّهة.",
+  "after": "يحلم سمك الليل بلحم الأُمَّهة.",
+  "why": "verb-initial"
+ },
+ {
+  "key": "gland/DungeonCageKeyFlavorText",
+  "before": "الحديد المطروق المتآكل مخدوشٌ زخرفةً. وهذا المفتاح نادرًا ما استُخدم.",
+  "after": "خُدش الحديد المطروق البالي خدشًا زخرفيًّا. وهذا المفتاح نادرًا ما استُخدم.",
+  "why": "the adverbial زخرفةً was stranded; the cognate accusative is how Arabic carries 'ornamentally'"
+ },
+ {
+  "key": "gland/BagheadMoonshineFlavorText",
+  "before": "هذا ليس خمر قطّاع طرق رخيصًا. الزجاجة لم تُفتح بعد، لفّها صانعها بعنايةٍ في قماش الكيس. أَلَعلّها أُعِدّت لأكثر من مجرّد المرح؟",
+  "after": "هذا ليس خمر قطّاع طرق رخيصًا. الزجاجة لم تُفتح بعد، لفّها صانعها بعنايةٍ في قماش الكيس. ولعلّها أُعِدّت لأكثر من مجرّد المرح؟",
+  "why": "أَلَعلّ stacked an interrogative onto لعلّ, which already carries the wondering"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/323190_description",
+  "before": "تجمّعت مدينةٌ حول مولّدٍ واحد، تقترع: أيبقى البقاء إنسانيًّا؟",
+  "after": "تجمّعت مدينةٌ حول مولّدٍ واحد، تقترع: أيظلّ البقاء إنسانيًّا؟",
+  "why": "البقاء…يبقى was an unintended jingle"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1172380_description",
+  "before": "تسلّق هاربٌ يحمل نصلًا مضيئًا حطامًا، أصلح آليًّا صغيرًا، وتذكّر كيف لا يختبئ.",
+  "after": "تسلّق الحطامَ هاربٌ يحمل نصلًا مضيئًا، وأصلح آليًّا صغيرًا، وتذكّر كيف لا يختبئ.",
+  "why": "the object حطامًا was stranded behind a long subject; moved next to its verb and coordinated the three acts with و"
+ }
+]

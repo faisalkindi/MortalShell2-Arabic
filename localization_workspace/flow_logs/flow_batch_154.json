@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_Interact_BossDefeated/D92D113A40DDF323B89C4A8A5D7D774F",
+  "before": "لطالما عرفتُ أنك المنشود.",
+  "after": "كنتُ أعلم أنك المنشود.",
+  "why": "'لطالما' added an 'always' the source does not have"
+ },
+ {
+  "key": "Dialogue_Dlg_Interact_BossDefeated/02E2A81C42922902B4394BBAA60C7EB1",
+  "before": "لصّ بَيضة آخر يلقى حتفه.",
+  "after": "هلك لصّ بَيضةٍ آخر.",
+  "why": "verb-initial fragment lands harder than the nominal 'يلقى حتفه'"
+ }
+]

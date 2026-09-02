@@ -1,0 +1,15 @@
+{
+  "chunk": 105,
+  "rows_reviewed": 90,
+  "findings": [
+    {
+      "key": "gland/GraveyardCryptKeyFlavorText",
+      "type": "term_violation",
+      "severity": "minor",
+      "source_en": "A discarded memento, forsaken by a disciple who found himself drawn to a new sense of purpose.",
+      "ar": "تذكارٌ مهجور، تخلّى عنه تلميذٌ وجد نفسه منجذبًا إلى غايةٍ جديدة.",
+      "issue": "Glossary freezes \"Disciple\" (character type) as الحواريّ, explicitly listing forbidden alternatives (تابع, المُريد, عابد الطائفة). This row uses a further unlisted word, تلميذ (\"student/pupil\"), which is not the approved frozen term either.",
+      "suggested_ar": "تذكارٌ مهجور، تخلّى عنه حواريٌّ وجد نفسه منجذبًا إلى غايةٍ جديدة."
+    }
+  ]
+}

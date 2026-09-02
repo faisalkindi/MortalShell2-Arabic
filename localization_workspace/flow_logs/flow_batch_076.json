@@ -1,0 +1,38 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/356190_description",
+  "before": "مات جوّالٌ ثم عاد، وبنى جيشًا بالتحديق في أرواح الأورك حتى بدّلوا ولاءهم.",
+  "after": "مات جوّالٌ ثم عاد، وبنى جيشًا بالتحديق في أرواح الأورك حتى بدّلوا أسيادهم.",
+  "why": "'changed employers' is the wry hiring joke; ولاءهم made it earnest"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/262060_description",
+  "before": "طالب قصرٌ خرِبٌ بالأبطال، ثم كافأهم بالتوتر والمرض ومعرفةٍ بأن الشجاعة قد تنكسر.",
+  "after": "طالب قصرٌ خرِبٌ بالأبطال، ثم دفع لهم بالتوتر والمرض ومعرفةٍ بأن الشجاعة قد تنكسر.",
+  "why": "'paid them' is the sardonic transaction; كافأهم turned it into a reward"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/264710_description",
+  "before": "غاص ناجٍ تحت محيطٍ غريب، حاسبًا الجمال أمانًا حتى صحّحه الحيتان العملاقة.",
+  "after": "غاص ناجٍ تحت محيطٍ غريب، حاسبًا الجمال أمانًا حتى صحّحته الحيتان العملاقة.",
+  "why": "non-human plural takes feminine singular agreement, and the object pronoun was missing"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1290000_description",
+  "before": "غسل صبرٌ مقدّس أوساخ الشاحنات والتماثيل بل والخطايا كلّها، ووجدتُ في الطقس هدوءًا غريبًا.",
+  "after": "محا غاسلٌ ذو صبرٍ مقدّس الأوساخ عن الشاحنات والتماثيل، بل عن الخطايا كلّها. ووجدتُ في الطقس هدوءًا غريبًا.",
+  "why": "MEANING FIX: 'a washer of sacred patience' became 'sacred patience washed'; the washer disappeared as subject"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/2427520_name",
+  "before": "اختبار ARC Raiders",
+  "after": "ARC Raiders Playtest",
+  "why": "every other _name row keeps the English store title verbatim; this one alone was half-translated"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1190970_description",
+  "before": "كانت المساكن قذرةً مجددًا؛ وجاء التحوّل مجددًا بالممسحة والأثاث وجصٍّ متعاونٍ بريبة.",
+  "after": "كانت المساكن قذرةً مجددًا؛ وجاء التحوّل مجددًا بالممسحة والأثاث وجصٍّ متعاونٍ على نحوٍ مريب.",
+  "why": "'suspiciously cooperative' modifies the cooperation; بريبة made the plaster the suspicious party"
+ }
+]

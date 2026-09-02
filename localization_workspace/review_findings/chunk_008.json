@@ -1,0 +1,15 @@
+{
+ "chunk": 8,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_PPItems/EquipPPItemAsPassive",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Equip as Passive",
+   "ar": "تجهيز كخامل",
+   "issue": "Everywhere else the passive PP slot and passive abilities are كامن/الكامنة (TutorialPPItemDesc: الخانات الفعّالة أو الكامنة; ShellPassiveHeader: قدرة الهَيكل الكامنة); خامل ('inert/idle') is a third word for the same slot the player is filling.",
+   "suggested_ar": "تجهيز ككامن"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+Full Arabic localization of Mortal Shell II — every line translated in context of the game's lore, tone and speakers, not machine-dumped word for word, with a unified 200+ term glossary, native RTL menus and a one-click installer.
+
+‫تعريب عربي كامل لـ Mortal Shell II — كل سطر مترجم بوعي بعالم اللعبة وأجوائها ومتحدثيها، لا ترجمة آلية حرفية؛ مع مسرد موحّد لأكثر من 200 مصطلح، وقوائم من اليمين إلى اليسار، ومثبّت بنقرة واحدة.‬

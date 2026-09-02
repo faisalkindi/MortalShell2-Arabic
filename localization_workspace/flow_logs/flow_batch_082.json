@@ -1,0 +1,38 @@
+[
+ {
+  "key": "SidearmLargeTut_1/SidearmLargeTut_1",
+  "before": "الأسلحة الجانبية المطروقة من القَتام تضرب من بُعد — تُسقط الأعداء أو تحطّم الأشياء بدقّةٍ قاتلة.",
+  "after": "تضرب الأسلحة الجانبية المطروقة من القَتام عن بُعد — تُسقط الأعداء أو تحطّم الأشياء بدقّةٍ قاتلة.",
+  "why": "verb-initial; and ضرب عن بُعد is the settled collocation"
+ },
+ {
+  "key": "SidearmLargeTut_2/SidearmLargeTut_2",
+  "before": "إطلاق السلاح الجانبي يكلّف <Resolve>العزيمة</>، التي تتجدّد بإصابة ضربات الاشتباك القريب.",
+  "after": "إطلاق السلاح الجانبي يكلّف <Resolve>العزيمة</>، التي تتجدّد بإصابة ضربات الاشتباك.",
+  "why": "FROZEN GLOSSARY: melee = الاشتباك on its own; the added القريب diluted the unified term"
+ },
+ {
+  "key": "ST_Core_Barkeep/Barkeep_Option_OrderDrink",
+  "before": "اطلب شرابًا",
+  "after": "طلب شراب",
+  "why": "FROZEN CONVENTION: prompt labels are verbal nouns, never imperatives (cf. Inhabit Shell = سُكنى الهَيكل)"
+ },
+ {
+  "key": "ST_Core_Barkeep/Barkeep_Option_Speak",
+  "before": "التحدث مع الساقي",
+  "after": "محادثة الساقي",
+  "why": "same prompt-label convention, and محادثة is the frozen rendering for Talk"
+ },
+ {
+  "key": "ST_Core_Bosses/Boss_Final",
+  "before": "زْمي، غير المدعُوّ",
+  "after": "زمي، غير المدعوّ",
+  "why": "Arabic cannot open a word with a sukun; the initial زْ was unpronounceable"
+ },
+ {
+  "key": "ST_Core_Charges/DefaultChargesDesc",
+  "before": "صدىً من الأجمة السفلى يرأب الجراح ويعيد نسج اللحم. لا شكّ أن النذير خُلق لمهمّةٍ لا يطيقها فانٍ.",
+  "after": "صدىً من الأجمة السفلى يرأب الجراح ويعيد نسج اللحم. لا شكّ أن النذير استُولد لمهمّةٍ لا يطيقها فانٍ.",
+  "why": "'bred for' is deliberate breeding, which is the point about the Harbinger; خُلق lost it"
+ }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "ST_Core_MiniBosses/TarredCorpse_Necromancer_MiniBoss",
+    "before": "طُقوسيّ القَتام",
+    "after": "صاحب طقوس القَتام",
+    "why": "«طُقوسيّ» ليست عربية؛ وتوحيد مع «صاحب الطقوس» في أسماء المواقع"
+  },
+  {
+    "key": "ST_Core_MiniBosses/Wraith_MiniBoss",
+    "before": "طيف القَتام",
+    "after": "شبح القَتام",
+    "why": "«الطيف» محجوزة لمصطلح Phantom في المسرد"
+  },
+  {
+    "key": "ST_Core_MiniBosses/Aristocrat_MiniBoss",
+    "before": "مُعترِف تيشينا",
+    "after": "أب اعتراف تيشينا",
+    "why": "«مُعترِف تيشينا» تقلب الدور: الكاهن هو من يسمع الاعتراف"
+  }
+]

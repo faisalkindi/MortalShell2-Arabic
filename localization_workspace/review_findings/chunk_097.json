@@ -1,0 +1,60 @@
+{
+ "chunk": 97,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_InformMerrick_08/3145287245329ABA64BF14862870510D",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "We must find the Hexapod.",
+   "ar": "يجب أن نجد السداسيّ الأرجل.",
+   "issue": "Hexapod is frozen as الهكسابود, and this chunk uses الهكسابود in two other rows (RefuseMerricksHelp_07, DrinkTheMoonshine_05). The creature is named three different ways across one questline.",
+   "suggested_ar": "يجب أن نجد الهكسابود."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/F23A04EE43660CC8FA1D6A8FE59436A4",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Hexapod.",
+   "ar": "السداسيّ الأرجل.",
+   "issue": "Hexapod is frozen as الهكسابود, and this chunk uses الهكسابود in two other rows (RefuseMerricksHelp_07, DrinkTheMoonshine_05). The creature is named three different ways across one questline. This row is the bare name, spoken by Proxima, and is the row a player is most likely to read as the creature's actual name.",
+   "suggested_ar": "الهكسابود."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/3DA583804B84E2074CF7FDB80C5FE582",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "I mean I don’t even know what this Hexa-thing is.",
+   "ar": "أعني، لا أعرف أصلًا ما هذا الشيء… السداسيّ ذاك.",
+   "issue": "'Hexa-thing' is Merrick mangling the frozen name, and his other mangle in this same questline is rendered الهكسا-كلب (hexa-dog). السداسيّ ذاك uses a different stem, so the running joke no longer chains.",
+   "suggested_ar": "أعني، لا أعرف أصلًا ما هذا الشيء… الهكسا-كذا."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_Intro_01/C149C5A34172AF296D9F00BCFAF85BCD",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "(groans)",
+   "ar": "(يئنّ)",
+   "issue": "The sibling key Merchant_TakeItEasy identifies Merrick as the one saying 'Take it easy', and he hands her the food two lines later (تفضلي, feminine). So the person groaning at the start of the scene is Proxima, not Merrick. Compare UseBiosampler_04, where the groan IS Merrick's and masculine is correct.",
+   "suggested_ar": "(تئنّ)"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_06/555DAA5B4D4E21963C855E85C1375991",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "I was trained to hunt them.",
+   "ar": "دُرِّبتُ على صيدهم.",
+   "issue": "'them' refers to the parasites named in the adjacent line (هذه الطفيليات). صيدهم is the human-plural pronoun; a non-human plural takes صيدها.",
+   "suggested_ar": "دُرِّبتُ على صيدها."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_AnswerTheStranger_06/843A020E4AEF5598E8F0DEBC4A7D42BB",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "You got that from stabbin’ me?",
+   "ar": "أعرفتِ ذلك كله بطعني؟",
+   "issue": "'that' points at the single fact she just stated (his name). ذلك كله widens it to everything she learned.",
+   "suggested_ar": "أعرفتِ ذلك بطعني؟"
+  }
+ ]
+}

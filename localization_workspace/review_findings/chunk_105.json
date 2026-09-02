@@ -1,0 +1,60 @@
+{
+ "chunk": 105,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "gland/GraveyardCryptKeyFlavorText",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "A discarded memento, forsaken by a disciple who found himself drawn to a new sense of purpose.",
+   "ar": "تذكارٌ مهجور، تخلّى عنه تلميذٌ وجد نفسه منجذبًا إلى غايةٍ جديدة.",
+   "issue": "Disciple is now frozen as الحواريّ (~35 rows corpus-wide, and deliberately distinct from التابِع/المُريد/عابد الطائفة). This row still renders it تلميذ, so the cult role is named by a generic word for 'student' here and by the frozen term everywhere else.",
+   "suggested_ar": "تذكارٌ مهجور، تخلّى عنه حواريٌّ وجد نفسه منجذبًا إلى غايةٍ جديدة."
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_Lute_A/67D26AE541F5A3CE613EF0B8F56903BD",
+   "type": "gender_error",
+   "severity": "high",
+   "source_en": "Promise you won’t laugh.",
+   "ar": "عِدني ألّا تضحك.",
+   "issue": "In this node the lute-player is Tiel and the listener is Genessa: her line 'Play me a song' is masculine (اعزف لي لحنًا), so the person being asked to play is male, and 'with a face like this' is Tiel's rash (cf. the TheRash memory). That makes Tiel the speaker of the confession lines, and his addressee - Genessa - must be feminine. عِدني ألّا تضحك is masculine throughout, so as written Tiel is asking another man not to laugh.",
+   "suggested_ar": "عِديني ألّا تضحكي."
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_Lute_A/F29A279A479A3BC2C04D078F453472B3",
+   "type": "gender_error",
+   "severity": "high",
+   "source_en": "But you know… with a face like this…",
+   "ar": "لكن كما تعلم... بوجهٍ كهذا...",
+   "issue": "In this node the lute-player is Tiel and the listener is Genessa: her line 'Play me a song' is masculine (اعزف لي لحنًا), so the person being asked to play is male, and 'with a face like this' is Tiel's rash (cf. the TheRash memory). That makes Tiel the speaker of the confession lines, and his addressee - Genessa - must be feminine. كما تعلم is masculine; the same speaker, same addressee as the promise line.",
+   "suggested_ar": "لكن كما تعلمين... بوجهٍ كهذا..."
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_Lute_A/3193A54449387B5362F02390686AF92B",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Can I tell you something?",
+   "ar": "أيمكنني أن أخبرك بشيء؟",
+   "issue": "In this node the lute-player is Tiel and the listener is Genessa: her line 'Play me a song' is masculine (اعزف لي لحنًا), so the person being asked to play is male, and 'with a face like this' is Tiel's rash (cf. the TheRash memory). That makes Tiel the speaker of the confession lines, and his addressee - Genessa - must be feminine. أخبرك is written identically for كَ and كِ, so this row is not wrong on the page - but it should be vowelled to match the two sibling rows once those are corrected, or the whole exchange reads inconsistently.",
+   "suggested_ar": "أيمكنني أن أخبركِ بشيء؟"
+  },
+  {
+   "key": "gland/MethersSeveranceEffect",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Bring to Zhirelle, the Shell Keeper to sever your bond with a shell",
+   "ar": "أحضرها إلى زيريل، حارسة الهَياكل، لقطع رابطتك بأحد الهَياكل.",
+   "issue": "Shellkeeper is frozen as حارس الهَياكل and appears in that exact form as Zhirelle's nameplate (ST_Core_Menu_Shellkeeper/ShellkeeperName). Here the same title is feminized to حارسة الهَياكل. Zhirelle is female so the agreement is defensible, but the title cannot be spelled two ways; the owner needs to rule whether the frozen title inflects for her.",
+   "suggested_ar": "أحضرها إلى زيريل، حارس الهَياكل، لقطع رابطتك بأحد الهَياكل."
+  },
+  {
+   "key": "FakeAchievement_DogKilled_Title/FakeAchievement_DogKilled_Title",
+   "type": "register_break",
+   "severity": "low",
+   "source_en": "Bad Hooman!",
+   "ar": "إنسان سيء!",
+   "issue": "'Hooman' is a deliberate dog-speak misspelling of 'human' - it is the entire joke of this fake achievement, and its sibling description ('He didn't hurt anybody...') is written from the dog's side. إنسان سيء is clean prose and reads as a flat scolding, losing the animal voice.",
+   "suggested_ar": "إنسان شِرّير يا إنسان!"
+  }
+ ]
+}

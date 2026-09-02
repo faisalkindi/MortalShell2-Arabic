@@ -1,0 +1,42 @@
+{
+ "chunk": 47,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Gragu_Poison_01_QuestionBrigand/8BB060324A3F2DC0342087AD2919C698",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "You don’t look good, brev.",
+   "ar": "لا تبدو بخير، يا صاحبي.",
+   "issue": "'brev' is a frozen glossary term: يا صاح. يا صاحبي is a different, warmer address and loses the warped-slang flavour the freeze exists to protect.",
+   "suggested_ar": "لا تبدو بخير، يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_Poison_02_SitDown/B1A9F39540F78399094CD899C75FD44F",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Sure, brev.",
+   "ar": "بالتأكيد، يا صاحبي.",
+   "issue": "Same frozen term: brev = يا صاح.",
+   "suggested_ar": "بالتأكيد، يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_01_DropChild/3E67EAD4446CE215A369C7B7439DB846",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Now tell me about this... \"Lavender\".",
+   "ar": "الآن، أخبرني عن هذه... «لافندر».",
+   "issue": "'Lavender' is the in-world name for the Harbinger, whose frozen gender is masculine (النذير). The feminine demonstrative هذه assigns the wrong gender to the referent.",
+   "suggested_ar": "الآن، أخبرني عن هذا... «لافندر»."
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_01_ExamineStatue/70DAD1F44632FD9DE771DCBC00DCA356",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(grunts) I’ve seen this before.",
+   "ar": "(يهمهم) رأيتُ هذا من قبل.",
+   "issue": "(grunts) is rendered (يئنّ) in the Gorf set (chunk 045, '(grunts) I… I guess this is it.'). One of the two is wrong; يهمهم is 'hums/murmurs', not a grunt of exertion.",
+   "suggested_ar": "(يزمجر) رأيتُ هذا من قبل."
+  }
+ ]
+}

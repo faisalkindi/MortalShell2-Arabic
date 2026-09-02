@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/EFCBE5A34FAAE7F381E6D79C15C7826F",
+  "before": "أنتِ قلقة.",
+  "after": "أنت قلق.",
+  "why": "flat declarative diagnosis is Proxima's signature; she is reading Merrick, so masculine addressee - matches 'You would not understand' in the same scene"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchArk_03/94E415FC4250340BAC2D5383B4D50F03",
+  "before": "إنه ضروري للنجاح.",
+  "after": "لا غنى عنه للنجاح.",
+  "why": "matched to the identical line in batch 062"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchCorpse_05/8A9AE1914B6301437F81D6A7A02466E5",
+  "before": "لا بد أن كل لصٍّ في نطاق خمسين ميلًا مرّ من هنا.",
+  "after": "الأرجح أن كل لصٍّ في نطاق خمسين ميلًا مرّ من هنا.",
+  "why": "'probably' is a hedge; لا بد asserted certainty the source did not"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchCorpse_05/90E99614417F71E54241C188B86BB8A0",
+  "before": "لا يمكنك الجزم بذلك؛ ما زال هناك ما نبحث عنه.",
+  "after": "لا يمكنك الجزم بذلك؛ فلم ينتهِ البحث بعد.",
+  "why": "ف of consequence; 'more to search' is unfinished searching, not an unfound object"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_ApproachEscapePod_04/7FD5AE9D4B046BC54A61EE845788FF11",
+  "before": "لا بد من وجود شيء هنا.",
+  "after": "لا بد أن هنا شيئًا ما.",
+  "why": "tightened; لا بد من وجود is a heavy nominal"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/E7B3BCD2467B26019B4BE4B693D0DC9D",
+  "before": "(يهزأ) غبي جدًا، أليس كذلك؟",
+  "after": "(يهزأ) سخيفٌ جدًا، أليس كذلك؟",
+  "why": "he is calling the ritual absurd, not unintelligent"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/764E1F1847E017D6889959ABB8A63042",
+  "before": "هذيان في الغالب.",
+  "after": "ثرثرة في الغالب.",
+  "why": "babble at a wake is idle talk, not delirium"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/D08C7970467833800EEA11AE62D954A4",
+  "before": "حتى لا يبقى... ما يُقال.",
+  "after": "حتى لا يبقى... شيء يُقال.",
+  "why": "'nothing left to say' needs the noun; ما يُقال read as a relative clause"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_Intro_01/B19FCC714DF0D8CB5E14129FB57CC71A",
+  "before": "أما يمكنك أن تغرزي ذلك... المسبار فيّ من جديد؟",
+  "after": "ألا يمكنك أن تغرزي فيّ ذلك... المسبار مرة أخرى؟",
+  "why": "verb-object-adverb order; the object was stranded after the hesitation"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_Intro_01/39F84296455EC8E83451DFB37C753FF0",
+  "before": "تعرفين... استخدمي دمي أو ما شابه؟",
+  "after": "أعني... استخدمي دمي أو ما شابه؟",
+  "why": "'You know' here is a filler, not a claim about her knowledge"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_MerrickWalking_03/42C924AC4E7EE7227F9FDA8B5A9C0C02",
+  "before": "ليس هناك الكثير لأقوله حقًا.",
+  "after": "ليس ثمة كثيرٌ يُروى، بصراحة.",
+  "why": "lighter and idiomatic; ليس هناك الكثير لأقوله was calqued"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheHunt_S1_Chase_02/D962175C4039349A9ABBD1A95EAE8AC8",
+  "before": "خائف. ويحقّ لك.",
+  "after": "خائف. وحريٌّ بك ذلك.",
+  "why": "حريٌّ بك is the Arabic for 'you should be' as endorsement"
+ },
+ {
+  "key": "Dialogue_DLG_ProximaMemory_TheHunt_S1_Chase_02/1ADB150B45A1A3A6DEAC85A6E102F8B2",
+  "before": "يحقّ لك أن تكون كذلك.",
+  "after": "حريٌّ بك أن تخاف.",
+  "why": "standalone version of the same line, without a leading connector"
+ }
+]

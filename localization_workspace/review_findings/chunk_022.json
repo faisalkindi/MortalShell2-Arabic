@@ -1,0 +1,15 @@
+{
+ "chunk": 22,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Skills_Smert/ShellSkillSmertAbsolution_Effect_1",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Smert has {X} mitigation against <Poison>Poison</>, <Burn>Burn</>, <Lightning>Lightning</> and <Frost>Frost</>",
+   "ar": "لدى سميرت {X} من مقاومة <Poison>السم</> و<Burn>الحرق</> و<Lightning>البرق</> و<Frost>الصقيع</>.",
+   "issue": "The stat 'mitigation' is مقاومة (resistance) in the Sariel and Smert trees but تخفيف in the Proxima tree (Exoshell/Fortress rows, chunk 021). Same stat, two names — a player comparing Shells reads them as different mechanics.",
+   "suggested_ar": "لدى سميرت {X} من تخفيف <Poison>السم</> و<Burn>الحرق</> و<Lightning>البرق</> و<Frost>الصقيع</>."
+  }
+ ]
+}

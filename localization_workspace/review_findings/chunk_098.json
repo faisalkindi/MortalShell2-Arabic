@@ -1,0 +1,51 @@
+{
+ "chunk": 98,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_Intro_01/B19FCC714DF0D8CB5E14129FB57CC71A",
+   "type": "gender_error",
+   "severity": "high",
+   "source_en": "Can’t you just stick that… probe in me again?",
+   "ar": "ألا يمكنك أن تغرز فيّ ذلك... المسبار مرة أخرى؟",
+   "issue": "تغرز is 2nd-person masculine, but the speaker is Merrick and the addressee is Proxima. Every other line he speaks in this same node is feminine: ابقي معي، بروكسيما and استخدمي دمي. The probe (Biosampler) is hers, so she is the one being asked to use it.",
+   "suggested_ar": "ألا يمكنكِ أن تغرزي فيّ ذلك... المسبار مرة أخرى؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_MerrickWalking_03/8692F5114EEE2FC1EEA388BD0B6A959A",
+   "type": "gender_error",
+   "severity": "high",
+   "source_en": "You made a bad “deal.”",
+   "ar": "لقد عقدتِ «صفقة» سيئة.",
+   "issue": "عقدتِ is feminine, making Merrick the one accused of a bad deal-maker. The speaker is Proxima: the scare quotes on «صفقة» are her running tic for Merrick's own vocabulary (compare «تاجر» and «اللصوص»), and she is the one who cannot repay. Addressee is Merrick, masculine.",
+   "suggested_ar": "لقد عقدتَ «صفقة» سيئة."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_EnterCampHeart_05/8DA56B30490F6BC4A5D17583BBA5E242",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Bow before Larreth, the Brigand King!",
+   "ar": "انحنوا أمام لارِث، ملك قُطّاع الطرق!",
+   "issue": "'Brigand' is rendered اللصوص everywhere else, including Proxima's own quoting of the word («اللصوص») and the boss nameplate ST_Core_ShellMemory_MiniBosses/Brigand_King = لارِث، ملك اللصوص. Here the herald announces the same character with a different title, so the nameplate and the line introducing him disagree.",
+   "suggested_ar": "انحنوا أمام لارِث، ملك اللصوص!"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/E7B3BCD2467B26019B4BE4B693D0DC9D",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(scoffs) Pretty stupid, huh?",
+   "ar": "(يهزأ) سخيفٌ بعض الشيء، أليس كذلك؟",
+   "issue": "'Pretty stupid' is an intensifier in colloquial English (quite/really). بعض الشيء is a hedge that weakens it to 'somewhat', softening Merrick's dismissal of his own people's funeral rite.",
+   "suggested_ar": "(يهزأ) سخيفٌ جدًّا، أليس كذلك؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_SearchSomething_04/EC3963784C3BA4F1F5152CBDC6E1D314",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "I would not.",
+   "ar": "لن أفعل.",
+   "issue": "'I would not' answers the hypothetical 'if you wanted to choose differently?', so it is conditional, not future. The same speaker's other answer to the same kind of question is correctly conditional (I would continue -> كنت لأمضي); لن أفعل breaks that pairing.",
+   "suggested_ar": "ما كنت لأفعل."
+  }
+ ]
+}

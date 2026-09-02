@@ -1,0 +1,44 @@
+[
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_CauldronInteract/B6C87D9B4A29E03F7AF6D4AB6F4D4878",
+  "before": "احتجتُ كل قطرة أخيرة.",
+  "after": "احتجتُ إلى كل قطرة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/1D3188C74C83C4B71964C4B30412A596",
+  "before": "والآن... انظر إليّ؟",
+  "after": "والآن انظر إليّ؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/68D389D944DA5E3C4B74E68C39DC1D5B",
+  "before": "أخيرًا... أُحضّر الجرعة الكاملة.",
+  "after": "أخيرًا... أُحضّر جرعة كاملة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/0AFC1F154925F5B2AB023DB229B44257",
+  "before": "ظننتُ الضفدع... يجعلنا أفضل.",
+  "after": "ظننتُ الضفدع يجعلنا أفضل.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/BAC699C94AA289A7772BD7ABCD44CE28",
+  "before": "لو كان هارولد هنا فقط.",
+  "after": "لو كان هارْوالد هنا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/999E21074F486D123BA50589EAFD4A87",
+  "before": "واحدة مع الطبيعة.",
+  "after": "متّحدةٌ بالطبيعة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_HilgaTransformed_Interact_01/F9151A4647E5279E35DF719189C58D20",
+  "before": "يجب أن تملك الإرادة كي تتغيّر.",
+  "after": "يجب أن تملك إرادة التغيّر.",
+  "why": "flow"
+ }
+]

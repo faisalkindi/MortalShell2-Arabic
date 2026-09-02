@@ -1,0 +1,50 @@
+[
+ {
+  "key": "Dialogue_DLG_TielMemory_TheRash_S1_DemandHelp_07/4E2A1C0D413AFD09B5B17F9C908F77E9",
+  "before": "«علاجك»... أحتاج المزيد منه.",
+  "after": "«علاجك»... أحتاج إلى المزيد منه.",
+  "why": "احتاج takes إلى"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheRash_S1_EnterTheDwelling_02/0C9A22934B117D8660F1F5B3B5D59D79",
+  "before": "أثمّة أحد هنا؟",
+  "after": "هل من أحدٍ في الدار؟",
+  "why": "'Anybody home?' is a call at a doorway; أثمّة أحد هنا was a survey of the room"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_01_TakeTrueNektar/548727CC4C7E0CCB6C9624B54E6BDA23",
+  "before": "همم... أيّ روحٍ تائهة تنادي؟",
+  "after": "همم... أيّ روحٍ شاردة تنادي؟",
+  "why": "'wayward' is Genessa's own frozen epithet (الشارِدة); تائهة broke the echo"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_01_TakeTrueNektar/1941BECE4CC10DAEA9188AA39FABD83F",
+  "before": "مجرد... تابع.",
+  "after": "مجرد... مُريد.",
+  "why": "FROZEN GLOSSARY: Acolyte = المُريد; التابِع is Harros's frozen title (Vassal), so it collided"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_BearTrap_A/703AA6E848CE7420E0DA89801A2DD414",
+  "before": "أولًا تفتحها بقوة.",
+  "after": "أولًا تفتحها عَنوة.",
+  "why": "pry open = فتح عنوة; بقوة was vague"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_Lute_A/F73E8AC348883F5A1D12A38057AFBDEB",
+  "before": "قذرة، يُستحسن.",
+  "after": "ويُفضَّل أن تكون قذرة.",
+  "why": "the bare قذرة، يُستحسن had no predicate"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_QuestionGenessa_B/A5EF6B4641CA6F21CA5CDC9BEA270DFD",
+  "before": "أأنتِ حاضرة في كل هذه الرؤى؟",
+  "after": "وهل أنتِ في كلّها؟",
+  "why": "أأنتِ stacked two alifs; cut the added حاضرة والرؤى"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheTrueNektar_02_QuestionGenessa_B/60AC4E0C4B08E7BB01A92887A701BB59",
+  "before": "لا... لا أعرف.",
+  "after": "أنا... لا أعرف.",
+  "why": "the source hesitates on 'I', not on 'No'"
+ }
+]

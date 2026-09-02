@@ -1,0 +1,38 @@
+[
+ {
+  "key": "ST_Core_Prompts/WormfishOfferYourself",
+  "before": "أتعرض نفسك؟",
+  "after": "أتُقدِّم نفسك؟",
+  "why": "عرض نفسه is ambiguous between offering and exposing; قدّم نفسه is the sacrificial sense the prompt needs"
+ },
+ {
+  "key": "ST_Core_Prompts/SkipProloguePrompt",
+  "before": "أتريد تجاوز المقدّمة؟",
+  "after": "أتريد تخطّي المقدّمة؟",
+  "why": "standardized on تخطّي, which the DLC bonus screen already uses for 'skip the Prologue'"
+ },
+ {
+  "key": "ST_Core_Prompts/SkipProloguePromptDesc",
+  "before": "بإمكانك تجاوز المقدّمة وبدء لعبةٍ جديدة قُبيل وصولك إلى حصن النخاع.",
+  "after": "بإمكانك تخطّي المقدّمة وبدء لعبةٍ جديدة قُبيل وصولك إلى حصن النخاع.",
+  "why": "same standardization"
+ },
+ {
+  "key": "ST_Core_Seals/SlayerSealActiveAbilityDesc",
+  "before": "هجومٌ مشحون يتيح لك الاندفاع مسافةً بعيدة للكمّ الهدف، فتُلحق <Break>ضرر الكَسر</> هائلًا، وتنفّذ <Bold>الضربة المضادة</> تلقائيًا إن انكسر.",
+  "after": "هجومٌ مشحون يتيح لك الاندفاع مسافةً بعيدة للكمّ الهدف، فتُلحق <Break>ضرر الكَسر</> بمقدارٍ هائل، وتنفّذ <Bold>الضربة المضادة</> تلقائيًا إن انكسر.",
+  "why": "the adjective هائلًا was stranded outside its tagged noun; بمقدارٍ هائل carries 'massive' after the tag closes"
+ },
+ {
+  "key": "ST_Core_Seals/SlayerSealAbilityDesc",
+  "before": "تُلحق الأسلحة الجانبية <Break>ضرر الكَسر</>. يُستعاد بعض <Health>الصحة</> و<Resolve>العزيمة</> عند تنفيذ <Bold>الضربة المضادة</> على عدوٍّ بأسلوبٍ مجيد.",
+  "after": "تُلحق الأسلحة الجانبية <Break>ضرر الكَسر</>. يُستعاد بعض <Health>الصحة</> و<Resolve>العزيمة</> عند <Bold>الضربة المضادة</> على عدوٍّ بأسلوبٍ مجيد.",
+  "why": "cut the filler عند تنفيذ - Arabic's عند already takes the verbal noun"
+ },
+ {
+  "key": "ST_Core_Seals/StoneSealDesc",
+  "before": "يُستخدم في طقوس الميلاد الحجري، ويحمل هذا الخاتَم جزءًا من قوة صانعته.",
+  "after": "خاتمٌ يُستخدم في طقوس الميلاد الحجري، ويحمل جزءًا من قوة صانعته.",
+  "why": "the English participial clause had become two coordinate sentences with the subject re-announced mid-way"
+ }
+]

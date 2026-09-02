@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Thestus_EredrimInteraction/7F81C6D3413C29F74514BA8A32CA93B3",
+  "before": "(تنهيدة عميقة) لنعد إلى مهمتك المقدسة.",
+  "after": "(يتنهّد بعمق) لنعد إلى مهمتك المقدسة.",
+  "why": "stage direction unified to the corpus verb form"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_EredrimInteraction/F897AB274625D973804B91881D0E2721",
+  "before": "(يستنشق) هذا اللحم المُستعار...",
+  "after": "(يشمّ) هذا اللحم المُستعار...",
+  "why": "(sniffs) frozen as (يشمّ) across the corpus"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_EredrimInteraction/F91D56544ED734A26A2E2AB9D2F98822",
+  "before": "بحّ، لا أحمل ضغينة.",
+  "after": "هه، لا أحمل ضغينة.",
+  "why": "بحّ is not an Arabic interjection (it reads as 'hoarse'); هه is the scoff"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/3894D3D44DEB7BB478A2AFB1EAD05D4C",
+  "before": "(تنهيدة عميقة) لنعد إلى مهمتك المقدسة.",
+  "after": "(يتنهّد بعمق) لنعد إلى مهمتك المقدسة.",
+  "why": "stage direction unified to the corpus verb form"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/B27ABDB94A111DD7806A46A9F3EBDAD1",
+  "before": "ويتركوننا في سلام.",
+  "after": "وليتركونا في سلام.",
+  "why": "jussive matches the preceding فليُفسدوا so the two lines run as one thought"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/93B946964DC48CA88C21ABACA3D20CF6",
+  "before": "لكنكِ... (يستنشق) رائحتكِ... مختلفة.",
+  "after": "لكنكِ... (يشمّ) رائحتكِ... مختلفة.",
+  "why": "(sniffs) frozen as (يشمّ) across the corpus"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/2EA2AE9540F77D85F2700C9C54F7AA26",
+  "before": "ظننت القار قد أفسدك.",
+  "after": "ظننتُ أن القار قد أفسدكِ.",
+  "why": "addressee is Genessa, feminine in the neighbouring lines; adds the missing أن"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/2F08CE4347CEF9E79B0ACAB5220030F1",
+  "before": "كنت مخطئة... حين شككت بك... منذ كل تلك السنين.",
+  "after": "كنت مخطئة... حين شككت بك... قبل كل تلك السنين.",
+  "why": "'all those years ago' is قبل, not منذ"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/D6506C204861A426AA6A4098F753D599",
+  "before": "جعلك وحشًا.",
+  "after": "جعلكِ وحشًا.",
+  "why": "same addressee as the line it continues — feminine"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/1D9D10554E490ECC884D7D9760311001",
+  "before": "لعله فعل. لوهلة.",
+  "after": "لعلّه فعل. لحين.",
+  "why": "'for a time' is لحين, not لوهلة (a split second)"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_Intro/76CB9C16488EDE0F9F239194D26FFCFA",
+  "before": "(يستنشق) أنت هو، أليس كذلك؟",
+  "after": "(يشمّ) أنت هو، أليس كذلك؟",
+  "why": "(sniffs) frozen as (يشمّ) across the corpus"
+ },
+ {
+  "key": "Dialogue_Dlg_Thestus_Intro/53DF165B49C0DE4AC4A2518BAB968AC3",
+  "before": "قيل لي إنك ستأتي حاملاً اللهب.",
+  "after": "قيل لي إنك ستأتي حاملًا اللهب.",
+  "why": "tanwin orthography (حاملًا)"
+ }
+]

@@ -1,0 +1,42 @@
+{
+ "chunk": 33,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Blacksmith_Interact_01/25D7725348F097BB4F26D4A3FE40633D",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Unfortunately, my dear Tarforge—she’s missing a key part.",
+   "ar": "للأسف، مِصهَر القار عزيزتي… تنقصها قطعة أساسية.",
+   "issue": "'my dear Tarforge' becomes مِصهَر القار عزيزتي, which parses as 'the Tarforge of my dear' - the possessive attaches to the wrong word. The feminine agreement itself is correct and deliberate.",
+   "suggested_ar": "للأسف، عزيزتي مِصهَر القار… تنقصها قطعة أساسية."
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_Interact_02/48A04F5E49624EF1A95EAAA8D8891EEF",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Come on, feed her! She’s starving.",
+   "ar": "هيا، أطعمها! إنها جائعة.",
+   "issue": "'starving' downgraded to جائعة (merely hungry). Franz's forge-appetite is escalating language here; the same softening appears on 'hungers' in the GainUpgrade scene.",
+   "suggested_ar": "هيا، أطعمها! إنها تتضوّر جوعًا."
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_HitReact/916E26654A4A6F0EB12F448BF78DE883",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(grunts)",
+   "ar": "(يئنّ)",
+   "issue": "(grunts) and (groans) are two distinct cues in the same namespace but both render as (يئنّ), so the VO director cannot tell the rows apart. (groans) is the correct owner of يئنّ.",
+   "suggested_ar": "(يزفر بجهد)"
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_Interact_02/320377554BF371FBBA9700B6144AA2F2",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(sigh) It’s my fault.",
+   "ar": "(يتنهد) الذنب ذنبي.",
+   "issue": "Stage direction written يتنهد without the shadda; the frozen form used everywhere else is (يتنهّد).",
+   "suggested_ar": "(يتنهّد) الذنب ذنبي."
+  }
+ ]
+}

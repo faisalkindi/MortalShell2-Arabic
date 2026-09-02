@@ -1,0 +1,68 @@
+[
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_03_20",
+  "before": "شششـ! أُحضّر مُقوّيًا خاصًا.",
+  "after": "شششش! أنا أُحضّر شرابًا خاصًا.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_01_20_Brig",
+  "before": "ديّوثٌ متباهٍ هنا من أجلك.",
+  "after": "جاءك ديّوثٌ متباهٍ.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_01_20_Brig_Alt_01",
+  "before": "وسخة قذرة هنا من أجلك",
+  "after": "جاءتك ساقطة قذرة",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_02_20_Brig",
+  "before": "حسنًا، آسفة، يا صاحبي. هيلغا خارجة.",
+  "after": "حسنًا، آسفة، يا صاحبي. هيلغا بالخارج.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_08_20",
+  "before": "ماذا أيضًا تريد؟",
+  "after": "تريد ماذا أيضًا؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Look_06_10",
+  "before": "ماذا تنتظر؟",
+  "after": "تنتظر ماذا؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_03_50",
+  "before": "ماذا تريد؟",
+  "after": "تريد ماذا؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_06_10",
+  "before": "ماذا تريد؟ أيها الصامت.",
+  "after": "تريد ماذا؟ أيها الصامت.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_GiveDagger_08_40",
+  "before": "من أين حصلت على هذا؟",
+  "after": "من أين لك هذا؟",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Interact_05_40",
+  "before": "يجب أن تشعر به بحلول الآن.",
+  "after": "لا بد أنك تشعر به الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "ST_Dialogue_Hilga/Hilga_Greeting_03_30_Brig",
+  "before": "… أهلًا... يا أحمق…",
+  "after": "… أهلًا... يا وغد…",
+  "why": "flow"
+ }
+]

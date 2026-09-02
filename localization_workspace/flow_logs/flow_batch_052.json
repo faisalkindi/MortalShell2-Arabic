@@ -1,0 +1,38 @@
+[
+ {
+  "key": "/78744B23DF157E71ED23CB2EDF157E71",
+  "before": "تم تغيير بعض الإعدادات.",
+  "after": "تغيّرت بعض الإعدادات.",
+  "why": "تم + verbal noun is the standard translationese passive; Arabic has the verb."
+ },
+ {
+  "key": "/E087D1574E05AC018923EAA7C05DCCC4",
+  "before": "تم تغيير بعض الإعدادات.",
+  "after": "تغيّرت بعض الإعدادات.",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/772815C341512193CEB60E949E7CD8B0",
+  "before": "أنفق ومضةً لفتح هذا الاستدعاء بشكلٍ دائم",
+  "after": "أنفق وَمضةً لفتح هذا الاستدعاء نهائيًا",
+  "why": "Frozen Glimpse = الوَمضة with its diacritic, and بشكل دائم is a calque adverb — نهائيًا matches the sibling 'permanently unlocks' row."
+ },
+ {
+  "key": "/8433FB934E1E36383E12C5A8D5E483F9",
+  "before": "نجاح. اكتمل القبّة النجمية. أترى كيف تُعيد جمال الليل؟ والأكثر تشجيعًا، يبدو أن البيضة تستجيب. لا بد أنها تشتاق إلى السماء.",
+  "after": "نجاح. اكتملت القبّة النجمية. أترى كيف تُعيد جمال الليل؟ والأكثر تشجيعًا، يبدو أن البيضة تستجيب. لا بد أنها تشتاق إلى السماء.",
+  "why": "اكتمل did not agree with the feminine القبّة, which the very next clause then treats as feminine (تُعيد)."
+ },
+ {
+  "key": "/9EAC0999496F721BC3AD6DA219AC8339",
+  "before": "خذ مكانك",
+  "after": "أخذ مكانك",
+  "why": "The whole Take… column is أخذ + object; the imperative broke it."
+ },
+ {
+  "key": "/A97B6FA84316D92E454B9CA20AA7489D",
+  "before": "خذ مكانك",
+  "after": "أخذ مكانك",
+  "why": "Duplicate of the row above; kept identical."
+ }
+]

@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_Grisha_Greeting_2/3257DA584CE87AF0F80E0E8B2EF82E8E",
+  "before": "(يئنّ)",
+  "after": "(يهمهم)",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Grisha_Whimpering/75FC80FD4A0935833DE455B4CFD527AA",
+  "before": "(ينِنّ بحزن)",
+  "after": "(ينِنّ)",
+  "why": "flow"
+ }
+]

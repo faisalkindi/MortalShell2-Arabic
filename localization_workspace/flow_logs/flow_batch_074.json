@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_DLG_Undermether_Tutorial_Sidearm/BA703AA0481B4FEE2E18E4B572189136",
+  "before": "تعال. تعلّم قوتك، أيها الطفل.",
+  "after": "تعال. تعلّم قوّتك يا بُنيّ.",
+  "why": "the Undermether's register is maternal-intimate; أيها الطفل was cold and third-person-ish"
+ },
+ {
+  "key": "Dialogue_Dllg_Hub_EggCultist_HubCorruptionReact/0086BA654E7B69CAC99EB297E9615FBE",
+  "before": "ما هذا... هذا النمو البغيض؟",
+  "after": "ما هذا... هذا النُّتوء البغيض؟",
+  "why": "'growth' is a physical mass; النمو named the abstract process"
+ },
+ {
+  "key": "Dialogue_Dllg_Hub_EggCultist_HubCorruptionReact_Interact/B940DE0F48157A1A9FC9FA86DCD8B93E",
+  "before": "قبضته تزداد إحكامًا.",
+  "after": "تزداد قبضته إحكامًا.",
+  "why": "verb-initial"
+ },
+ {
+  "key": "gland/MethersSeveranceDescription",
+  "before": "عظمٌ هشٌّ يشبه النصل. في يدٍ ماهرة يمكن أن يقطع الرابطة بين الهَيكل وحامله. أفلم يكن كل من اختير جديرًا في النهاية؟",
+  "after": "عظمٌ هشٌّ يشبه النصل. في يدٍ ماهرة يمكن أن يقطع الرابطة بين الهَيكل وحامله. ولعلّ بعض من اختيروا لم يكونوا جديرين في النهاية؟",
+  "why": "MEANING FIX: 'not all who were chosen were worthy' was rendered as 'wasn't everyone worthy', inverting the doubt into an affirmation"
+ },
+ {
+  "key": "gland/SacredGlandEffect",
+  "before": "بقيّةٌ من مُكرَّم. قد تظلّ ذات نفع.",
+  "after": "بقيّةٌ من المُكرَّم. قد تظلّ ذات نفع.",
+  "why": "FROZEN GLOSSARY: Revered = المُكرَّم, definite; the indefinite مُكرَّم weakened it to a common adjective"
+ },
+ {
+  "key": "gland/SacredGland_CathedralEffect",
+  "before": "بقيّةٌ من مُكرَّم. قد تظلّ ذات نفع.",
+  "after": "بقيّةٌ من المُكرَّم. قد تظلّ ذات نفع.",
+  "why": "FROZEN GLOSSARY: Revered = المُكرَّم, definite; the indefinite مُكرَّم weakened it to a common adjective"
+ },
+ {
+  "key": "gland/SacredGland_SnowEffect",
+  "before": "بقيّةٌ من مُكرَّم. قد تظلّ ذات نفع.",
+  "after": "بقيّةٌ من المُكرَّم. قد تظلّ ذات نفع.",
+  "why": "FROZEN GLOSSARY: Revered = المُكرَّم, definite; the indefinite مُكرَّم weakened it to a common adjective"
+ },
+ {
+  "key": "gland/MethersSeveranceEffect",
+  "before": "أحضرها إلى زيريل، حارسة الهَياكل، لقطع رابطتك مع أحد الهَياكل.",
+  "after": "أحضرها إلى زيريل، حارسة الهَياكل، لقطع رابطتك بأحد الهَياكل.",
+  "why": "FROZEN GLOSSARY: Bond takes رابطة بـ, not مع"
+ },
+ {
+  "key": "gland/GraveyardCryptKey",
+  "before": "مفتاح المقبرة",
+  "after": "مفتاح السرداب",
+  "why": "FROZEN GLOSSARY: crypt = سرداب (cf. Crypt of Martyrs = سرداب الشهداء); المقبرة is a graveyard"
+ },
+ {
+  "key": "gland/GrimoriumobscurumEffect",
+  "before": "يمنح الوصول إلى سرّ.",
+  "after": "يتيح الوصول إلى سرّ.",
+  "why": "FROZEN GLOSSARY: 'grants access to' = يتيح, deliberately distinct from يمنح"
+ },
+ {
+  "key": "gland/MushroomVillageKeyFlavorText",
+  "before": "نُقشت على هذا المفتاح، بخطٍّ دقيق، عبارة: «سيدتنا الرشيقة قويّةٌ كالثيران، حكيمةٌ كالأشجار، ومشرقةٌ كبزوغ الشمس».",
+  "after": "نُقشت على هذا المفتاح، بخطٍّ دقيق، عبارة: «سيدتنا الحسناء قويّةٌ كالثيران، حكيمةٌ كالأشجار، ومشرقةٌ كبزوغ الشمس».",
+  "why": "'fair lady' is beautiful/comely, not slender"
+ },
+ {
+  "key": "gland/BlackMarrowKeyFlavourText",
+  "before": "في عظام الأُمَّهة يكمن أعظم عطاياها: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُدعى في العامّة، على نحوٍ مبتذَل، بالقَتام.",
+  "after": "في عظام الأُمَّهة يكمن أشدّ عطاياها أثرًا: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُسمّى بغِلظةٍ: القَتام.",
+  "why": "'most potent' is force, not size; and the three-comma parenthesis around 'crudely called' broke the sentence's fall"
+ }
+]

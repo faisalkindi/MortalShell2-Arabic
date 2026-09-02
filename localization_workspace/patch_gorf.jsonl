@@ -1,0 +1,43 @@
+{"key": "Dialogue_Dlg_Gorf_Greeting_01/B9687D594D74311AE8375F890ABEF510", "old_ar": "حصلت للتو على \"ضفدع\" في حلقي... بمعنى ما.", "new_ar": "يبدو أن في حلقي ضفدعًا آخر... يا للمفارقة، فأنا أصلاً ضفدع!"}
+{"key": "Dialogue_Dlg_Gorf_Interact_01/2763381C4FCAB1019B27BDB1954EC900", "old_ar": "أنا غروف، بالمناسبة. (بصوت خشن)", "new_ar": "أنا غورف، بالمناسبة. (يتجشّأ)"}
+{"key": "Dialogue_Dlg_Gorf_Interact_02/9A4679BE410873A5FB9BA8AA7906B56A", "old_ar": "على أي حال (عطسة) – مكافأتك.", "new_ar": "على أي حال (يتجشّأ) – مكافأتك."}
+{"key": "Dialogue_Dlg_Gorf_Interact_03/0F18360E4B0FC3858FE7598433DA662A", "old_ar": "ها هو. (يضحك)", "new_ar": "ها هو. (يتجشّأ)"}
+{"key": "Dialogue_Dlg_Gorf_Interact_04/4FD248004A60D53D19EAB5B2D7E1E12B", "old_ar": "(بفم ممتلئ) تعرف… لدي فكرة.", "new_ar": "(يتجشّأ) تعرف… لدي فكرة."}
+{"key": "ST_GorfDialogues/Gorf_Interact_03_20", "old_ar": "(صوت ارتجاع) جعلني أفكر.", "new_ar": "(يتجشّأ) جعلني أفكر."}
+{"key": "ST_GorfDialogues/Gorf_Interact_07_10", "old_ar": "(شهيق… (تفجّر))", "new_ar": "(شهيق) … (يتجشّأ)"}
+{"key": "ST_GorfDialogues/Gorf_Interact_04_20", "old_ar": "لدي فكرة. (سعال)", "new_ar": "لدي فكرة. (يتجشّأ)"}
+{"key": "ST_GorfDialogues/Gorf_Interact_01_40", "old_ar": "شكرًا. (بصاق) أنا غروف.", "new_ar": "شكرًا. (يتجشّأ) أنا غورف."}
+{"key": "ST_GorfDialogues/Gorf_Greeting_09_50_Hilga", "old_ar": "(ريببت) تعال، غروف.", "new_ar": "(نقيق) تعال، غورف."}
+{"key": "ST_GorfDialogues/Gorf_Greeting_08_40", "old_ar": "(ريببت) أشعر أنني بخير كالغيمة! على الأقل.", "new_ar": "(نقيق) أشعر أنني بأفضل حال! حسنًا، تقريبًا."}
+{"key": "Dialogue_Dlg_Gorf_Greeting_08/67727A2B4A62FE559AE572849B0AA447", "old_ar": "أشعر أنني بخير كالريح. تقريبًا.", "new_ar": "أشعر أنني بأفضل حال. تقريبًا."}
+{"key": "Dialogue_Dlg_Gorf_FarGreeting_04/A0E8491B4C3B75946C11AAAB6B55CAF9", "old_ar": "(يضحك بسعادة)", "new_ar": "(ينق بسعادة)"}
+{"key": "Dialogue_Dlg_Gorf_FarGreeting_Healed/EE6CC16F40E3B59C1D065F91D9786CC6", "old_ar": "(يضحك بحماس)", "new_ar": "(ينق بحماس)"}
+{"key": "Dialogue_Dlg_Gorf_Greeting_05/DD0B9A2745A8CE319AAB579A245C1C42", "old_ar": "(يصرخ بصوت رنان)", "new_ar": "(ينق بصوت رنان)"}
+{"key": "Dialogue_Dlg_Gorf_Greetingfar_09/BFD7B0F24175290E73F61B94DF12DD8E", "old_ar": "(تغرد بسعادة)", "new_ar": "(ينق بسعادة)"}
+{"key": "Dialogue_Dlg_Gorf_Interact_08/80EE01B54E92D434A2454CB6A1AB417B", "old_ar": "في الأغنية! (يصرخ)", "new_ar": "في الأغنية! (ينق)"}
+{"key": "ST_GorfDialogues/Gorf_Interact_11_20", "old_ar": "(يتنفس بحماس)", "new_ar": "(ينق بحماس)"}
+{"key": "Dialogue_Dlg_Gorf_FarGreeting_04/9C9D0CAB404BA6A5245E3BA491E4550E", "old_ar": "(صوت سعال يتصاعد إلى سعال)", "new_ar": "(نقيق يتحول إلى سعال)"}
+{"key": "Dialogue_Dlg_Gorf_Interact_01/0213A20C4A657194EE614ABB346A95B4", "old_ar": "أو رائحتك... (ينفخ) الغريبة.", "new_ar": "أو رائحتك... (يشم) الغريبة."}
+{"key": "ST_GorfDialogues/Gorf_Corpse_05_30", "old_ar": "حتى في الحياة، كان يشم... (ينفخ) فاسد.", "new_ar": "حتى في الحياة، كان يشم... (يستنشق) فاسد."}
+{"key": "Dialogue_Dlg_Gorf_Interact_01/9E2265D34185D162083AA2A99809E55C", "old_ar": "حسنًا… (عطسة) أنا لست بصحة جيدة تمامًا.", "new_ar": "حسنًا… (سعال) أنا لست بصحة جيدة تمامًا."}
+{"key": "Dialogue_Dlg_Gorf_Interact_02/CE3DF635442E884EF93379B6988904DC", "old_ar": "(عطسة) آمل أن يكون هذا كافياً، لكن...", "new_ar": "(شهيق) آمل أن يكون هذا كافياً، لكن..."}
+{"key": "Dialogue_Dlg_Gorf_Interact_01/F968824A45A29407E8463DB44D21F0AA", "old_ar": "(تنهد) آه…", "new_ar": "(شهيق) آه…"}
+{"key": "Dialogue_Dlg_Gorf_FrogInteract_04/6A3664824710BADF64E91EBC81D06AB7", "old_ar": "(ينهد) لا أستطيع أن أتعلق بهذه الضفادع الأخرى.", "new_ar": "(يتنهد) لا أستطيع أن أتعلق بهذه الضفادع الأخرى."}
+{"key": "Dialogue_Dlg_Gorf_FrogInteract_04/CF2438A4484B086B2338BAAAC78DBE84", "old_ar": "(ينهد) نحن تقريبًا نوع مختلف.", "new_ar": "(يتنهد) نحن تقريبًا نوع مختلف."}
+{"key": "Dialogue_Dlg_Gorf_Interact_NoItem/7775CCC2448484838DD0BFAFF7512B2B", "old_ar": "لا تقلق. لديّ أن أرى أنك تملك القليل لتشاركه.", "new_ar": "لا تقلق. أرى أنه ليس لديك الكثير لتشاركه."}
+{"key": "Dialogue_Dlg_Gorf_Interact_NoItem_Mushroom/BB0F81A74DE0E961DB0509AEED719645", "old_ar": "لا تقلق. لديّ أن أرى أنك تملك القليل لتشاركه.", "new_ar": "لا تقلق. أرى أنه ليس لديك الكثير لتشاركه."}
+{"key": "Dialogue_Dlg_Gorf_Interact_NoItem_03/4E9B25994855D4C2C32C189AFF642881", "old_ar": "ذوقه فاسد، لكنه وضع الربيع في خطوتي", "new_ar": "ذوقه فاسد، لكنه أعاد النشاط إلى قفزاتي"}
+{"key": "Dialogue_Dlg_Gorf_InteractCorpse_05/365628D043CF9E4574EC828659EF428E", "old_ar": "اندفع إلى الداخل، يتحدث بجنون عن شيء يسمى", "new_ar": "اندفع إلى الداخل، يتحدث بجنون عن شيء يسمى \"غروغا العظيمة\"."}
+{"key": "Dialogue_Dlg_Gorf_InteractCorpse_06/D957076944AC276A6D775A8130F20EF8", "old_ar": "اندفعوا إلى الداخل، يتحدثون بجنون عن شيء يسمى ", "new_ar": "اندفعوا إلى الداخل، يتحدثون بجنون عن شيء يسمى \"غروغا العظيمة\"."}
+{"key": "ST_GorfDialogues/Gorf_Corpse_05_20", "old_ar": "اندفع إلى الداخل، يتحدث بجنون عن شيء يسمى", "new_ar": "اندفع إلى الداخل، يتحدث بجنون عن شيء يسمى \"غروغا العظيمة\"."}
+{"key": "ST_GorfDialogues/Gorf_Interact_06_20", "old_ar": "بالنسبة لتنين ذو رأس قرني قديم.", "new_ar": "بالنسبة إلى ضفدع عجوز ذي قرون على رأسه."}
+{"key": "ST_GorfDialogues/Gorf_BabyFrog_10_60", "old_ar": "استمع إلى هذا الضفدع! يشبه والده.", "new_ar": "استمع إلى نقيقه! يشبه والده تمامًا."}
+{"key": "ST_GorfDialogues/Gorf_Greeting_01_50", "old_ar": "قفز!", "new_ar": "اقفز بعيدًا!"}
+{"key": "ST_GorfDialogues/Gorf_Greeting_01_40", "old_ar": "لا داعي للقلق. (يخلص حلقه) تابع!", "new_ar": "لا داعي للقلق. (يتنحنح) اقفز بعيدًا!"}
+{"key": "ST_GorfDialogues/Gorf_Greeting_01_30", "old_ar": "فقط حصلت على ضفدع في حلقي.", "new_ar": "يبدو أن في حلقي ضفدعًا آخر... وهذا محرج لضفدع مثلي."}
+{"key": "Dialogue_Dlg_Gorf_Greeting_02/6F6583C54F7E25C59D68849BA46D3F84", "old_ar": "يبدو أنني… غير قادر على إصدار الصوت والدعوة كما كنت أفعل.", "new_ar": "يبدو أنني… لم أعد قادرًا على النقيق والغناء كما كنت."}
+{"key": "ST_GorfDialogues/Gorf_Greeting_04_40", "old_ar": "ولقد وجدت بعد ذلك شريكًا مناسبًا.", "new_ar": "ولم أجد بعد شريكًا مناسبًا."}
+{"key": "Dialogue_Dlg_Gorf_Greeting_05/B22646AC4B32291C7FBC7DA4EBC5E053", "old_ar": "أعتقد أنني قد أستسلم للغناء والبحث عن الحب.", "new_ar": "أعتقد أنني قد أتخلى عن الغناء والبحث عن الحب."}
+{"key": "ST_GorfDialogues/Gorf_Greeting_05_30", "old_ar": "أستسلم على الغناء.", "new_ar": "سأتخلى عن الغناء."}
+{"key": "Dialogue_Dlg_Gorf_Interact_08/0F879E9447FA537D3668E0A5B7D8C426", "old_ar": "ظننت أن كل بُكْري لم يكن له جدوى.", "new_ar": "ظننت أن كل نقيقي لم يكن له جدوى."}
+{"key": "Dialogue_Dlg_Gorf_Greeting_03/1A6C1C624F7CD874322375970DAEFC39", "old_ar": "ربما ما يعاني مني هو نقص في الشجاعة؟", "new_ar": "ربما ما أعاني منه هو نقص في الشجاعة؟"}

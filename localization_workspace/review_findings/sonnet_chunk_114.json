@@ -1,0 +1,13 @@
+{"chunk": 114, "rows_reviewed": 27, "findings": [
+  {"key": "tra/ChangeClothing",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Change Mortal Clothing", "ar": "تغيير الزيّ الفاني",
+   "issue": "Glossary freezes 'Mortal Clothing' as the fixed compound زيّ الفانين; this row uses the adjectival الزيّ الفاني instead.",
+   "suggested_ar": "تغيير زيّ الفانين"},
+
+  {"key": "tra/ChangeClothingDesc",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Apply or remove Mortal Clothing from characters", "ar": "تطبيق الزيّ الفاني على الشخصيات أو إزالته",
+   "issue": "Same زيّ الفانين violation as the sibling ChangeClothing row.",
+   "suggested_ar": "تطبيق زيّ الفانين على الشخصيات أو إزالته"}
+]}

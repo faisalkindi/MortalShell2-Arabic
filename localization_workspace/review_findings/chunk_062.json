@@ -1,0 +1,33 @@
+{
+ "chunk": 62,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/2F08CE4347CEF9E79B0ACAB5220030F1",
+   "type": "gender_error",
+   "severity": "major",
+   "source_en": "I was wrong… to doubt you… all those years ago.",
+   "ar": "كنت مخطئة... حين شككت بك... قبل كل تلك السنين.",
+   "issue": "Two gender errors in one row. Thestus is male and is masculine everywhere else in this batch ((يضحك بخفة), (يشمّ), فمستعد), but مخطئة is feminine. The addressee is Genessa, female and marked with كِ in every sibling row (لكنكِ, أفسدكِ, جعلكِ, ادّخرت لكِ), yet this row uses masculine بك.",
+   "suggested_ar": "كنت مخطئًا... حين شككتُ بكِ... قبل كل تلك السنين."
+  },
+  {
+   "key": "Dialogue_Dlg_Thestus_GenessaInteraciton/F9514BA0495A9C89D5EC8EA0028FBB58",
+   "type": "gender_error",
+   "severity": "minor",
+   "source_en": "Is it… you?",
+   "ar": "أهذا... أنت؟",
+   "issue": "Addressee is Genessa (female). Sibling rows in the same scene mark her explicitly with كِ/تكرهين, so unmarked أنت reads masculine here, and the demonstrative أهذا is masculine.",
+   "suggested_ar": "أهذه... أنتِ؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Tarforge_Greetings/0DA49BA348AECC02B83366AF905A4FA7",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "…I AM...",
+   "ar": "…أنا...",
+   "issue": "Rendered identically to the sibling rows …I... and …ME... (both أنا) in the same namespace. I AM is the awakening forge asserting existence, not the bare pronoun; the distinction the source draws between the three fragments is lost.",
+   "suggested_ar": "…أنا موجودة..."
+  }
+ ]
+}

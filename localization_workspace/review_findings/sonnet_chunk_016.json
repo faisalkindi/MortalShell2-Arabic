@@ -1,0 +1,15 @@
+{"chunk": 16, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_Dungeons/LI_Tomb_Medium_Layout_23",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Feeding Grounds",
+   "ar": "مَرتَع الافتراس",
+   "issue": "Glossary freezes 'Feeding Grounds' (location) as مَرتَع exactly; this row adds الافتراس ('of predation'), a word not in the approved term.",
+   "suggested_ar": "مَرتَع"},
+
+  {"key": "ST_Core_Dungeons/LI_Tomb_Layout_03",
+   "type": "term_violation", "severity": "major",
+   "source_en": "Discple's Stash",
+   "ar": "خبيئة المُريد",
+   "issue": "Glossary reserves المُريد strictly for Tiel's Acolyte title and says generic 'disciples/followers' must use أتباع, never مريدون/مُريد. This is a generic disciple, not Tiel.",
+   "suggested_ar": "خبيئة التابِع"}
+]}

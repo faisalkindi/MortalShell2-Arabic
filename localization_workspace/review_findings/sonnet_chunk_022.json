@@ -1,0 +1,50 @@
+{"chunk": 22, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Skills_Sariel/SarielSkillGrowth_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Expelled thorns inflict {Y} <Perforation>Perforation</> stacks",
+   "ar": "تُلحق الأشواك المقذوفة {Y} تراكمات <Perforation>الثَّقب</>.",
+   "issue": "Inflicting a status stack (Perforation) should use تُنزل, not تُلحق (reserved for damage).",
+   "suggested_ar": "تُنزل الأشواك المقذوفة {Y} تراكمات <Perforation>الثَّقب</>."},
+
+  {"key": "ST_Skills_Sariel/SarielSkillEntitlement_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Sariel generates a shockwave which inflicts {X} <Trauma>Trauma</> stacks",
+   "ar": "يولّد سارييل موجة صدمة تُلحق {X} تراكمات <Trauma>الرَّضّ</>.",
+   "issue": "Inflicting a Trauma status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "يولّد سارييل موجة صدمة تُنزل {X} تراكمات <Trauma>الرَّضّ</>."},
+
+  {"key": "ST_Skills_Smert/ShellSkillSmertStriker_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Fists inflict {X} <Chaos>Chaos</> stacks",
+   "ar": "تُلحق اللكمات {X} تراكمات <Chaos>الفوضى</>.",
+   "issue": "Inflicting a Chaos status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل اللكمات {X} تراكمات <Chaos>الفوضى</>."},
+
+  {"key": "ST_Skills_Smert/ShellSkillSmertLimitless_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "For every {X} <Chaos>Chaos</> stacks inflicted Smert has {Y} chance to replenish Miracle’s duration by {Z}",
+   "ar": "مقابل كل {X} تراكمات <Chaos>فوضى</> يُلحقها، لدى سميرت احتمال قدره {Y} لتجديد مدة المعجزة بمقدار {Z}.",
+   "issue": "Inflicting Chaos status stacks should use ينزلها/يُنزل, not يُلحقها.",
+   "suggested_ar": "مقابل كل {X} تراكمات <Chaos>فوضى</> يُنزلها، لدى سميرت احتمال قدره {Y} لتجديد مدة المعجزة بمقدار {Z}."},
+
+  {"key": "ST_Skills_Smert/ShellSkillSmertKicker_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "Kicks inflict {X} <Chaos>Chaos</> stacks",
+   "ar": "تُلحق الركلات {X} تراكمات <Chaos>الفوضى</>.",
+   "issue": "Inflicting a Chaos status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل الركلات {X} تراكمات <Chaos>الفوضى</>."},
+
+  {"key": "ST_Skills_Tiel/TielSkillShadowClone_Effect_1",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Shadow Dash</> leaves behind a <Bold>Shadow Clone</> that inflicts {Y} <Poison>Poison</> stacks to enemies that strike it.\nThe clone can resist up to {X} strikes.",
+   "ar": "تترك <Bold>اندفاعة الظل</> وراءها <Bold>شبيه ظل</> يُلحق {Y} تراكمات <Poison>السم</> بالأعداء الذين يضربونه.\nيقدر الشبيه على تحمل حتى {X} ضربات.",
+   "issue": "Inflicting a Poison status stack should use يُنزل, not يُلحق.",
+   "suggested_ar": "تترك <Bold>اندفاعة الظل</> وراءها <Bold>شبيه ظل</> يُنزل {Y} تراكمات <Poison>السم</> بالأعداء الذين يضربونه.\nيقدر الشبيه على تحمل حتى {X} ضربات."},
+
+  {"key": "ST_Skills_Tiel/TielSkillEscalation_Effect_2",
+   "type": "term_violation", "severity": "minor",
+   "source_en": "<Bold>Shadow Strike</> inflicts {Y} <Poison>Poison</> stacks",
+   "ar": "تُلحق <Bold>ضربة الظل</> {Y} تراكمات <Poison>السم</>.",
+   "issue": "Inflicting a Poison status stack should use تُنزل, not تُلحق.",
+   "suggested_ar": "تُنزل <Bold>ضربة الظل</> {Y} تراكمات <Poison>السم</>."}
+]}

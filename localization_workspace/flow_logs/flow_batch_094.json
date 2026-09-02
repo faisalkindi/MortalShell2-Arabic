@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_DistantPrayer/DD28B83E43FCE7CCE35AD8B2B54F8151",
+  "before": "أخيرًا... صرتُ جزءًا من كلٍّ أعظم.",
+  "after": "صرتُ أخيرًا جزءًا من كلٍّ أعظم.",
+  "why": "fronted 'أخيرًا' plus an ASCII ellipsis the source does not have"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_DistantPrayer/D9BF0E1441ECD071568B0C86F1151416",
+  "before": "الفراغ الذي خلّفته من نُسمّيها أُمَّهتنا.",
+  "after": "الفراغ الذي خلّفته أُمَّهتنا المزعومة.",
+  "why": "'من نُسمّيها أُمَّهتنا' is a clumsy relative clause; المزعومة carries 'so-called'"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_Interact/0D00F98B4A01AE4DC84E97892BC2310A",
+  "before": "كل ما تعرفه هو العنف.",
+  "after": "لا تعرف غير العنف.",
+  "why": "'كل ما تعرفه هو العنف' is English clause shape"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_Interact/C73BA6C8463C4635E037FC81B3736FA3",
+  "before": "أأرسلتك كي تقتلني؟",
+  "after": "أأرسلتك لتصرعني؟",
+  "why": "'تقتلني' flattens 'strike me down'; تصرع fits the devotional register"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_Interact/7A6AD3734D6898C6F4805594BCCA2966",
+  "before": "شكّ ربما؟",
+  "after": "أهو الشكّ ربما؟",
+  "why": "bare 'شكّ ربما؟' is not a question in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_Interact/0B13EDA84F1A0F0CA354E9B5A9979F18",
+  "before": "خالد. لا ينتهي.",
+  "after": "خالدٌ. لا آخر له.",
+  "why": "'لا ينتهي' is flat; the pair needs matching weight"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_PlayerReaction/5E5697EB41E6433416C94E9DD01D6F4C",
+  "before": "أرسلت ابنها الوحيد.",
+  "after": "لقد أرسلت ابنها الوحيد.",
+  "why": "قد restores the scriptural weight of 'has sent'"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_01_PrayerContinues/3307D57A46DD6164568745AC26AE0E4C",
+  "before": "قد تتساءل إذن— لمَ يجب أن نختبئ؟",
+  "after": "قد تتساءل إذن: لِمَ علينا أن نختبئ؟",
+  "why": "stray em-dash spacing; colon is the Arabic move here"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_AfterHeartTaken/F546B15B4C3D03C8B4D7AE9825DE18DF",
+  "before": "نعم… أمسكه قريبًا منك.",
+  "after": "نعم… ضُمَّه إليك.",
+  "why": "'أمسكه قريبًا منك' is a calque of 'hold it close'"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_AfterRefusingGift/3AA8CF8D44C7854DB3D9C6A982369512",
+  "before": "أعدت التفكير؟",
+  "after": "أأعدت النظر؟",
+  "why": "'أعدت التفكير؟' lacks the interrogative hamza and the idiom is إعادة النظر"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_CloseTrigger/EF94A58D45B459967DE74688C56CD4AD",
+  "before": "أوه، نعم… إنه أنت.",
+  "after": "آه، نعم… إنه أنت.",
+  "why": "'أوه' is out of register for the elevated cultist voice"
+ },
+ {
+  "key": "Dialogue_Dlg_BanishedCultist_02_Interact/997C60F74F7F9EA1C916FEADBFE10017",
+  "before": "هذا التحذير ليس هديتي.",
+  "after": "وليس هذا التحذير هديتي.",
+  "why": "carries the discourse 'Now' and uses Arabic's fronted negation"
+ }
+]

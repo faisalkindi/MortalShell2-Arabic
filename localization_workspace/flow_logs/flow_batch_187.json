@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Dialogue_Dlg_SidearmCultist_OnInteract/A44037F14244154B7D81E583CF4AC1C8",
+  "before": "أرجوك، دعني أصنع لك سلاحًا جانبيًا يليق بك.",
+  "after": "أرجوك، دعني أصنع سلاحًا جانبيًا يليق بك.",
+  "why": "cut the doubled dative (لك ... بك)"
+ },
+ {
+  "key": "Dialogue_Dlg_SidearmCultist_OnInteract/10A4C7D849D12FCB813781997D036E9C",
+  "before": "وماذا غير ذلك لديك؟",
+  "after": "وماذا لديك غير ذلك؟",
+  "why": "Arabic word order: predicate before the exception phrase"
+ }
+]

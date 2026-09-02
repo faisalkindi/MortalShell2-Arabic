@@ -1,0 +1,105 @@
+{"key": "Dialogue_Dlg_Merchant_AfterDeath/B26D6FBF4F93DD7BF22827A8099C7BCD", "old_ar": "لن أتظاهر بأنني أفهم كل شيء، لكن…", "new_ar": "لن أتظاهر بأني أفهم كل هذا، لكنـــ…"}
+{"key": "Dialogue_Dlg_Merchant_Generic_CantBuy/048BDC2E442CAE5799FCF99E176184D2", "old_ar": "الرجاء لا تتوسل.", "new_ar": "لن ينفعك التوسل."}
+{"key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/4F22027C4BDC95490A0115B41BE96174", "old_ar": "في المرة القادمة، آمل أن أسمع تلك الجيوب ترن.", "new_ar": "في المرة القادمة، يستحسن أن أسمع رنين تلك الجيوب."}
+{"key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/72F7403F4B75E4FF7BCDB6BC8D6EBE56", "old_ar": "اذهب الآن. لا تموت.", "new_ar": "اذهب إذن. حاول ألا تموت!"}
+{"key": "Dialogue_Dlg_Merchant_Goodbye_MasterTree/7595CEFF452AB7378EFCCCA0612987E0", "old_ar": "لا شيء.", "new_ar": "شكرًا على ولا شيء."}
+{"key": "Dialogue_Dlg_Merchant_Greeting_Generic/866A583144E96952313AC98E37ACAB4B", "old_ar": "أو... حسنًا، زبائني الوحيد حقًا.", "new_ar": "أو... حسنًا، زبوني الوحيد حقًا."}
+{"key": "Dialogue_Dlg_Merchant_Greeting_Generic/355F4EA64C95194E9759DDB2A31D3E55", "old_ar": "عودة، هاه؟", "new_ar": "رجعت، ها؟"}
+{"key": "Dialogue_Dlg_Merchant_GreetingAfterDeath/0AEAC08445A1A94454681F9C541AD40D", "old_ar": "لمزاحتك.", "new_ar": "لأنك وغد."}
+{"key": "Dialogue_Dlg_Merchant_GreetingAfterDogKilled/90027DB54ECC522008710FBAD575F624", "old_ar": "لقد عدت بالفعل. لا أعتقد أنك تفهم مدى جرأتك.", "new_ar": "يا لجرأتك، تجرؤ على العودة إلى هنا؟"}
+{"key": "Dialogue_Dlg_Merchant_HexapodKilled/0DF42E6847C5CD91EDAAAE84534FCB77", "old_ar": "وبأيدي من أيضًا؟", "new_ar": "وعلى يديها هي أيضًا."}
+{"key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/98FCF9984B1028F0446C49A7DCCAABEA", "old_ar": "لكن ربما كان بإمكاننا أن نحصل على عدد قليل أكثر… من المغامرات.", "new_ar": "لكن ربما كان بإمكاننا أن نخوض بضع… مغامرات أخرى."}
+{"key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/B3EF78424C347AC4EF59E7A89031F5B2", "old_ar": "أتساءل… ما نوع الحياة التي كانت قد عاشتها هي أو ربما حتى نحن.", "new_ar": "أتساءل… أي حياة كان يمكن أن تحياها هي، أو حتى نحن."}
+{"key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/E490F5A746F7E2284C825FBF8E24E5BA", "old_ar": "أنا سعيد… تعرف.", "new_ar": "أنا سعيد… كما تعلم."}
+{"key": "Dialogue_Dlg_Merchant_HitByPlayer/7B7562804865F9449F3652A39C5C6D9B", "old_ar": "تفضل.", "new_ar": "اغرب عن وجهي."}
+{"key": "Dialogue_Dlg_Merchant_HitByPlayer/C577E50045BD5FE2A09491B48E798FFD", "old_ar": "ماذا الجحيم يا صديقي؟", "new_ar": "ما هذا بحق الجحيم يا صديقي؟"}
+{"key": "Dialogue_Dlg_Merchant_KilledByPlayer/D658F63F415A9DFE580D9788A1870671", "old_ar": "سأتذكر هذا…", "new_ar": "سأتذكر هذا… يا صديقي."}
+{"key": "Dialogue_Dlg_Merchant_KilledByPlayer/767E39AA4C66447C57494DB1A75ADC64", "old_ar": "ما الذي حدث للتو؟؟", "new_ar": "ما... بحق الجحيم... كان هذا؟"}
+{"key": "Dialogue_Dlg_Merchant_KilledByPlayer/D94B009041A9C725E96B09A2BFB764AB", "old_ar": "أنت جبان لعين.", "new_ar": "أنت... وغدٌ... حقير."}
+{"key": "Dialogue_Dlg_Merchant_OnBuy_MartyrAsh/A6D260FF4F175BBD892A60B66F28C484", "old_ar": "مقبرة", "new_ar": "طازج، للتو من القبر."}
+{"key": "Dialogue_Dlg_Merchant_OnBuy_Tarstones/C73265264AA85CAA03A518B86EB47D25", "old_ar": "أمر مضحك صغير - أليس كذلك؟", "new_ar": "شيء طريف صغير، أليس كذلك؟"}
+{"key": "Dialogue_Dlg_Merchant_OnBuy_Tarstones/1D194DD3470128078176608CE60592FA", "old_ar": "بالتأكيد، هذا سيساعدكم في المعركة.", "new_ar": "بالتأكيد، هذا سيساعدك في المعركة."}
+{"key": "Dialogue_Dlg_Merchant_OnBuy_Tarstones/66D0191C496DBBFA9EB83B8DF3269258", "old_ar": "ما رأيكم؟ سيكون هناك المزيد قريبًا، على الأرجح.", "new_ar": "ما رأيك؟ سيكون هناك المزيد قريبًا، على الأرجح."}
+{"key": "Dialogue_Dlg_Merchant_Unfriendly/A14E8E904A4331D2627BB1A93AF1678C", "old_ar": "لقد عدت، أليس كذلك؟", "new_ar": "رجعت، ها؟"}
+{"key": "Dialogue_Dlg_Blacksmith_GainUpgrade_01/394724D04896A1E1D404E182FABE9854", "old_ar": "يا رحمة حلوة!", "new_ar": "يا رحمة الله!"}
+{"key": "Dialogue_Dlg_Blacksmith_GiveActuator_01/AA86197F4D707B8FB7FF97A764C4904A", "old_ar": "هذه الجزء… ما يجعلها تخرخر.", "new_ar": "هذا الجزء… ما يجعلها تخرخر."}
+{"key": "Dialogue_Dlg_Blacksmith_GiveLathe/D3506BEB42FC680BAA0831B4194535A1", "old_ar": "إنه تقريبًا...", "new_ar": "إنه يكاد يُذهب العقل من شدة روعته."}
+{"key": "Dialogue_Dlg_Blacksmith_Greeting_FoundryStone/AA16DE2848CE5C7A5C9AB3857F1F494C", "old_ar": "هذا الرائحة... مثل الرماد والدم.", "new_ar": "هذه الرائحة... مثل الرماد والدم."}
+{"key": "Dialogue_Dlg_Blacksmith_Greeting_Lathe/5EF066BB4FC477A729447A9150E39044", "old_ar": "يجب أن يكون لديك شيء تريده.", "new_ar": "ستصبح أكثر فائدة."}
+{"key": "Dialogue_Dlg_Blacksmith_Greeting_Lathe/91578E52446D5EA039FC6CAD3D186960", "old_ar": "قطعة أخرى من قطعها المفقودة؟", "new_ar": "لا بد أن معك شيئًا تريده."}
+{"key": "Dialogue_Dlg_Blacksmith_Greeting_Needles/0B8C25084202850937B1209412242620", "old_ar": "همم. ماذا أسمع رنينًا؟", "new_ar": "همم. ما هذا الرنين الذي أسمعه؟"}
+{"key": "Dialogue_Dlg_Blacksmith_HitReact/2B09B783467EBF4B98E790B7F26CD8A8", "old_ar": "أنت أعمى!", "new_ar": "(يئن) أنت أعمى؟!"}
+{"key": "Dialogue_Dlg_Blacksmith_HitReact/0BC3AA074FB3D8A23ED04395FAE266F6", "old_ar": "وماذا تفعل غاضبًا؟", "new_ar": "ما بك؟ هل جننت؟"}
+{"key": "Dialogue_Dlg_Blacksmith_Interact_02/AB5AFE0B44274881DF431A9E47D2F91A", "old_ar": "أشعر وكأنني أعمل على هذه منذ فترة طويلة.", "new_ar": "أشعر وكأنني أدير عجلتها منذ زمن طويل."}
+{"key": "Dialogue_Dlg_Blacksmith_Interact_02/96927E4043AEAA0270D9B39A7F57EA89", "old_ar": "انظر. لن أداعبك.", "new_ar": "انظر. لن أتساهل معك."}
+{"key": "Dialogue_Dlg_Blacksmith_Intro/B3BBE09F4CEDB190766217BC4C5BB0B0", "old_ar": "هي... ميتة... ميتة. (تتنفس بصعوبة)\nالشرارة ابتلعتها.", "new_ar": "هي... ميتة... ميتة. (يسعل)\nالشرارة خُنقت... وابتُلعت."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_130", "old_ar": "(تقييم) إنها معطية.", "new_ar": "(بتقدير) إنها معطية."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_100", "old_ar": "(غرغرة) لا تتفاخر.", "new_ar": "(همهمة) لا تتباهَ."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_10", "old_ar": "جيد بما فيه الكفاية.", "new_ar": "(همهمة) جيد بما فيه الكفاية."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_15_10", "old_ar": "آه. انس الأمر. كل ما تهتم به هو تلك الفرن اللعينة.", "new_ar": "آه. انسَ الأمر. كل ما تهتم به هو ذلك الفرن اللعين."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_30", "old_ar": "هواة.", "new_ar": "هاوٍ."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic04_10", "old_ar": "عاد مرة أخرى؟ ماذا قلت لك؟", "new_ar": "عدت مرة أخرى؟ ماذا قلت لك؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_02_30", "old_ar": "باه. تابع العمل ثم.", "new_ar": "باه. تابع العمل إذن."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_01_20", "old_ar": "تعال. أطعمها. إنها جائعة!.", "new_ar": "تعال. أطعمها. إنها جائعة!"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_06_20", "old_ar": "تعال. أخرجها. قل شيئًا. أي شيء!", "new_ar": "هيا، قلها! قل شيئًا. أي شيء!"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_30", "old_ar": "لا تقف فقط هناك. احصل.", "new_ar": "لا تقف هكذا. اغرب من هنا."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_15_20", "old_ar": "لسرقة مني. منها", "new_ar": "لسرقتك مني. ومنها."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_06_10", "old_ar": "نسيتها. فقط للحظة", "new_ar": "انسها. فقط للحظة."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_40", "old_ar": "حسنًا… بالنسبة لجنتلمان.", "new_ar": "جيد... بالنسبة لصانعٍ مبتدئ."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_09_20", "old_ar": "علمتك جيدًا. أنت وأخيك.", "new_ar": "ربّيتكما تربية حسنة. أنت وأخوك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_13_30", "old_ar": "إذا قمت بالوقوف.", "new_ar": "إذا أصلحت حالك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_20", "old_ar": "بدأ الأمر عندما فقدت إصبعك؟", "new_ar": "بدأ الأمر عندما «فقدت» إصبعك؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_NoHelp_04_20", "old_ar": "الآن كن ولداً طيباً وساعد والدك.", "new_ar": "الآن كن فتىً طيباً وساعد والدك على النهوض."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_04_20", "old_ar": "الآن جيت!", "new_ar": "الآن اغرب من هنا!"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic04_Upgrade_10", "old_ar": "يا... يا لها من حظ سيء. يا لها من قذرة.", "new_ar": "أوه... كم هذا لطيف. يا للجحود الرخيص."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_70", "old_ar": "يا... إنها لطيفة معك.", "new_ar": "أوه... إنها لطيفة معك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_TurnInProof_Upgrade_12_10", "old_ar": "سعيد، أنت؟ أنت محظوظة أنني لست أصغر.", "new_ar": "سعيد، أنت؟ أنت محظوظ أنني لست أصغر."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_100", "old_ar": "تذكري دروسك.", "new_ar": "تذكر دروسك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_20", "old_ar": "هي جائعة للمزيد. دائمًا المزيد. تعالي.", "new_ar": "هي جائعة للمزيد. دائمًا المزيد. تعالَ."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_07_10", "old_ar": "إنها جائعة، موساؤنا.", "new_ar": "إنها نهمة، ربة إلهامنا."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_05_10", "old_ar": "تأخذ إعجابًا بك.", "new_ar": "يبدو أنها أُعجبت بك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_110", "old_ar": "متواصل.", "new_ar": "اثبت."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_02_20", "old_ar": "هل ما زلت لا تتحدث إلى هايري القديم؟", "new_ar": "هل ما زلت لا تتحدث إلى هايريك القديم؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_03_10", "old_ar": "هل أنت؟", "new_ar": "أهذا أنت، يا فتى؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_80", "old_ar": "هذا دورك يا صديقي. اذهب.", "new_ar": "هذا دورك يا فتى. اذهب."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_10_10", "old_ar": "ها هو. جاهز لكسر هذا الصمت؟", "new_ar": "ها أنت ذا. مستعد لكسر نذر صمتك؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_05_10", "old_ar": "أخيرًا.", "new_ar": "استغرقت وقتًا طويلاً بما فيه الكفاية."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_40", "old_ar": "شاهد تلك الأصابع.", "new_ar": "انتبه لأصابعك."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_01_20", "old_ar": "حسنًا… اذهب على ذلك!", "new_ar": "حسنًا… اذهب إذن. إنها جائعة للمزيد."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_50", "old_ar": "حسنًا… أخرج بها!", "new_ar": "حسنًا… اخرج من هنا!"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_10", "old_ar": "لقد كنا (يضحك بشدة) ننتظر.", "new_ar": "لقد كنا (نسعل بشدة) ننتظر."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Leave_NoHelp_04_10", "old_ar": "أنت يا ابن العاهرة المغلق. عد هنا!", "new_ar": "أيها الوغد العنيد، عد إلى هنا!"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_13_20", "old_ar": "يا لها من زيارة حصلت عليها.", "new_ar": "لن تصدق الزيارة التي حظيت بها."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Interact_11_10", "old_ar": "صمتكم يتحدث بصوت عالٍ.", "new_ar": "صمتك يقول الكثير."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_70", "old_ar": "تم فصلك.", "new_ar": "يمكنك الانصراف."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_150", "old_ar": "تحسن.", "new_ar": "أنت… تتحسن."}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_04_20", "old_ar": "سقطت. ساعدني بالفعل.", "new_ar": "سقطت. هيا ساعدني على النهوض!"}
+{"key": "Dialogue_Dlg_Vlas_Event_Goodbye_01/8D19DE1144500856F698F8B2A3264429", "old_ar": "عن مشاكلك.", "new_ar": "مقابل متاعبك."}
+{"key": "Dialogue_Dlg_Vlas_Event_Goodbye_Interact_01/113722EF46E4E48EBE39EDA3A47F0626", "old_ar": "عن مشاكلك.", "new_ar": "مقابل متاعبك."}
+{"key": "Dialogue_Dlg_Vlas_Event_Goodbye_Interact_01/257781C2486273C35B1D879399DCB815", "old_ar": "احتفظ بعينيك مفتوحتين، من فضلك.", "new_ar": "ابقَ متيقظًا، رجاءً."}
+{"key": "Dialogue_Dlg_Vlas_Event_Goodbye_Interact_01/8E6C630946ED09B73AEB31B6E71BBFDB", "old_ar": "احتفظ بعينيك مفتوحتين، من فضلك.", "new_ar": "ابقَ متيقظًا، رجاءً."}
+{"key": "Dialogue_Dlg_Vlas_Goodbye_02/68CC025C424EEAD35C7A45A526F03354", "old_ar": "سأستأنف عملي، وأختزل الظلمة.", "new_ar": "سأستأنف عملي في تقطير الظلمة."}
+{"key": "Dialogue_Dlg_Vlas_Goodbye_04/27C897EB40E1F094D8B8CA8CD59B5A52", "old_ar": "دين كبير لك.", "new_ar": "أنا مدين لك بشكل كبير."}
+{"key": "Dialogue_Dlg_Vlas_Greeting_04/2A4DB16E44D7E0F334FA9390FA9FD7B9", "old_ar": "و انظروا كيف انتهى الأمر.", "new_ar": "وانظر كيف انتهى الأمر."}
+{"key": "Dialogue_Dlg_Vlas_Greeting_06/93B8C001476D5F18233A90AD64AFCDC6", "old_ar": "مرحبًا بك مرة أخرى، يا صديق.", "new_ar": "مرحبًا بك مرة أخرى، يا صديقي."}
+{"key": "Dialogue_Dlg_Vlas_Interact_01/72DDF79F42011838F3DCC1B21EACE364", "old_ar": "احتفظ بعينيك مفتوحتين، من فضلك.", "new_ar": "ابقَ متيقظًا، رجاءً."}
+{"key": "Dialogue_Dlg_Vlas_Interact_04/50AC17DE402DE4A2C3271DAA0CEB6FA9", "old_ar": "و انظروا كيف انتهى الأمر.", "new_ar": "وانظر كيف انتهى الأمر."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Hub/FA54CB8B4BEF049453468E97399C5EEE", "old_ar": "إنها مطاردة لا تنتهي وفارغة.", "new_ar": "إنها مطاردة لا نهاية لها ولا طائل منها."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Hub/21AAFC4B42BD66EB53886CB22AC4BB3B", "old_ar": "أتباعه… يستمرون في إعطائه الحلوى.", "new_ar": "«أتباعك»… ما زالوا يطعمونه الحلوى."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/576F2EAF493AB362F4C086AA3BA40774", "old_ar": "و انظروا كيف انتهى الأمر.", "new_ar": "وانظر كيف انتهى الأمر."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/C11234D947A9670B03F46294717958CB", "old_ar": "احتفظ بعينيك مفتوحتين، من فضلك.", "new_ar": "ابقَ متيقظًا، رجاءً."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_02_CatBlood/ABC4B0BE4EF71445807CDF98C2ECB08B", "old_ar": "رفضت عروضهم، رشاواهم.", "new_ar": "رفضتُ عروضهم... ورشاواهم."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_02_CatBlood/61A537CF422BCFE15D1F7095BF2C1906", "old_ar": "سأستأنف عملي، وأختزل الظلمة.", "new_ar": "سأستأنف عملي في تقطير الظلمة."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_02_CatBlood/67546CC54A60DF58AF8E5982837C46C6", "old_ar": "جلبوه لي ذيله.", "new_ar": "أحضروا لي ذيله."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_Axe/A6D95D0040963E7774B384BA7A356068", "old_ar": "لكنني لست جزارًا ولا قاتل.", "new_ar": "لكنني لستُ جزارًا. لستُ قاتلاً."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_Axe/96C54D11449625D4154C38866A0BF4F2", "old_ar": "يجب أن أكون قد استخدمته.", "new_ar": "كان يجب أن أستخدمه."}
+{"key": "Dialogue_Dlg_Vlas_Investigate_Wagon/C5804D96454551BCFBB020B2BD4CA726", "old_ar": "كانوا قطاع الطرق... أقوياء بشكل غير طبيعي.", "new_ar": "كان أولئك القُطّاع... أقوياء بشكل غير طبيعي."}
+{"key": "Dialogue_Dlg_VlasEvent_03_BrigMerchant/086E8D964BD8BBFEC7EDBF8D5EBFD4F4", "old_ar": "الترحيبات، أيها السيد. ماذا تحتاج؟", "new_ar": "أهلاً يا صديقي. ماذا تحتاج؟"}
+{"key": "Dialogue_Dlg_VlasEvent_03_LockedDoor/33090E0D4A803CB723C9AFBE56B99EF8", "old_ar": "اكتشافه.", "new_ar": "ابحث عنه."}
+{"key": "Dialogue_Dlg_VlasEvent_03_LockedDoor/F05738FE4A0DD57B91E68B8CD8396EDB", "old_ar": "اكتشافه.", "new_ar": "ابحث عنه."}
+{"key": "Dialogue_Dlg_VlasEvent_03_Speak_BrigMerchant/76416B10424E5709CB451F99C1B4AA9B", "old_ar": "القطة.", "new_ar": "إلا القطة."}
+{"key": "Dialogue_Dlg_VlasEvent_03_Speak_BrigMerchant/8C732DBE48557FBDCCAD04A5A1F5D78E", "old_ar": "هل أنت أصم وأعمى؟", "new_ar": "هل أنت أصمٌ وأبكم؟"}
+{"key": "Dialogue_Dlg_VlasEvent_03_TheKey_01/1F6612B94972334BA453C79DA860A564", "old_ar": "هل هذا مشروب القطران؟", "new_ar": "أهذا ثملٌ آخر بالقطران؟"}
+{"key": "Dialogue_Dlg_VlasEvent_04_TheBrute/514898D0436F31C94883379B65BB4DB8", "old_ar": "لقد استمر في ضرب.", "new_ar": "ظل يتخبط."}
+{"key": "Dialogue_Dlg_VlasEvent_04_WastedBrig/D99FA2F0479EC6506F463497CB71EB42", "old_ar": "ربما قد تلاشت التأثيرات.", "new_ar": "لا بد أن تأثير التار قد زال."}
+{"key": "Dialogue_Dlg_VlasEvent_CantBuy/AFE4484B455078B5F48FFD956A5BCF69", "old_ar": "آسف، لا يمكنني السماح بذلك", "new_ar": "أخشى أنني لا أستطيع السماح بذلك."}

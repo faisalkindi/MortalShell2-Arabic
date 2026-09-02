@@ -1,0 +1,51 @@
+{
+ "chunk": 13,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_InflictPerforationDesc",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Melee attacks inflict <Perforation>Perforation</>",
+   "ar": "تُلحق هجمات الاشتباك <Perforation>الثَّقب</>",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it deliberately distinct from تُلحق, which is reserved for damage ('deal damage' = تُلحق ضررًا). Perforation is a status, so this row uses the damage verb for a status.",
+   "suggested_ar": "تُنزل هجمات الاشتباك <Perforation>الثَّقب</>"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Sidearm_InflictFragileDesc",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Projectiles inflict <Fragile>Fragile</>",
+   "ar": "تُلحق المقذوفات <Fragile>الهشاشة</>",
+   "issue": "Same as above — Fragile is a status, so the frozen status verb تُنزل applies, not the damage verb تُلحق. Note the neighbouring row ID_Sidearm_InflictBreakOnCriticalHit correctly keeps تُلحق because Break Damage really is damage.",
+   "suggested_ar": "تُنزل المقذوفات <Fragile>الهشاشة</>"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Sidearm_ExplosiveReactionDesc",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Enemies dying by a ranged attack will explode dealing <Bold>splash damage</>",
+   "ar": "من يهلك من الأعداء بهجوم بعيد ينفجر مُلحقًا <Bold>ضررًا انتشاريًا</>",
+   "issue": "'ranged' is frozen as بعيد المدى. 'هجوم بعيد' on its own reads as 'a distant attack' and matches neither the frozen adjective nor the الرمي used for 'ranged' in the sibling rows of this same list.",
+   "suggested_ar": "من يهلك من الأعداء بهجوم بعيد المدى ينفجر مُلحقًا <Bold>ضررًا انتشاريًا</>"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Sidearm_SlingshotDesc",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Consume {R} <Resolve>Resolve</> to launch a heavy round in a parabolic arc that bursts on impact to deal <Bold>splash damage</>",
+   "ar": "أنفِق {R} من <Resolve>العزيمة</> لقذف طلقة ثقيلة في قوسٍ مُنحنٍ تنفجر عند الارتطام فتُلحق <Bold>ضررًا انتشاريًا</>",
+   "issue": "'parabolic' becomes مُنحنٍ (merely curved). The arc shape is the mechanic — it is what lets the round clear cover — so the specific term should survive.",
+   "suggested_ar": "أنفِق {R} من <Resolve>العزيمة</> لقذف طلقة ثقيلة في قوسٍ مُكافئ تنفجر عند الارتطام فتُلحق <Bold>ضررًا انتشاريًا</>"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_WeaponAbility_Katanas",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "Hexapod Core",
+   "ar": "نواة السُّداسي",
+   "issue": "'Hexapod' means six-LEGGED; السُّداسي alone just means sixfold, so the creature reference is lost. 'Core' is also نواة here but لُبّ in the frozen Tarcore (لُبّ القار).",
+   "suggested_ar": "لُبّ السُّداسيّ الأرجل"
+  }
+ ]
+}

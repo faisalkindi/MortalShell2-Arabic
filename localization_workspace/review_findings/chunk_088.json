@@ -1,0 +1,33 @@
+{
+ "chunk": 88,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/UniqueScriptureFlavorText",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Though the author’s name is lost, his words live on. He who held the seeds of infinity in his palm, made a promise. If he could not end what he started, he would find another way. The scripture pledges to cleanse the Revered, but such claims remain untested.",
+   "ar": "ضاع اسم كاتبه، لكن كلماته بقيت حيّة. هو الذي حمل بذور الخلود في راحته وقطع عهدًا: إن لم يستطع إنهاء ما بدأه، فسيجد طريقًا آخر. يتعهّد هذا النص بتطهير المُكرَّمين، غير أن هذه الدعاوى لم تُختبر بعد.",
+   "issue": "'seeds of infinity' became بذور الخلود (seeds of immortality). Infinity is اللانهاية throughout this corpus - 'Children of Infinity' is أبناء اللانهاية, including on key /GenessaCenserFlavorText in this same chunk. The rendering severs the link between this author and the Children of Infinity, which is the whole point of the item.",
+   "suggested_ar": "ضاع اسم كاتبه، لكن كلماته بقيت حيّة. هو الذي حمل بذور اللانهاية في راحته وقطع عهدًا: إن لم يستطع إنهاء ما بدأه، فسيجد طريقًا آخر. يتعهّد هذا النص بتطهير المُكرَّمين، غير أن هذه الدعاوى لم تُختبر بعد."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_SarielQuest_HasNotes_10/AD1DBFDF485175730EC72BBF11D18CB0",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Did you find it?",
+   "ar": "أوجدتَه؟",
+   "issue": "The antecedent is 'the notes'. The namespace is HasNotes_10 and it contains only two rows - this one and 'The notes… for the serum?' - so the unnamed 'it' is the notes. الملاحظات is a feminine plural in Arabic, so the pronoun should be ـها, not ـه. As written the question points at some unnamed masculine object. (Co-location in the namespace, not row order - these keys are hash-tailed and carry no sequence.)",
+   "suggested_ar": "أوجدتَها؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_SarielQuest_Intro_Interact_02/550E2877401CF6931D14719C0C23E159",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "I’ve been tracking him.",
+   "ar": "كنتُ أتعقّبه.",
+   "issue": "'I've been tracking him' is ongoing up to now; كنتُ أتعقّبه closes the action off in the past. The surrounding lines ('We find him… Sariel.' / 'We kill him.') show Ruk is still on the hunt.",
+   "suggested_ar": "ما زلتُ أتعقّبه."
+  }
+ ]
+}

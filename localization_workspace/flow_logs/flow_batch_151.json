@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_HubCultist_GreetingGeneric/162E6F684F3E5B8531E653A4720D19F5",
+  "before": "بركاتي عليك أيها النذير.",
+  "after": "البركاتُ عليك، أيها النذير.",
+  "why": "source has no possessive; 'بركاتي' claimed the blessings as the speaker's own"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_GreetingGeneric/B43B3212438E1548EECE2C9BDBBAAAD3",
+  "before": "لتحمِك الأُمَّهة برعايتها.",
+  "after": "لتَكنُفكَ الأُمَّهة.",
+  "why": "cut added 'برعايتها'; كنف is the idiomatic devotional verb for shelter"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_Boast/629675DC4FC50F82963D889A33EBB842",
+  "before": "أعتذر عن تباهيّ.",
+  "after": "أعتذر عن تفاخري.",
+  "why": "تباهيّ was awkward to read aloud; تفاخري is cleaner"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_Boast/7E9F7EDA497D970FDB2B11B2F159487C",
+  "before": "وأنا أيضًا أعنتُ مرّة على استرداد بَيضة.",
+  "after": "وأنا أيضًا ساعدتُ يومًا في استرداد بَيضة.",
+  "why": "recast clause order; 'أعنتُ مرّة على' was translationese"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_Confess/3B970FD04721C8043622F2BBBC60B194",
+  "before": "لي إخفاقات كثيرة… لا أزال أكفّر عنها.",
+  "after": "لي إخفاقات كثيرة… عليّ أن أكفّر عنها.",
+  "why": "'لا أزال' added a duration the source does not state"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_Confess/0B452D0C46ED6958941BC3A186D88733",
+  "before": "لعلّك ستنقذني؟",
+  "after": "لعلّك تُخلّصني؟",
+  "why": "redeem = خلّص in the devotional register; unify with the atonement vocabulary"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_Generic/8715E3F24E8E73B7147271A9C36F7898",
+  "before": "نعلم أنك لن تفشل، يا أُخَيّة.",
+  "after": "نعلم أنكِ لن تخذلينا، يا أُخَيّة.",
+  "why": "verb was masculine under a feminine vocative, and used a different verb than the twin rows"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_SmertReact/795257F247B668ADE1CDCEB6E55ABFCB",
+  "before": "لكن حتى أنا كان لي حدود.",
+  "after": "لكن حتى أنا كانت لي حدود.",
+  "why": "حدود is a non-human plural; كان -> كانت"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_SmertReact/0F5A90234A3C979876B68F9A554B01CA",
+  "before": "استبدّ بي اليأس حتى سعيتُ سعيًا حثيثًا للقاء الأُمَّهة المباركة.",
+  "after": "استبدّ بي الشوق إلى لقاء الأُمَّهة المباركة حدَّ اليأس.",
+  "why": "cut the padded 'سعيتُ سعيًا حثيثًا'; keeps the desperation, loses the fat"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_Interact_SmertReact/C7BFFC6A4757F9539E25348FD3C30A4D",
+  "before": "لعلّك ستنقذني؟",
+  "after": "لعلّك تُخلّصني؟",
+  "why": "unify with row 14"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_OnHit/2FBFD4B74E89AADB453FB08DC074CE32",
+  "before": "في الموت… أنقذتني.",
+  "after": "في الموت… خلّصتني.",
+  "why": "unify redeem = خلّص"
+ },
+ {
+  "key": "Dialogue_Dlg_HubCultist_OnHit/600FDBCE48501CBE7BBDA383347E6CBE",
+  "before": "شكرًا لك… على إنقاذي.",
+  "after": "شكرًا لك… على خلاصي.",
+  "why": "unify redeem = خلّص"
+ }
+]

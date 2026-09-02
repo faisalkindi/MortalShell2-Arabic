@@ -1,0 +1,62 @@
+[
+ {
+  "key": "mortal_shell_meta_descriptions/275850_description",
+  "before": "رأيتُ عوالمَ لا حصر لها سمّاها مسافرون وحيدون لن يأملوا يومًا بتذكّرها جميعًا.",
+  "after": "رأيتُ عوالمَ لا حصر لها سمّاها مسافرون وحيدون لا أمل لهم في تذكّرها جميعًا.",
+  "why": "'could never hope to' is impossibility, not a future refusal to hope"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/238960_description",
+  "before": "رأيتُ منفيّين يحدّقون في شجرةٍ ساكنة شاسعة أشبه باللاهوت، ثم يخرجون منها كوارثَ متكاملة.",
+  "after": "رأيتُ منفيّين يحدّقون في شجرةٍ ساكنة شاسعة أشبه باللاهوت، ثم يخرجون كوارثَ.",
+  "why": "متكاملة was an addition, and it blunted the bare punchline"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/308600_description",
+  "before": "رأيتُ مقاتلين يترقّون وسط المعركة، يجمعون قوًى برّية، ويحوّلون مدينةً إلى مختبرٍ لآخر ناجٍ.",
+  "after": "رأيتُ مقاتلين يترقّون وسط المعركة، ينتقون قوًى جامحة، ويحوّلون مدينةً إلى مختبرٍ لآخر ناجٍ.",
+  "why": "'draft' is picking from an offer (ينتقي); 'wild' is unruly (جامحة), not feral/برّية"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/550_description",
+  "before": "رأيتُ أربعة ناجين يركضون نحو أبواب الغرف الآمنة، بينما أقنعتهم امرأةٌ باكية في الظلام أن يخفضوا سلاحهم في وقتٍ متأخر جدًا.",
+  "after": "رأيتُ أربعة ناجين يركضون نحو أبواب الغرف الآمنة، بينما أقنعتهم امرأةٌ باكية في الظلام أن يخفضوا أسلحتهم في وقتٍ متأخر جدًا.",
+  "why": "four survivors carry more than one weapon between them"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/582010_description",
+  "before": "رأيتُ صيّادين ينحتون وحوشًا مستحيلة في قبّعاتٍ، ثم يحتفلون بوجباتٍ أضخم من دروعهم.",
+  "after": "رأيتُ صيّادين يحوّلون وحوشًا مستحيلة إلى قبّعات، ثم يحتفلون بوجباتٍ أضخم من دروعهم.",
+  "why": "the joke is that the beasts BECOME hats; 'carve into hats' was read as engraving on hats"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1446780_description",
+  "before": "رأيتُ صيّادين يحلّقون على حشراتٍ مسلوكة، ويمتطون وحوشًا في مواجهة وحوش، ثم يعودون ليأكلوا الزلابية بجدّيةٍ تقارب القداسة.",
+  "after": "رأيتُ صيّادين يحلّقون على حشراتٍ ذات أسلاك، ويمتطون وحوشًا في مواجهة وحوش، ثم يعودون ليأكلوا الزلابية بجدّيةٍ تقارب القداسة.",
+  "why": "مسلوكة is not a word for 'wired'"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/304390_description",
+  "before": "رأيتُ فرسانًا وغزاةً وساموراي يحتجّون بالنصال على تاريخٍ فقد معناه أصلًا.",
+  "after": "رأيتُ فرسانًا وغزاةً وساموراي يتجادلون بالنصال حول تاريخٍ فقد معناه أصلًا.",
+  "why": "'argue over' is a dispute about something; احتجّ بـ means to cite as evidence"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/252950_description",
+  "before": "رأيتُ سيّاراتٍ صغيرة تتسلّق الجدران، وتطير على عجلاتٍ مشتعلة، وتسدّد كرةً ضخمة نحو المرمى بينما يقبل الجمهور هذا رياضةً.",
+  "after": "رأيتُ سيّاراتٍ صغيرة تتسلّق الجدران، وتطير على عجلاتٍ مشتعلة، وتسدّد كرةً ضخمة نحو المرمى بينما يقبل الجمهور هذا بوصفه رياضة.",
+  "why": "يقبل هذا رياضةً needed بوصفه to license the second accusative"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/1205550_description",
+  "before": "رأيتُ الجزيرة الخالدة تبروف مستقبلها بنفسها، تختبر الكوارث قبل أن تمنحها للأحياء.",
+  "after": "رأيتُ الجزيرة الخالدة تتمرّن على مستقبلها، تختبر الكوارث قبل أن تمنحها للأحياء.",
+  "why": "تبروف is not an Arabic verb"
+ },
+ {
+  "key": "mortal_shell_meta_descriptions/3241660_description",
+  "before": "رأيتُ لاقطين مرتجفين يحملون أثاثًا مسكونًا كأنه آثارٌ مقدّسة، خائفين أن تُغضب مزهريّةٌ واحدة الوحشَ وربَّ العمل معًا.",
+  "after": "رأيتُ لاقطين مرتجفين يحملون أثاثًا مسكونًا كأنه آثارٌ مقدّسة، خائفين أن تُغضب مزهريّةٌ واحدة تسقط الوحشَ وربَّ العمل معًا.",
+  "why": "restored 'dropped' - without it the vase angers them merely by existing"
+ }
+]

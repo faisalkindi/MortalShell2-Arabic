@@ -1,0 +1,68 @@
+[
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact01/C4D58D2242831C103EAD36A602EA2B71",
+  "before": "ماذا؟ لا تملك ما تقوله؟",
+  "after": "ماذا؟ أليس لديك ما تقوله؟",
+  "why": "لا تملك ما تقوله read as a statement; the source is a taunt-question"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Drunk_Interact04/5269535C4F540CF87066FA96A836B007",
+  "before": "(تأوّه سُكارى)",
+  "after": "(تأوّه سكران)",
+  "why": "سُكارى is plural; one drunk is groaning"
+ },
+ {
+  "key": "Dialogue_DLG_Tavern_Gragu_AfterHeartOfVatra02/285D54F046881574FBF23EAC1B6D09E2",
+  "before": "(يعضّ قضمة)",
+  "after": "(يقضم)",
+  "why": "يعضّ قضمة doubled the verb and its object"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_ComfortGenessa_B_07/2367DDDC49E5BC5EE6A418A3BDA93DFF",
+  "before": "أحقًا؟",
+  "after": "أكذلك نحن؟",
+  "why": "'Are we?' echoes the previous line's claim; أحقًا؟ was a generic doubt"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_ComfortGenessa_B_07/60F43028446147E19991B8A651940D78",
+  "before": "لم أعد أطيق أن أكون جزءًا من هذا.",
+  "after": "لم يعد بوسعي أن أكون جزءًا من هذا.",
+  "why": "أطيق added an endurance she does not claim; the source is ability"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_ComfortGenessa_B_07/E1D75A4D479A98A781EDEAAC7DAD6172",
+  "before": "هيا، لا تكن سخيفًا.",
+  "after": "أوه، بحقّكِ، لا تكوني سخيفة.",
+  "why": "Tiel addressing Genessa - feminine, matching انتظري / انظري elsewhere in this scene; also restored the dropped 'Oh'"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_DrinkTarwine_02/A8D4C78F4B0F35DFC35DFAA2D2BF7C5B",
+  "before": "ربما ليلة هادئة أفضل.",
+  "after": "لعلّ ليلةً هادئة تكون أفضل.",
+  "why": "لعلّ carries the tentative suggestion; ربما…أفضل had no verb"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_IgnoreGenessa_03/B9252F5849D28F0916B2BD9E1F7025C3",
+  "before": "للحظة ظننتك جادًا.",
+  "after": "للحظة ظننتكِ جادّة.",
+  "why": "Tiel addressing Genessa - feminine, matching انتظري / انظري elsewhere in this scene"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_IgnoreGenessa_03/47BAEA5149C27324BBA7DE98111D8279",
+  "before": "كدتَ تخدعني.",
+  "after": "كدتِ تخدعينني.",
+  "why": "Tiel addressing Genessa - feminine, matching انتظري / انظري elsewhere in this scene"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheRash_S1_DemandHelp_07/4291DD024CA5CB411421C2BC9908B9A4",
+  "before": "لكنني أخشى أن المزيد سيكون... تهورًا.",
+  "after": "لكنني أخشى أن المزيد يكون... غير حكيم.",
+  "why": "'unwise' is a judgement, not تهور (recklessness)"
+ },
+ {
+  "key": "Dialogue_DLG_TielMemory_TheRash_S1_DemandHelp_07/6849BF39484CE931488890B373176426",
+  "before": "أرى... الطفح الجلدي ازداد سوءًا.",
+  "after": "أرى... لقد ازداد الطفح سوءًا.",
+  "why": "verb-initial; the subject-first shape carried English word order"
+ }
+]

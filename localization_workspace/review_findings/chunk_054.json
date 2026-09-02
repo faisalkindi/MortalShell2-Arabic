@@ -1,0 +1,42 @@
+{
+ "chunk": 54,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_HubCultist_GreetingGeneric/DF99085A498A4FF46268698DC3B8BD58",
+   "type": "gender_error",
+   "severity": "low",
+   "source_en": "Welcome back, High Sester.",
+   "ar": "أهلًا بعودتك أيتها الأُخَيّة الكُبرى.",
+   "issue": "Feminine addressee (the vocative says so), but بعودتك carries no kasra and reads masculine. The identical line at Dialogue_Dlg_Hub_Cultist_Interact_1/7E3FCC03... is already correct as أهلًا بعودتكِ، أيتها الأُخَيّة الكُبرى. — this copy also drops the comma before the vocative.",
+   "suggested_ar": "أهلًا بعودتكِ، أيتها الأُخَيّة الكُبرى."
+  },
+  {
+   "key": "Dialogue_Dlg_HubCultist_Interact_Boast/CBED2D524CD82D1689EF9E851F87E72B",
+   "type": "addition",
+   "severity": "medium",
+   "source_en": "We know you will not fail, Harbinger.",
+   "ar": "نعلم أنك لن تخذلنا، أيها النذير.",
+   "issue": "English 'fail' here is intransitive — the Harbinger will not fail at the task. خذل is transitive and the Arabic supplies an object ('you will not let US down'), which the English does not say and which shifts the line from confidence in his success to a claim about their stake in it. The same English line is rendered correctly elsewhere in the corpus as نعلم أنك لن تخفق (Dialogue_Dlg_Hub_Cultist_Interact_1/CF98AA5E..., Dialogue_Dlg_Hub_Cultist_Interact_2/1D14930A...), so the corpus is split.",
+   "suggested_ar": "نعلم أنك لن تخفق، أيها النذير."
+  },
+  {
+   "key": "Dialogue_Dlg_HubCultist_Interact_Generic/C748419A46660B78E55E97820BACE9EE",
+   "type": "addition",
+   "severity": "medium",
+   "source_en": "We know you will not fail, Harbinger.",
+   "ar": "نعلم أنك لن تخذلنا، أيها النذير.",
+   "issue": "Same added object as the Boast copy; should match the corpus's لن تخفق rendering.",
+   "suggested_ar": "نعلم أنك لن تخفق، أيها النذير."
+  },
+  {
+   "key": "Dialogue_Dlg_HubCultist_Interact_Generic/8715E3F24E8E73B7147271A9C36F7898",
+   "type": "addition",
+   "severity": "medium",
+   "source_en": "We know you will not fail, sester.",
+   "ar": "نعلم أنكِ لن تخذلينا، يا أُخَيّة.",
+   "issue": "Same added object (تخذلينا = 'let us down'). Gender agreement is correct here, but the vocative also differs from the corpus form: the sibling rows use أيتها الأُخَيّة, this one uses يا أُخَيّة.",
+   "suggested_ar": "نعلم أنكِ لن تخفقي، أيتها الأُخَيّة."
+  }
+ ]
+}

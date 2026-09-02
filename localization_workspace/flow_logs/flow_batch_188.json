@@ -1,0 +1,8 @@
+[
+ {
+  "key": "Dialogue_Dlg_Tarforge_Greetings/B690E0B146AC4368BCAE4EA507D63FE5",
+  "before": "…عودة… ",
+  "after": "…عُدْ… ",
+  "why": "sibling barks are imperatives (اقترب/أطعمني/استخدمني); RETURN is one too, not a noun"
+ }
+]

@@ -1,0 +1,141 @@
+{
+ "chunk": 15,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_KatanasAbility_1",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Each strike grants {X} <Warp>Warp</> stacks",
+   "ar": "تمنح كل ضربة {X} من تراكمات <Warp>الالتواء</>",
+   "issue": "'stacks' is تراكمات throughout the Tarstone lists but طبقات throughout the Shell ability descriptions (batch 009: 'تُنزل طبقات <Burn>الحرق</>'). One of the two must win, or the same status counter is named two ways on adjacent screens. The verb here (تمنح for 'grants') is correct.",
+   "suggested_ar": "تمنح كل ضربة {X} من طبقات <Warp>الالتواء</>"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_KatanasAbility_4",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Each strike inflicts {W} <Fragile>Fragile</> stacks",
+   "ar": "تُلحق كل ضربة {W} من تراكمات <Fragile>الهشاشة</>",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "تُنزل كل ضربة {W} من طبقات <Fragile>الهشاشة</>"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_HomingThrow_1",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Each strike inflicts {X} <Perforation>Perforation</> stacks",
+   "ar": "تُلحق كل ضربة {X} من تراكمات <Perforation>الثَّقب</>",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "تُنزل كل ضربة {X} من طبقات <Perforation>الثَّقب</>"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_DeadlyFlurry_1",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Each strike inflicts {X} <Weak>Weak</> stacks",
+   "ar": "تُلحق كل ضربة {X} من تراكمات <Weak>الضعف</>",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "تُنزل كل ضربة {X} من طبقات <Weak>الضعف</>"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_InflictFragileStacks",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Inflict {X} <Fragile>Fragile</> stacks per strike",
+   "ar": "يُلحق {X} من تراكمات <Fragile>الهشاشة</> عن كل ضربة",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "يُنزل {X} من طبقات <Fragile>الهشاشة</> عن كل ضربة"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_InflictPerforation",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Inflict {X} <Perforation>Perforation</> stacks per strike",
+   "ar": "يُلحق {X} من تراكمات <Perforation>الثَّقب</> عن كل ضربة",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "يُنزل {X} من طبقات <Perforation>الثَّقب</> عن كل ضربة"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffectInflictStacksPerHit",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Inflict {X} stacks per strike",
+   "ar": "يُلحق {X} من التراكمات عن كل ضربة",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "يُنزل {X} من الطبقات عن كل ضربة"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_HeavyFinisherInflictWeak",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The heavy finisher inflicts {X} <Weak>Weak</> stacks",
+   "ar": "تُلحق خاتمة السلسلة الثقيلة {X} من تراكمات <Weak>الضعف</>",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "تُنزل خاتمة السلسلة الثقيلة {X} من طبقات <Weak>الضعف</>"
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Bleed",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Bleed>Bloodcurse</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Bleed>لعنة الدم</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Bleed>لعنة الدم</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Burn",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Burn>Burn</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Burn>الحرق</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Burn>الحرق</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Curse",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Curse>Curse</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Curse>اللعنة</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Curse>اللعنة</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Frost",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Frost>Frost</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Frost>الصقيع</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Frost>الصقيع</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Lightning",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Lightning>Lightning</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Lightning>البرق</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Lightning>البرق</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Poison",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "The equipped <Bold>Sidearm</> inflicts <Poison>Poison</> on <Critical>Critical</> hits only.",
+   "ar": "لا يُلحق <Bold>السلاح الجانبي</> المُجهَّز <Poison>السم</> إلا في الضربات <Critical>الحاسمة</>.",
+   "issue": "The glossary freezes 'inflict status' as تُنزل and keeps it distinct from تُلحق, which is reserved for damage. Batch 009 (the Shell ability descriptions) already applies تُنزل for statuses, so the Tarstone list contradicts the rest of the build on the same verb.",
+   "suggested_ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Poison>السم</> إلا في الضربات <Critical>الحاسمة</>."
+  },
+  {
+   "key": "ST_Tarstones_Effects/TarstoneEffect_PiercingShot",
+   "type": "omission",
+   "severity": "medium",
+   "source_en": "Projectiles pierce up to {X} targets before stopping",
+   "ar": "تخترق المقذوفات {X} من الأهداف قبل أن تتوقف",
+   "issue": "'up to' is dropped, turning a maximum into a flat count — the Arabic now promises {X} targets pierced every time. Its sibling rows keep the boundary (TarstoneEffect_ThreadweaverShot_1 and TarstoneEffect_HomingThrow_2 both use كحدٍّ أقصى).",
+   "suggested_ar": "تخترق المقذوفات {X} من الأهداف كحدٍّ أقصى قبل أن تتوقف"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "key": "ST_Core_Interactions/PlayLute",
+  "before": "العزف",
+  "after": "عزف",
+  "why": "world prompts are bare verbal nouns"
+ },
+ {
+  "key": "ST_Core_Interactions/PurchaseHold",
+  "before": "شراء [مع الاستمرار]",
+  "after": "شراء [ضغط مطوّل]",
+  "why": "frozen Hold convention"
+ },
+ {
+  "key": "ST_Core_Interactions/SellHold",
+  "before": "بيع [مع الاستمرار]",
+  "after": "بيع [ضغط مطوّل]",
+  "why": "frozen Hold convention"
+ },
+ {
+  "key": "ST_Core_Interactions/Sit",
+  "before": "الجلوس",
+  "after": "جلوس",
+  "why": "world prompts are bare verbal nouns"
+ },
+ {
+  "key": "ST_Core_Interactions/HoldInteraction",
+  "before": "[مع الاستمرار]",
+  "after": "[ضغط مطوّل]",
+  "why": "frozen Hold convention"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultTielPassiveDesc",
+  "before": "الاندفاع قبيل تلقّي الضربة يمنح تيل <Shadow>الظل</> ويوقع <Poise>ضرر الترنّح</>.",
+  "after": "الاندفاع قبيل تلقّي الضربة يمنح تيل <Shadow>الظل</> ويُلحق <Poise>ضرر الترنّح</>.",
+  "why": "frozen collocation: damage is تُلحق, never توقع"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultEredrimPassiveDesc",
+  "before": "يُجهز إردريم على الأعداء منخفضي الصحة، ويكسب طبقات <Slaughterer>السفّاح</> بتنفيذ <Bold>ضربة مضادة</>. وتُفقد الطبقات عند الراحة أو عند انقطاع الرابطة.",
+  "after": "يُجهز إردريم على الأعداء منخفضي الصحة، ويكسب طبقات <Slaughterer>السفّاح</> بتنفيذ <Bold>ضربة مضادة</>. وتُفقد الطبقات بالراحة أو بانقطاع الرابطة.",
+  "why": "عند...أو عند doubling cut to بـ...أو بـ"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultEredrimAbilityDesc",
+  "before": "يندفع إردريم بكتفه فيصطدم بالأعداء موقعًا <Break>ضرر الكَسر</>.",
+  "after": "يندفع إردريم بكتفه فيصطدم بالأعداء مُلحِقًا <Break>ضرر الكَسر</>.",
+  "why": "frozen collocation: damage is تُلحق"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/SecondaryEredrimAbilityDesc",
+  "before": "يضرب إردريم ديابازونه فيولّد موجة صدمية خاطفة للأبصار توقع <Break>ضرر الكَسر</> بكل عدو في المدى.",
+  "after": "يضرب إردريم ديابازونه فيولّد موجة صدمية خاطفة للأبصار تُلحق <Break>ضرر الكَسر</> بكل عدو في المدى.",
+  "why": "frozen collocation: damage is تُلحق"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/CorruptedGenessaAbilityDesc",
+  "before": "لمدة من الزمن، تستدعي <Bold>جينيسا</> تلقائيًا <Bold>قرناء شاردين</> يحاكون هجمات <Bold>السلاح</> و<Bold>السلاح الجانبي</>.",
+  "after": "لبرهة، تستدعي <Bold>جينيسا</> تلقائيًا <Bold>قرناء شاردين</> يحاكون هجمات <Bold>السلاح</> و<Bold>السلاح الجانبي</>.",
+  "why": "'لمدة من الزمن' is four words for what لبرهة says in one"
+ }
+]

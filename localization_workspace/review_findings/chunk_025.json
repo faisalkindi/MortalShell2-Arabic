@@ -1,0 +1,33 @@
+{
+ "chunk": 25,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/CEE4460749ADA00D2E02438390F5DFC0",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Dear friend, if you’re reading this don’t worry. My former accomplices will not dare harm me or Mutton. They need me. Take care of yourself. I know there’s more to you than meets the eye. Sincerely, Vlas",
+   "ar": "عزيزي الصديق، إن كنت تقرأ هذا فلا تقلق. لن يجرؤ شركائي السابقون على أذيّتي أو أذيّة موتن، فهم بحاجةٍ إليّ. اعتنِ بنفسك. أعلم أن فيك أكثر مما تُظهر عيناك. المخلص، ڤلاس",
+   "issue": "'more to you than meets the eye' is about what an observer sees, not about the addressee's own eyes. مما تُظهر عيناك makes the Harbinger's eyes the thing doing the revealing, which is a different (and slightly odd) claim — and in a game where the player character is a husk with a hidden nature, the sentence is load-bearing.",
+   "suggested_ar": "عزيزي الصديق، إن كنت تقرأ هذا فلا تقلق. لن يجرؤ شركائي السابقون على أذيّتي أو أذيّة موتن، فهم بحاجةٍ إليّ. اعتنِ بنفسك. أعلم أن فيك أكثر مما تراه العين. المخلص، ڤلاس"
+  },
+  {
+   "key": "/4067D465427D043B70EDD39372B66328",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Disciple",
+   "ar": "المريد",
+   "issue": "Same Acolyte collision as the 'Answer Disciple' prompts — المُريد is frozen as Tiel's Shell title, so this NPC label reads as Tiel's title. Both rows in this chunk (4067D465..., 7E0C2A99...).",
+   "suggested_ar": "التابع"
+  },
+  {
+   "key": "/9EDA4C9648B6A58D3BABD493299C8D66",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Deer",
+   "ar": "غزال",
+   "issue": "غزال is a gazelle, a different animal from a deer (أيّل). Three rows: 9EDA4C96..., D6BADF54..., E0FAD261....",
+   "suggested_ar": "أيّل"
+  }
+ ]
+}

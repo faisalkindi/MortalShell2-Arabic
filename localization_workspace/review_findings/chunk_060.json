@@ -1,0 +1,42 @@
+{
+ "chunk": 60,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Ruk_Boss_Mouth_Interact/C819EF6A4C3D79EE37B389BCF4510AC2",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "The disciples snatched him in the night.",
+   "ar": "خطفه المريدون ليلًا.",
+   "issue": "المُريد is frozen for Acolyte (Tiel's title) and the glossary note now reserves it explicitly: generic disciples/followers must never use مريد. Disciple is its own frozen term as of the 193-term glossary — الحواريّ, pl. الحواريّون — distinct from Acolyte المُريد, Vassal التابِع and Cultist عابد الطائفة. (Already applied in translated/; kept here so re-application is a no-op.)",
+   "suggested_ar": "خطفه الحواريّون ليلًا."
+  },
+  {
+   "key": "Dialogue_Dlg_Prologue_ScaredChild/7C8EA40D4567569A2489A38095696620",
+   "type": "register_break",
+   "severity": "medium",
+   "source_en": "I’m scared, Lavender.",
+   "ar": "يعتريني الخوف، يا لافندر.",
+   "issue": "The speaker is a frightened child in the prologue (namespace ScaredChild), and the sibling line is plain ('What if Mether doesn't like me?' → ماذا لو لم تُحبّني الأُمَّهة؟). يعتريني الخوف is literary diction — 'fear comes over me' — which no child says. The English is the simplest possible phrasing.",
+   "suggested_ar": "أنا خائف، يا لافندر."
+  },
+  {
+   "key": "Dialogue_Dlg_Prologue_ClaimHarros/D657DA4343BC3A40FE94C08FE92F523E",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "You’re more than a weapon, Child.",
+   "ar": "أنت أكثر من سلاح، أيها الطفل.",
+   "issue": "The same vocative 'Child' addressed to the same character is rendered يا ولدي throughout the Undermether's lines (Dialogue_Dlg_UnderMether_Tower_Interact/B9C83DE3..., 651D7749..., 0D4AB72D...). أيها الطفل is a flat 'O child' and reads colder and more distant than either the English or the corpus's established form; it also sits oddly on a vessel the speaker has just called a weapon.",
+   "suggested_ar": "أنت أكثر من سلاح، يا ولدي."
+  },
+  {
+   "key": "Dialogue_Dlg_Prologue_PreHarrosClaim/1DBDD00041D0D546BC2F28A7F765DD44",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "He was once like any mortal.",
+   "ar": "كان يومًا كأي بشر.",
+   "issue": "'Mortal' is rendered فانٍ elsewhere (Dialogue_Dlg_Hub_Ruk_TowerTop_ExtraHint/CB0C7F6D40F3B6653409DEA65CBD330A, 'But you're no mortal.' → لكنك لستَ فانيًا). The mortality contrast is what this passage turns on — a sibling row in the same namespace is 'Now he's pure.' — and بشر ('human') drops it. أي + the collective بشر is also poor agreement.",
+   "suggested_ar": "كان يومًا كأي فانٍ."
+  }
+ ]
+}

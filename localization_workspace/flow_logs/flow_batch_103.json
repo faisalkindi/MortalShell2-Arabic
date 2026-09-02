@@ -1,0 +1,8 @@
+[
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_04_20",
+  "before": "… سقطتُ. ساعدني على النهوض أخيرًا.",
+  "after": "… سقطتُ. هيا ساعدني على النهوض.",
+  "why": "'أخيرًا' misreads the impatient 'already'"
+ }
+]

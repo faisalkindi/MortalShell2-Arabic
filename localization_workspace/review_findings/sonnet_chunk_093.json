@@ -1,0 +1,6 @@
+{"chunk": 93, "rows_reviewed": 90, "findings": [
+  {"key": "Dialogue_Dlg_ShellMemory_Lazlo_TheExecution_03c/767BEFB34D67867582C406A1AA03FCC6", "type": "term_violation", "severity": "minor",
+   "source_en": "There is no justice without retribution.", "ar": "لا عدالة بلا اقتصاص.",
+   "issue": "Same recurring inconsistency flagged in chunk_092: this quoted motto (inscribed on the Justiciar's Sword) is rendered لا عدلَ بلا قِصاص elsewhere in the corpus. This occurrence again uses different wording (عدالة/اقتصاص).",
+   "suggested_ar": "لا عدلَ بلا قِصاص."}
+]}

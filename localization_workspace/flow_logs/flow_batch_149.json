@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_On_35_Ova/C037699D4242C1285F759EA6B7EF13FE",
+  "before": "أكثر بكثير مما تنبّأنا به.",
+  "after": "أكثر بكثير مما نُبّئنا به.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_On_70_Ova_Genessa/C049DFEB4AE9312EE1337FAEAAE2F285",
+  "before": "أيتها الأخيّة الكبرى... أيمكنني أن أبوح لكِ؟",
+  "after": "أيتها الأُخَيّة الكُبرى... أيمكنني أن أبوح لكِ؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_OnFirstOvum/07C582664DF4915D3A61DA8594CDB797",
+  "before": "كما تنبّأنا، أحضرتَ مزيدًا من البُيوض.",
+  "after": "كما نُبّئنا، أحضرتَ مزيدًا من البُيوض.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_OnFirstOvum_Genessa/04BD2AED4AAC804404A19DBBC0908318",
+  "before": "تحياتي، أيتها الأخيّة الكبرى.",
+  "after": "تحياتي، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_ElevatorCultist_OnInteract/F8F341A04D90B0A60F05EBAA88BF9711",
+  "before": "أبناؤها المرتقبون سُرقوا.",
+  "after": "سُرق أبناؤها المرتقبون.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_AfterFirstShellUnlocked/E8582CC04E52764A835DFDBC9AFBF968",
+  "before": "كله «مُتأنّق».",
+  "after": "«متأنّقٌ» تمامًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Greeting_02/434B307E4AB6ABC233A121979A90A9AB",
+  "before": "هذا ما كان يُخفى عنك.",
+  "after": "هذا ما حُجب عنك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Launcher_MasterTree/16F174464EE1076505922991B593B7A0",
+  "before": "[الحوار الأول]",
+  "after": "[First Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Launcher_MasterTree/7467DCB5478D0CF7317307BF8F15927B",
+  "before": "[قابل الأُمَّهة]",
+  "after": "[Met Mether]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Launcher_MasterTree/9A2A261A4333D2DFC44ED8AD76407AEB",
+  "before": "[لم يقابل الأُمَّهة]",
+  "after": "[Mether Not Met]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_Launcher_MasterTree/A973447A400E9F2AAFC6E392F0E98A44",
+  "before": "[حوارات عامة متكررة]",
+  "after": "[Repeated Dlgs Generic]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/63531D294621820DCB7A178BED6CD6EA",
+  "before": "[الحوار العاشر]",
+  "after": "[10th Dialogue]",
+  "why": "flow"
+ }
+]

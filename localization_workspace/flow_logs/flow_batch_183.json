@@ -1,0 +1,116 @@
+[
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_TakeGloom/2248BDD940492BDC8A1D2292623F4673",
+  "before": "أن أستهلك أكبر قدر ممكن.",
+  "after": "أن ألتهم أكبر قدر ممكن.",
+  "why": "consumption in Egon's mouth is الالتهام, not the economics term الاستهلاك"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_EgonSnoring/661DAEF944EBC9B38DB776BAD8CF5028",
+  "before": "(شخير عميق)",
+  "after": "(شخير عالٍ)",
+  "why": "'عميق' renders depth, not intensity"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_GivePiss/E8BB3C314CB2D755BCE3ABB3776D12D2",
+  "before": "كان يجب أن تأمر بقتلي!",
+  "after": "كان عليك أن تأمر بقتلي!",
+  "why": "كان يجب أن is heavier than the idiomatic كان عليك"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_GiveWater/2A438B9E447793E51A5147BCC5578A79",
+  "before": "أنا... لا.",
+  "after": "أنا... لستُ أفضّله.",
+  "why": "bare 'لا' is not an answer in Arabic; the verb of the question must be repeated"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_GiveWater/E41A44E04BC3393E8E7DFC8833AC54B5",
+  "before": "لماذا تُفضّله؟ عليّ.",
+  "after": "لِمَ تؤثره؟ عليّ أنا.",
+  "why": "the trailing 'عليّ' fragment needs أنا to land as it does in English"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_GiveWine/D06124D1458026B879E72DADEB37DEFD",
+  "before": "حفظتُ أسرارك بأمان، يا أبي.",
+  "after": "حفظتُ أسرارك يا أبي.",
+  "why": "'بأمان' is redundant after حفظ; also no comma before the vocative"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_Outro/238C2F07481CCC6B1584D1883E54B191",
+  "before": "آه، لا تتظاهر بالسذاجة، يا أبي.",
+  "after": "أوه، لا تتصنّع البراءة يا أبي.",
+  "why": "coy is feigned innocence, not السذاجة (stupidity); vocative comma removed"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_Outro/0D7C841743B80FE29D2546B8CCF7185A",
+  "before": "مهلًا... أهذا ما يدور حوله كل هذا؟",
+  "after": "مهلًا... أهذا كل ما في الأمر؟",
+  "why": "'ما يدور حوله كل هذا' is a word-for-word carry of 'what this is all about'"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_Outro/A6FD32E849BE17B7701FD7BB0A1D907A",
+  "before": "كان يجب أن تأمر بقتلي!",
+  "after": "كان عليك أن تأمر بقتلي!",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_Outro/814FFFA04EA243E393583E98E2808282",
+  "before": "لقد قلتَ ما يكفي، يا إيغون.",
+  "after": "كفاك كلامًا يا إيغون.",
+  "why": "'قلتَ ما يكفي' is literal; كفاك كلامًا is the Arabic rebuke"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_TakePiss/E251E4174BAA7D4CC489DC9A21B845D9",
+  "before": "«هدية» قاسية... لكنها ليست بغير مستحقة.",
+  "after": "«هدية» قاسية... لكنها ليست بلا استحقاق.",
+  "why": "'ليست بغير مستحقة' garbles the double negative"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_TakeWater/0B27DD0F408A2EF11A4AF6A69212D15B",
+  "before": "رائحته طازجة بما يكفي.",
+  "after": "رائحته طيبة بما يكفي.",
+  "why": "طازجة does not collocate with رائحة in Arabic"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_02_WakeUpEgon2/21E9A5F54B014B7C2B45FE991EC68FC8",
+  "before": "أنت... مشوّش، يا إيغون.",
+  "after": "أنت... مختلط عليك الأمر يا إيغون.",
+  "why": "avoids التشويش, which is frozen for the Confusion status; vocative comma removed"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_End/DC3A77964F1C28FDEDD9A082A12E7B23",
+  "before": "لكنه سيكون غير تقليدي.",
+  "after": "لكنه سيكون خارجًا عن المألوف.",
+  "why": "'غير تقليدي' is modern-marketing register; Smert is the Apostate"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_Trigger/22292D5B43DED006611CCB875FDF9018",
+  "before": "أنا وعاء متواضع لإرادة ماتكا.",
+  "after": "ما أنا إلا وعاءٌ متواضع لإرادة ماتكا.",
+  "why": "ما...إلا carries the self-effacement the flat 'أنا' loses"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_Trigger/B4144C4B4F78705E182A869F23F8C361",
+  "before": "أدعو كل يوم.",
+  "after": "أصلّي كل يوم.",
+  "why": "'أدعو' is supplication; the daily observance is الصلاة"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_Trigger/7D81A8E445922B1400042F9622AF2CF4",
+  "before": "بالطبع. أدعو كل يوم.",
+  "after": "بالطبع. أصلّي كل يوم.",
+  "why": "matches the sibling line"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_AttackBarks_Priest/F544ADD246F75AFF281A938DF7FAD79C",
+  "before": "هذا هو! جيد جدًا.",
+  "after": "هكذا! أحسنت.",
+  "why": "'هذا هو! جيد جدًا' is a literal rendering of an encouragement"
+ },
+ {
+  "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_AttackBarks_Smert/DF76185149FB9DB47890528526F5A6CD",
+  "before": "آسف، لكن لا أستطيع الكفّ.",
+  "after": "آسف، لكني لا أقوى على كبح نفسي.",
+  "why": "'الكفّ' has no object; 'hold back' is كبح النفس"
+ }
+]

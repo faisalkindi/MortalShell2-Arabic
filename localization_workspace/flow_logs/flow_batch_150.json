@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/FEEF89F2450C6C513DEB3AA765522FAF",
+  "before": "[الحوار الحادي عشر]",
+  "after": "[11th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/3A1C74D349ED6A01AF1E7783CCDD8E29",
+  "before": "[الحوار الرابع]",
+  "after": "[4th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/9791D1084D072A78D8706B8EDE13DDB2",
+  "before": "[الحوار الخامس]",
+  "after": "[5th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/F6E2BA8C45F7809294190E81882ADF9F",
+  "before": "[الحوار السادس]",
+  "after": "[6th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/014F496C4BBE7686B103F0A57DB1550A",
+  "before": "[الحوار السابع]",
+  "after": "[7th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/7E96E5014C16861501B276A4EFE14200",
+  "before": "[الحوار الثامن]",
+  "after": "[8th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/ABB9A4284C0F30EEBB0B309BAFAFEC8D",
+  "before": "[الحوار التاسع]",
+  "after": "[9th Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/04CC48B14FB17A488D746CB21A696E21",
+  "before": "[الحوار الأول]",
+  "after": "[First Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/618917714D19A01975DE278B6F527F5D",
+  "before": "[قابل الأُمَّهة]",
+  "after": "[Met Mether]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/6979559A48BB320558F1788B1124ABD9",
+  "before": "[لم يقابل الأُمَّهة]",
+  "after": "[Mether Not Met]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/DF9EF43448BDCCC5D9AC259475A3059E",
+  "before": "[لا علاج - حوار متكرر]",
+  "after": "[No Cure - Repeated Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/954BE64C4B20DD25B0DA2D8D180C93E2",
+  "before": "[حوارات عامة متكررة]",
+  "after": "[Repeated Dlgs Generic]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_MasterTree/7AA14523452706D277E3A991759479FD",
+  "before": "[الحوار الثالث]",
+  "after": "[Third Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_OLDTowerTop/123C80994935FD87727A57B922F418A8",
+  "before": "كله «مُتأنّق».",
+  "after": "«متأنّقٌ» تمامًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Ruk_TowerTop_ExtraHint/CB0C7F6D40F3B6653409DEA65CBD330A",
+  "before": "لكنك لستَ بشرًا فانيًا.",
+  "after": "لكنك لستَ فانيًا.",
+  "why": "flow"
+ }
+]

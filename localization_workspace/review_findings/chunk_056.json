@@ -1,0 +1,24 @@
+{
+ "chunk": 56,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Lazlo_TheMassacre03_Interact/4440124449C47C4CC3580F810DE659FF",
+   "type": "negation_flip",
+   "severity": "high",
+   "source_en": "It’s… not?",
+   "ar": "أليس… كذلك؟",
+   "issue": "أليس… كذلك؟ is the Arabic tag question 'isn't that so?', which asks the hearer to confirm that it IS so; the English floats the opposite proposition, 'it is NOT'. One hamza separates them: ليس كذلك؟ vs أليس كذلك؟. This holds on the string alone. Supporting context, not sequence: the only other fault line in this namespace is 'It's my fault, Uncle.' (DCD9C0794BDC866161CB4D9DD6FC5323), which is what the negative is about.",
+   "suggested_ar": "ليس… كذلك؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Lazlo_TheMassacre01_ApproachFight/D13ED621497E882B6E9002A431358A90",
+   "type": "register_break",
+   "severity": "low",
+   "source_en": "You’re mad, old man.",
+   "ar": "أنت مجنون أيها الشيخ.",
+   "issue": "'Old man' here is dismissive — a peasant brushing off the goat-thief accusation in a scene that ends in a brawl. أيها الشيخ is deferential (elder/sheikh) and reverses the social direction of the insult. Also missing the comma before the vocative that the rest of the corpus uses.",
+   "suggested_ar": "أنت مجنون، أيها العجوز."
+  }
+ ]
+}

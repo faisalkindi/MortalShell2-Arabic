@@ -1,0 +1,15 @@
+{"chunk": 78, "rows_reviewed": 90, "findings": [
+  {"key": "/1C6B94674CB0A8B22A95A78220699597", "type": "term_violation", "severity": "major",
+   "source_en": "Hierarch", "ar": "الحَبر الأعظم",
+   "issue": "Frozen glossary term 'Hierarch' (Smert's cult title) is approved as الكاهن الأكبر (05_glossary.csv). This row uses a different rendering الحَبر الأعظم.",
+   "suggested_ar": "الكاهن الأكبر"},
+  {"key": "/237DB95C4F1109F08F5C71B91F92880D", "type": "term_violation", "severity": "major",
+   "source_en": "Hierarch", "ar": "الحَبر الأعظم",
+   "issue": "Same frozen-term violation as /1C6B94674CB0A8B22A95A78220699597 — 'Hierarch' should be الكاهن الأكبر per glossary, not الحَبر الأعظم.",
+   "suggested_ar": "الكاهن الأكبر"},
+  {"key": "/C2DCF77D4BEF019BC465D0B51F21DE16", "type": "mistranslation", "severity": "minor",
+   "source_en": "He spoke of a wounded matron who demanded tribute. Not just coin, but even children.",
+   "ar": "تحدّث عن سيدةٍ جريحة تطالب بالجزية، لا بالذهب فحسب، بل بالأطفال أيضًا.",
+   "issue": "'tribute' here is a generic extortion demand from a matron, not a religious/political levy. الجزية specifically denotes the Islamic poll tax on non-Muslim subjects — the exact wrong-institution problem the glossary already flags for 'tithes' (05_glossary.csv: tithes = العُشور, NOT الجزية). Using الجزية here imports the same unintended religious/historical connotation.",
+   "suggested_ar": "تحدّث عن سيدةٍ جريحة تطالب بالإتاوة، لا بالذهب فحسب، بل بالأطفال أيضًا."}
+]}

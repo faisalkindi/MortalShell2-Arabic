@@ -1,0 +1,15 @@
+{
+ "chunk": 49,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hilga_Cauldron_Interact_02/5AF7EF244730AB78CCF307B6A75A6621",
+   "type": "gender_error",
+   "severity": "medium",
+   "source_en": "(chuckles) Sorry.",
+   "ar": "(يضحك بخفة) آسف.",
+   "issue": "Hilga is female and her stage directions are feminine everywhere else in this chunk ((sniffs) = (تشمّ) in two rows). Both the direction and the adjective are masculine here.",
+   "suggested_ar": "(تضحك بخفة) آسفة."
+  }
+ ]
+}

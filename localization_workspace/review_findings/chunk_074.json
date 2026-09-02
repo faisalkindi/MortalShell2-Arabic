@@ -1,0 +1,51 @@
+{
+ "chunk": 74,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_08_20",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "… lazy, unsophisticated, and…",
+   "ar": "…كسولون، غِلاظ الطبع، و…",
+   "issue": "'unsophisticated' means unrefined/uncultured. غِلاظ الطبع means harsh- or coarse-TEMPERED, an accusation of cruelty rather than of lacking refinement — a different charge, and one that sits oddly between 'lazy' and the peasants who 'bring me gifts' two lines later (08_30). أجلاف carries exactly 'boorish/uncouth'.",
+   "suggested_ar": "…كسولون، أجلاف، و…"
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_Greeting_11_10",
+   "type": "omission",
+   "severity": "low",
+   "source_en": "You made it back.",
+   "ar": "عدتَ.",
+   "issue": "'You made it back' carries 'survived the trip / got here against the odds', which is what sets up 11_20 'Must have sweet-talked your way in.' عدتَ is the bare fact of returning and drops that.",
+   "suggested_ar": "عدتَ سالمًا."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_BastardInteract/CE5343954F8C2130D731D6A3FFD22278",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "No peace at last.",
+   "ar": "لا سلام أخيرًا.",
+   "issue": "'No peace at last' is a deliberate inversion of the quest title 'Peace at Last' and means 'no peace in the end after all'. لا سلام أخيرًا is a word-for-word carry-over that a native reader parses as 'finally, no peace', not as the bitter echo. Whatever this resolves to must match however the quest title 'Peace at Last' was localised elsewhere — that title is outside my range, so please check the pair together rather than fixing this row alone.",
+   "suggested_ar": "لا سلامَ في الختام."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_CourtesanBastardAttack/DD7748554989CB50401CE79AB99E20C9",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "No peace at last.",
+   "ar": "لا سلام أخيرًا.",
+   "issue": "Duplicate of the 02_BastardInteract row above — same English, same Arabic, same issue. Fix both together so the repeated line stays identical.",
+   "suggested_ar": "لا سلامَ في الختام."
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_PeaceAtLast_02_Kneel/6EA66E3646F39140882A6F8D41E37150",
+   "type": "addition",
+   "severity": "low",
+   "source_en": "Absolution awaits.",
+   "ar": "الغفران بانتظارك.",
+   "issue": "The English is impersonal — absolution awaits, full stop. The Arabic attaches an addressee suffix (بانتظارك, 'awaits YOU'). Contextually the Ovate is speaking to Eredrim so it is not wrong, but it narrows a deliberately oracular line and fixes a second-person addressee the source leaves open.",
+   "suggested_ar": "الغفران ينتظر."
+  }
+ ]
+}

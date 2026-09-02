@@ -1,0 +1,15 @@
+{
+ "chunk": 100,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_Sariel_TheExperiment_S1_Intro_01/88F191A9451C5A311AC773BA5DBDDBFA",
+   "type": "negation_flip",
+   "severity": "low",
+   "source_en": "Not all were so… lucky.",
+   "ar": "لم يكن الجميع بهذا... الحظّ.",
+   "issue": "'Not all were so lucky' is partial negation - Rickart survived, others did not. لم يكن الجميع is grammatically partial but is widely read as total negation ('nobody was lucky'), which would contradict the line before it (وسط الفوضى، سحبتك بعيدًا - he did save this one). Worth disambiguating; not an outright error.",
+   "suggested_ar": "ولم ينعم بهذا الحظّ سواك."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Confess/2D2C01CB4D9066A66EC93783D61B34EE",
+  "before": "ستعود إليك حين يحين الوقت المناسب.",
+  "after": "ستعود إليك متى حان الأوان.",
+  "why": "حين يحين was a jingle; متى حان الأوان is the settled Arabic phrase"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Intro/3959759E472EA83242997B8F5D3A234B",
+  "before": "قتلتُ رجلًا بيديّ العاريتين.",
+  "after": "قتلتُ رجلًا بيديّ المجرّدتين.",
+  "why": "'bare hands' collocates with المجردتين in Arabic; العاريتين is the calque"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_Intro/FBB672994DE6A5CECC7672AB29CED4FE",
+  "before": "عملت ماتكا من خلالك.",
+  "after": "إنما كانت ماتكا تعمل بك.",
+  "why": "'worked through you' is devotional idiom; من خلالك traced the English preposition"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_MakeInquiry/E41C1F5E4FA3553020F381BF6C916B1A",
+  "before": "ومع ذلك، دنّستَه بهذا الرعاع.",
+  "after": "ومع ذلك، دنّستَه بهؤلاء الرعاع.",
+  "why": "الرعاع is a plural, so it takes هؤلاء not هذا"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_MakeInquiry/8B8044254385E346C0EF6B88795BFBE5",
+  "before": "أستكفّر؟",
+  "after": "هل ستُكفّر؟",
+  "why": "أستكفّر؟ read as a first-person question"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_PickUpDagger/C9DFAF4A417D4CF3A3BE258B66BDEA90",
+  "before": "ستعود إليك حين يحين الوقت المناسب.",
+  "after": "ستعود إليك متى حان الأوان.",
+  "why": "same line, kept identical"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_SmertApproaches/F44B32E646D5554934EA7B87972F9A27",
+  "before": "لن تمسّه.",
+  "after": "لن تمسّوه.",
+  "why": "the party that says 'We seek the so-called prophet' is plural"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRedemption_SMM7_CommandBrether/AD9E042D4DA9EBF2257C26855D288BF3",
+  "before": "أخرجوني فحسب وسأشرح.",
+  "after": "أخرجني فحسب وسأشرح.",
+  "why": "the scene addresses one brether ('Brether… release me') - singular imperative"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRedemption_SMM7_CommandBrether/39553110443052FBEDBF3FA74BB320DB",
+  "before": "استمع... ليست كما تظنّها.",
+  "after": "اسمع... إنها ليست ما تظنّها.",
+  "why": "restored the missing subject; ليست كما تظنّها compared manners, not identity"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRedemption_SMM7_CommandBrether/4FEA70D0424F96AC5AFF7B991409FDA6",
+  "before": "أانقلبت عليها؟",
+  "after": "هل انقلبتَ عليها؟",
+  "why": "أانقلبت stacked two alifs; هل is the clean interrogative here"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRedemption_SMM7_HierarchEnters/E352F5504FE193DCCCE7B8AEDFF1F011",
+  "before": "قالت إنك ستكون ميتًا.",
+  "after": "قالت إنك ستكون قد متّ.",
+  "why": "'you'd be dead' is a future perfect, which ستكون ميتًا did not carry"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_EnterBrigand/6C16C98A45923AF6F99389BBC5BA21B4",
+  "before": "لكن هل تتحدثين إلى الأم العظيمة في السماء؟",
+  "after": "لكن هل تتحدث إلى الأم العظيمة في السماء؟",
+  "why": "the brigand is mocking Smert, who is male; the other lines in this scene are masculine"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_EnterBrigand/D3268FDE4EC660C5C42C6AAEEB776C64",
+  "before": "أرجو ذلك.",
+  "after": "أنا... أرجو ذلك.",
+  "why": "restored the dropped hesitation 'I…'"
+ },
+ {
+  "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_Intro/4813D2BA45A70B548BCB8D9D6DEED506",
+  "before": "وإن لم أكن من رحمك... فإني أرتشف منه.",
+  "after": "وإن لم أكن من رحمك... فإني أرتشف منها.",
+  "why": "رَحِم is feminine in Arabic"
+ }
+]

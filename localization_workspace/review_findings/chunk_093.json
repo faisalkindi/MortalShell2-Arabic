@@ -1,0 +1,24 @@
+{
+ "chunk": 93,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheJusticiar_01_Execute/5FD3370E47EA52B3ACB05C85E2E7A652",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Unfit to protect the realm of Mammon.",
+   "ar": "غير مؤهّلَين لحماية مملكة مامون.",
+   "issue": "Mammon is transliterated مَمُّون everywhere else in this review range - 'عرش مَمُّون', 'الثورات التي تلت في مَمُّون', 'عملة مَمُّون', 'خريطة مَمُّون'. This row alone writes مامون, so the realm Lazlo dies protecting reads as a different place name.",
+   "suggested_ar": "غير مؤهّلَين لحماية مملكة مَمُّون."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_01/C78DE9D149FF5EFBF6D623B2F80247D6",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Starving yourself won't bring them back.",
+   "ar": "تجويع نفسك لن يُعيدهم.",
+   "issue": "'them' is Lazlo's two executed parents, and this memory set uses the Arabic dual for them consistently - 'لم أستطع إنقاذهما', 'استيقظا... أرجوكما', 'كانا ساذجَين'. Only this line drops to the plural يُعيدهم.",
+   "suggested_ar": "تجويع نفسك لن يُعيدهما."
+  }
+ ]
+}

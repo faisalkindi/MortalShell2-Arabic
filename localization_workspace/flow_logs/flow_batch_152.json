@@ -1,0 +1,38 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hunter_CantBuy/E0FC3C71410B9C5570CCB2B159016D0D",
+  "before": "(يزدري) تُضيّع وقتي.",
+  "after": "(يسخر) تُضيّع وقتي.",
+  "why": "يزدري means despise; scoffs is a sound, يسخر"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_FindBrigands_Dungeon/A026B6B44EFEDC3B58B7368A25C3E770",
+  "before": "نحن قريبون.",
+  "after": "اقتربنا.",
+  "why": "'نحن قريبون' is a state; the hunter means the hunt is closing in"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_Greeting/F9BE22474181222D632252B695538B54",
+  "before": "(يشتمّ) لا نقود؟",
+  "after": "(يشمّ) لا نقود؟",
+  "why": "frozen stage direction form for (sniffs)"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_Greeting/1FE43F144B9E6BF2F5FBF0BB0AA3A234",
+  "before": "(يشتمّ) رائحتك تفوح بالنقود.",
+  "after": "(يشمّ) رائحتك تفوح بالنقود.",
+  "why": "frozen stage direction form for (sniffs)"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_ReactToDoorInteract/C207C3014CA06D3CFD7C30882D7BD57C",
+  "before": "وجدتُه يطارد الفرّوغات.",
+  "after": "وجدتُه يطارد الفروغات.",
+  "why": "glossary spelling: فروغات, no shadda"
+ },
+ {
+  "key": "Dialogue_Dlg_Hunter_ReactToDoorInteract/5C002AEA474321B0FB475D990C7D7E13",
+  "before": "يصنعون حرّاسًا جيدين.",
+  "after": "يصيرون حرّاسًا جيدين.",
+  "why": "calque: 'make good guards' is become, not manufacture"
+ }
+]

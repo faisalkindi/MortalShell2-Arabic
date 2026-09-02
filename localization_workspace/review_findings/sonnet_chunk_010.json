@@ -1,0 +1,6 @@
+{"chunk": 10, "rows_reviewed": 90, "findings": [
+  {"key": "ST_Core_Shells/EredrimTagline", "type": "term_violation", "severity": "major",
+   "source_en": "Peace has a price.", "ar": "للسِّلْمِ ثمن.",
+   "issue": "Glossary freezes this exact line as السلام له ثمن. with the explicit note 'identical every recurrence' (05_glossary.csv, 'Peace has a price.' phrase). This row uses a different word for peace (السِّلْم instead of السلام) and a different sentence structure (للسِّلْمِ ثمن instead of السلام له ثمن), breaking the required identical-recurrence rule for Eredrim's motto.",
+   "suggested_ar": "السلام له ثمن."}
+]}

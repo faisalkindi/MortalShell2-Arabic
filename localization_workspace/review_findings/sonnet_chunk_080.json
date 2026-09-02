@@ -1,0 +1,6 @@
+{"chunk": 80, "rows_reviewed": 90, "findings": [
+  {"key": "/5D59E1A04E319FEA32A84BA8C552DBA9", "type": "term_violation", "severity": "major",
+   "source_en": "Mad Cultist", "ar": "تابع الطائفة المجنون",
+   "issue": "Frozen glossary term 'Cultist' is approved as عابد الطائفة with the explicit note 'NOT تابع الطائفة - التابِع is frozen as Harros's Vassal title' (05_glossary.csv). This row uses تابع الطائفة, exactly the collision the glossary warns against.",
+   "suggested_ar": "عابد الطائفة المجنون"}
+]}

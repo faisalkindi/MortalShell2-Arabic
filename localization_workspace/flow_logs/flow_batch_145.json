@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Greeting_MasterTree/4534AD214916226165E2C4861D2F5400",
+  "before": "الأُمَّهة المباركة! إنه... هو!",
+  "after": "الأُمَّهة المباركة! إنه… هو!",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Greeting_MasterTree/12CC7E85494AEC819D34E9A99040713F",
+  "before": "[حوار إعادة الظهور]",
+  "after": "[Respawn Dialogue]",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_1/7E3FCC034D7A3780904AB6AE80B4B6D6",
+  "before": "أهلًا بعودتكِ، أيتها الأخيّة الكبرى.",
+  "after": "أهلًا بعودتكِ، أيتها الأُخَيّة الكُبرى.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_1/BD15A78140A5ABD372FFB2BFAE47B429",
+  "before": "حين تكون مستعدًا، المصعد ينتظر، ورحلتك يمكن أن تبدأ.",
+  "after": "حين تكون مستعدًا، فالمصعد بانتظارك، ولك أن تبدأ رحلتك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_2/345FB2BA443193FCE92BDD9F84F064B6",
+  "before": "تأمّلتُ فيه لأشهر.",
+  "after": "ظللتُ أتأمّله شهورًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_2/529CE4AF4617ADE6696FBBB42A17A703",
+  "before": "قد يبدو... كمزحة.",
+  "after": "قد يبدو… كمزحة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_2/BA1AA41E4ED92DD937B870AA1CE8241F",
+  "before": "الأُمَّهة المباركة أخبرتني بذلك.",
+  "after": "إنه… أنت حقًا…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_2/F44808084D24985B45DCAB98AF424284",
+  "before": "إنه… أنت حقًا…",
+  "after": "ربما كان هذا اختبارًا؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Interact_2/DF474EDB4C5A70F6E4CBF4A19CB5B916",
+  "before": "ربما إنه اختبار؟",
+  "after": "الأُمَّهة المباركة أخبرتني بذلك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Pillow_OnInteract/64414FEF443B3D66F865079E10CA7491",
+  "before": "نحن مريدوك المتواضعون، أيها النذير.",
+  "after": "نحن أتباعك المتواضعون، أيها النذير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/D553027F47489268C0CDDEACBF23313F",
+  "before": "أنا بخير.",
+  "after": "لا داعي، شكرًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/007891624F9D640451BEC19C27A91FE0",
+  "before": "أتعلم... سأقبل عرضك.",
+  "after": "أتعلم… سأقبل عرضك.",
+  "why": "flow"
+ }
+]

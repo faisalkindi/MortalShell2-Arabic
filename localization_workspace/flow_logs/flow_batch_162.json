@@ -1,0 +1,80 @@
+[
+ {
+  "key": "Dialogue_Dlg_Merchant_GreetingAfterDeath/14018825413D81AED1949CB80ADA60AE",
+  "before": "وقالت إنه بإمكاني أن أتقاضى منك أكثر أيضًا.",
+  "after": "بل قالت إن لي أن أتقاضى منك أكثر.",
+  "why": "بل carries the escalation; 'إنه بإمكاني أن' was three words of scaffolding"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_GreetingAfterDogKilled/2D086B0C4903C95505B66A926256858E",
+  "before": "حسنًا، استمر بالشراء، لكن كل الأسعار سترتفع.",
+  "after": "حسنًا، اشترِ ما شئت، لكن الأسعار كلها سترتفع.",
+  "why": "'استمر بالشراء' is a calque of keep buying"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_GreetingAfterDogKilled/90027DB54ECC522008710FBAD575F624",
+  "before": "عندك وقاحة أن تعود إلى هنا.",
+  "after": "لك وجه من حديد لتعود إلى هنا.",
+  "why": "Arabic idiom for 'you got some nerve'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_HexapodKilled/0DF42E6847C5CD91EDAAAE84534FCB77",
+  "before": "وعلى يديها هي أيضًا.",
+  "after": "وبيديها هي أيضًا.",
+  "why": "'by her hands' is instrumental بـ, not على"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_HexapodKilled/5999FA6B406409C503904385630FB71B",
+  "before": "بروكسيما كانت... لتُسَرّ.",
+  "after": "بروكسيما... كانت لتُسَرّ.",
+  "why": "the ellipsis belongs before the verb, as in the English"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/98FCF9984B1028F0446C49A7DCCAABEA",
+  "before": "لكن ربما كان بإمكاننا أن نخوض... مغامرات فاشلة أخرى معًا.",
+  "after": "لكن ربما كان لنا أن نخوض... بضع مغامرات خائبة أخرى.",
+  "why": "cut the added 'معًا' and the heavy 'كان بإمكاننا'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/B3EF78424C347AC4EF59E7A89031F5B2",
+  "before": "أتساءل... أيّ حياة كانت لتحياها، أو ربما نحن معًا.",
+  "after": "أتساءل... أيّ حياة كانت لتحياها، أو ربما كنا لنحياها نحن.",
+  "why": "keeps the counterfactual explicit on both halves"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_HexapodKilled_Interact/E490F5A746F7E2284C825FBF8E24E5BA",
+  "before": "يسرّني ذلك... أنت تعرف.",
+  "after": "يسرّني ذلك... تفهم قصدي.",
+  "why": "'أنت تعرف' was a word-for-word 'you know'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_AfterDogKilled/CD5161434D99441CBACE92A74FAF3801",
+  "before": "أرجو أني بثثتُ فيه بعض الحكمة.",
+  "after": "أرجو أني أعدتُه إلى رشده.",
+  "why": "'بثثتُ فيه بعض الحكمة' lost the violence of 'knocked sense into'"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_FinalDeal/21A1AE0D4189018B2C8F9BB0DC2AFE51",
+  "before": "أعادل هذا؟",
+  "after": "أهذا عدل؟",
+  "why": "'أعادل هذا؟' is not Arabic word order"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_FinalDeal/B471FDA5459DC737A20CD9BD7E48113F",
+  "before": "حسنًا، فما فائدة كل هذه النقود إذًا؟",
+  "after": "وإلا فما فائدة كل هذه النقود؟",
+  "why": "had both ف and إذًا doing the same job"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_Generic/BC6960A5414C8B9A786595A8858D10AA",
+  "before": "أعجبك شيء؟",
+  "after": "هل راقك شيء؟",
+  "why": "'أعجبك شيء؟' flattened the shopkeeper patter"
+ },
+ {
+  "key": "Dialogue_Dlg_Merchant_Interact_Proxima/897BE9C04A8B8DB204274E8C62422C92",
+  "before": "إنه أمر غريب فحسب، رؤيتها مجددًا.",
+  "after": "غريب فحسب أن أراها مجددًا.",
+  "why": "'إنه أمر غريب فحسب، رؤيتها' was an English right-dislocation"
+ }
+]

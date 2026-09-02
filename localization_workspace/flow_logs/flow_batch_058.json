@@ -1,0 +1,74 @@
+[
+ {
+  "key": "/ElectricConduitFlavorText",
+  "before": "إحساسٌ غريب نابض يتردّد من الداخل، أشبه برعدٍ بعيد. بل إن بعض الأشياء تستدرّ هذه الطاقة، لكن لا يتم ذلك إلا بتركيزٍ شديد.",
+  "after": "إحساسٌ غريب نابض يتردّد من الداخل، أشبه برعدٍ بعيد. بل إن بعض الأشياء تستدرّ هذه الطاقة، ولا يتأتّى ذلك إلا بتركيزٍ شديد.",
+  "why": "لا يتم ذلك is filler-verb prose; يتأتّى carries 'only with careful focus' and links the clause instead of restarting it."
+ },
+ {
+  "key": "/SellableItemEffect",
+  "before": "يمكن استبداله بـ <Bold>{Cost}</> عملة.",
+  "after": "يمكن استبداله بـ<Bold>{Cost}</> عملة.",
+  "why": "Stray space after the prefixed بـ, which detaches the preposition from its noun in rendering."
+ },
+ {
+  "key": "/RareArtifact",
+  "before": "عملة مامون",
+  "after": "عملة مَمُّون",
+  "why": "Mammon is مَمُّون everywhere in the lore text; مامون was a second spelling of the same place."
+ },
+ {
+  "key": "/Slice2Map",
+  "before": "خريطة مامون",
+  "after": "خريطة مَمُّون",
+  "why": "Same place-name spelling."
+ },
+ {
+  "key": "/InferiorMoonshine",
+  "before": "العَرَق الرديء",
+  "after": "العَرَق العاديّ",
+  "why": "Frozen glossary term: Common Moonshine = العَرَق العاديّ."
+ },
+ {
+  "key": "/InferiorMoonshineFlavorText",
+  "before": "مزيجٌ من الأرواح والقار، كفيلٌ بأن يبعث الجرأة في أجبن القلوب، ولو لبرهة.",
+  "after": "مزيجٌ من العَرَق والقار، كفيلٌ بأن يبعث الجرأة في أجبن القلوب، ولو لبرهة.",
+  "why": "'spirits' here is liquor, not souls — الأرواح made the moonshine's own description supernatural."
+ },
+ {
+  "key": "/MangoGameplayDesc",
+  "before": "يزيد نقاط الحياة.",
+  "after": "يحسّن الحياة.",
+  "why": "نقاط الحياة invents a stat the game does not have (health is الصحة); the joke line just says life gets better."
+ },
+ {
+  "key": "/StrangeGearGameplayDesc",
+  "before": "يزيد مقاومة <Lightning>الصواعق</>.",
+  "after": "يزيد مقاومة <Lightning>البرق</>.",
+  "why": "Frozen glossary term: Lightning = البرق, as in every mitigation row in the skill trees."
+ },
+ {
+  "key": "/HPUpgradeFlavorText",
+  "before": "نُموٌّ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+  "after": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+  "why": "نمو is the process of growing; the item is a lump of growth — نُتوء."
+ },
+ {
+  "key": "/HealingUpgradeFlavorText",
+  "before": "نُموٌّ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+  "after": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا كلما نبض بقلبٍ لا يُرى.",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/BlackMarrowKeyFlavourText",
+  "before": "في عظام الأُمَّهة يكمن أعظم عطاياها: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُدعى في العامّة، على نحوٍ مبتذَل، بالقَتام.",
+  "after": "في عظام الأُمَّهة يكمن أعظم عطاياها: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُدعى على نحوٍ مبتذَل بالقَتام.",
+  "why": "في العامّة plus a second parenthetical said the same thing twice and stalled the line's last beat."
+ },
+ {
+  "key": "/MapFragmentItem",
+  "before": "جزء من الخريطة:",
+  "after": "شظية الخريطة:",
+  "why": "'Map Fragment' is شظية الخريطة in its other occurrence; the collectible must carry one name."
+ }
+]

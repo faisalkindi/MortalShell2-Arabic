@@ -1,0 +1,69 @@
+{
+ "chunk": 81,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/66BA52994E01CB1B5294D7846AAB79F2",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Praise Mether, I’m back.\nIt had been so long, I’d nearly forgotten my point of origin. \nI return now, having traveled many worlds. \nSome I visited lightly and easily departed. I felt enriched.",
+   "ar": "الحمد للأمَّهة، عدت.\nطال الأمد حتى كدت أنسى منشئي. \nأعود الآن بعد أن طُفت عوالمَ كثيرة. \nبعضها زرته خفيفًا وغادرته بيسر. شعرت بالغنى.",
+   "issue": "Frozen Mether = الأُمَّهة, but here it appears in the lam-prefixed form للأمَّهة without the damma. The corpus-wide sweep for الأُمَّهة would not have matched this contracted form, so three rows in this chunk still carry the old spelling (see also /9FE955CB… and /D16BF498…). Same string, two spellings, in rows the player reads back to back.",
+   "suggested_ar": "الحمد للأُمَّهة، عدت.\nطال الأمد حتى كدت أنسى منشئي. \nأعود الآن بعد أن طُفت عوالمَ كثيرة. \nبعضها زرته خفيفًا وغادرته بيسر. شعرت بالغنى."
+  },
+  {
+   "key": "/9FE955CB4DA5C9A2FCE5B295E3B9B571",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Praise Mether, I’m back. I traveled only where the fog permitted. Some worlds were bright and meaningless. Others pressed against me like wet cloth. But without the traveler’s path, I wandered blind.",
+   "ar": "الحمد للأمَّهة، عدت. لم أرحل إلا حيث سمح الضباب. بعض العوالم كانت مشرقةً لا معنى لها، وبعضها ضغط عليّ كقماشٍ مبلّل. لكن دون درب المسافر، تُهت أعمى.",
+   "issue": "Same missed lam-prefixed form of the frozen term: للأمَّهة should be للأُمَّهة.",
+   "suggested_ar": "الحمد للأُمَّهة، عدت. لم أرحل إلا حيث سمح الضباب. بعض العوالم كانت مشرقةً لا معنى لها، وبعضها ضغط عليّ كقماشٍ مبلّل. لكن دون درب المسافر، تُهت أعمى."
+  },
+  {
+   "key": "/D16BF49849C9783436333D9A75468458",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Prophet Smert was right. The chamber beneath Marrowkeep. The divine presence of the Mether. All true. I etch this stone by light from a torch which was not here but moments ago. Did Smert leave it for me? No, it was not him, but someone else. A traveler? The moment I grasped the torch I could not shake the feeling a thousand realities await just beyond the fog. I know I must continue.",
+   "ar": "كان النبيّ سميرت محقًّا. الغرفة تحت حصن النخاع. الحضور الإلهي للأمَّهة. كل ذلك حقّ. أنقش هذا الحجر بضوء مشعلٍ لم يكن هنا قبل لحظات. أتراه سميرت تركه لي؟ لا، لم يكن هو، بل شخصٌ آخر. مسافر؟ منذ اللحظة التي أمسكت فيها المشعل، لم أستطع التخلص من شعورٍ بأن ألف حقيقةٍ تنتظر خلف الضباب. أعلم أن عليّ المضيّ.",
+   "issue": "Same missed lam-prefixed form: 'the divine presence of the Mether' reads الحضور الإلهي للأمَّهة, which should be للأُمَّهة.",
+   "suggested_ar": "كان النبيّ سميرت محقًّا. الغرفة تحت حصن النخاع. الحضور الإلهي للأُمَّهة. كل ذلك حقّ. أنقش هذا الحجر بضوء مشعلٍ لم يكن هنا قبل لحظات. أتراه سميرت تركه لي؟ لا، لم يكن هو، بل شخصٌ آخر. مسافر؟ منذ اللحظة التي أمسكت فيها المشعل، لم أستطع التخلص من شعورٍ بأن ألف حقيقةٍ تنتظر خلف الضباب. أعلم أن عليّ المضيّ."
+  },
+  {
+   "key": "/7C9BDB9F4A2B4E3B01B7E7AA9D986C31",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Pick Your Poison",
+   "ar": "اختر سمّك",
+   "issue": "'Pick your poison' is the English idiom for 'choose which drink / take your pick', and the corpus has a tavern context for it (Hilga's drink lines). Rendered literally as اختر سمّك it becomes an instruction to select an actual poison — and the corpus also has a literal 'Drink Poison' prompt, so the two will collide. Needs an in-game check of which prompt this is; if it is the tavern line, the idiom should be localised.",
+   "suggested_ar": "اختر شرابك"
+  },
+  {
+   "key": "/B5207B1148014FF22CCE4AB82D5AF315",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Question Disciple",
+   "ar": "استجواب المريد",
+   "issue": "Frozen glossary term: Disciple = الحواريّ; المُريد is reserved for Acolyte (Tiel's title).",
+   "suggested_ar": "استجواب الحواريّ"
+  },
+  {
+   "key": "/13C522AD49D9A56B1C4987A100C9CC5F",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Question The Hierarch",
+   "ar": "استجواب الحَبر الأعظم",
+   "issue": "Frozen glossary term: Hierarch = الكاهن الأكبر.",
+   "suggested_ar": "استجواب الكاهن الأكبر"
+  },
+  {
+   "key": "/453E5E9647DF62C35FCA52A7018CA35D",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "Pet Mutton",
+   "ar": "مداعبة موتن",
+   "issue": "Frozen glossary transliteration: Mutton = ماتون.",
+   "suggested_ar": "مداعبة ماتون"
+  }
+ ]
+}

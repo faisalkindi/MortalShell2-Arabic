@@ -1,0 +1,1262 @@
+{
+ "Classic": [
+  {
+   "key": "ST_Core_Options_Game/ClassicDamageNumbers",
+   "ar": "كلاسيكية"
+  },
+  {
+   "key": "ST_Core_Options_Game/DodgeStyleOnRelease",
+   "ar": "كلاسيكي"
+  }
+ ],
+ "Balanced": [
+  {
+   "key": "ST_Settings/BalancedSettingsTitle",
+   "ar": "متوازن"
+  },
+  {
+   "key": "ST_Settings/RenderResolutionBalanced",
+   "ar": "متوازنة"
+  }
+ ],
+ "High": [
+  {
+   "key": "ST_Settings/HighSettingsTitle",
+   "ar": "مرتفع"
+  },
+  {
+   "key": "ST_Settings/MotionBlurHigh",
+   "ar": "مرتفعة"
+  }
+ ],
+ "Low": [
+  {
+   "key": "ST_Settings/LowSettingsTitle",
+   "ar": "منخفض"
+  },
+  {
+   "key": "ST_Settings/MotionBlurLow",
+   "ar": "منخفضة"
+  }
+ ],
+ "Performance": [
+  {
+   "key": "ST_Settings/PerformanceSettingsTitle",
+   "ar": "الأداء"
+  },
+  {
+   "key": "ST_Settings/RenderResolutionPerformance",
+   "ar": "أداء"
+  }
+ ],
+ "Hold": [
+  {
+   "key": "ST_Settings_Advanced/ST_AimingInputStyle_Hold",
+   "ar": "الضغط المطوّل"
+  },
+  {
+   "key": "ST_Core_Tutorials/MiscHoldButton",
+   "ar": "اضغط مطوّلًا"
+  }
+ ],
+ "Guard": [
+  {
+   "key": "ST_Core_Actions/ActionActiveBlock",
+   "ar": "الصد"
+  },
+  {
+   "key": "/0CD3705143B5DDC5FE660FBE7B0E12F8",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/40C5D008430FCD4CB74527A7232527AA",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/61006E9C4DE75B97787968A2DC330406",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/85F67A2D431CF663EA6715BF081EA290",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/8D61A2E6407779310912BAA2FB5C2043",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/9D6BB80C45B6144BA8C21E848431689F",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/A53077E7439278E08F732693D68AD952",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/AAF24BB34AC6B99A2610AFA3A745C348",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/C1365C434CFDB87E1F6D1AA44D43994E",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/C90B07EE4F5B0FBF29E7729B33E52E64",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/F5E6E82A42A64A2AF9A49E9044C23A09",
+   "ar": "الحارس"
+  },
+  {
+   "key": "/FEEED2E4425D20F905CAB1B592A7D028",
+   "ar": "الحارس"
+  },
+  {
+   "key": "ST_Core_Seals/DefaultSealAbility",
+   "ar": "الصد"
+  }
+ ],
+ "Heavy Attack": [
+  {
+   "key": "ST_Core_Actions/ActionHeavyAttack",
+   "ar": "هجوم قوي"
+  },
+  {
+   "key": "/0805F6F740948671D6D5A68CC8104A44",
+   "ar": "هجوم ثقيل"
+  }
+ ],
+ "Kneel": [
+  {
+   "key": "ST_Core_Interactions/Kneel",
+   "ar": "ركوع"
+  },
+  {
+   "key": "/CF926C714289B83532CC4CBA8BCBDB98",
+   "ar": "الركوع"
+  }
+ ],
+ "Map": [
+  {
+   "key": "ST_Core_Interactions/TakeItem_Map",
+   "ar": "خريطة"
+  },
+  {
+   "key": "/E673BFC74299D83D4A0E47967058EC58",
+   "ar": "الخريطة"
+  }
+ ],
+ "Touch": [
+  {
+   "key": "ST_Core_Interactions/TouchInteraction",
+   "ar": "لمس"
+  },
+  {
+   "key": "/94836AAB479828D0521BF394FA6B4885",
+   "ar": "اللمس"
+  }
+ ],
+ "Press": [
+  {
+   "key": "ST_Core_Tutorials/MiscPressButton",
+   "ar": "اضغط"
+  },
+  {
+   "key": "/F8BCE5F94D33A1FF92E3F5B1F509E7A8",
+   "ar": "الضغط"
+  }
+ ],
+ "No": [
+  {
+   "key": "ST_Core_Misc/No",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/D1B7E8FF4CED03AFEF739D897DED544E",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/48CACB214CFE09982CDF9F974F79758E",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/55035443481B4051C512D8AE05BCBE76",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/5D9A1674438350BB300248A1F538B77B",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/D79E09C5444095ECE3A30A8EE0278A8C",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/DFA5DCFC459B1C7A62C2E3976A24D9AE",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/F32F02F24D8B4405C7402999DDEEAC0F",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/68ED6DA94858585AFE85D7B581D4EBDB",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_01_Interact/AD0AB4504D16523BF0D2A78E4DF8A43E",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_02_Interact/E5FDE7E74E0D9607F80288B40FA29060",
+   "ar": "لا."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_InteractTiel/05338901416415147FB15590DB7C91C6",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_Interact_02/597B84784F27D8A5FA04E38A1271922A",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/083027D9466E737305CB7386E0ABE36A",
+   "ar": "لا"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/B881BBBC459AFF72D8959D85EF18D04D",
+   "ar": "لا"
+  }
+ ],
+ "Yes": [
+  {
+   "key": "ST_Core_Misc/Yes",
+   "ar": "نعم"
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/F3CFF79E41C75D9FF5101981B562C730",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/494B712446483D828928849BF3447F6B",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/5261E650437F72B27ADE19989275646E",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/53E376914A82CF8A138FD2A8E6AA2988",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/5D7625C447BB8CDCF5DBA2A931DD4E18",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/89F0C5A1451FEE353130878E37DECA95",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestMain/D42098454026FA46D7A7F5BCFC90B2B6",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/912956874B172B42EF842C8A8F01D5EF",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_01_Interact/36E7AFAE458EE59EDEEDB1828590B57E",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_02_Interact/1E588D434BA2204F3708E291E24A88A7",
+   "ar": "نعم."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_InteractTiel/3E0F9704439BE78707E91C851D5BAF88",
+   "ar": "نعم"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_Interact_02/40C327684498F4FE45F241A242C2C17E",
+   "ar": "نعم"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/9F1D52A946FBD322A0BED78BA314FE8C",
+   "ar": "نعم"
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/B0D20A3F42B4B3E3D096F49185024203",
+   "ar": "نعم"
+  }
+ ],
+ "A hit that deals <Bold>bonus</> damage.": [
+  {
+   "key": "ST_StatusEffects/ST_CriticalHit_Description",
+   "ar": "ضربة تُلحق ضررًا <Bold>إضافيًا</>."
+  },
+  {
+   "key": "/7AC9A8D7436DFD3F4475C58B530592AD",
+   "ar": "ضربةٌ تُلحق ضررًا <Bold>إضافيًا</>."
+  }
+ ],
+ "Causes the victim to attack nearby allies for its duration. If none are present, the victim instead suffers severe <Break>Break Damage</>.": [
+  {
+   "key": "ST_StatusEffects/ST_Confusion_Description",
+   "ar": "يدفع الضحية إلى مهاجمة من حولها من الحلفاء طوال مدته. فإن خلا محيطها منهم، تلقّت <Break>ضرر كَسر</> شديدًا."
+  },
+  {
+   "key": "/DC5385C44AF09DCAA74986866B709D3A",
+   "ar": "يجعل الضحية تهاجم حلفاءها القريبين طوال مدته. فإن لم يكن ثمّة أحد، تعرّضت الضحية بدلًا من ذلك لـ<Break>ضرر كَسر</> شديد."
+  }
+ ],
+ "The affected target takes damage over time and deals reduced damage.": [
+  {
+   "key": "ST_StatusEffects/ST_CosmicDisease_Description",
+   "ar": "يتلقّى الهدف المتأثر ضررًا بمرور الوقت ويُلحق ضررًا أقل."
+  },
+  {
+   "key": "/332425764177AB4432FCA29D9B8ED70F",
+   "ar": "يتلقى الهدف المتأثر ضررًا متجددًا مع الوقت، ويُلحق ضررًا أقل."
+  }
+ ],
+ "Nothing is so broken it can’t be made whole again.": [
+  {
+   "key": "ST_Core_Shells/GenessaTagline",
+   "ar": "ما من كسرٍ إلا وله جَبْر."
+  },
+  {
+   "key": "/C47B1A9B4AE8A887D51EC2A16C49F534",
+   "ar": "ما من كسرٍ لا يُجبَر."
+  }
+ ],
+ "Once you have nothing, you’re free to take everything.": [
+  {
+   "key": "ST_Core_Shells/TielTagline",
+   "ar": "من لم يبقَ له شيء، حَلَّ له كلُّ شيء."
+  },
+  {
+   "key": "/16E110E041D5A2F82F0AA1991F1C411D",
+   "ar": "حين لا تملك شيئًا، تغدو حرًّا في أخذ كل شيء."
+  }
+ ],
+ "Truth is the final revelation before death.": [
+  {
+   "key": "ST_Core_Shells/SmertTagline",
+   "ar": "الحقيقةُ آخرُ ما يُكشَف قبل الموت."
+  },
+  {
+   "key": "/575A7A9B4F73C679FB59F7B73801B55E",
+   "ar": "الحقيقة آخر ما يُكشف قبل الموت."
+  }
+ ],
+ "Obsidian Hammer": [
+  {
+   "key": "ST_Core_Weapons/HeavyHammer",
+   "ar": "مطرقة السَّبَج"
+  },
+  {
+   "key": "/DDF456E041E72BEC3F186DBD22AF96B8",
+   "ar": "مطرقة السبج"
+  }
+ ],
+ "Insufficient Materials": [
+  {
+   "key": "ST_Core_Menu_Tarforge/InsufficientMaterial",
+   "ar": "مواد غير كافية"
+  },
+  {
+   "key": "NewStringTable/InsufficientMaterials",
+   "ar": "المواد غير كافية"
+  }
+ ],
+ "Save Slot Not Empty": [
+  {
+   "key": "ST_Core_Menu_Tarforge/NonEmptySaveSlot",
+   "ar": "خانة الحفظ غير فارغة"
+  },
+  {
+   "key": "ST_Core_Prompts/SaveDataAlreadyExists",
+   "ar": "خانة الحفظ ليست فارغة"
+  }
+ ],
+ "Bring to Franz to discover its true purpose.": [
+  {
+   "key": "ST_Core_Tarforge/EtchingNeedlesGameplayDesc",
+   "ar": "احملها إلى فرانز لتعرف غرضها الحقيقي."
+  },
+  {
+   "key": "ST_Core_Tarforge/FoundryStoneGameplayDesc",
+   "ar": "احمله إلى فرانز لتعرف غرضه الحقيقي."
+  },
+  {
+   "key": "ST_Core_Tarforge/MuradeanActuatorGameplayDesc",
+   "ar": "احمله إلى فرانز لتعرف غرضه الحقيقي."
+  },
+  {
+   "key": "ST_Core_Tarforge/ObsidianLatheGameplayDesc",
+   "ar": "احملها إلى فرانز لتعرف غرضها الحقيقي."
+  }
+ ],
+ "Foundry Stone": [
+  {
+   "key": "ST_Core_Tarforge/FoundryStoneName",
+   "ar": "حجر المسبَك"
+  },
+  {
+   "key": "/123D10774174AD6731BADA985BE1583E",
+   "ar": "حجر المسبك"
+  }
+ ],
+ "Muradean Actuator": [
+  {
+   "key": "ST_Core_Tarforge/MuradeanActuatorName",
+   "ar": "المُحرِّك المورادنيّ"
+  },
+  {
+   "key": "/58B11F9941E613DA4F5B63818A338FC0",
+   "ar": "مُشغِّل مورادين"
+  }
+ ],
+ "Obsidian Lathe": [
+  {
+   "key": "ST_Core_Tarforge/ObsidianLatheName",
+   "ar": "مخرطة السَّبَج"
+  },
+  {
+   "key": "/303BAFED41216F3EFBD8A0BEE57C44BD",
+   "ar": "مخرطة السبج"
+  }
+ ],
+ "Sester's Censer": [
+  {
+   "key": "ST_Core_Dungeons/GenessaCenser",
+   "ar": "مِبخَرة الأُخَيّة"
+  },
+  {
+   "key": "/GenessaCenser",
+   "ar": "مِبخرة الأُخَيّة"
+  }
+ ],
+ "Genessa's Censer": [
+  {
+   "key": "ST_Core_Locations/IncenseBurner",
+   "ar": "مِبخَرة جينيسا"
+  },
+  {
+   "key": "/15A3DBC64B6226AFC698708D41255FC2",
+   "ar": "مِبخرة جينيسا"
+  }
+ ],
+ "Withered Shoals": [
+  {
+   "key": "ST_Core_Locations/S2Hexapod",
+   "ar": "الضِّحال الذاوية"
+  },
+  {
+   "key": "ST_Core_FastTravel/BossAreaName_HexapodBoss",
+   "ar": "الضِّحال الذابلة"
+  }
+ ],
+ "Despondent Villager": [
+  {
+   "key": "ST_Core_NpcNames/DespondentVillager",
+   "ar": "قرويّ قانط"
+  },
+  {
+   "key": "ST_CreditsTitles/ST_Role_DespondentVillager",
+   "ar": "القروي اليائس"
+  }
+ ],
+ "Grisha Pup": [
+  {
+   "key": "ST_Core_NpcNames/GrishaPup",
+   "ar": "جِرو الغريشا"
+  },
+  {
+   "key": "/1B8D1FA14C9E0FF185507B8707190D8B",
+   "ar": "جرو غريشا"
+  }
+ ],
+ "Hadern": [
+  {
+   "key": "ST_Core_NpcNames/Hadern",
+   "ar": "هادِرن"
+  },
+  {
+   "key": "ST_CreditsTitles/ST_Role_Hadern",
+   "ar": "هادرن"
+  }
+ ],
+ "Initiate": [
+  {
+   "key": "ST_Core_NpcNames/Initiate",
+   "ar": "مُبتدئ"
+  },
+  {
+   "key": "/90ADED9A4FB474D5E42B2ABEBE104F0D",
+   "ar": "المُستجَدّ"
+  }
+ ],
+ "Lead Disciple": [
+  {
+   "key": "ST_Core_NpcNames/LeadDisciple",
+   "ar": "كبير الحواريّين"
+  },
+  {
+   "key": "/C742BF59482A78FA49B8948E9BA322F3",
+   "ar": "إرشاد الحواريّ"
+  }
+ ],
+ "The Prophet": [
+  {
+   "key": "ST_Core_NpcNames/TheProphet",
+   "ar": "النبيّ"
+  },
+  {
+   "key": "ST_CreditsTitles/ST_Role_BanishedCultist",
+   "ar": "النبي"
+  }
+ ],
+ "Unknown": [
+  {
+   "key": "ST_Core_NpcNames/Unknown",
+   "ar": "مجهول"
+  },
+  {
+   "key": "ST_Core_NpcNames/UnknownFeminine",
+   "ar": "مجهولة"
+  },
+  {
+   "key": "/08D3F1A8495B45C130CA719056CCDD30",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/0B69E385417C8795841A0192DF1945FF",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/37FE76CE4C1EC1B14B88F6A6A72EFCAE",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/3B128820421DF2B1F538C28A3E6B2978",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/CC02E9ED41015483C8EE029C1AB53C7F",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/F0594F6541579857122FF79BC8C85F00",
+   "ar": "مجهول"
+  },
+  {
+   "key": "/FA8941F140B739FB0C02F3B9835879F8",
+   "ar": "مجهول"
+  }
+ ],
+ "Bandit": [
+  {
+   "key": "/6C41B523441F87CA0439CF8DC6526C65",
+   "ar": "لصّ"
+  },
+  {
+   "key": "/A0B5F1644677915D554C699C2DDC2F64",
+   "ar": "قاطع الطريق"
+  }
+ ],
+ "Deer": [
+  {
+   "key": "/9EDA4C9648B6A58D3BABD493299C8D66",
+   "ar": "أيّل"
+  },
+  {
+   "key": "/D6BADF5449C9F092643F9789ECFCC266",
+   "ar": "غزال"
+  },
+  {
+   "key": "/E0FAD26143987E321BE7E7B63A16333E",
+   "ar": "غزال"
+  }
+ ],
+ "Do What Must Be Done": [
+  {
+   "key": "/3F76AE6B4BC28D06FCF66AB3CF1B8718",
+   "ar": "فعل ما يجب"
+  },
+  {
+   "key": "/AC14C675496FA0CFCCA193B633FB5E1F",
+   "ar": "افعل ما يجب فعله"
+  }
+ ],
+ "Forgive me, I am unworthy, but...": [
+  {
+   "key": "/8733BC3E4CFA6BE6B61C0EA1312CB917",
+   "ar": "اغفر لي، فأنا غير جدير، لكن..."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo/8733BC3E4CFA6BE6B61C0EA1312CB917",
+   "ar": "سامحني، أنا غير جدير، لكن..."
+  }
+ ],
+ "I command you to stop at once.": [
+  {
+   "key": "/A4C6C5B8498620953A1A1D9D75F34C6A",
+   "ar": "آمرك أن تتوقف حالًا."
+  },
+  {
+   "key": "/DAF07696437EA1C48F0FA1855D423C61",
+   "ar": "آمرك أن تتوقف على الفور."
+  }
+ ],
+ "It’s… not?": [
+  {
+   "key": "/46B406394754003D16AA9E95967CB8D2",
+   "ar": "إنه... ليس كذلك؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Lazlo_TheMassacre03_Interact/4440124449C47C4CC3580F810DE659FF",
+   "ar": "ليس… كذلك؟"
+  }
+ ],
+ "Used to temper Tarstones at the Tarforge.": [
+  {
+   "key": "/4D8ADA81476C7F0ED31ACBB35DD22409",
+   "ar": "يُستخدم لتطويع أحجار القار في مِصهَر القار."
+  },
+  {
+   "key": "/TarcoreEffect",
+   "ar": "يُستخدم لتقسية أحجار القار في مِصهَر القار."
+  }
+ ],
+ "Inside the Mether’s bones, lies her most potent gift, the Blackmarrow. And yet when released from her heavenly form, it’s crudely called Gloom.": [
+  {
+   "key": "/BlackMarrowKeyFlavourText",
+   "ar": "في عظام الأُمَّهة يكمن أعظم عطاياها: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُدعى على نحوٍ مبتذَل بالقَتام."
+  },
+  {
+   "key": "gland/BlackMarrowKeyFlavourText",
+   "ar": "في عظام الأُمَّهة يكمن أشدّ عطاياها أثرًا: النُّخاع الأسود. غير أنه حين يتحرّر من هيئتها السماوية، يُسمّى بغِلظةٍ: القَتام."
+  }
+ ],
+ "Slightly damp and sticky, but otherwise non-descript.": [
+  {
+   "key": "/VlasCageKeyFlavorText",
+   "ar": "رطب ولزج قليلًا، لكنه لا يحمل أي سمة مميزة أخرى."
+  },
+  {
+   "key": "gland/DungeonSunkenKeyFlavorText",
+   "ar": "رطبٌ لزجٌ بعض الشيء، وما عدا ذلك فلا سمة له."
+  }
+ ],
+ "Welcome back, Harbinger.": [
+  {
+   "key": "Dialogue_DLG_HubCultist_NewGameGreeting/26CCEFF64A020356947FEEABB4953EEE",
+   "ar": "أهلًا بعودتك أيها النذير."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_GenericGreeting_BeforeTraining/69AF254447E67FF33CB312B65EB4BB0B",
+   "ar": "أهلًا بعودتك، أيها النذير."
+  }
+ ],
+ "(groans)": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_ALifeForALife_S1_Intro_01/618D6A7A42C5B4C7DEBBE698375B3B04",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_Intro_01/C149C5A34172AF296D9F00BCFAF85BCD",
+   "ar": "(تئنّ)"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S1_UseBiosampler_04/7B74D1034C4FA17D9CCC0884F7BDCA56",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_DLG_Sariel_TheDead_S2_SpeakToDead_07/590F0DB34A4A92802C8E2097AF176BD1",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_HitReact/D7F488624FD3DFE65EB71FA5D10FC775",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_Poison_01_PoisonDrunk/0BAC76B94D7DD7089A42DCBEB2D5218D",
+   "ar": "(يئنّ)"
+  }
+ ],
+ "What are you doing?": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_MerrickStabs_06/EBDC192E456F1E431C527FB67536C5E0",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheEndeavor_S1_New_Merrick_02/5A11924143749E2210DA9BB0126E2AC2",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_DLG_Sariel_TheDead_S1_ExamineCorpse_01/2F70B7F448889746DC18B8A7A1140291",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_DLG_Sariel_TheDead_S2_SpeakToDead_07/436D5ED94713944922DE0DAAB6B971D3",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_ExamineHarros/B73C64424297E682F26659ACF2F023FF",
+   "ar": "ماذا تفعلين؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_TheCenser_02_Confide/572AF73A458ACAB58C13838EFED1417A",
+   "ar": "ماذا تفعلين؟"
+  },
+  {
+   "key": "ST_GorfDialogues/Gorf_Interact_01_10",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Hunter_TurnHostile/360D4F0B408BDDD843DE009F6B6EEC47",
+   "ar": "ماذا تفعل؟"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_AMercy_01_Intro/9E0DF57B4085A105E692A7958B1D4797",
+   "ar": "ماذا تفعل؟"
+  }
+ ],
+ "I can show you.": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_ConfrontMerrick_11/FBF62EA445F852751EA98D90D6CE7F9D",
+   "ar": "يمكنني أن أريك."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_End/965AC4EB4D6B5E2D654AD78A1D24B3B1",
+   "ar": "أستطيع أن أُريك."
+  }
+ ],
+ "Give it here.": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_08/9974407A405D2F3F7D656BA6E9C9C66C",
+   "ar": "أعطني إياه."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_InteractTarwine/4EF2369D44D86C9DADC3FE8BAF183B24",
+   "ar": "هاته."
+  }
+ ],
+ "You hear me?": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/51D61D2F41E2F07809CCC198532F1087",
+   "ar": "أتسمعينني؟"
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic04_Interact_10",
+   "ar": "أتسمعني؟"
+  }
+ ],
+ "Is that… you?": [
+  {
+   "key": "Dialogue_DLG_Sariel_TheCrow_S1_Outro_06/313C98084A90F6EFB8D0C0BB09DDE32D",
+   "ar": "أهذا... أنت؟"
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheVision_SMM6_Intro/2677B590404301C7BE6D1BB6909C1710",
+   "ar": "أهذه... أنتِ؟"
+  }
+ ],
+ "What do you want?": [
+  {
+   "key": "Dialogue_DLG_SarielMemory_TheEgg_S1_ExamineHatchedOvum_02/AF72E38D495D8E6C4536E0A9247BF4F4",
+   "ar": "ماذا تريد؟"
+  },
+  {
+   "key": "Dialogue_DLG_Tavern_Gragu_Interact01/82B949DD43E5295E082ABBAFCA042788",
+   "ar": "ماذا تريد؟"
+  },
+  {
+   "key": "Dialogue_DLG_TielMemory_TheTrueNektar_01_QuestionSesterGenessa/66AA82A343AFFE9424F0C98062534BCA",
+   "ar": "ماذا تريدين؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheImmaculatePath_01_WraithsGone/A699FB1E4791DEAF8BF98A99C65CD5CA",
+   "ar": "ماذا تريد؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_Unfriendly/676B4D8144FD560FD18CF781652D8305",
+   "ar": "ماذا تريد؟"
+  }
+ ],
+ "I am.": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheAtonement_SMM5_Intro/1AFC7C074D2D8592471F19AFA0810E91",
+   "ar": "أنا كذلك."
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_EnterBrigand/892D1FA24D48539AF6DDC7B5D38AF23B",
+   "ar": "أجل."
+  }
+ ],
+ "(grunts)": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_FightPause/CB87F0004852E6C5D1CF2085E5A78F10",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheConfession_SMM4_PunchExerts/608F9A994A6C85077DC3F3BCE16EF077",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_HitReact/916E26654A4A6F0EB12F448BF78DE883",
+   "ar": "(يزفر بجهد)"
+  },
+  {
+   "key": "Dialogue_Dlg_Grisha_Greeting_2/3257DA584CE87AF0F80E0E8B2EF82E8E",
+   "ar": "(يهمهم)"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor_OpenReaction/3C9819104DD36B25B4885E947ABFD467",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Gragu_TheGreatFlesh_WoodChop/CF57622649E1B46F0F84F687DE3BC7E8",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_03_StabDagger_New/A6D6E55F45020C15984C2A8CDE2F923F",
+   "ar": "(يئنّ)"
+  },
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheBottle_01_ThrowStone/0EA3A80D4F01E9E85A1C20AC2FE5DE0E",
+   "ar": "(يئنّ)"
+  }
+ ],
+ "But no more.": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheCommunion_SMM3_WalkToGloomPit/71A312194F5F1709DBAE758E08D5B4AF",
+   "ar": "لكن ليس بعد اليوم."
+  },
+  {
+   "key": "Dialogue_Dlg_Vlas_Goodbye_04/7DDF16AD4B1E6A24D9FACBBB80B5F3B4",
+   "ar": "لكن ليس بعد الآن."
+  }
+ ],
+ "Rise, brether Smert.": [
+  {
+   "key": "Dialogue_DLG_SmertMemory_TheRevelation_SMM1_S1_Outro/6AA479804CF88B8D3A12CFA9C4B788ED",
+   "ar": "انهض، أيها الأُخَيّ سميرت."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_02_SmertLoses/06D52F12468DF3984C4607B00E167E9D",
+   "ar": "انهض يا أُخَيّ سميرت."
+  }
+ ],
+ "(chuckles) A jest… drink up, brev.": [
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact01/5131909848D4B0D4E5F11C80689A9828",
+   "ar": "(يضحك) مزحة فحسب... اشرب، يا صاح."
+  },
+  {
+   "key": "Dialogue_DLG_Tavern_Barkeep_DrinkReact07/F3513BCD457A8EF79D77B4930E1BCAE9",
+   "ar": "(تضحك) مزحة فحسب... اشرب، يا صاح."
+  }
+ ],
+ "I thought you were dead.": [
+  {
+   "key": "Dialogue_DLG_Tavern_Drunk_Interact01/878C17584626F43E512207A578F600E9",
+   "ar": "ظننتك ميتًا."
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_01_10",
+   "ar": "ظننتُك ميتًا."
+  }
+ ],
+ "For what?": [
+  {
+   "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_DrinkTarwine_02/4F93A85C49DDF0A8A721D3A1AB28A4C7",
+   "ar": "لماذا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_HighSesterSanctum_01_ExamineHarros/7C65A8084B82AACF6402C685AEE6F4B0",
+   "ar": "علام؟"
+  }
+ ],
+ "Wait.": [
+  {
+   "key": "Dialogue_DLG_TielMemory_LoversQuarrel_01_DrinkTarwine_02/B6A2B2A940DC8E76CE8195B06F1B4C6E",
+   "ar": "انتظري."
+  },
+  {
+   "key": "Dialogue_Dlg_ImmortalBrigand_FoundBody_Gold/D6C5EFCF42FA972BD6F6E2A7484E3AF1",
+   "ar": "انتظر."
+  }
+ ],
+ "What are you doing here?": [
+  {
+   "key": "Dialogue_DLG_TielMemory_TheRash_S1_DoorsOpen_06/725D42DA4E239674A35D11A103A46C14",
+   "ar": "ماذا تفعل هنا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_ReturnToFallgrim_01_ExamineShell_Continue/D8241E684D1C085183D83487BE3173EC",
+   "ar": "ماذا تفعلين هنا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Vlas_Greeting_03/57AAEBD84180048792243C96AC667DCA",
+   "ar": "ماذا تفعل هنا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/74E570F9408BC4429CE6979E8313A079",
+   "ar": "ماذا تفعل هنا؟"
+  },
+  {
+   "key": "Dialogue_Dlg_VlasEvent_03_GiveKey/E92BF49746FDE3D4ED4324B9F68A0BC7",
+   "ar": "ماذا تفعل هنا؟"
+  }
+ ],
+ "Magdalena, the Lady of the Woods": [
+  {
+   "key": "ST_Core_Bosses/Boss_LadyOffTheWoods",
+   "ar": "ماغدالينا، سيدة الغاب"
+  },
+  {
+   "key": "ST_CreditsTitles/ST_Role_LOTW",
+   "ar": "ماغدالينا، سيدة الغابة"
+  }
+ ],
+ "Harbinger": [
+  {
+   "key": "ST_Core_DarkForms/DarkForm",
+   "ar": "النذير"
+  },
+  {
+   "key": "ST_EndingAnimatic/Line01_Harbinger",
+   "ar": "أيها النذير"
+  }
+ ],
+ "You see I’m… cool now.": [
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestComplete/8999221D4B26C5D5EC330697FD00D5CE",
+   "ar": "أترى… أنا مرتاح البال الآن."
+  },
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_OpensUp_01_10",
+   "ar": "أترى… صرتُ ذا شأنٍ الآن."
+  }
+ ],
+ "It ain’t hard to find.": [
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/74E4A2DE46EF8F0628E7858F37070744",
+   "ar": "ليس من الصعب العثور عليه."
+  },
+  {
+   "key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/C63B9E9848D969823C694490F6A5EF1F",
+   "ar": "ليس يصعب العثور عليه."
+  },
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_Greeting_No_02_70",
+   "ar": "ليس يصعب العثور عليه."
+  },
+  {
+   "key": "ST_Dialogue_Baghead/Baghead_Greeting_Yes_02_50",
+   "ar": "ليس يصعب العثور عليه."
+  }
+ ],
+ "I have a gift for you.": [
+  {
+   "key": "Dialogue_Dlg_BanishedCultist_02_CloseTrigger/24ADA0704849E00ACF1D98915A9917DE",
+   "ar": "لديّ هديّة لك."
+  },
+  {
+   "key": "Dialogue_Dlg_Vlas_Greeting_05/52DC026D462FAE84514313B9EFC76BEE",
+   "ar": "لديّ هدية لك."
+  }
+ ],
+ "(gasps)": [
+  {
+   "key": "Dialogue_Dlg_Blacksmith_HitReact/F0FA37A54DE53A470B9B5D8734A03581",
+   "ar": "(يشهق)"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Memory_TheAscension_1_TeleportEnd/8D41E854485BCCFD8C407AA8820C4654",
+   "ar": "(تشهق)"
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_01_PickUpChild/8E7053584458911374802FB6254DBF08",
+   "ar": "(يشهق)"
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_02_DropChild/18F0BE394FDB388F63FF1B9FC25CF9C9",
+   "ar": "(يلهث)"
+  }
+ ],
+ "You know…": [
+  {
+   "key": "Dialogue_Dlg_Blacksmith_Interact_AllPartsGiven/A445FEF042874224E102ED8CB1EA3BC6",
+   "ar": "أتعلم…"
+  },
+  {
+   "key": "ST_GorfDialogues/Gorf_Greeting_03_10",
+   "ar": "أتعلم…"
+  },
+  {
+   "key": "Dialogue_Dlg_Gragu_Poison_02_GetUp/1E0083864859EC4AF9C506ADDCC95839",
+   "ar": "أتعلم…"
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_Interact_00/47A8204641586FC76FAC00BA8EC3CEA7",
+   "ar": "أتعلم..."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_MapFragmentInteract_02/AFE4F88A4C32ABD65482CFB7D109D2DF",
+   "ar": "أتعلم..."
+  }
+ ],
+ "Come back here!": [
+  {
+   "key": "Dialogue_Dlg_Blacksmith_NoHelp/18A6B17946AFE67AF35F238CC2E803E7",
+   "ar": "تعالَ إلى هنا!"
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_PostTribute_Lazlo_04_40",
+   "ar": "عُد إلى هنا!"
+  }
+ ],
+ "Not bad.": [
+  {
+   "key": "Dialogue_Dlg_Blacksmith_TarforgeInteract_Ends/242731074F2F83D55C44E09B2C2AAFB7",
+   "ar": "ليس سيئًا."
+  },
+  {
+   "key": "Dialogue_Dlg_ImmortalBrigand_HitReaction/349E3C1E48079DEB531BE885C5DC5B7A",
+   "ar": "لا بأس."
+  }
+ ],
+ "Careful.": [
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_10",
+   "ar": "احذر."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_Boss_TarGolem/8268424546430D9DAD0A55A987A9BACE",
+   "ar": "احترس."
+  }
+ ],
+ "Let’s see what you can do.": [
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_03_30",
+   "ar": "لنرَ ماذا تستطيع فعله."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_Quip/B1D5329B4DA1E880CEA16F994135CD60",
+   "ar": "لنرَ ما بوسعك فعله."
+  }
+ ],
+ "That’s it.": [
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_120",
+   "ar": "هكذا."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_SarielQuest_LabOpen_Interact_11/B4166FE34C67D4FBE1AEB49E490FFB10",
+   "ar": "هذا هو."
+  }
+ ],
+ "Watch it.": [
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_150",
+   "ar": "احترس."
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_HitByPlayer/5CF95D034D182C13B6717B854823810C",
+   "ar": "انتبه."
+  }
+ ],
+ "While I’ll still allow it.": [
+  {
+   "key": "Dialogue_Dlg_BlisterBoi_Goodbye_Cancelled/AC3CF6A04D0234C18C787EA0A41E9F0E",
+   "ar": "ما دمتُ لا أزال أسمح بذلك."
+  },
+  {
+   "key": "ST_Dialogue_Egon/Egon_Cancel_01_30",
+   "ar": "ما دمتُ أسمح بذلك."
+  }
+ ],
+ "All yours, brev.": [
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_Buy/6F00D86A40FB1E2AB6F521B0859873F5",
+   "ar": "كلّه لك يا صاح."
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_OnBuy_StrangeItem/E5FE1C3B457C40070BA3F98D2D6E3EE7",
+   "ar": "كله لك، يا صاح."
+  }
+ ],
+ "You got yourself a deal.": [
+  {
+   "key": "Dialogue_Dlg_BrigMerchant_Buy/7E244C6248EDB8F5BD85B086CC9BED6E",
+   "ar": "اتفقنا إذن."
+  },
+  {
+   "key": "Dialogue_Dlg_Merchant_OnBuy_Map/7581093748FC2FB9DCAC3D8D0D7324F6",
+   "ar": "اتفقنا إذًا."
+  }
+ ],
+ "What are you waiting for?": [
+  {
+   "key": "ST_Dialogue_Egon/Egon_Interact_Lazlo_04_10",
+   "ar": "ما الذي تنتظره؟"
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_TheReunion_01_CombatEscalate/21ECCF0B49E3F807F4C42580A5F3D75F",
+   "ar": "ماذا تنتظرين؟"
+  }
+ ],
+ "What!?": [
+  {
+   "key": "Dialogue_Dlg_Eredrim_TheBattle_01_Execution/CFB340B141BA51D91316F5BA32BB9FB2",
+   "ar": "ماذا؟!"
+  },
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheCure_03_PupilRises/F98BD6574ED7A549A7EE9EB9B8DB0479",
+   "ar": "ماذا!؟"
+  }
+ ],
+ "Drink up.": [
+  {
+   "key": "Dialogue_Dlg_FriendlyDrunk_01/2F4814A648F4C74F19BE4093C864502F",
+   "ar": "أفرغ كأسك."
+  },
+  {
+   "key": "ST_Dialogue_Hilga/Hilga_Cauldron_Look_07_10",
+   "ar": "اشرب."
+  }
+ ],
+ "What have you done?": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheCenser_02_TabletDrop/9DD169144F90F9835D48798AEDB51AD8",
+   "ar": "ماذا فعلتِ؟"
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_End/E687FA1F4348832E16B191A3ECDA7B90",
+   "ar": "ماذا فعلت؟"
+  }
+ ],
+ "I do.": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheCenser_03_DoWhatMustBeDone/AA2A8543487A2CE5AE67D898570F50EB",
+   "ar": "بل عليّ ذلك."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_03_Intro/BFB67B454972058FF86B7B9D540736BB",
+   "ar": "أعرفها."
+  }
+ ],
+ "Do not mourn.": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheFuneral_01_AfterTakingPlace/ABFC8DBF4FF0ABEBB284D1A57F7A76F1",
+   "ar": "لا تحزنّ."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_Prologue_PostHarrosClaim/9EEC4254418CA7D844E4AD9116FA23E4",
+   "ar": "لا تحزن."
+  }
+ ],
+ "Come.": [
+  {
+   "key": "Dialogue_Dlg_Genessa_TheFuneral_01_Intro/2C52075E477F9F11E53490BB634107AA",
+   "ar": "تعالَي."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_TheReunion_01_CombatEscalate/E2F7ED984D4ED78BDF4D3FB1507E2B9F",
+   "ar": "هيّا."
+  },
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_Intro/28DBFE774811454821980D8E0000E2CB",
+   "ar": "تعالَ."
+  },
+  {
+   "key": "Dialogue_Dlg_Memory_EmberOfRebirth_01/F0A114AE452FC73A8EBC898A3D9D92E9",
+   "ar": "تعال."
+  }
+ ],
+ "Tiel…": [
+  {
+   "key": "Dialogue_Dlg_Genessa_Training_Intro/19D48B81470E1DF12B99B9A9051FB5AF",
+   "ar": "تيل… "
+  },
+  {
+   "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_Intro/B755C6CE462316AF1C0195BA394190BD",
+   "ar": "تيل..."
+  }
+ ],
+ "Yes, that’s it.": [
+  {
+   "key": "Dialogue_Dlg_Gorf_Interact_03/A225B1214AD451A961A7819A7A6D3F06",
+   "ar": "نعم، هذا هو."
+  },
+  {
+   "key": "Dialogue_Dlg_PrologueCultist_LastDance/2AA6053645A9984C82E3DCAB28C0722E",
+   "ar": "نعم، هكذا تمامًا."
+  }
+ ],
+ "Go on.": [
+  {
+   "key": "Dialogue_Dlg_Gragu_TheChild_01_UrgeChildToContinue/5AB8D1744B26508B7FA133ABDAAA18EC",
+   "ar": "تابع."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Ruk_EggStranding_FirstOvum/A82BA2D0413F29559F4947AADAC00F7F",
+   "ar": "هيّا."
+  }
+ ],
+ "As are you.": [
+  {
+   "key": "Dialogue_Dlg_Gragu_TheDivine_01_ClaimTheDivine_Continue/2458D744473235ED281FF596F3A8D797",
+   "ar": "وكذلك أنت."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Smert_TheFirstConvert_01_Trigger/32B8C5BB446B659950D167A45C47E500",
+   "ar": "وأنت كذلك."
+  }
+ ],
+ "Now go.": [
+  {
+   "key": "Dialogue_Dlg_Hub_Ruk_Greeting_01/3AA531724DF096594989DEA08521EF20",
+   "ar": "اذهب الآن."
+  },
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Lazlo_TheFeast_03_Interact_Mask/FF087F28446EB120A36F168E8A8F4EB7",
+   "ar": "والآن اذهب."
+  }
+ ],
+ "And even fewer are unguarded.": [
+  {
+   "key": "Dialogue_Dlg_Ruk_Interact_00/73DB9F574DC3A399D0C65BB92DE9FFBB",
+   "ar": "وأقلّ من ذلك ما لا حارس له."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_MapFragmentInteract_02/CDB2F77246FC48A284A024BEA4E98421",
+   "ar": "وأقلّ من ذلك ما لا حارس عليه."
+  }
+ ],
+ "But few remain.": [
+  {
+   "key": "Dialogue_Dlg_Ruk_Interact_00/E0F07A1242B2A1A0F3CF1E9E23D4DB74",
+   "ar": "لكن لم يبقَ منها إلا قليل."
+  },
+  {
+   "key": "Dialogue_Dlg_Ruk_MapFragmentInteract_02/69E7BFBE4CF4C8173832788A6578584F",
+   "ar": "لكن لم يبقَ منها إلا القليل."
+  }
+ ],
+ "I promise.": [
+  {
+   "key": "Dialogue_Dlg_Tiel_AnOldFriend_01_ExamineBottle/AA541BED4E9601825A41E59C2D17BCBA",
+   "ar": "أعدُكِ."
+  },
+  {
+   "key": "Dialogue_Dlg_TielMemory_TheBottle_02_GenessaHug/47ACA6044C5E3CD62C4E3BB28DF4FC8D",
+   "ar": "أعدُك."
+  }
+ ]
+}

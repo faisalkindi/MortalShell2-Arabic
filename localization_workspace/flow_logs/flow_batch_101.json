@@ -1,0 +1,86 @@
+[
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_06_20",
+  "before": "هيا. قلها. قل شيئًا. أي شيء!",
+  "after": "هيا. أفصح. قل شيئًا. أي شيء!",
+  "why": "'قلها' then 'قل شيئًا' repeats; أفصح is the Arabic 'out with it'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_60",
+  "before": "خشن، لكنه يكفي.",
+  "after": "خشن، لكنه يفي بالغرض.",
+  "why": "'يكفي' misses the grudging 'it'll do'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_30",
+  "before": "لا تقف هكذا. تحرّك.",
+  "after": "لا تقف هكذا. انصرف.",
+  "why": "'تحرّك' does not carry 'Git' (=go away)"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_70",
+  "before": "لا تنحنِ قريبًا… تعرف ما يحدث.",
+  "after": "لا تُدنِ رأسك… تعرف ما يحدث.",
+  "why": "'لا تنحنِ قريبًا' is not Arabic"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_20",
+  "before": "عمل متقن… بالنسبة ليديك.",
+  "after": "عمل متقن… بمقاييس يديك.",
+  "why": "'بالنسبة لـ' is a calque; بمقاييس carries the backhanded praise"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_40",
+  "before": "جيد… بالنسبة لصانعٍ مبتدئ.",
+  "after": "جيد… بمقاييس صانعٍ لا أستاذ.",
+  "why": "'مبتدئ' is apprentice, not journeyman — a guild-rank error"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_03_20",
+  "before": "همم. تكبر، وتقوى. أهدأ أيضًا؟",
+  "after": "همم. تكبر وتشتدّ. وأكثر صمتًا؟",
+  "why": "'أهدأ' misses that the son is mute; و-listing reads better than commas"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_01_10",
+  "before": "أ… أهذا أنت يا بنيّ؟ تأخّرت.",
+  "after": "أهذا… أهذا أنت يا بنيّ؟ تأخّرت.",
+  "why": "the stutter 'أ…' is not a readable Arabic hesitation"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_11_20",
+  "before": "لا يهمّ. أريده أن يعود.",
+  "after": "لا يهمّ. أريد استعادته.",
+  "why": "'أريده أن يعود' is a calque of 'want it back'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_05_30",
+  "before": "فقط لا تُفكّر في استبدالي.",
+  "after": "ولا تُفكّر في أن تحلّ محلّي.",
+  "why": "fronted 'فقط'; استبدالي means replacing me WITH something else"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_07_10",
+  "before": "فقط تذكّر...",
+  "after": "تذكّر فحسب…",
+  "why": "fronted 'فقط' plus ASCII ellipsis"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_08_10",
+  "before": "كل عمل يستحقّ هو كذلك.",
+  "after": "وكل عمل يستحقّ العناء كذلك.",
+  "why": "'كل عمل يستحقّ هو كذلك' is broken; needs the object of 'worthwhile'"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_05_30",
+  "before": "ليس وهناك عمل يجب فعله.",
+  "after": "ليس والعمل ينتظر.",
+  "why": "'هناك عمل يجب فعله' is an existential calque"
+ },
+ {
+  "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_04_20",
+  "before": "الآن تحرّك!",
+  "after": "انصرف الآن!",
+  "why": "matches the 'Git' fix earlier in the batch"
+ }
+]

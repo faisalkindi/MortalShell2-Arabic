@@ -1,0 +1,42 @@
+{
+ "chunk": 28,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheExchange_S3_EnterMerrick_02/F23A04EE43660CC8FA1D6A8FE59436A4",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Hexapod.",
+   "ar": "الهكسابود.",
+   "issue": "Frozen Hexapod = السداسيّ الأرجل. Transliterated on F23A04EE... and F77B6FD4... ('the, uh, Hexapod'), and Merrick's mangle 38A7630B... ('hexa-dog' -> الهكسا-كلب) is built off the transliteration too, so it garbles a name the player has never seen.",
+   "suggested_ar": "السداسيّ الأرجل."
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_EnterCampHeart_05/8DA56B30490F6BC4A5D17583BBA5E242",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "Bow before Larreth, the Brigand King!",
+   "ar": "انحنوا أمام لارِث، ملك اللصوص!",
+   "issue": "'Brigand' is قاطع طريق in the enemy-name rows (nine of them in chunk 024) but لصّ throughout this memory arc — here in a proper TITLE ('the Brigand King'), and also on 56348583... ('These… brigands') and 8A9AE191... ('Every brigand within fifty miles'). The boss's title and the enemies he leads end up with unrelated names.",
+   "suggested_ar": "انحنوا أمام لارِث، ملك قُطّاع الطرق!"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheWeapon_S1_ApproachBrigandKing_06/0765272E43F8971511E4399E10C1B62E",
+   "type": "register_break",
+   "severity": "low",
+   "source_en": "Who dareth approach me?",
+   "ar": "من يجرؤ على الدنوّ منّي؟",
+   "issue": "Larreth is a brigand play-acting royalty, and the source marks it with faked archaism ('dareth', and 'I haveth a crown and scepter' on 743409F5...). The Arabic is plain correct MSA, so the pretension — the whole joke of the character — is invisible.",
+   "suggested_ar": "مَن ذا يجرؤ أن يدنُوَ من مقامي؟"
+  },
+  {
+   "key": "Dialogue_DLG_ProximaMemory_TheFinalExchange_FuneralStory_06/E7B3BCD2467B26019B4BE4B693D0DC9D",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "(scoffs) Pretty stupid, huh?",
+   "ar": "(يهزأ) سخيفٌ جدًا، أليس كذلك؟",
+   "issue": "'Pretty stupid' is Merrick hedging while describing his own people's funerals to a dying friend; سخيفٌ جدًا ('very stupid') drops the hedge. Same pattern as ECB5B2F6... in chunk 026 ('pretty sure' -> واثقٌ تمامًا).",
+   "suggested_ar": "(يهزأ) سخيفٌ بعض الشيء، أليس كذلك؟"
+  }
+ ]
+}

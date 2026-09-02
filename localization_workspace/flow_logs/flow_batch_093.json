@@ -1,0 +1,32 @@
+[
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_No_10",
+  "before": "حسنًا، لا… انسَ الأمر.",
+  "after": "أجل… لا، انسَ الأمر.",
+  "why": "'حسنًا' misses the self-interrupting 'Yeah, nah'"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_05_40",
+  "before": "يمكن أن تكون خليفتي.",
+  "after": "قد تكون أنت خليفتي.",
+  "why": "flat modal calque; تقديم of أنت carries the offer"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Greeting_02_50",
+  "before": "أترى… للجلوس بلا فعل شيء فنٌّ خاص.",
+  "after": "أترى… إن للتبطّل فنًّا.",
+  "why": "wordy; إنّ-fronting gives the aphorism its punch (matches batch 091)"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_OpensUp_05_20",
+  "before": "يجب أن تحلّ محلّي.",
+  "after": "عليك أن تحلّ محلّي.",
+  "why": "'يجب أن' is heavier than the casual English"
+ },
+ {
+  "key": "ST_Dialogue_Baghead/Baghead_Nothing_03_10",
+  "before": "متأكد؟",
+  "after": "أمتأكد؟",
+  "why": "bare 'متأكد؟' lacks the Arabic interrogative marking"
+ }
+]

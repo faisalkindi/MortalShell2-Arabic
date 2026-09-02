@@ -1,0 +1,15 @@
+{
+ "chunk": 89,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_ShellMemory_Eredrim_TheFaithful_02_GiveTarwineForcefully/D8DD6976446F8BF7DC53FE9418D34FFF",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Thanks… but no thanks.",
+   "ar": "شكرًا... لكن لا حاجة لي بها.",
+   "issue": "The referent is the Tarwine, and this memory refers to it as masculine everywhere else - 'إنه... فظيع' elsewhere in this same scene and 'إنه خفيف' in TheFaithful_02_Intro. Only this line switches to feminine بها. (خمر takes either gender in Arabic, so the fix is consistency, not correctness - align it with the masculine used in the sibling lines.)",
+   "suggested_ar": "شكرًا... لكن لا حاجة لي به."
+  }
+ ]
+}

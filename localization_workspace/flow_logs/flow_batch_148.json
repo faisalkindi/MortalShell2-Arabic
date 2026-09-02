@@ -1,0 +1,74 @@
+[
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_FirstOvumGen_Interact/01974BD748296D4765B6479780103746",
+  "before": "يبدو أن لي دورًا لأؤديه بعد.",
+  "after": "يبدو أن لي دورًا أؤدّيه بعد.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_GenericInteract/2CE0734B4AED8CA41034219F267D5975",
+  "before": "عسى الأُمَّهة أن تأويك في حضنها.",
+  "after": "عسى أن تؤويك الأُمَّهة في حضنها.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_GenericInterrupt/B71BEFA94982067041F30AAE0342CBE6",
+  "before": "لستُ متأكدًا أنني أرغب في إخبارك بعد الآن.",
+  "after": "لم أعد متأكدًا أنني أريد إخبارك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_GenericInterrupt/9CDAB79B4A8CE9D9E74572A0BDA0ADD6",
+  "before": "من غير اللائق أن ترحل بينما يتحدّث أحد.",
+  "after": "من قلّة الأدب أن تمضي وأحدهم يتكلّم.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_01/CE7C28F34B47CDD79F470BA3D663E8CB",
+  "before": "أيها النذير، جهّزنا مِصفاة القَتام تحسّبًا لقدومك.",
+  "after": "أيها النذير، جهّزنا مِصفاة القَتام استعدادًا لقدومك.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_01/E8E1D139419DB5FD52DC8E89BBC7C14D",
+  "before": "حياتي، أيتها الأخيّة الكبرى، كُرّست للإعداد...",
+  "after": "حياتي، أيتها الأُخَيّة الكُبرى، كُرّست للإعداد...",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_PrePossession/F36823CA4F802FA9C10E1CAAB67CE7B0",
+  "before": "حياتي، أيتها الأخيّة الكبرى، كُرّست للإعداد...",
+  "after": "حياتي، أيتها الأُخَيّة الكُبرى، كُرّست للإعداد...",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_01/084ED81F41A48435B74896882E4670CA",
+  "before": "سنضمن ألا تُسرق مجددًا أبدًا.",
+  "after": "سنحرص ألا تُسرق مرةً أخرى أبدًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_PrePossession/D2644B27455092A097EECBB41FE27778",
+  "before": "أيها النذير… اسمح لي أن أُقدّم نفسي.",
+  "after": "أيها النذير... اسمح لي أن أُقدّم نفسي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_Greeting_PrePossession/47E0B5C04F4CA6768D2992A4603BE0B0",
+  "before": "أن يُسلِّم المرء نفسه لقوةٍ أعظم هو...",
+  "after": "أن يُسلّم المرء نفسه لقوةٍ أعظم إنما هو...",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_On_105_Ova_Genessa/F8ADD2E547105FD9CC6CC9AA45AE8D8D",
+  "before": "ألا تتعبين أبدًا، أيتها الأخيّة الكبرى؟",
+  "after": "ألا تتعبين أبدًا، أيتها الأُخَيّة الكُبرى؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Hub_EggCultist_On_140_Ova_Genessa/085925C0417188F64BA18F8300340B08",
+  "before": "أيتها الأخيّة الكبرى... أيمكننا التحدّث على انفراد؟",
+  "after": "أيتها الأُخَيّة الكُبرى... أيمكننا التحدّث على انفراد؟",
+  "why": "flow"
+ }
+]

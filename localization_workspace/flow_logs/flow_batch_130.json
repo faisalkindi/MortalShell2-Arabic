@@ -1,0 +1,104 @@
+[
+ {
+  "key": "Dialogue_Dlg_Gorf_CultCorpse_Interact_05/053922C444B5E93DD695D799D596CB6D",
+  "before": "يبدو أن أغنيتي جذبت الرفقة الخطأ.",
+  "after": "يبدو أن أغنيتي جلبت إليّ صحبةً من النوع السيئ.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_01/B9687D594D74311AE8375F890ABEF510",
+  "before": "أصابني «نقيق» في حلقي... إن جاز التعبير.",
+  "after": "ما بي سوى «ضفدعٍ» في حلقي... إن جاز التعبير.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_FrogInteract_04/CF2438A4484B086B2338BAAAC78DBE84",
+  "before": "(تنهيدة) نحن كأننا نوعٌ مختلف تمامًا.",
+  "after": "(تنهيدة) نكاد نكون نوعًا مختلفًا.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_03/B748E99344D6921CC58B00BADEAA624E",
+  "before": "آه، إنه أنت—أليس كذلك؟",
+  "after": "آه، أنت—أليس كذلك؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_03/1A6C1C624F7CD874322375970DAEFC39",
+  "before": "ربما ما يعتلّني هو نقص في الشجاعة؟",
+  "after": "ربما علّتي ليست إلا نقص الشجاعة؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_03/CFCF48404DB7B6D8210167B8E2F0B9EE",
+  "before": "حسنًا، مرحبًا يا صديقي.",
+  "after": "أوه، أهلًا يا صديقي.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_04/2B75C2F14CBB4A4F55C1929026D019C7",
+  "before": "(تنهيدة) آه، إنه أنت وحدك مجددًا.",
+  "after": "(تنهيدة) آه، أنت مجددًا، لا أكثر.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_04/071849DB4250A4A83063A98E04A9A1ED",
+  "before": "وحسنًا، حلقي جافٌّ جدًا.",
+  "after": "وحسنًا، حلقي جافٌّ بعض الشيء.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_04/82FD159545C93023B4A79EB37B74CAFA",
+  "before": "كنت آمل أن أجد رفيقة مناسبة بحلول الآن.",
+  "after": "كنت آمل أن أكون قد وجدتُ رفيقةً مناسبة حتى الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_04/FE8C43994E0CA8D16CA31FA1329FB3E0",
+  "before": "أيمكنك أن تساعدني على ترطيب حلقي؟",
+  "after": "أيمكنك أن تبلّ ريقي؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_07/6FE3386F400A271E5DEE40917CE90EAE",
+  "before": "إنه يرتاح الآن.",
+  "after": "لقد استراح الآن.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Greeting_09/607E20574AAA0EC37DC83D8F3B3788A8",
+  "before": "عدتَ سريعًا؟",
+  "after": "أعدتَ بهذه السرعة؟",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/F968824A45A29407E8463DB44D21F0AA",
+  "before": "(جرعة) آاه…",
+  "after": "(يزدرد) آاه…",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_02/CE3DF635442E884EF93379B6988904DC",
+  "before": "(جرعة) أرجو أن يفي هذا بالغرض، لكن...",
+  "after": "(يزدرد) أرجو أن يفي هذا بالغرض، لكن...",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/0213A20C4A657194EE614ABB346A95B4",
+  "before": "أو رائحتك… (يشمّ) الغريبة.",
+  "after": "أو… (يشمّ) رائحتك الغريبة.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/E4441C80428E0AB5E333B9B8B005BEC1",
+  "before": "البعض قد يكنزها حتى.",
+  "after": "بل إن بعضهم يكنزها.",
+  "why": "flow"
+ },
+ {
+  "key": "Dialogue_Dlg_Gorf_Interact_01/C7CE5AE54C4F2F127D76839CEE813A9F",
+  "before": "تفضّل، خذ هذا. إنه شكرٌ بسيط.",
+  "after": "تفضّل، خذ هذا. شكرٌ بسيط منّي.",
+  "why": "flow"
+ }
+]

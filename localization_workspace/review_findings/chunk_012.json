@@ -1,0 +1,60 @@
+{
+ "chunk": 12,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Core_Tarforge/AboutTarcores",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "About Tarcores",
+   "ar": "عن نوى القار",
+   "issue": "Tarcore is frozen as لُبّ القار (plural ألباب القار, which Franz's Tarcore dialogue uses). نوى القار is a third, unapproved rendering of the same collectible.",
+   "suggested_ar": "عن ألباب القار"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_WeaponAbility_SpiralSurge",
+   "type": "omission",
+   "severity": "medium",
+   "source_en": "Captive's Scabstone",
+   "ar": "جَلَبة الأسير",
+   "issue": "The '-stone' element is dropped entirely. Every sibling in this list is حجر X (حجر المُريد، حجر العملاق، حجر الوابل…), so this row alone stops reading as a Tarstone. جَلَبة on its own is also read first as 'clamour/din', not 'scab'.",
+   "suggested_ar": "حجر جَلَبة الأسير"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_ClockworkGrinder",
+   "type": "omission",
+   "severity": "medium",
+   "source_en": "Clockwork Shardstone",
+   "ar": "شظية الآلة",
+   "issue": "'-stone' is dropped, same as Captive's Scabstone, breaking the حجر X naming family the whole Tarstone list follows.",
+   "suggested_ar": "حجر شظايا الآلة"
+  },
+  {
+   "key": "ST_Core_Tarstones/ID_Melee_WeaponAbility_StormStrike",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Conqueror's Reward",
+   "ar": "جزاء الفاتح",
+   "issue": "'The Conqueror' is a named boss; the boss-defeated line Dialogue_Dlg_ConquerorBossDefeated renders him الغازي. Two different Arabic names for the same character across the build — one of them must give.",
+   "suggested_ar": "جزاء الغازي"
+  },
+  {
+   "key": "ST_Core_Tarforge/InfiniteForgeMode",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Install Endless Core",
+   "ar": "تركيب النواة السَّرْمَدية",
+   "issue": "'Core' is النواة here but لُبّ in Tarcore (لُبّ القار, frozen). Endless=السَّرْمَدي is correct; only the noun is off-family.",
+   "suggested_ar": "تركيب اللُّبّ السَّرْمَديّ"
+  },
+  {
+   "key": "ST_Core_Tarforge/FoundryStoneGameplayFlavorText",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Ash gently wafts from this smoldering relic.",
+   "ar": "يتصاعد الرماد رفيقًا من هذا الأثر المُتَّقِد.",
+   "issue": "المُتَّقِد means ablaze/blazing; 'smouldering' is the opposite image — burning low without flame, which is why only ash rises from it.",
+   "suggested_ar": "يتصاعد الرماد رفيقًا من هذا الأثر الجامر."
+  }
+ ]
+}

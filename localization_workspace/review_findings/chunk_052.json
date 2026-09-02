@@ -1,0 +1,51 @@
+{
+ "chunk": 52,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/CFA73B0347F41D30CA2871AD122690BC",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Ah, I remember bowing at these feet once.",
+   "ar": "آه، أتذكّر أنني انحنيتُ أمام هذه القدمين ذات مرة.",
+   "issue": "Demonstrative does not agree with the dual قدمين. Same defect as the FootWash copy of this line (chunk 51, DD200501...); both keys need the fix.",
+   "suggested_ar": "آه، أتذكّر أنني انحنيتُ أمام هاتين القدمين ذات مرة."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/155B26644F59705EEA4AD8BADF6075FC",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Might have helped his… condition.",
+   "ar": "ربما كان ذلك ليُصلح… حالته.",
+   "issue": "'Helped' is hedged; أصلح asserts a cure and loses the understatement. Duplicate of chunk 51's 4A6AC0D5... key.",
+   "suggested_ar": "ربما كان ذلك ليخفّف… من حالته."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/5DF09D444D7E8EF48C196E93C8543B3D",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Very clean now.",
+   "ar": "نظيفٌ جدًا الآن.",
+   "issue": "Unstated subject in this foot-washing scene is the feet (قدمان, feminine dual), but the adjective is masculine singular and matches no antecedent the scene supplies. Duplicate of chunk 51's ABB30A53... key.",
+   "suggested_ar": "نظيفتان جدًا الآن."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_Cultist_Weirdo_GraguReact/C4A419F64C353B33191F97B205823B5F",
+   "type": "wrong_referent",
+   "severity": "low",
+   "source_en": "Very supple, but strong.",
+   "ar": "ليّنٌ جدًا، لكنه قوي.",
+   "issue": "Same masculine-singular agreement against a feminine-dual antecedent (the feet). Duplicate of chunk 51's 03621F58... key.",
+   "suggested_ar": "ليّنتان جدًا، لكنهما قويّتان."
+  },
+  {
+   "key": "Dialogue_Dlg_Hub_EggCultist_35_Ova_Interact/1E7E4B2040906C20758EBFA4540FC098",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "It’s… as if I can feel the Blessed Mether’s presence.",
+   "ar": "إنه… وكأنني أشعر بحضور الأُمَّهة المباركة.",
+   "issue": "إنه… و + كأنني strands a pronoun with no predicate and then starts a new clause with a spurious و. Meaning survives, but the sentence does not parse cleanly when read aloud.",
+   "suggested_ar": "الأمر… وكأنني أشعر بحضور الأُمَّهة المباركة."
+  }
+ ]
+}

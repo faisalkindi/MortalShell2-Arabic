@@ -1,0 +1,98 @@
+[
+ {
+  "key": "ST_Core_Player_Abilities/DefaultHarrosAbilityDesc",
+  "before": "يُحجّر هاروس الأعداء القريبين فلا يقدرون على الحراك. وأثناء تحجّرهم لا يتلقون ضررًا، بل <Break>ضرر الكَسر</> بدلًا منه.",
+  "after": "يُحجّر هاروس الأعداء القريبين فلا يقدرون على الحراك. وما داموا متحجّرين لا يتلقون ضررًا، بل <Break>ضرر الكَسر</> فحسب.",
+  "why": "بل already means 'instead' - بدلًا منه was doubling it"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultLazloPassiveDesc",
+  "before": "يتمتع لازلو بخفض ضرر أساسي <Bold>10%</> ما دام درعه عليه.",
+  "after": "يتمتع لازلو بخفض أساسي للضرر بنسبة <Bold>10%</> ما دام درعه عليه.",
+  "why": "'خفض ضرر أساسي 10%' stacked three bare nouns; unpacked into a normal Arabic phrase"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultLazloAbilityDesc",
+  "before": "يُحمي لازلو درعه فيطلق <Bold>موجة صدمية</>. والتكرار يسبب <Bold>فرط الحرارة</>، فتنطلق موجة أقوى توقع طبقات <Burn>الحرق</> لكنها تعطّل درعه مؤقتًا.",
+  "after": "يُحمي لازلو درعه فيطلق <Bold>موجة صدمية</>. والتكرار يسبب <Bold>فرط الحرارة</>، فتنطلق موجة أقوى تُنزل طبقات <Burn>الحرق</> لكنها تعطّل درعه مؤقتًا.",
+  "why": "'inflict <status>' standardised to تُنزل across every ability row"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultProximaAbilityDesc",
+  "before": "تُطلق بروكسيما كُلّابًا من ذراعها اليسرى، فتجذب الأعداء أو تجذب نفسها إلى المدى، ثم تتبع ذلك بضربة توقع <Lightning>البرق</>.",
+  "after": "تُطلق بروكسيما كُلّابًا من ذراعها اليسرى، فتجذب الأعداء أو نفسها إلى المدى، ثم تتبع ذلك بضربة تُنزل <Lightning>البرق</>.",
+  "why": "dropped the repeated تجذب - Arabic carries the second object on the same verb; inflict standardised"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultThornAbilityDesc",
+  "before": "ينفث سارييل أشواكًا طفيلية تطارد الأعداء القريبين وتوقع طبقات <Curse>اللعنة</>. وكل تفعيل يُنزل <Pain>الألم</> بسارييل.",
+  "after": "ينفث سارييل أشواكًا طفيلية تطارد الأعداء القريبين وتُنزل طبقات <Curse>اللعنة</>. وكل تفعيل يُصيب سارييل بـ<Pain>الألم</>.",
+  "why": "same inflict standardisation; the second clause reworded so تُنزل does not repeat back to back"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultSmertAbilityDesc",
+  "before": "يضحي سميرت بنصف <Bold>صحته</> ليوقف الزمن ويدخل <Bold>وضعية القتال</>. وهجماته بلا سلاح توقع <Chaos>الفوضى</> التي تنفجر حين يعود الزمن. ومدّد المعجزة إلى <Bold>وقت إضافي</> بالتضحية بمزيد من <Health>الصحة</>.",
+  "after": "يضحي سميرت بنصف <Bold>صحته</> ليوقف الزمن ويدخل <Bold>وضعية القتال</>. وهجماته بلا سلاح تُنزل <Chaos>الفوضى</> التي تنفجر حين يعود الزمن. ومدّد المعجزة إلى <Bold>وقت إضافي</> بالتضحية بمزيد من <Health>الصحة</>.",
+  "why": "same inflict standardisation"
+ },
+ {
+  "key": "ST_Core_Player_Abilities/DefaultDarkFormAbilityDesc",
+  "before": "حين ينفصل النذير عن هَيكل، يمكنه إعادة بناء الصلة بجرح الأعداء. وبعد إيقاع ضرر كافٍ يصبح الهَيكل قابلًا للاستعادة.",
+  "after": "حين ينفصل النذير عن هَيكل، يمكنه إعادة بناء الصلة بجرح الأعداء. وبعد إلحاق ضرر كافٍ يصبح الهَيكل قابلًا للاستعادة.",
+  "why": "frozen damage collocation: إيقاع becomes إلحاق"
+ },
+ {
+  "key": "ST_Core_Tutorials/GloomTutorial_1",
+  "before": "مادة وثّق الأتباع أنها تمنح رؤى نبوءة عظيمة، وتمنح الموت أيضًا.\n\nوأنت تعرفها وقودًا لبني جنسك، سال من الأُمَّهة السُّفلى.\n\nولدى الأتباع جهاز يستطيع تكرير القَتام لتقوية النذير.",
+  "after": "مادة وثّق الأتباع أنها تمنح رؤى النبوءة العظيمة، والموت كذلك.\n\nأما أنت فتعرفها وقودًا لبني جنسك، سال من الأُمَّهة السُّفلى.\n\nولدى الأتباع جهاز يستطيع تكرير القَتام لتقوية النذير.",
+  "why": "all three paragraphs opened on و; the middle one is the turn from what they recorded to what you know, so أما...ف. The second تمنح is cut, Arabic carries it."
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Familairity",
+  "before": "جمع مزيد من طبقات الأغراض الدائمة يبني <bold>الأُلفة</> معها، فيرفع قدراتها الفعّالة ويفتح قدرات كامنة جديدة.",
+  "after": "كلما جمعت مزيدًا من طبقات الأغراض الدائمة زادت <bold>الأُلفة</> معها، فترتفع قدراتها الفعّالة وتُفتح قدرات كامنة جديدة.",
+  "why": "heavy nominal subject recast as كلما...زاد, the Arabic shape for a gradient"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Tarcore_3",
+  "before": "بعد ترقية أحجار القار، تسقط ألباب القار عند فمه.\n\nتفاعل مع مقدمة مِصهَر القار لأخذ ما جمعته من ألباب.",
+  "after": "بعد ترقية أحجار القار، تسقط ألباب القار عند فم المِصهَر.\n\nتفاعل مع مقدمة مِصهَر القار لأخذ ما جمعته من ألباب.",
+  "why": "'فمه' attached to the nearest noun (the stones); the Tarforge is now named"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_PerfectGuardEnemyBroken",
+  "before": "<Bold>الصدّات المثالية</> المتتالية <Break>تكسر</> العدو وتتركه مكشوفًا أمام <Bold>ضربة مضادة</>.",
+  "after": "<Bold>الصدّات المثالية</> المتتالية <Break>تكسر</> العدو فتتركه مكشوفًا أمام <Bold>ضربة مضادة</>.",
+  "why": "fa of consequence - being left open follows from the break"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Small_StaggerDamage_Description",
+  "before": "أوقع قدرًا كافيًا من هذا الضرر لتُترنِح الضحية.",
+  "after": "ألحِق قدرًا كافيًا من هذا الضرر لتُترنِح الضحية.",
+  "why": "frozen damage collocation: أوقع becomes ألحِق"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_PerfectGuardDesc",
+  "before": "الصدّ قبيل ارتطام هجوم العدو ينفّذ <Bold>صدًّا مثاليًا</>.\n\nوتنفيذ <Bold>الصدّ المثالي</> لا يستنزف مقياس الصد، ويملأ <Break>مقياس كَسر</> العدو.",
+  "after": "إن صددت قبيل ارتطام هجوم العدو نفّذت <Bold>صدًّا مثاليًا</>.\n\nو<Bold>الصدّ المثالي</> لا يستنزف مقياس الصد، بل يملأ <Break>مقياس كَسر</> العدو.",
+  "why": "conditional instead of a gerund that executes itself; و becomes بل for the contrast, and the تنفيذ filler is cut"
+ },
+ {
+  "key": "ST_Core_Tutorials/MiscHoldButton",
+  "before": "استمر بالضغط",
+  "after": "اضغط مطوّلًا",
+  "why": "frozen: Hold = اضغط مطوّلا, not استمر بالضغط"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Small_Sidearm",
+  "before": "استمر بالضغط على <Action ID=\"Aim\"/> للتصويب ثم اضغط <Action ID=\"SidearmPrimary\"/> لإطلاق النار",
+  "after": "اضغط مطوّلًا <Action ID=\"Aim\"/> للتصويب ثم اضغط <Action ID=\"SidearmPrimary\"/> لإطلاق النار",
+  "why": "frozen Hold convention in the mid-combat overlay where it matters most"
+ },
+ {
+  "key": "ST_Core_Tutorials/Tutorial_Small_SidearmAlternativeFire",
+  "before": "استمر بالضغط على <Action ID=\"Aim\"/> للتصويب ثم اضغط <Action ID=\"SidearmSecondary\"/> للتفعيل",
+  "after": "اضغط مطوّلًا <Action ID=\"Aim\"/> للتصويب ثم اضغط <Action ID=\"SidearmSecondary\"/> للتفعيل",
+  "why": "frozen Hold convention"
+ }
+]

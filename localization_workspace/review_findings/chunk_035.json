@@ -1,0 +1,51 @@
+{
+ "chunk": 35,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_10",
+   "type": "term_violation",
+   "severity": "medium",
+   "source_en": "Baerand? Let me guess... the anger.",
+   "ar": "بايراند؟ دعني أخمّن… الغضب.",
+   "issue": "The glossary freezes 'Baer / Baerand' on a single approved form, باير, but the long form is rendered بايراند here (and in Greeting_02_10 and Greeting_04_10) while the short form is باير in Greeting_NoProof_13_10. Either the glossary row needs a second approved form for Baerand, or these rows must collapse to باير. Reporting only - needs an owner ruling, since collapsing them erases the short/long distinction Franz uses.",
+   "suggested_ar": "باير؟ دعني أخمّن… الغضب."
+  },
+  {
+   "key": "Dialogue_Dlg_Blacksmith_TarforgeInteract_Ends_01/AFD79C994001D1CC981C34BEBFDBC6AC",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "But she hungers for more.",
+   "ar": "لكنها تتوق إلى المزيد.",
+   "issue": "'hungers' rendered تتوق (yearns). Everywhere else in Franz's lines the forge's hunger is جائع/جوع (Interact_04_10 'She's hungerin' fiercely' -> جائعة بشدّة), so this row breaks the motif as well as softening it.",
+   "suggested_ar": "لكنها تجوع للمزيد."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_01_20",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "Come on. Feed her. She’s starving!",
+   "ar": "هيا. أطعمها. إنها جائعة!",
+   "issue": "'starving' rendered جائعة, the same word used for plain 'hungry' two rows over. The intensity step is lost.",
+   "suggested_ar": "هيا. أطعمها. إنها تتضوّر جوعًا!"
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_110",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "It’s… competent.",
+   "ar": "إنه… لا بأس به.",
+   "issue": "Franz's appraisal lines form a graded ladder (Amateur / Crude but it'll do / Acceptable / Good for a journeyman / competent / Fine work). 'It's… competent' and 'Fine work. Good even.' (Upgrade_13_10) both land on لا بأس به, so two different rungs read identically in game.",
+   "suggested_ar": "إنه… عمل كفء."
+  },
+  {
+   "key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_08_30",
+   "type": "mistranslation",
+   "severity": "medium",
+   "source_en": "At least he made it.",
+   "ar": "على الأقل استطاع هو.",
+   "issue": "Ambiguous in isolation, resolved by real scene order (_10/_20/_30): 'Making anything worthwhile is [dangerous].' -> 'Your brother was too much for your mum.' -> 'At least he made it.' 'Made it' is survived - the brother lived, the mother did not. استطاع هو reads as 'at least he managed it', i.e. he succeeded at some task.",
+   "suggested_ar": "على الأقل نجا هو."
+  }
+ ]
+}

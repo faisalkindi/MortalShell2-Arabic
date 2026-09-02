@@ -1,0 +1,50 @@
+[
+ {
+  "key": "/0657275B4D09867F47FDBAB84A70E242",
+  "before": "[اضغط مطولًا]",
+  "after": "[ضغط مطوّل]",
+  "why": "Frozen UI form: the bracketed [Hold] tag is [ضغط مطوّل]; اضغط مطوّلًا is the bare on-screen instruction, not the label."
+ },
+ {
+  "key": "/2788E73F4EC4E3211B27C2AFA4C9F9B3",
+  "before": "[اضغط مطولًا]",
+  "after": "[ضغط مطوّل]",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/61100CFF40B714D5044F18AE992C746C",
+  "before": "[اضغط مطولًا]",
+  "after": "[ضغط مطوّل]",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/73EC4F284F4E359169B90D889B4F7CEF",
+  "before": "[اضغط مطولًا]",
+  "after": "[ضغط مطوّل]",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/B64FF4324569ADFEB1644FB33224A2AA",
+  "before": "[اضغط مطولًا]",
+  "after": "[ضغط مطوّل]",
+  "why": "Duplicate of the row above; kept identical."
+ },
+ {
+  "key": "/6CA1F16A49A6BC01205708B01157B4F5",
+  "before": "[اضغط]",
+  "after": "[ضغط]",
+  "why": "Same bracketed-tag convention: the label is a verbal noun, matching [ضغط مطوّل]."
+ },
+ {
+  "key": "/9223268E4824BF8C06E7EF896216E016",
+  "before": "معها لا حاجة بنا إلى أُخَيّة، ولا حبيب، ولا حتى والدتنا التي أنجبتنا. فهي العذراء والمُربّية والعجوز. هي كل شيء.",
+  "after": "معها لا حاجة بنا إلى أُخَيّة، ولا حبيب، ولا حتى والدتنا التي أنجبتنا. فهي العذراء والأمّ والعجوز. هي كل شيء.",
+  "why": "The triad maiden/matron/crone is a fixed formula; المُربّية means governess and breaks it — the middle term is الأمّ."
+ },
+ {
+  "key": "/16DA119E4A0B582052B437A620DE49BA",
+  "before": "تقف داخل أولى هبات الأمَّهة المباركة. فقبل مجيئها، أرسلت هذه المنارات، فسقطت كبذورٍ من السماء وتجذّرت. وحين نمت، نادت إخوتنا.",
+  "after": "تقف داخل أولى هبات الأمَّهة المباركة. فقبل مجيئها، أرسلت هذه المنارات، فسقطت كبذورٍ من السماء وتجذّرت. وحين نمت، نادت أُخَيّينا.",
+  "why": "brethers rendered as the plain إخوة — the glossary freezes الأُخَيّون precisely because the warped word is the point."
+ }
+]

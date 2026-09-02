@@ -1,0 +1,38 @@
+[
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_GrantLeechOnKillDesc",
+    "before": "صَرْعُ الأعداء يمنح الحجر تراكمات <Leech>الاستنزاف</>.",
+    "after": "يمنح صَرْعُ الأعداء الحجرَ تراكمات <Leech>الاستنزاف</>.",
+    "why": "بداية فعلية بدل المصدر المبتدأ"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_GrantWarpOnHitDesc",
+    "before": "ضربُ الأعداء يمنحك <Warp>الالتواء</>",
+    "after": "يمنحك ضربُ الأعداء <Warp>الالتواء</>",
+    "why": "بداية فعلية، وتوحيد مع صف الاستنزاف الشقيق"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Sidearm_QuickchargeDesc",
+    "before": "يُشحن <Bold>سلاحك الجانبي</> أسرع",
+    "after": "يُشحن <Bold>سلاحك الجانبي</> بسرعة أكبر",
+    "why": "«أسرع» ظرفًا مجرّدًا حَشو إنجليزي؛ العربية تحتاج تمييزًا"
+  },
+  {
+    "key": "ST_Core_Tarstones/ID_Melee_UnyieldingDesc",
+    "before": "تنال سلسلة هجمات <Bold>سلاحك</> الخفيفة مناعةً من <Poise>الترنّح</>",
+    "after": "لسلسلة هجمات <Bold>سلاحك</> الخفيفة مناعةٌ من <Poise>الترنّح</>",
+    "why": "«تنال مناعة» تركيب مقحم؛ الجملة الاسمية توحّده مع «للقدرة مناعة من الترنّح»"
+  },
+  {
+    "key": "ST_Core_Tarstones_Fragile/FragileTarstone_Goldstone_Effect",
+    "before": "تنال {X} من العملات من الصرعى",
+    "after": "تنال من الصرعى {X} من العملات",
+    "why": "فكّ تتابع «من ... من» بتقديم الجار والمجرور"
+  },
+  {
+    "key": "ST_Core_Tarstones_Fragile/FragileTarstone_Gloomstone_Efffect",
+    "before": "تنال {X} من القَتام من الصرعى",
+    "after": "تنال من الصرعى {X} من القَتام",
+    "why": "نفس الفكّ، والصفّان متوازيان"
+  }
+]

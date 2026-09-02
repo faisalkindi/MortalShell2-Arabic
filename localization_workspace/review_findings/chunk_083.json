@@ -1,0 +1,42 @@
+{
+ "chunk": 83,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/250CD4B74036B18F9E373F925CF40D78",
+   "type": "term_violation",
+   "severity": "minor",
+   "source_en": "She swam through darkness, our Blessed Mether, called by distant kin to redeem a damned world.",
+   "ar": "سبحت عبر الظلام، أمَّهتنا المباركة، دعاها أقرباء بعيدون لتفدي عالمًا ملعونًا.",
+   "issue": "Frozen Mether = الأُمَّهة appears here with a possessive suffix and no damma (أمَّهتنا). Like the lam-prefixed cases in chunk 81, this form would not have matched a search for الأُمَّهة, so it survived the corpus sweep.",
+   "suggested_ar": "سبحت عبر الظلام، أُمَّهتنا المباركة، دعاها أقرباء بعيدون لتفدي عالمًا ملعونًا."
+  },
+  {
+   "key": "/1239661D45D3B24590B737A6A6D42496",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Take heed, brethers. You walk the Disciple’s Path. As many have before you in search of deeper purpose. You may be fearful, cold, bloodied. So be it. It is the struggle that binds us.",
+   "ar": "احذروا أيها الأُخَيّون. تسلكون درب المريد، كما سلكه كثيرون قبلكم بحثًا عن غايةٍ أعمق. قد تكونون خائفين، باردين، مضرّجين بالدماء. فليكن. فالكفاح هو ما يجمعنا.",
+   "issue": "Two defects in one row. (1) 'Take heed' opens a homily and means 'attend/mark my words'; احذروا is \"beware\", which frames what follows as a warning, but nothing that follows warns of anything. (2) 'the Disciple's Path' uses المريد, but Disciple is frozen as الحواريّ and المُريد is reserved for Acolyte (Tiel's title). Compare the Immaculate Path = درب المعصوم, which this path name should parallel.",
+   "suggested_ar": "أصغوا أيها الأُخَيّون. تسلكون درب الحواريّ، كما سلكه كثيرون قبلكم بحثًا عن غايةٍ أعمق. قد تكونون خائفين، باردين، مضرّجين بالدماء. فليكن. فالكفاح هو ما يجمعنا."
+  },
+  {
+   "key": "/E58A09EC4D32DA0E1CD93AB3F5FE4AD7",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Sidearm Cultist",
+   "ar": "تابع الطائفة (سلاح جانبي)",
+   "issue": "Frozen glossary term: Cultist = عابد الطائفة, explicitly NOT تابع الطائفة (التابِع is Harros's Vassal title). Separately, the parenthetical shape does not match its sibling enemy labels, which are adjectival (Mad Cultist, Weapon Cultist).",
+   "suggested_ar": "عابد الطائفة بالسلاح الجانبي"
+  },
+  {
+   "key": "/5DA5D26C4AF074282F14E0991E1460B8",
+   "type": "term_violation",
+   "severity": "major",
+   "source_en": "Take Weltcap",
+   "ar": "أخذ ويلتكاب",
+   "issue": "Frozen glossary term: Weltcap = قبعة الوَرَم, 'NOT transliterated'.",
+   "suggested_ar": "أخذ قبعة الوَرَم"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "chunk": 76,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "/834B39CE4FAA452CA98E8E8882792731",
+   "type": "mistranslation",
+   "severity": "major",
+   "source_en": "Drop Child",
+   "ar": "إلقاء الطفل",
+   "issue": "إلقاء means hurling/casting something down. The paired prompt 'Pick Up Child' is حمل الطفل (to carry) — so this is the player setting down a child they are carrying, and the Arabic currently offers to throw the child. Added after reviewing chunk 81, where the 'Pick Up Child' twin establishes the action.",
+   "suggested_ar": "إنزال الطفل"
+  },
+  {
+   "key": "/D7E7189F4370FBCAC64894B31C1FEBB2",
+   "type": "mistranslation",
+   "severity": "major",
+   "source_en": "Drop Child",
+   "ar": "إلقاء الطفل",
+   "issue": "Duplicate of the row above; must move with it.",
+   "suggested_ar": "إنزال الطفل"
+  },
+  {
+   "key": "/938CD1394B8D88C130B42CA6863DD44F",
+   "type": "mistranslation",
+   "severity": "minor",
+   "source_en": "Examine Strange Growth",
+   "ar": "فحص النمو الغريب",
+   "issue": "'Growth' here is a thing on a surface (a lump/outgrowth the player inspects), not the process of growing. النمو names the process, so the prompt reads 'examine the strange growing'. The same English word is handled as a lump elsewhere in the item text.",
+   "suggested_ar": "فحص النُّتوء الغريب"
+  }
+ ]
+}

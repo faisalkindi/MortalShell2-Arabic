@@ -1,0 +1,60 @@
+{
+ "chunk": 17,
+ "rows_reviewed": 90,
+ "findings": [
+  {
+   "key": "ST_LandingAreaNames/LandingArea_DwarfRunup_02",
+   "type": "term_violation",
+   "severity": "high",
+   "source_en": "Ovate's Chamber",
+   "ar": "حُجرة العَرّاف",
+   "issue": "The glossary freezes Ovate = أوفيت and its note names this exact string: \"named NPC + title of address (ST_Core_NpcNames/Ovate, Ovate's Chamber); name, so transliterated\". العَرّاف translates the word as 'the soothsayer', so the fast-travel point no longer carries the character's name.",
+   "suggested_ar": "حُجرة أوفيت"
+  },
+  {
+   "key": "ST_Core_Locations/S1SwordmanRunup",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Prisoner's Way",
+   "ar": "درب الأسير",
+   "issue": "الأسير is already the Arabic for The Captive, a named boss (LandingArea_Boss_Sword 'Captive's End' = منتهى الأسير, Dialogue_Dlg_CaptiveBossDefeated = الأسير). Rendering the generic 'Prisoner' with the same word makes this road read as the Captive's, and it sits on the same boss run-up.",
+   "suggested_ar": "درب السجين"
+  },
+  {
+   "key": "ST_Core_Locations/SunkenVillageHeart",
+   "type": "wrong_fact",
+   "severity": "medium",
+   "source_en": "Sunken Village",
+   "ar": "القرية الغارقة",
+   "issue": "'Flooded Village' (ST_Core_Dungeons/LI_Tomb_Medium_Layout_15) is also القرية الغارقة. Two distinct locations now carry one Arabic name, which breaks navigation and map labels. Sunken (submerged/collapsed into the ground) and Flooded (water-covered) need separating.",
+   "suggested_ar": "القرية الغائرة"
+  },
+  {
+   "key": "ST_LandingAreaNames/LandingArea_Boss_Dwarf",
+   "type": "wrong_referent",
+   "severity": "medium",
+   "source_en": "Conqueror's Hoard",
+   "ar": "كنز الفاتح",
+   "issue": "Third occurrence of the Conqueror split — الفاتح here and in Conquerer's Rise / Conqueror's Reward, but الغازي in the boss-defeated line. Needs one sweep across all four.",
+   "suggested_ar": "كنز الغازي"
+  },
+  {
+   "key": "ST_LandingAreaNames/LandingArea_Pro_02",
+   "type": "term_violation",
+   "severity": "low",
+   "source_en": "Disciple's Grotto",
+   "ar": "مَغارة المُريد",
+   "issue": "Second location using المُريد for the generic 'disciple'; المُريد is frozen as Acolyte, Tiel's title.",
+   "suggested_ar": "مَغارة التابع"
+  },
+  {
+   "key": "ST_Core_Locations/S1Tavern",
+   "type": "mistranslation",
+   "severity": "low",
+   "source_en": "One Legged Wolf Tavern",
+   "ar": "حانة الذئب الأعرج",
+   "issue": "أعرج means lame/limping, not one-legged. The tavern sign's joke is the missing leg, and the count is the whole image.",
+   "suggested_ar": "حانة الذئب ذي الساق الواحدة"
+  }
+ ]
+}
