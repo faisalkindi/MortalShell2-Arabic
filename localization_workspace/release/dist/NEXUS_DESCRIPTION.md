@@ -1,4 +1,4 @@
-# Mortal Shell II — Arabic Localization / التعريب العربي الكامل
+# Mortal Shell II — Arabic Localization / التعريب الكامل
 
 ## العربية
 
