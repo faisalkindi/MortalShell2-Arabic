@@ -41,3 +41,11 @@ localization_workspace/installer/payload.zip
 # local
 __pycache__/
 *.log
+
+# build 25478144 rebase: game-derived extractions, staging and built payloads (regenerate with the scripts; see PIPELINE.md)
+localization_workspace/src_b25478144/
+localization_workspace/zen_stage_b25478144/
+localization_workspace/settings_bp_patched_b25478144/
+localization_workspace/b25478144_inputs/
+localization_workspace/release_b25478144/
+localization_workspace/installer/payload.b25005568.zip.bak
