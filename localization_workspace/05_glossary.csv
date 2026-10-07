@@ -67,9 +67,9 @@ Thestus,character,ثيستوس,approved,
 Milos,character,ميلوس,approved,
 Riposte,mechanic,الضربة المضادة,approved,"frozen over الطعنة المضادة - works for hammers/axes, not just thrusts"
 Stagger,mechanic,الترنّح,approved,frozen over التعثّر
-Moonshine,item,العَرَق,approved,the actual Arabic word for distilled spirit; NOT مشروب القمر
-Common Moonshine,item,العَرَق العاديّ,approved,
-Special Moonshine,item,العَرَق المُعتَّق,approved,
+Moonshine,item,خمر القمر,approved,"owner choice 2026-10-07: replaces العَرَق (read as sweat by many Gulf readers); خمر = liquor, mirrors خمر القار (Tarwine)"
+Common Moonshine,item,خمر القمر العاديّ,approved,
+Special Moonshine,item,خمر القمر الخاصّ,approved,"was المُعتَّق; English says only special"
 Guard,mechanic,الصد,approved,
 Perfect Guard,mechanic,الصدّ المثالي,approved,
 Parry,mechanic,الدَّرء,approved,"classical 'ward off a blow', kept distinct from الصد"

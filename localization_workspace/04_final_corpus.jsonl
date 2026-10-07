@@ -35,7 +35,7 @@
 {"key": "/VratkoFeetPic05_FlavorText", "source_en": "A remarkable depiction of the Harbinger’s unadorned flesh. ", "ar": "تصويرٌ لافت لجسد النذير العاري بلا زينة."}
 {"key": "/MapObjectiveItemDesc", "source_en": "A rudimentary cloth map. It seems to point to a specific location.", "ar": "خريطةٌ قماشية بدائية، يبدو أنها تشير إلى موقعٍ محدد."}
 {"key": "/C475F6C1406BD39B4EBF8C9D2D060C7A", "source_en": "A simple, but deadly weapon favored by nobles.", "ar": "سلاحٌ بسيطٌ، لكنه فتّاك، يؤثره النبلاء."}
-{"key": "/InferiorMoonshineFlavorText", "source_en": "A slurry of spirits and Tar that is sure to embolden even the most cowardly, at least for a time.", "ar": "مزيجٌ من العَرَق والقار، كفيلٌ بأن يبعث الجرأة في أجبن القلوب، ولو لبرهة."}
+{"key": "/InferiorMoonshineFlavorText", "source_en": "A slurry of spirits and Tar that is sure to embolden even the most cowardly, at least for a time.", "ar": "مزيجٌ من الخمر والقار، كفيلٌ بأن يبعث الجرأة في أجبن القلوب، ولو لبرهة."}
 {"key": "/ProximaSpecimenFlavorText", "source_en": "A small shred of flesh extracted by the Biosampler. The rare few who’ve studied this mechanism agree it appears to “ingest” the specimen. But what exactly happens to the extract is a source of great disagreement. Perhaps it's best not to know.", "ar": "قطعةٌ صغيرة من اللحم استخلصها جامع العينات الحيوية. يتفق القلة النادرة ممن درسوا هذه الآلية على أنها تبدو وكأنها «تبتلع» العينة، أما ما يحدث للمستخلَص بعد ذلك فمثارُ خلافٍ كبير. ولعلّ الأفضل ألا يُعرف."}
 {"key": "/HPUpgradeFlavorText", "source_en": "A strange, root-like growth that radiates warmth as it pulses with an unseen heartbeat.", "ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا وهو ينبض بنبضٍ لا يُرى."}
 {"key": "/HealingUpgradeFlavorText", "source_en": "A strange, root-like growth that radiates warmth as it pulses with an unseen heartbeat.", "ar": "نُتوءٌ غريب يشبه الجذور، يشعّ دفئًا وهو ينبض بنبضٍ لا يُرى."}
@@ -162,7 +162,7 @@
 {"key": "/9EFF787249B6905A5207A19315DA5E20", "source_en": "Buy", "ar": "شراء"}
 {"key": "/EFDC28D7477816A32760289F1DD42B94", "source_en": "Buy Keepsake", "ar": "شراء تذكار"}
 {"key": "/FCBA72124AE634E01525E3AACA3A0A38", "source_en": "Buy {Name}", "ar": "شراء {Name}"}
-{"key": "/AF030107455E6DB461B985AFF46CF8E3", "source_en": "By the light of day, the truth remains sealed. And yet in the darkness all shall be revealed.", "ar": "في ضوء النهار، تبقى الحقيقة مختومة. أما في الظلام، فسينكشف كل شيء."}
+{"key": "/AF030107455E6DB461B985AFF46CF8E3", "source_en": "By the light of day, the truth remains sealed. And yet in the darkness all shall be revealed.", "ar": "في ضوء النهار يبقى الحقّ مختومًا، وفي الظلام يغدو كلُّ شيءٍ معلومًا."}
 {"key": "/88B3B4904202B7ED1704EAB0B9C6276B", "source_en": "By the will and royal order of High Lord of Mammon, King Vellen, it is hereby decreed that the Grand Prince Egon shall be stripped of all titles, lands, and put to death.", "ar": "بمشيئة سيد مامون الأعلى، الملك ڤيلن، وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل."}
 {"key": "/75B69AC343E9C1E4B11A7D80C61CA6A8", "source_en": "By the will and royal order of High Lord of Mammon, it is hereby decreed that the Grand Prince Egon shall be stripped of all titles, lands, and put to death.", "ar": "بمشيئة سيد مامون الأعلى وأمره الملكي، يُقضى بهذا أن يُجرَّد الأمير الأعظم إيغون من كل ألقابه وأملاكه، وأن يُقتل."}
 {"key": "/017B250E4694BE3C3A88DA8166F56613", "source_en": "CONTROLLER", "ar": "ذراع التحكم"}
@@ -203,7 +203,7 @@
 {"key": "/7FA7F5F64C86F6C17DC1D3A5CAC91344", "source_en": "Comfort Genessa", "ar": "مواساة جينيسا"}
 {"key": "/E4AF815A4DD8C5E80DFE2AAFF5E234DD", "source_en": "Comfort Genessa", "ar": "مواساة جينيسا"}
 {"key": "/CD9C3572497F4AD033B97C84A2CB99AD", "source_en": "Command Your Brether", "ar": "أمر أُخَيّك"}
-{"key": "/InferiorMoonshine", "source_en": "Common Moonshine", "ar": "العَرَق العاديّ"}
+{"key": "/InferiorMoonshine", "source_en": "Common Moonshine", "ar": "خمر القمر العاديّ"}
 {"key": "/F03801FE4A23FA848A0A049595B6FE4D", "source_en": "Commune", "ar": "المناجاة"}
 {"key": "/B46CAC3F431C89E884CC78B543738109", "source_en": "Commune with Chaos", "ar": "مناجاة الفوضى"}
 {"key": "/F88CF35E46F33D63D492A6985F5A18F6", "source_en": "Compiling shaders, please wait until fully completed.", "ar": "جارٍ تجميع المُظلِّلات، يُرجى الانتظار حتى تكتمل."}
@@ -285,8 +285,8 @@
 {"key": "/602813AC4A0245E3A02B998233677CED", "source_en": "Drink Poison", "ar": "شرب السمّ"}
 {"key": "/0AD8BEB94C6E0FA8843424AB0F6D321D", "source_en": "Drink Tarwine", "ar": "شرب خمر القار"}
 {"key": "/F8E477B54A7C66FD6DDEFFA5625D29D9", "source_en": "Drink Tarwine", "ar": "شرب خمر القار"}
-{"key": "/20B8DE694CC6B08B08FE9DA87CA3A34B", "source_en": "Drink The Moonshine", "ar": "شرب العَرَق"}
-{"key": "/D4300AD24976748894CB338ABD64CE06", "source_en": "Drink The Moonshine", "ar": "شرب العَرَق"}
+{"key": "/20B8DE694CC6B08B08FE9DA87CA3A34B", "source_en": "Drink The Moonshine", "ar": "شرب خمر القمر"}
+{"key": "/D4300AD24976748894CB338ABD64CE06", "source_en": "Drink The Moonshine", "ar": "شرب خمر القمر"}
 {"key": "/834B39CE4FAA452CA98E8E8882792731", "source_en": "Drop Child", "ar": "إنزال الطفل"}
 {"key": "/D7E7189F4370FBCAC64894B31C1FEBB2", "source_en": "Drop Child", "ar": "إنزال الطفل"}
 {"key": "/C88B4FC9436FAB496CA3C4AF0591A1BC", "source_en": "Drop Down", "ar": "الهبوط"}
@@ -414,7 +414,7 @@
 {"key": "/StrangeGear", "source_en": "Galvanic Shard", "ar": "الشظية الغلفانية"}
 {"key": "/E139DDBC4D9583FC1C697396157943B8", "source_en": "Game Settings", "ar": "إعدادات اللعبة"}
 {"key": "/12D107064597AE2AF4FE27920DA47415", "source_en": "Gaze upon the young general. Spin around and look again. Once more, spin around. Now the next time you look to the young general, it will change your surrounds.", "ar": "حدّق في الجنرال الشاب. ثم دُر وانظر ثانية. ودُر مرة أخرى. وحين تنظر إلى الجنرال الشاب من جديد، يتبدّل ما حولك."}
-{"key": "/87578D504926DC51FEABD496E19DAD2F", "source_en": "Gaze upon your king so true, back and back you shall pass through.", "ar": "حدّق في ملكك الصادق، فتعبر القهقرى مرارًا."}
+{"key": "/87578D504926DC51FEABD496E19DAD2F", "source_en": "Gaze upon your king so true, back and back you shall pass through.", "ar": "حدّق في مَلِككَ الأمين، تمرّ وتعود راجعًا كلّ حين."}
 {"key": "/2A0CE09A42FD75F4440ABCAC67132EE7", "source_en": "Genessa", "ar": "جينيسا"}
 {"key": "/2EE9106441EE8CDECD162D8E78D11924", "source_en": "Genessa", "ar": "جينيسا"}
 {"key": "/5127DF024D0F0808E96FF18245078A12", "source_en": "Genessa", "ar": "جينيسا"}
@@ -772,8 +772,8 @@
 {"key": "/9B3CA85041DFD463C389EAADD85F3905", "source_en": "Others sought to keep me there, luring me in with false value. I knew I shouldn’t return to them, but I couldn’t help myself. I see why the traveler spent so much time in {TopGameName}... Perhaps I’ll return there myself.", "ar": "سعى آخرون لإبقائي هناك، مغرين إياي بقيمةٍ زائفة. عرفت ألّا أعود إليهم، لكنني لم أملك نفسي. أفهم الآن لمَ أمضى المسافر وقتًا طويلًا في {TopGameName}... ربما أعود إلى هناك بنفسي."}
 {"key": "/2CF8C2A64120C1DD55B4ED8432EB83E1", "source_en": "Over time, the queen was not less and less, until finally years passed without a sighting. Her presence was reduced to missives and hearsay. All relayed through the High Lord and his courtiers.", "ar": "ومع مرور الوقت، تضاءلت الملكة شيئًا فشيئًا، حتى مضت أخيرًا سنواتٌ دون أن تُرى. تقلّص حضورها إلى رسائل وأقاويل، تنقلها كلها ألسنة السيد الأعلى وحاشيته."}
 {"key": "/ParadoxicalScripture", "source_en": "Paradoxical Scripture", "ar": "الكتاب المتناقض"}
-{"key": "/03E947594554170FD269E8A8A5D410AE", "source_en": "Pass The Moonshine", "ar": "تمرير العَرَق"}
-{"key": "/B9A132894E91F8CE31DE2FBC5EF486C7", "source_en": "Pass The Moonshine", "ar": "تمرير العَرَق"}
+{"key": "/03E947594554170FD269E8A8A5D410AE", "source_en": "Pass The Moonshine", "ar": "تمرير خمر القمر"}
+{"key": "/B9A132894E91F8CE31DE2FBC5EF486C7", "source_en": "Pass The Moonshine", "ar": "تمرير خمر القمر"}
 {"key": "/DB6C3E0B42B206EDFB76DD8D8121488D", "source_en": "Pay Tribute", "ar": "دفع الإتاوة"}
 {"key": "/045F95F840B4A5C07EE0A598E6F35A58", "source_en": "Pay Tribute to Egon", "ar": "دفع الإتاوة لإيغون"}
 {"key": "/30F91760496F79C251596B83580CFD8B", "source_en": "Pay Tribute to Egon", "ar": "دفع الإتاوة لإيغون"}
@@ -878,7 +878,7 @@
 {"key": "/DEC8D71847722648CB6606A4315857D7", "source_en": "Refuse Blessing", "ar": "رفض البركة"}
 {"key": "/00D25DE14D9BCB6872BF84BC61D92809", "source_en": "Refuse Merrick's Help", "ar": "رفض مساعدة ميريك"}
 {"key": "/D771311B4790D94CECE3D089F0968AEA", "source_en": "Refuse To Help", "ar": "رفض المساعدة"}
-{"key": "/C73AA5A6453237B54883C2A5768EECC8", "source_en": "Rejoice! For our fair maiden, the Lady of the Woods, has returned. And what does she ask of us? No more than a small tribute, a share in all we harvest.", "ar": "لا أكثر من إتاوةٍ يسيرة، نصيبٍ من كل ما نحصد."}
+{"key": "/C73AA5A6453237B54883C2A5768EECC8", "source_en": "Rejoice! For our fair maiden, the Lady of the Woods, has returned. And what does she ask of us? No more than a small tribute, a share in all we harvest.", "ar": "ابتهجوا! فقد عادت عذراؤنا الحسناء، سيدة الغابة. وماذا تطلب منّا؟ لا أكثر من إتاوةٍ يسيرة، نصيبٍ من كل ما نحصد."}
 {"key": "/35EC98934409DBBBEF187C9078E2E903", "source_en": "Release Stranger", "ar": "إطلاق سراح الغريب"}
 {"key": "/65AEB89F41545514F24F71952E3DF526", "source_en": "Release Your Sesters", "ar": "إطلاق سراح أُخَيّاتك"}
 {"key": "/15CFE6E44217ED1A1EBAC393B4A91529", "source_en": "Reprise Pilgrimage", "ar": "استئناف الحج"}
@@ -1445,7 +1445,7 @@
 {"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/D3F2FADB47676EB8D833E8BF0E20B32B", "source_en": "Think you can fetch it for me?", "ar": "أتظن أنك تستطيع إحضاره لي؟"}
 {"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/912956874B172B42EF842C8A8F01D5EF", "source_en": "Yes", "ar": "نعم."}
 {"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/E445DCB840121BCE8115A3A081AB2B08", "source_en": "You got a lot to learn, mate.", "ar": "أمامك الكثير لتتعلّمه يا صاح."}
-{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/179C23454B5BC2B9A457B9BA231B169E", "source_en": "You see… there’s an art to doin’ nothin’.", "ar": "أترى… إن للتبطّل فنًّا."}
+{"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/179C23454B5BC2B9A457B9BA231B169E", "source_en": "You see… there’s an art to doin’ nothin’.", "ar": "أترى… ثمّة فنٌّ في ألّا تفعل شيئًا."}
 {"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/AFC56C3E4896199AF008D1B6980493DC", "source_en": "You think you’re any different?", "ar": "أتظن نفسك مختلفًا؟"}
 {"key": "Dialogue_Dlg_Baghead_Interact_MoonshineQuestStart/A3ECA8E448C9AE66B385A1B864BA80EC", "source_en": "You wanna be like me?", "ar": "أتريد أن تكون مثلي؟"}
 {"key": "Dialogue_Dlg_BanishedCultist_01_DistantPrayer/B65E5D5845A400F3381255B43169D736", "source_en": "He is connection.", "ar": "هو الصِّلة."}
@@ -2564,7 +2564,7 @@
 {"key": "Dialogue_Dlg_Gorf_Interact_08_Cauldron/97D5A78547A4F6745EC228830F126A57", "source_en": "She’ll be staying here.", "ar": "ستبقى هنا."}
 {"key": "Dialogue_Dlg_Gorf_Interact_09/A046D0DF4802D29E3E8020AB16EE6CDA", "source_en": "And I have you to thank for all this.", "ar": "ولك الفضل في كل هذا."}
 {"key": "Dialogue_Dlg_Gorf_Interact_09/F1C5A52542BBD03283819D85D97068D2", "source_en": "Now… may we have some privacy?", "ar": "الآن… أتتركنا وشأننا قليلًا؟"}
-{"key": "Dialogue_Dlg_Gorf_Interact_09/6DF0FF9F417DFD2F7593C9B01E00682E", "source_en": "Oh, and the moonshine I suppose.", "ar": "آه، والعَرَق أيضًا على ما أظن."}
+{"key": "Dialogue_Dlg_Gorf_Interact_09/6DF0FF9F417DFD2F7593C9B01E00682E", "source_en": "Oh, and the moonshine I suppose.", "ar": "آه، وخمر القمر أيضًا على ما أظن."}
 {"key": "Dialogue_Dlg_Gorf_Interact_09/B330A9A84478D748F5C54EB64DDBBAB1", "source_en": "Quite the mate.", "ar": "يا لها من رفيقة."}
 {"key": "Dialogue_Dlg_Gorf_Interact_09/8780A56C4F69C0C0A321BA91F0410CC0", "source_en": "She’s a catch, no?", "ar": "إنها صيدٌ ثمين، أليس كذلك؟"}
 {"key": "Dialogue_Dlg_Gorf_Interact_10/AB7991CA430A125F70477A8AE88548F6", "source_en": "Don’t worry.", "ar": "لا تقلق."}
@@ -3347,7 +3347,7 @@
 {"key": "Dialogue_Dlg_IntroCultist_Greeting_FlowerCrownTaken/F6D33E604668E9E0EDB683A35ED1E913", "source_en": "The sun is always shining…", "ar": "الشمس مشرقة دومًا…"}
 {"key": "Dialogue_Dlg_Lazlo_TheMassacre01_ApproachFight/FCAB8E2144AD7B697E00C196E116146D", "source_en": "You stole my best goats!", "ar": "سرقتَ خيرة ماعزي!"}
 {"key": "Dialogue_Dlg_Lazlo_TheMassacre01_ApproachFight/D13ED621497E882B6E9002A431358A90", "source_en": "You’re mad, old man.", "ar": "أنت مجنون، أيها العجوز."}
-{"key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/95C86FDB4EC46C39D9BD5BAC12B26D9E", "source_en": "Like they give two shits about missing goats.", "ar": "وكأنهم يعبؤون بماعز ضائعة قِيد شعرة."}
+{"key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/95C86FDB4EC46C39D9BD5BAC12B26D9E", "source_en": "Like they give two shits about missing goats.", "ar": "وكأنهم يعبؤون أصلًا بماعز ضائعة."}
 {"key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/CDCB8CAC4232C37F27B1C58D97FC4253", "source_en": "Yeah, piss off, m’lord.", "ar": "أجل، اغرب عن وجهي، يا مولاي."}
 {"key": "Dialogue_Dlg_Lazlo_TheMassacre01_BreakUpFight/8639ACB1474600A380C3C6978B5EB740", "source_en": "You two. Take your quarrel to the Justiciars.", "ar": "ارفعا خصومتكما إلى المُقتَصّين."}
 {"key": "Dialogue_Dlg_Lazlo_TheMassacre01_End/CE153FBC4D5F8DBF6CA36488D067841C", "source_en": "Seen enough?", "ar": "أرأيت ما يكفي؟"}
@@ -3664,7 +3664,7 @@
 {"key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/A53862494C43C8B17DB2F8B8DD8B6415", "source_en": "A good ‘shroom at a good price.", "ar": "فطر جيد بسعر جيد."}
 {"key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/AB58861B47110F9FBC78C6BB7BCF9CE4", "source_en": "Tasty… if rubbery.", "ar": "لذيذ... وإن كان مطاطيًا."}
 {"key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/F316F5904877A6AC938E1EB66D350DAF", "source_en": "They’re good for ya… I think.", "ar": "إنها مفيدة لك... على ما أظن."}
-{"key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/DFD06DF54AA2C61109FDFE8787C34A91", "source_en": "“Red-head, never dead!” Or so they say.", "ar": "«رأسٌ أحمر، لا يُقهر!» أو هكذا يقولون."}
+{"key": "Dialogue_Dlg_Merchant_OnBuy_Weltcap/DFD06DF54AA2C61109FDFE8787C34A91", "source_en": "“Red-head, never dead!” Or so they say.", "ar": "«رأسٌ أحمر، لا يموت ولا يُقهَر!» أو هكذا يقولون."}
 {"key": "Dialogue_Dlg_Merchant_PlayerHitDog/91A843484791F988599B7B958B6ED078", "source_en": "Careful, brev. Louis ain’t no training dummy.", "ar": "احترس، يا صاح. لويس ليس دمية تدريب."}
 {"key": "Dialogue_Dlg_Merchant_PlayerHitDog/B9D9274B4B21115689E6FE971E9D219B", "source_en": "Oi, twat! Touch him again and you’re dead.", "ar": "يا هذا، أيها الأحمق! المسْه مرة أخرى وستموت."}
 {"key": "Dialogue_Dlg_Merchant_PlayerHitDog/AA9D54364996466A7849069B93264BB6", "source_en": "Stop it you fuckin’ oaf  or I’ll kill ya.", "ar": "توقف أيها الأخرق اللعين وإلا قتلتك."}
@@ -3834,7 +3834,7 @@
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_ConfrontMerrick_11/B3B4BF9E4C4A99530773EE84C593231B", "source_en": "My form is enhanced to promote cooperation.", "ar": "هيئتي مُعزَّزة لتشجيع التعاون."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_ConfrontMerrick_11/C57705AA41660CDFCF0BF5967B582E5C", "source_en": "There is no need for shame.", "ar": "لا داعي للخجل."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_ConfrontMerrick_11/DF9DA9924D925A1A1166EE938B026640", "source_en": "With compatible species.", "ar": "مع الأنواع المتوافقة."}
-{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/0A7BDD804BBAB1F0463C4DAABE48B1A0", "source_en": "(gulps down the moonshine)", "ar": "(يجرع العَرَق دفعة واحدة)"}
+{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/0A7BDD804BBAB1F0463C4DAABE48B1A0", "source_en": "(gulps down the moonshine)", "ar": "(يجرع خمر القمر دفعة واحدة)"}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/0C31F4CE42830B03BAC51290BFFFFB25", "source_en": "But it will promote a little comradery.", "ar": "لكنه سيبعث شيئًا من الألفة."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/73123A954AFF0D37F30A878DF5E69ED6", "source_en": "How am I gonna help?", "ar": "وكيف عساي أساعد؟"}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_DrinkTheMoonshine_05/3DA583804B84E2074CF7FDB80C5FE582", "source_en": "I mean I don’t even know what this Hexa-thing is.", "ar": "أعني، لا أعرف أصلًا ما هذا الهكسا ذاك."}
@@ -3860,12 +3860,12 @@
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_09/67832DC845E3F105C2C7FAB53E51D9DE", "source_en": "You know what… I don’t buy it.", "ar": "أتعلمين؟ لا أصدّق هذا."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_Continue_07/E6BDC94E4118FF9DAA8D4DB8211BBCF0", "source_en": "Drink up!", "ar": "اشربي!"}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_PassTheMoonshine_Continue_07/83517F1F4C16F6A6123081AEE6137ED6", "source_en": "Well, this will certainly help you rest.", "ar": "حسنًا، هذا سيعينك على الراحة بلا شك."}
-{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/CCA3422B4A77D415536B76A909D0FE46", "source_en": "It’s just the moonshine.", "ar": "إنه العَرَق فحسب."}
+{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/CCA3422B4A77D415536B76A909D0FE46", "source_en": "It’s just the moonshine.", "ar": "إنه خمر القمر فحسب."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/032EBB6F4ED95C61845D80A2430337AA", "source_en": "Your blood flow has increased.", "ar": "ازداد تدفق دمك."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/35DAF8FE466715783D9922BB918673A4", "source_en": "Your body wishes to mate.", "ar": "يرغب جسدك في التزاوج."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_StandUp_10/A74E1B774C798BF3EF85859773284878", "source_en": "Your scent changed.", "ar": "تغيّرت رائحتك."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrel_03/C02BE40C497E70F3C89BB4A2786BED30", "source_en": "Is this for cleaning wounds?", "ar": "أهذا لتطهير الجروح؟"}
-{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrel_03/33BB93EB45B20DF602F4CBB8EB99D939", "source_en": "Moonshine.", "ar": "عَرَق."}
+{"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrel_03/33BB93EB45B20DF602F4CBB8EB99D939", "source_en": "Moonshine.", "ar": "خمر القمر."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrel_03/08A601F444AD4A347576C2A09BAA59AF", "source_en": "Nah, this is the good stuff.", "ar": "لا، هذا هو الصنف الفاخر."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrelContinue_04/4D51C531414052DE17AE9280230549FA", "source_en": "Let’s drink it.", "ar": "لنشربه."}
 {"key": "Dialogue_DLG_ProximaMemory_TheExchange_S2_TestTheBarrelContinue_04/162E962E46A8F2D97CEC24A030EFBE6B", "source_en": "Oh, shit! It’s leakin’.", "ar": "تبًّا! إنه يتسرّب."}
@@ -4442,7 +4442,7 @@
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/BB2FF73E4CFA94AAA9A3B183726DBC37", "source_en": "And If I am lucky… ", "ar": "وإن حالفني الحظ..."}
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/3AF30B5540B37E3D00A4C696BEB2DA2F", "source_en": "And flows like a river… in all directions.", "ar": "ويتدفّق كنهر... في كل الاتجاهات."}
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/4229254B442286414DD3778BEA7D6730", "source_en": "Enough riddles.", "ar": "كفى ألغازًا."}
-{"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/052E3A1046D3AAE9CB3AC8AB7E242C49", "source_en": "I am a gatherer.", "ar": "أنا جامعة."}
+{"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/052E3A1046D3AAE9CB3AC8AB7E242C49", "source_en": "I am a gatherer.", "ar": "أنا مَن تجمع."}
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/1D912BDA40DB7F1BBFEA4EBC60038A74", "source_en": "Is this the… Great Question?", "ar": "أهذا هو... السؤال العظيم؟"}
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/995E76A34A8953C9617E9DA0D7E28CF1", "source_en": "It reverberates like a heartbeat… through all things.", "ar": "يتردّد كالنبض... في كل شيء."}
 {"key": "Dialogue_Dlg_Shellkeeper_InteractGenessa_03/6B0EFDB24B481725D7985FB05534529C", "source_en": "Soon, I will depart with my findings.", "ar": "قريبًا، سأرحل بما توصّلتُ إليه."}
@@ -4524,7 +4524,7 @@
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_2ndDoor_OpenReaction/5FD3A0A642DCDC17B3EA94A063E9D9CF", "source_en": "Now about those tithes?", "ar": "والآن، ماذا عن تلك العُشور؟"}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_IntroSolo/7974C76A41A8EBAF0B6507B552CCE8E1", "source_en": "Where are the faithful?", "ar": "أين المؤمنون؟"}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager/A1118B474E0A024537F0919625CE454E", "source_en": "I'm sorry, but I'm afraid I don't have much to offer.", "ar": "آسف، لكن ما عندي كثيرٌ أقدّمه."}
-{"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager/EE70FBE244F35C1E0A9990A3E32DE091", "source_en": "Open up. Your tithes are due.", "ar": "افتحوا. حان أجل عُشوركم."}
+{"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager/EE70FBE244F35C1E0A9990A3E32DE091", "source_en": "Open up. Your tithes are due.", "ar": "افتحوا. حان موعد دفع عُشوركم."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager_OfferTithe/206E62C04C8422CFD121089C30C64B6E", "source_en": "But... perhaps my neighbor and his boy have fared better.", "ar": "لكن... ربما جاري وابنه أوفر حظًا مني."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager_OfferTithe/CBB1BB324596600D83BA83BE793E3F46", "source_en": "Is this it?", "ar": "أهذا كل شيء؟"}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_TheInitiate_01_OldVillager_OfferTithe/1F56E07E4911D726A3E6BDAC9FAEE29C", "source_en": "It's all I have. I swear it!", "ar": "هذا كل ما أملك. أقسم لك!"}
@@ -4579,7 +4579,7 @@
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveTarwine/0A4172664B68D9AE03CC2DBD8442F3CA", "source_en": "I can handle it.", "ar": "أستطيع تحمّله."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveTarwine/55E405C64C294B4C22B988B8EBB9A1A4", "source_en": "I’m still strong.", "ar": "ما زلتُ قويًّا."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveTarwine/BE95F0DC4D2403DB38F6DD8D8CFCA961", "source_en": "You don’t have to drink it.", "ar": "لست مضطرًا لشربه."}
-{"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/EC8880584A3D8622F92065A66BAAA9F6", "source_en": "He speaks true. Eat.", "ar": "صدق. كُل."}
+{"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/EC8880584A3D8622F92065A66BAAA9F6", "source_en": "He speaks true. Eat.", "ar": "إنه صادق. كُلْ."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/FD8B8143427361E5A7E3DBB9ADFFE59B", "source_en": "I can still lift a sword.", "ar": "ما زلتُ أستطيع حمل السيف."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/2538C65E428BB7F0815BC0B480C5DDE2", "source_en": "I will not harm you.", "ar": "لن أؤذيك."}
 {"key": "Dialogue_Dlg_ShellMemory_Eredrim_ThreeNights_02_GiveWeltcap/E0F6BAE243DDFAA7D6339DA0238311F4", "source_en": "You’re not trying to kill me—are you?", "ar": "أنت لا تحاول قتلي—أليس كذلك؟"}
@@ -4743,7 +4743,7 @@
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_LookPainting/A41856DB40ED4AC32A0B5CA3695C6311", "source_en": "This… is… ", "ar": "هذا... هو..."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeCoin/0B7573C74261666AEFCE99A05A1814CF", "source_en": "If you must take it, very well.", "ar": "إن كان لا بد أن تأخذها، فليكن."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeCoin/0B3EC658405B662FF69F8D9828D4BC85", "source_en": "Of course, Interrogator.", "ar": "بالطبع، أيها المحقّق."}
-{"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeCoin/2D33C2E54A018CC60CCA139DE53BD55D", "source_en": "You know we cannot be bribed.", "ar": "تعلم أننا لا نُرتشى."}
+{"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeCoin/2D33C2E54A018CC60CCA139DE53BD55D", "source_en": "You know we cannot be bribed.", "ar": "تعلم أننا لا نُرشى."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeIcon/BD6717EF499FC4BBB383A982B4D29F39", "source_en": "Others a punishment… for our thieving.", "ar": "وآخرون: عقابًا... على سرقتنا."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeIcon/0E8779954F6A09D72FCB65A16BE6A661", "source_en": "Some say it was a gift.", "ar": "يقول البعض إنها كانت هدية."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_AGoodMan_02_TakeIcon/105FA98D45749B7A411E2887E0C09A15", "source_en": "The first to change.", "ar": "أوّل من تغيّر."}
@@ -4884,7 +4884,7 @@
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedGloom/42F16BDE4A04157EF553FBAC17B8129C", "source_en": "Please.", "ar": "أرجوك."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedGloom/80F3174C4D9EB86F8CBA269DD4DAE3E9", "source_en": "This is… wrong.", "ar": "هذا... خطأ."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/60D003D445F95F5E6D0F9EA7F244437A", "source_en": "Cousin, I’m tired, sore…", "ar": "يا ابن العمّ، أنا متعب، موجوع..."}
-{"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/799E59F64BF5E487D67138827863BDAF", "source_en": "It itches, it chafes, and I cannot lift a finger.", "ar": "يحكّني، يسحج جلدي، ولا أقوى على تحريك إصبع."}
+{"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/799E59F64BF5E487D67138827863BDAF", "source_en": "It itches, it chafes, and I cannot lift a finger.", "ar": "يحكّني، ويسلخ جلدي، ولا أقوى على تحريك إصبع."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/7FDC1304461347410674DDA1A19150CF", "source_en": "Please, allow me a little relief.", "ar": "أرجوك، امنحني بعض الراحة."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/092AEBA54B9D6DE5A3F4ABA97BCA0C59", "source_en": "Take pity on me.", "ar": "ارأف بي."}
 {"key": "Dialogue_Dlg_ShellMemory_Lazlo_ThePrisoner_01_FeedMoreGloom/EB1D427348FC317F4E0E1DBDCA4E8531", "source_en": "This is… wrong.", "ar": "هذا... خطأ."}
@@ -5284,7 +5284,7 @@
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/BA8D426F47001D7856A7DAAE5A4D7246", "source_en": "(drunken groan)", "ar": "(تأوّه سكران)"}
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/07C5880543C7E48D6BAFC69322231BBF", "source_en": "Didn’t think so.", "ar": "لم أظن ذلك."}
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/B0AAD6544039E9F262777FA983741BCD", "source_en": "Gragu… (scoffs) how the mighty fall, eh?", "ar": "غراغو... (يهزأ) هكذا يسقط الجبابرة، أليس كذلك؟"}
-{"key": "Dialogue_DLG_Tavern_Drunk_Interact01/32706B3D4633BAF33434998A5A1D7FCA", "source_en": "Guess you just passed out, eh?", "ar": "أظنّك أُغمي عليك فحسب، صحيح؟"}
+{"key": "Dialogue_DLG_Tavern_Drunk_Interact01/32706B3D4633BAF33434998A5A1D7FCA", "source_en": "Guess you just passed out, eh?", "ar": "أظنّك فقدتَ وعيك فحسب، صحيح؟"}
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/C8A878674501CCF90E03BBB76C9B1C3C", "source_en": "He’s probably up north now.", "ar": "لا بد أنه في الشمال الآن."}
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/878C17584626F43E512207A578F600E9", "source_en": "I thought you were dead.", "ar": "ظننتك ميتًا."}
 {"key": "Dialogue_DLG_Tavern_Drunk_Interact01/3D3F565448BD9721F7A0B282BD32F918", "source_en": "Look at that big ol’ sad sack.", "ar": "انظروا إلى ذلك البائس الضخم."}
@@ -5472,7 +5472,7 @@
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyTarwine/5C4F1B15425D0EEC1ED745B080E0F1AA", "source_en": "See. You don't control me.", "ar": "انظر. أنت لا تتحكّم بي."}
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyWhatRemains/D092BEAE46AC391CDB23F3B6315394DC", "source_en": "Before it’s too late.", "ar": "قبل فوات الأوان."}
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyWhatRemains/AE6C54D1409AD07FDE195EB91AC982FE", "source_en": "I’m destroying it.", "ar": "سأدمّره."}
-{"key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyWhatRemains/A62F95704EE0226F7EDAB7935770821C", "source_en": "The Tar, the booze… everything.", "ar": "القار، والعَرَق... كل شيء."}
+{"key": "Dialogue_Dlg_TielMemory_TheBottle_01_DestroyWhatRemains/A62F95704EE0226F7EDAB7935770821C", "source_en": "The Tar, the booze… everything.", "ar": "القار، والخمر... كل شيء."}
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_Intro/131403EF47B2409327DC0C841FCDD9C4", "source_en": "That’s it. I’m done.", "ar": "كفى. انتهيت."}
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_ThrowStone/0EA3A80D4F01E9E85A1C20AC2FE5DE0E", "source_en": "(grunts)", "ar": "(يئنّ)"}
 {"key": "Dialogue_Dlg_TielMemory_TheBottle_01_ThrowStone_Continue/E9B5A5D4448339663E2722812CB6DCA1", "source_en": "Tiel… what are you doing?", "ar": "تيل... ماذا تفعل؟"}
@@ -5677,7 +5677,7 @@
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/C6507B6F4972B9CCEED89B9AE1F5DD35", "source_en": "I was fond of them, too.", "ar": "كنتُ أحبّهم أيضًا."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/1BB4E56E4D909677FDC9EF9A0B321A33", "source_en": "I was there, too.", "ar": "كنتُ هناك أيضًا."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/52BC69334EBEA7F4E9441C97BF60DCAF", "source_en": "I was there… in the roots of the oldest trees.", "ar": "كنتُ هناك... في جذور أقدم الأشجار."}
-{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/297325B84C4AFF81939FE0A64C75E4A4", "source_en": "It’s my weakness, that stranded us here.", "ar": "ضعفي هو ما قطع بنا هنا."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/297325B84C4AFF81939FE0A64C75E4A4", "source_en": "It’s my weakness, that stranded us here.", "ar": "ضعفي هو ما تركنا عالقين هنا."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/3CE37C604E0626542A5ACA9F6F65A37F", "source_en": "It’s teeming with life.", "ar": "إنه يعجّ بالحياة."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/FF7F19BA4D5DAEE5A636899E91C7931A", "source_en": "Knowing this…  intruder burrowed deep within my flesh, was feasting.", "ar": "وأنا أعلم أن هذا الدخيل قد نَقَبَ عميقًا في لحمي، وأخذ يلتهم."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/246C877242C65930D3D6129E482B5726", "source_en": "Let them strengthen you.", "ar": "دَعها تقوّيك."}
@@ -5687,7 +5687,7 @@
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/1A36BE5448B0AE291B66E18F3145CBE0", "source_en": "Perhaps too much so.", "ar": "ربما أكثر مما ينبغي."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/6FA721D748EDFD71221A9B852F870081", "source_en": "Sift through their Glimpses… what they call “memories.”", "ar": "تفحّص وَمَضاتهم... ما يسمّونه \"ذكريات\"."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/8091D2E243C36F3E47DF008D172CCECC", "source_en": "The creatures you see all around.", "ar": "المخلوقات التي تراها من حولك."}
-{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/4E25EC9C4313707F9F7310A1A95414AB", "source_en": "The last of your brood.", "ar": "آخر مَن تبقّى من حَضْنتك."}
+{"key": "Dialogue_Dlg_UnderMether_Tower_Interact/4E25EC9C4313707F9F7310A1A95414AB", "source_en": "The last of your brood.", "ar": "آخر مَن تبقّى من إخوتك."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/AAE1D00F4409FB06DDF653BD45690A94", "source_en": "There is much to do.", "ar": "ما زال أمامنا الكثير."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/35167E0343812DA454E05AB53CE98D51", "source_en": "There was a time when my children flourished.", "ar": "كان زمنٌ ازدهر فيه أبنائي."}
 {"key": "Dialogue_Dlg_UnderMether_Tower_Interact/F66D4C3D448C4A9C540BE6B5ECDE3426", "source_en": "These mortal creatures.", "ar": "هذه المخلوقات الفانية."}
@@ -5743,7 +5743,7 @@
 {"key": "Dialogue_Dlg_Villager_Slice1_SadFather_01/6BA6F70B493F8B9064CECEB49A3C83B4", "source_en": "Haven't we given enough already?", "ar": "ألم نُعطِ ما يكفي بالفعل؟"}
 {"key": "Dialogue_Dlg_Villager_Slice1_SadFather_01/950467E741A56D28C154F4B0633EF206", "source_en": "Is the Lady of the Woods not satisfied?", "ar": "أما اكتفت سيدة الغابة؟"}
 {"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_01/97AAA9AA43DDC9A38AF0A0A0B82D591C", "source_en": "Not unless you can stop that maddening music.", "ar": "لن تدخل ما لم توقف تلك الموسيقى التي تُذهب العقل."}
-{"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_01/682BE34D48F197419F612D80C0C43329", "source_en": "The door is barricaded, you're not getting in.", "ar": "الباب مُتَرَّس، لن تدخل."}
+{"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_01/682BE34D48F197419F612D80C0C43329", "source_en": "The door is barricaded, you're not getting in.", "ar": "الباب مسدودٌ بالمتاريس، لن تدخل."}
 {"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_01/7112929E40CABE410E86A6A3F8702F4C", "source_en": "Who goes there?", "ar": "مَن هناك؟"}
 {"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_02_EncounterComplete/90604F6B4B99242A44446AAD6FD71022", "source_en": "...", "ar": "..."}
 {"key": "Dialogue_Dlg_Villager_Slice1_SuspiciousMan_02_EncounterComplete/4363B820440C7CD9CD61C78D7C8D6BA1", "source_en": "Hm. The music stopped... for now at least.", "ar": "همم. توقفت الموسيقى... في الوقت الراهن على الأقل."}
@@ -5824,7 +5824,7 @@
 {"key": "Dialogue_Dlg_Vlas_Interact_Hub/657E85E14CCC55DC8BB9F58A102D6DB9", "source_en": "Just us now?", "ar": "نحن وحدنا الآن؟"}
 {"key": "Dialogue_Dlg_Vlas_Interact_Hub/BF848DED400B4C4F8983BA92CA653EFB", "source_en": "Nothing compared to true companionship.", "ar": "لا شيء يُقارَن برفقة حقيقية."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Hub/83EBA9804C824982396048BA51551D2C", "source_en": "So I could repay you.", "ar": "لكي أردّ لك الجميل."}
-{"key": "Dialogue_Dlg_Vlas_Interact_Hub/4237183B4A6C768A013E88AC0EA2E87A", "source_en": "The silence… is welcome.", "ar": "الصمت... مُستَحَبّ."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Hub/4237183B4A6C768A013E88AC0EA2E87A", "source_en": "The silence… is welcome.", "ar": "الصمت... مُرحَّبٌ به."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Hub/57D093DF4BDB3F92A0E427A453491108", "source_en": "You know the truth… don’t you?", "ar": "تعرف الحقيقة... أليس كذلك؟"}
 {"key": "Dialogue_Dlg_Vlas_Interact_Hub/21AAFC4B42BD66EB53886CB22AC4BB3B", "source_en": "Your “disciples” keep giving him treats.", "ar": "لا يزال \"حواريّوك\" يطعمونه الأطايب."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/449528C74649BF0B31512BB6BFB53CA5", "source_en": "(deep breath) If he's been harmed.", "ar": "(يتنفس بعمق) إن كان قد أُصيب بأذى."}
@@ -5833,7 +5833,7 @@
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/A25B19D34C46250D7ED1E8B93724F2CC", "source_en": "I tried to avoid bloodshed.", "ar": "حاولتُ تجنّب سفك الدماء."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/F800B52C4C8D6DE7C084B4BAF93102DC", "source_en": "I... I don't know what I'd do.", "ar": "أنا... لا أعرف ماذا كنت لأفعل."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/EEE7C781425CA6CEA14C0F915BD355C3", "source_en": "It's my fault. ", "ar": "الذنب ذنبي."}
-{"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/2E72650941E7A20DDD185F9F0C55BA20", "source_en": "It’s my… companion. A feline.", "ar": "إنه... رفيقي. سِنَّور."}
+{"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/2E72650941E7A20DDD185F9F0C55BA20", "source_en": "It’s my… companion. A feline.", "ar": "إنه... رفيقي. قطٌّ."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/7E770BE8433B4353E419E4A4C375F465", "source_en": "I’m fine. Leave me.", "ar": "أنا بخير. اتركني."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/C11234D947A9670B03F46294717958CB", "source_en": "Keep an eye out, please.", "ar": "ابقَ متيقّظًا، أرجوك."}
 {"key": "Dialogue_Dlg_Vlas_Interact_Injured_01/1E1077C242AAC0DE992F39BDCE58EAED", "source_en": "Will you look for him?", "ar": "أستبحث عنه؟"}
@@ -5996,7 +5996,7 @@
 {"key": "gland/DungeonVillageKeyFlavorText", "source_en": "A simple key, nearly indistinguishable from any other.", "ar": "مفتاحٌ بسيط، يصعب تمييزه عن أي مفتاحٍ آخر."}
 {"key": "gland/DungeonLostEquipmentChestKeyFlavorText", "source_en": "A sturdy key.", "ar": "مفتاحٌ متين."}
 {"key": "gland/MissingLeverDeeprockKingdomFlavorText", "source_en": "A sturdy lever without ornamentation. And yet there are subtle hints that its craftsman sought beauty in its singular design. Initials are proudly etched in its iron.", "ar": "رافعةٌ متينة بلا زخرفة، ومع ذلك ثمّة إشاراتٌ خفيّة إلى أن صانعها سعى للجمال في تصميمها الفريد؛ فالأحرف الأولى منقوشة بفخرٍ على حديدها."}
-{"key": "gland/BagheadMoonshineEffect", "source_en": "A truly special bottle of moonshine.", "ar": "زجاجةٌ من العَرَق، فريدةٌ حقًا."}
+{"key": "gland/BagheadMoonshineEffect", "source_en": "A truly special bottle of moonshine.", "ar": "زجاجةٌ من خمر القمر، فريدةٌ حقًا."}
 {"key": "gland/DungeonFPMushroomSoup", "source_en": "Alluring Mushroom", "ar": "فطرٌ فاتن"}
 {"key": "gland/MissingCannonBallEffect", "source_en": "Ammunition for a great siege weapon. ", "ar": "ذخيرةٌ لسلاح حصارٍ عظيم."}
 {"key": "gland/DungeonFPKeyFlavorText", "source_en": "An inscription reads: \"When neighbors look upon each other with suspicion, the keymaker smiles.\"", "ar": "نقشٌ يقول: «حين ينظر الجيران إلى بعضهم بريبة، يبتسم صانع المفاتيح»."}
@@ -6043,7 +6043,7 @@
 {"key": "gland/DungeonFPKeyBook_02FlavorText", "source_en": "Ringer of life, bringer of flame", "ar": "قارعُ الحياة، وحاملُ اللهب."}
 {"key": "gland/MissingLeverDissaraySage", "source_en": "Sage's Gate Lever", "ar": "رافعة بوابة الحكيم"}
 {"key": "gland/DungeonSunkenKeyFlavorText", "source_en": "Slightly damp and sticky, but otherwise non-descript.", "ar": "رطبٌ لزجٌ بعض الشيء، وما عدا ذلك فلا سمة له."}
-{"key": "gland/BagheadMoonshine", "source_en": "Special Moonshine", "ar": "العَرَق المُعتَّق"}
+{"key": "gland/BagheadMoonshine", "source_en": "Special Moonshine", "ar": "خمر القمر الخاصّ"}
 {"key": "gland/DungeonFPKeyBook_03", "source_en": "Starlight Sonata", "ar": "سوناتا ضوء النجوم"}
 {"key": "gland/DungeonVillageKey", "source_en": "Strange Village Key", "ar": "مفتاح القرية الغريبة"}
 {"key": "gland/DungeonFPKeyBook_02", "source_en": "Sunlight Sonata", "ar": "سوناتا ضوء الشمس"}
@@ -6202,7 +6202,7 @@
 {"key": "mortal_shell_meta_descriptions/1190970_name", "source_en": "House Flipper 2", "ar": "House Flipper 2"}
 {"key": "mortal_shell_meta_descriptions/2358720_description", "source_en": "I beheld a stoneborn pilgrim whirl a staff against heavenly beasts, as if one monkey had been asked to correct the gods.", "ar": "رأيتُ حاجًّا من حجرٍ يُدير عصاه في وجه وحوش السماء، كأنّ قردًا واحدًا كُلِّف بتقويم الآلهة."}
 {"key": "mortal_shell_meta_descriptions/570_description", "source_en": "I beheld five against five in ancient lanes, where victory merely granted permission to begin the ritual again.", "ar": "رأيتُ خمسةً في مواجهة خمسة على دروبٍ عتيقة، حيث لا يمنح النصر سوى إذنٍ ببدء الطقس من جديد."}
-{"key": "mortal_shell_meta_descriptions/227300_description", "source_en": "I crossed old roads with cargo and rain, discovering that peace can sound like an indicator clicking in the dark.", "ar": "عبرتُ طرقًا عتيقةً بشحنةٍ ومطر، فاكتشفتُ أن السلام قد يبدو كصوت غمّازةٍ تنقر في الظلام."}
+{"key": "mortal_shell_meta_descriptions/227300_description", "source_en": "I crossed old roads with cargo and rain, discovering that peace can sound like an indicator clicking in the dark.", "ar": "عبرتُ طرقًا عتيقةً بشحنةٍ ومطر، فاكتشفتُ أن السلام قد يبدو كصوت إشارة الانعطاف تطقطق في الظلام."}
 {"key": "mortal_shell_meta_descriptions/1515950_description", "source_en": "I found a hall of glowing cabinets where coins became lives and old battles waited behind glass.", "ar": "وجدتُ قاعةً من الخزائن المتوهّجة، حيث تتحول العملات إلى أرواح، وتنتظر معاركُ قديمة خلف الزجاج."}
 {"key": "mortal_shell_meta_descriptions/218_description", "source_en": "I found not a world, but bones for worlds: a hidden skeleton that many strangers wore.", "ar": "لم أجد عالمًا، بل عظامًا لعوالم: هيكلًا خفيًّا ارتداه غرباء كثيرون."}
 {"key": "mortal_shell_meta_descriptions/270880_description", "source_en": "I hauled steel beneath vast skies, where the road itself seemed to be the story.", "ar": "حملتُ الفولاذ تحت سماءٍ شاسعة، حيث بدا الطريق نفسه هو الحكاية."}
@@ -6694,7 +6694,7 @@
 {"key": "ST_Core_Interactions/Chest", "source_en": "Chest", "ar": "صندوق"}
 {"key": "ST_Core_Interactions/ClaimStatueReward", "source_en": "Claim Reward", "ar": "أخذ المكافأة"}
 {"key": "ST_Core_Interactions/CleanseCorruption", "source_en": "Cleanse Corruption", "ar": "تطهير الفساد"}
-{"key": "ST_Core_Interactions/OfferDrink", "source_en": "Common Moonshine Required", "ar": "يلزم عَرَق عاديّ"}
+{"key": "ST_Core_Interactions/OfferDrink", "source_en": "Common Moonshine Required", "ar": "يلزم خمر القمر العاديّ"}
 {"key": "ST_Core_Interactions/TouchCenserDismissPrompt", "source_en": "Continue", "ar": "متابعة"}
 {"key": "ST_Core_Interactions/SpeakToNPC_Desc", "source_en": "Converse with {Name}", "ar": "محادثة {Name}"}
 {"key": "ST_Core_Interactions/DrinkInteraction", "source_en": "Drink", "ar": "شرب"}
@@ -6733,7 +6733,7 @@
 {"key": "ST_Core_Interactions/Offering", "source_en": "Make Offering", "ar": "تقديم قربان"}
 {"key": "ST_Core_Interactions/MakeOfferingToMatka", "source_en": "Make Offering To Matka", "ar": "تقديم قربان لماتكا"}
 {"key": "ST_Core_Interactions/TakeItem_Map", "source_en": "Map", "ar": "خريطة"}
-{"key": "ST_Core_Interactions/GiveItem_Moonshine", "source_en": "Moonshine", "ar": "عَرَق"}
+{"key": "ST_Core_Interactions/GiveItem_Moonshine", "source_en": "Moonshine", "ar": "خمر القمر"}
 {"key": "ST_Core_Interactions/SiphonWarning", "source_en": "No Unclaimed Ova to Siphon", "ar": "لا بُيوض بانتظار التصفية"}
 {"key": "ST_Core_Interactions/TarforgeMouthInteract_NothingToFeed", "source_en": "Nothing to Feed Tarforge", "ar": "لا شيء لإطعام مِصهَر القار"}
 {"key": "ST_Core_Interactions/Obtain", "source_en": "Obtain", "ar": "اكتساب"}
@@ -6755,7 +6755,7 @@
 {"key": "ST_Core_Interactions/PlayLute", "source_en": "Play", "ar": "عزف"}
 {"key": "ST_Core_Interactions/PurchaseHold", "source_en": "Purchase [Hold]", "ar": "شراء [ضغط مطوّل]"}
 {"key": "ST_Core_Interactions/PutLeverInteraction", "source_en": "Put Lever", "ar": "تركيب الرافعة"}
-{"key": "ST_Core_Interactions/PutBackMoonshine", "source_en": "Put Moonshine Back", "ar": "إعادة العَرَق مكانه"}
+{"key": "ST_Core_Interactions/PutBackMoonshine", "source_en": "Put Moonshine Back", "ar": "إعادة خمر القمر مكانه"}
 {"key": "ST_Core_Interactions/ReadInteraction", "source_en": "Read", "ar": "قراءة"}
 {"key": "ST_Core_Interactions/ReadEngraving", "source_en": "Read Engraving", "ar": "قراءة النقش"}
 {"key": "ST_Core_Interactions/ReadInteraction_Engraving", "source_en": "Read Engraving", "ar": "قراءة النقش"}
@@ -7187,7 +7187,7 @@
 {"key": "ST_Core_Options_Game/InvertMouseY", "source_en": "Invert Mouse Y", "ar": "عكس محور Y للفأرة"}
 {"key": "ST_Core_Options_Game/LockOnSwitchTargetMouseSensitivity", "source_en": "Lock-On Switch Mouse Sensitivity", "ar": "حساسية تبديل الهدف"}
 {"key": "ST_Core_Options_Game/MouseSensitivity", "source_en": "Mouse Sensitivity", "ar": "حساسية الفأرة"}
-{"key": "ST_Core_Options_Game/GameOptionOffScreenEnemyIndicator", "source_en": "Off-Screen Enemy Indicator", "ar": "مؤشر أعداء الخارج"}
+{"key": "ST_Core_Options_Game/GameOptionOffScreenEnemyIndicator", "source_en": "Off-Screen Enemy Indicator", "ar": "مؤشر الأعداء خارج الشاشة"}
 {"key": "ST_Core_Options_Game/OverallCameraShake", "source_en": "Overall Camera Shake Strength", "ar": "قوة اهتزاز الكاميرا"}
 {"key": "ST_Core_Options_Game/MiscPlayStation", "source_en": "PlayStation", "ar": "بلايستيشن"}
 {"key": "ST_Core_Options_Game/ShowHUDAbilityControls", "source_en": "Show HUD Ability Controls", "ar": "إظهار أزرار القدرات"}
@@ -7273,7 +7273,7 @@
 {"key": "ST_Core_PPItems/GalvanicShardPP_PassiveEffect_2", "source_en": "Grants <Lightning>Lightning</> mitigation proportional to Galvanic Shards found", "ar": "يمنح تخفيفًا من <Lightning>البرق</> بقدر ما وُجد من الشظايا الصاعقة"}
 {"key": "ST_Core_PPItems/TarsporePP_PassiveEffect_2", "source_en": "Grants <Poison>Poison</> mitigation proportional to Tarspores found", "ar": "يمنح تخفيفًا من <Poison>السم</> بقدر ما وُجد من أبواغ القار"}
 {"key": "ST_Core_PPItems/ParadoxicalScripturePP_PassiveEffect_2", "source_en": "Grants <Stasis>Stasis</> mitigation proportional to Paradoxical Scriptures found", "ar": "يمنح تخفيفًا من <Stasis>الركود</> بقدر ما وُجد من الصحائف المتناقضة"}
-{"key": "ST_Core_PPItems/MoonshinePP_PassiveEffect_2", "source_en": "Grants damage reduction proportional to Common Moonshine found", "ar": "يمنح تقليلًا للضرر بقدر ما وُجد من العَرَق العاديّ"}
+{"key": "ST_Core_PPItems/MoonshinePP_PassiveEffect_2", "source_en": "Grants damage reduction proportional to Common Moonshine found", "ar": "يمنح تقليلًا للضرر بقدر ما وُجد من خمر القمر العاديّ"}
 {"key": "ST_Core_PPItems/TrollweedPP_PassiveEffect_1", "source_en": "Grants total immunity", "ar": "يمنح مناعة تامّة"}
 {"key": "ST_Core_PPItems/MoonshinePP_PassiveEffect_1", "source_en": "Grants {Y} damage reduction", "ar": "يمنح {Y} من تقليل الضرر"}
 {"key": "ST_Core_PPItems/BloodseedPP_PassiveEffect_1", "source_en": "Grants {Z} <Bleed>Bloodcurse</> mitigation", "ar": "يمنح {Z} من تخفيف <Bleed>لعنة الدم</>"}
@@ -7285,7 +7285,7 @@
 {"key": "ST_Core_PPItems/ParadoxicalScripturePP_PassiveEffect_1", "source_en": "Grants {Z} <Stasis>Stasis</> mitigation", "ar": "يمنح {Z} من تخفيف <Stasis>الركود</>"}
 {"key": "ST_Core_PPItems/ParadoxicalScripturePP_ActiveEffect_1", "source_en": "Immediately cures <Stasis>Stasis</> and grants {X} <Stasis>Stasis</> mitigation for {Y}", "ar": "يشفي <Stasis>الركود</> فورًا ويمنح {X} من تخفيف <Stasis>الركود</> لمدة {Y}"}
 {"key": "ST_Core_PPItems/SpecialMoonshinePP_PassiveEffect_1", "source_en": "Increases maximum <Resolve>Resolve</> by {Y}", "ar": "يرفع أقصى <Resolve>العزيمة</> بمقدار {Y}"}
-{"key": "ST_Core_PPItems/SpecialMoonshinePP_PassiveEffect_2", "source_en": "Increases maximum <Resolve>Resolve</> proportional to Special Moonshine found", "ar": "يرفع أقصى <Resolve>العزيمة</> بقدر ما وُجد من العَرَق المُعتَّق"}
+{"key": "ST_Core_PPItems/SpecialMoonshinePP_PassiveEffect_2", "source_en": "Increases maximum <Resolve>Resolve</> proportional to Special Moonshine found", "ar": "يرفع أقصى <Resolve>العزيمة</> بقدر ما وُجد من خمر القمر الخاصّ"}
 {"key": "ST_Core_PPItems/MangoPP_PassiveEffect_1", "source_en": "Mango mask is available", "ar": "قناع المانجو متاح"}
 {"key": "ST_Core_PPItems/NotifyHeaderFamiliarity", "source_en": "New Familiarity Level", "ar": "مستوى أُلفة جديد"}
 {"key": "ST_Core_PPItems/MangoPP_PassiveEffect_2", "source_en": "Ova become Mangos", "ar": "تصير البُيوض مانجو"}
@@ -7507,7 +7507,7 @@
 {"key": "ST_Core_Tarforge/GiveObsidianLathe_Desc", "source_en": "Allows you to upgrade Sidearms at the Tarforge.", "ar": "يتيح لك ترقية الأسلحة الجانبية في مِصهَر القار."}
 {"key": "ST_Core_Tarforge/GiveEtchingNeedles_Desc", "source_en": "Allows you to upgrade and level up Tarstones at the Tarforge.", "ar": "يتيح لك ترقية أحجار القار ورفع مستواها في مِصهَر القار."}
 {"key": "ST_Core_Tarforge/GiveMuradeanActuator_Desc", "source_en": "Allows you to upgrade melee Weapons at the Tarforge.", "ar": "يتيح لك ترقية أسلحة الاشتباك في مِصهَر القار."}
-{"key": "ST_Core_Tarforge/FoundryStoneGameplayFlavorText", "source_en": "Ash gently wafts from this smoldering relic.", "ar": "يتصاعد الرماد رفيقًا من هذا الأثر الجامر."}
+{"key": "ST_Core_Tarforge/FoundryStoneGameplayFlavorText", "source_en": "Ash gently wafts from this smoldering relic.", "ar": "يتصاعد الرماد برفقٍ من هذا الأثر المتّقد."}
 {"key": "ST_Core_Tarforge/EtchingNeedlesGameplayDesc", "source_en": "Bring to Franz to discover its true purpose.", "ar": "احملها إلى فرانز لتعرف غرضها الحقيقي."}
 {"key": "ST_Core_Tarforge/FoundryStoneGameplayDesc", "source_en": "Bring to Franz to discover its true purpose.", "ar": "احمله إلى فرانز لتعرف غرضه الحقيقي."}
 {"key": "ST_Core_Tarforge/MuradeanActuatorGameplayDesc", "source_en": "Bring to Franz to discover its true purpose.", "ar": "احمله إلى فرانز لتعرف غرضه الحقيقي."}
@@ -7752,7 +7752,7 @@
 {"key": "ST_Core_Tutorials/Tutorial_Small_Parry_Name_Simple", "source_en": "<BoldT>Parry</>", "ar": "<BoldT>الدَّرء</>"}
 {"key": "ST_Core_Tutorials/Tutorial_Small_StaggerDamage", "source_en": "<Poise>Stagger Damage</>", "ar": "<Poise>ضرر الترنّح</>"}
 {"key": "ST_Core_Tutorials/Tutorial_Small_Resolve", "source_en": "<ResolveT>Resolve</>", "ar": "<ResolveT>العزيمة</>"}
-{"key": "ST_Core_Tutorials/GloomTutorial_1", "source_en": "A substance documented by the disciples to grant great visions of prophecy, but also death.\r\n\r\nYou recognize it as fuel for your kind, spilled from Undermether.\r\n\r\nThe disciples have a device which can refine Gloom to strengthen the Harbinger.", "ar": "مادة وثّق الحواريّين أنها تمنح رؤى النبوءة العظيمة، والموت كذلك.\r\n\r\nأما أنت فتعرفها وقودًا لبني جنسك، سال من الأُمَّهة السُّفلى.\r\n\r\nولدى الحواريّين جهاز يستطيع تكرير القَتام لتقوية النذير."}
+{"key": "ST_Core_Tutorials/GloomTutorial_1", "source_en": "A substance documented by the disciples to grant great visions of prophecy, but also death.\r\n\r\nYou recognize it as fuel for your kind, spilled from Undermether.\r\n\r\nThe disciples have a device which can refine Gloom to strengthen the Harbinger.", "ar": "مادة وثّق الحواريّون أنها تمنح رؤى النبوءة العظيمة، والموت كذلك.\r\n\r\nأما أنت فتعرفها وقودًا لبني جنسك، سال من الأُمَّهة السُّفلى.\r\n\r\nولدى الحواريّين جهاز يستطيع تكرير القَتام لتقوية النذير."}
 {"key": "ST_Core_Tutorials/AboutTarcores", "source_en": "About Tarcores", "ar": "عن ألباب القار"}
 {"key": "ST_Core_Tutorials/Tutorial_Familairity", "source_en": "Acquiring more stacks of PP items builds <bold>familiarity</> with them, increasing their active powers and unlocking new passive capabilities. ", "ar": "كلما جمعت مزيدًا من طبقات الأغراض الدائمة زادت <bold>الأُلفة</> معها، فترتفع قدراتها الفعّالة وتُفتح قدرات كامنة جديدة."}
 {"key": "ST_Core_Tutorials/Tutorial_Tarcore_3", "source_en": "After leveling up tarstones, tarcores will be dropped at its mouth.\r\n\r\nInteract with the front portion of the Tarforge to claim acquired Tarcores.", "ar": "بعد ترقية أحجار القار، تسقط ألباب القار عند فم المِصهَر.\r\n\r\nتفاعل مع مقدمة مِصهَر القار لأخذ ما جمعته من ألباب."}
@@ -7763,7 +7763,7 @@
 {"key": "ST_Core_Tutorials/CharacterProgression", "source_en": "Character Progression", "ar": "تطوّر الشخصية"}
 {"key": "ST_Core_Tutorials/Tutorial_TarstonesXPCompatibility", "source_en": "Compatibility & Experience", "ar": "التوافق والخبرة"}
 {"key": "ST_Core_Tutorials/Tutorial_PerfectGuardEnemyBroken", "source_en": "Consecutive <Bold>Perfect Guards</> will <Break>Break</> the enemy, leaving them vulnerable to a <Bold>Riposte</>.", "ar": "<Bold>الصدّات المثالية</> المتتالية <Break>تكسر</> العدو فتتركه مكشوفًا أمام <Bold>ضربة مضادة</>."}
-{"key": "ST_Core_Tutorials/Tutorial_Small_StaggerDamage_Description", "source_en": "Deal sufficient damage of this type to make the victim stagger.", "ar": "ألحِق قدرًا كافيًا من هذا الضرر لتُترنِح الضحية."}
+{"key": "ST_Core_Tutorials/Tutorial_Small_StaggerDamage_Description", "source_en": "Deal sufficient damage of this type to make the victim stagger.", "ar": "ألحِق قدرًا كافيًا من هذا الضرر لتترنّح الضحية."}
 {"key": "ST_Core_Tutorials/Tutorial_Fragile_Tarstones_Heading_1", "source_en": "Durability", "ar": "المتانة"}
 {"key": "ST_Core_Tutorials/ShellReviveTutorial_3", "source_en": "Each Shell revival demands more bloodshed than the last.", "ar": "كل إحياء لهَيكل يتطلب دماءً أكثر من سابقه."}
 {"key": "ST_Core_Tutorials/TutorialEndGame_Subname", "source_en": "End Game", "ar": "نهاية اللعبة"}
@@ -7831,7 +7831,7 @@
 {"key": "ST_Core_Tutorials/Tutorial_SlayerSeal_4", "source_en": "The Slayer Seal <bold>reduces the difficulty</> of combat by granting abilities that enhance both ranged attacks and ripostes.\r\n\r\n<boldR>Equipping the Slayer Seal will disable achievements on this save file.</>", "ar": "يخفّض خاتم القاتل <bold>صعوبة القتال</> بمنحه قدرات تعزز الهجمات البعيدة والضربات المضادة.\r\n\r\n<boldR>تجهيز خاتم القاتل يعطّل الإنجازات في ملف الحفظ هذا.</>"}
 {"key": "ST_Core_Tutorials/Tutorial_SlayerSeal_5", "source_en": "The Slayer Seal also grants the <Bold>Slayer Punch</>. ", "ar": "يمنح خاتم القاتل كذلك <Bold>لكمة القاتل</>."}
 {"key": "ST_Core_Tutorials/Tutorial_EndGame", "source_en": "The Undermether has been cleansed of the Foul Passenger and the Ova are primed for their journey.\r\n\r\nWhen ready, you may send the Ova on their way from the <Bold>Gloom Siphon</>. The more Ova you have found, the greater their odds of survival. \r\n\r\nSending the Ova will conclude this part of the story and advance the <Bold>new game plus</> cycle.", "ar": "طُهّرت الأُمَّهة السُّفلى من الراكب الفاسد، وصارت البُيوض مهيأة لرحلتها.\r\n\r\nمتى شئت، أرسل البُيوض في طريقها من <Bold>مِصفاة القَتام</>. وكلما زادت البُيوض التي وجدتها، عظمت فرص نجاتها.\r\n\r\nوإرسال البُيوض يختم هذا الفصل من الحكاية ويبدأ دورة <Bold>اللعبة الجديدة +</>."}
-{"key": "ST_Core_Tutorials/Tutorial_EvilStatue", "source_en": "The disciples have left offerings meant to lure in the Ovum thieves. \r\n\r\nIf you want to claim the reward, you must dispatch the thieves in time. \r\n\r\nIf you stray far enough from an offering, it will also be forfeit and the thieves will not follow you. ", "ar": "ترك الحواريّين قرابين لاستدراج سارقي البُيوض.\r\n\r\nوإن أردت المكافأة فعليك القضاء على السارقين في الوقت المتاح.\r\n\r\nوإن ابتعدت كثيرًا عن القربان ضاع كذلك، ولن يتبعك السارقون."}
+{"key": "ST_Core_Tutorials/Tutorial_EvilStatue", "source_en": "The disciples have left offerings meant to lure in the Ovum thieves. \r\n\r\nIf you want to claim the reward, you must dispatch the thieves in time. \r\n\r\nIf you stray far enough from an offering, it will also be forfeit and the thieves will not follow you. ", "ar": "ترك الحواريّون قرابين لاستدراج سارقي البُيوض.\r\n\r\nوإن أردت المكافأة فعليك القضاء على السارقين في الوقت المتاح.\r\n\r\nوإن ابتعدت كثيرًا عن القربان ضاع كذلك، ولن يتبعك السارقون."}
 {"key": "ST_Core_Tutorials/CharacterProgressionTutorial_2", "source_en": "The upgraded stats from leveling up with Gloom are automatically selected based on the level of the Harbinger.", "ar": "تُختار الصفات المحسّنة عند الترقية بالقَتام تلقائيًا بحسب مستوى النذير."}
 {"key": "ST_Core_Tutorials/CharacterProgressionTutorial_1", "source_en": "There are multiple ways to improve the strength of the Harbinger and Shells.\r\n\r\nSpending Gloom to level up will improve stats for both the Harbinger and your Shells", "ar": "ثمة طرق عدة لتقوية النذير والهَياكل.\r\n\r\nإنفاق القَتام للترقية يحسّن صفات النذير وهَياكلك معًا"}
 {"key": "ST_Core_Tutorials/Tutorial_Small_ToggleLockOn", "source_en": "Toggle Lock-On", "ar": "تبديل التثبيت"}
@@ -8235,7 +8235,7 @@
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_13_30", "source_en": "If you straighten up.", "ar": "إن استقمتَ."}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_01_10", "source_en": "Is… that you my son? You’re late.", "ar": "أهذا… أهذا أنت يا بنيّ؟ تأخّرت."}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_11_20", "source_en": "It doesn’t matter. I want it back.", "ar": "لا يهمّ. أريد استعادته."}
-{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_20", "source_en": "It started when you “lost” your finger?", "ar": "أبدأ الأمر حين «فقدتَ» إصبعك؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_07_20", "source_en": "It started when you “lost” your finger?", "ar": "هل بدأ الأمر حين «فقدتَ» إصبعك؟"}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Interact_80", "source_en": "It’s best not to watch.", "ar": "من الأفضل ألّا تشاهد."}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic03_Interact_20", "source_en": "It’s pointless. She’s… incomplete.", "ar": "لا فائدة. إنها… ناقصة."}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_Upgrade_110", "source_en": "It’s… competent.", "ar": "إنه… عمل كفء."}
@@ -8301,7 +8301,7 @@
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_01_20", "source_en": "Well… go on then. She hungers for more.", "ar": "حسنًا… هيا إذن. إنها تجوع للمزيد."}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_UpgradeCont_50", "source_en": "Well… out with ya!", "ar": "حسنًا… اخرج من هنا!"}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Generic01_10", "source_en": "We’ve been (coughs hard) waiting. ", "ar": "كنّا (يسعل بشدّة) ننتظر."}
-{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_05_20", "source_en": "What? Hoping I’d croak?", "ar": "ماذا؟ أكنت ترجو أن أنفق؟"}
+{"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_05_20", "source_en": "What? Hoping I’d croak?", "ar": "ماذا؟ أكنت ترجو أن أموت؟"}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Greeting_NoProof_13_20", "source_en": "What? You think our work is over?", "ar": "ماذا؟ أتظنّ أن عملنا انتهى؟"}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_TurnInProof_12_10", "source_en": "What’s this? Who are you? What did you do to my son?", "ar": "ما هذا؟ من أنت؟ ماذا فعلتَ بابني؟"}
 {"key": "ST_Dialogue_Blacksmith/Blacksmith_Upgrade_11_10", "source_en": "Whether it was… out of fear… or spite?", "ar": "أكان ذلك… خوفًا… أم حقدًا؟"}
@@ -8803,7 +8803,7 @@
 {"key": "ST_GorfDialogues/Gorf_Greeting_05_20", "source_en": "Don’t worry. I’m fine, but…", "ar": "لا تقلق. أنا بخير، لكن…"}
 {"key": "ST_GorfDialogues/Gorf_Corpse_05_30", "source_en": "Even in life, he smelled… (sniffs) rotten.", "ar": "حتى وهو حيّ، كانت رائحته… (يشمّ) فاسدة."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_02_10", "source_en": "Excuse me.", "ar": "المعذرة."}
-{"key": "ST_GorfDialogues/Gorf_Interact_06_20", "source_en": "For an old, horn-headed toad.", "ar": "بالنسبة إلى ضفدعٍ عجوز مقرون الرأس."}
+{"key": "ST_GorfDialogues/Gorf_Interact_06_20", "source_en": "For an old, horn-headed toad.", "ar": "بالنسبة إلى ضفدعٍ عجوز ذي قرون."}
 {"key": "ST_GorfDialogues/Gorf_BabyFrog_10_30", "source_en": "Good luck catching him.", "ar": "بالتوفيق في الإمساك به."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_02_30", "source_en": "Have more draught to spare?", "ar": "أعندك جرعةٌ أخرى تجود بها؟"}
 {"key": "ST_GorfDialogues/Gorf_Corpse_05_20", "source_en": "He ran in, raving about some “Great Frogga.”", "ar": "اقتحم المكان، يهذي عن «فروغا العظيم» ذاك."}
@@ -8829,7 +8829,7 @@
 {"key": "ST_GorfDialogues/Gorf_Interact_08_20", "source_en": "Instead, allow me to honor you…", "ar": "بدلًا من ذلك، اسمح لي أن أُكرّمك…"}
 {"key": "ST_GorfDialogues/Gorf_Greeting_10_30", "source_en": "Is there any chance I could… ?", "ar": "أثمّة فرصة لأن…؟"}
 {"key": "ST_GorfDialogues/Gorf_Greeting_05_40", "source_en": "It only brings pain.", "ar": "لا يجلب سوى الألم."}
-{"key": "ST_GorfDialogues/Gorf_GenericReturn_03_30", "source_en": "It’d lift my spirits.", "ar": "لرفع ذلك معنوياتي."}
+{"key": "ST_GorfDialogues/Gorf_GenericReturn_03_30", "source_en": "It’d lift my spirits.", "ar": "فذلك سيرفع معنوياتي."}
 {"key": "ST_GorfDialogues/Gorf_GenericReturn_03_10", "source_en": "It’s presumptuous of me, but…", "ar": "قد يكون هذا تطفّلًا منّي، لكن…"}
 {"key": "ST_GorfDialogues/Gorf_Greeting_Repeat_01_30", "source_en": "I’ll feel better any (cough, cough) day now.", "ar": "سأشعر بتحسّن في أي (سعال، سعال) يوم من هذه الأيام."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_01_20", "source_en": "I’m (cough) fine.", "ar": "أنا (سعال) بخير."}
@@ -8882,7 +8882,7 @@
 {"key": "ST_GorfDialogues/Gorf_Greeting_09_30", "source_en": "Where is dear Hilga?", "ar": "أين عزيزتي هيلغا؟"}
 {"key": "ST_GorfDialogues/Gorf_Interact_02_40", "source_en": "Who knows? Anyway (burp) – your reward.", "ar": "من يدري؟ على أي حال (تجشّؤ) – مكافأتك."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_03_50", "source_en": "Will I ever be…? (trails off)", "ar": "هل سأكون يومًا…؟ (يتلاشى صوته)"}
-{"key": "ST_GorfDialogues/Gorf_HilgaItem_08_30", "source_en": "Yes, so many lotions and potions.", "ar": "نعم، مراهمُ ومشاربُ لا تُحصى."}
+{"key": "ST_GorfDialogues/Gorf_HilgaItem_08_30", "source_en": "Yes, so many lotions and potions.", "ar": "نعم، مراهمُ وجرعاتٌ لا تُحصى."}
 {"key": "ST_GorfDialogues/Gorf_Interact_05_20", "source_en": "You always cheer me up.", "ar": "تُبهجني دائمًا."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_07_40_Hilga", "source_en": "You do yours.", "ar": "أدِّ أنتَ دورك."}
 {"key": "ST_GorfDialogues/Gorf_Greeting_03_10", "source_en": "You know…", "ar": "أتعلم…"}
@@ -9702,7 +9702,7 @@
 {"key": "ST_Tarstones_Effects/TarstoneEffect_Deadshot_1", "source_en": "The charged shot deals {X} damage", "ar": "تُلحق الطلقة المشحونة {X} من الضرر"}
 {"key": "ST_Tarstones_Effects/TarstoneEffect_StickyBomb_Effect_4", "source_en": "The clinging projectile deals {W} <Break>Break Damage</> upon exploding", "ar": "يُلحق المقذوف اللاصق {W} من <Break>ضرر الكَسر</> عند انفجاره"}
 {"key": "ST_Tarstones_Effects/TarstoneEffect_StickyBomb_Effect_1", "source_en": "The clinging projectile deals {X} damage upon exploding", "ar": "يُلحق المقذوف اللاصق {X} من الضرر عند انفجاره"}
-{"key": "ST_Tarstones_Effects/TarstoneEffect_StickyBomb_Effect_3", "source_en": "The clinging projectile draws the aggression of all nearby enemies", "ar": "يجذب المقذوف اللاصق إليه عدوان كل الأعداء القريبين"}
+{"key": "ST_Tarstones_Effects/TarstoneEffect_StickyBomb_Effect_3", "source_en": "The clinging projectile draws the aggression of all nearby enemies", "ar": "يجتذب المقذوف اللاصق هجمات كل الأعداء القريبين"}
 {"key": "ST_Tarstones_Effects/TarstoneEffect_StickyBomb_Effect_2", "source_en": "The clinging projectile scatters {Y} other clinging projectiles upon exploding", "ar": "ينثر المقذوف اللاصق {Y} من المقذوفات اللاصقة الأخرى عند انفجاره"}
 {"key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Bleed", "source_en": "The equipped <Bold>Sidearm</> inflicts <Bleed>Bloodcurse</> on <Critical>Critical</> hits only.", "ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Bleed>لعنة الدم</> إلا في الضربات <Critical>الحاسمة</>."}
 {"key": "ST_Tarstones_Effects/TarstoneElementalDeficiencySidearm_Burn", "source_en": "The equipped <Bold>Sidearm</> inflicts <Burn>Burn</> on <Critical>Critical</> hits only.", "ar": "لا يُنزل <Bold>السلاح الجانبي</> المُجهَّز <Burn>الحرق</> إلا في الضربات <Critical>الحاسمة</>."}

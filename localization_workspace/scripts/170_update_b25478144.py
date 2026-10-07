@@ -46,6 +46,13 @@ OV = {
  K("ST_Tarstones_Effects/TarstoneEffectHeavyHoldAttackMelee_1"): "تُعيد الهجمة المشحونة {Y} من <Health>الصحة</> عند توجيه <Critical>ضربة حاسمة</>.",
  K("ST_Tarstones_Effects/TarstoneEffectHeavyHoldAttackMelee_2"): "تمنح الهجمة المشحونة {X} من تقليل الضرر وتُعيد {Y} من <Health>الصحة</> عند توجيه <Critical>ضربة حاسمة</>.",
 }
+# Later translation fixes (readability/rhyme/meaning), key -> Arabic; wins over everything above.
+_fx = W + r"\translation_fixes_b25478144.json"
+if os.path.exists(_fx):
+    FIXES = json.load(open(_fx, encoding="utf-8"))
+    missing = [k for k in FIXES if k not in en]
+    assert not missing, f"fix keys not in the game's locres: {missing[:3]}"
+    OV.update(FIXES)
 tok = lambda s: sorted(re.findall(r"<[^>]*>|\{[^}]*\}|%[sd]", s))
 rows, bad, nov = [], [], 0
 for k, e in en.items():
