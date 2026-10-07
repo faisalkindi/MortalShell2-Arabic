@@ -19,7 +19,7 @@
 
 ## العربية
 
-**ماذا يعرّب؟** كل نصوص اللعبة (9,751 سطرًا): القوائم، الحوارات، أوصاف الأسلحة والقدرات، الدروس التعليمية، والقصة.
+**ماذا يعرّب؟** كل نصوص اللعبة (9,767 سطرًا): القوائم، الحوارات، أوصاف الأسلحة والقدرات، الدروس التعليمية، والقصة.
 
 **المميزات**
 - تُضاف العربية كلغة رسمية داخل إعدادات اللعبة (اللغة رقم 16) — لا تستبدل أي لغة أخرى.
@@ -41,7 +41,7 @@
 
 ## English
 
-**What it covers.** Every line in the game (9,751 strings): menus, dialogue, weapon and ability descriptions, tutorials, and story.
+**What it covers.** Every line in the game (9,767 strings): menus, dialogue, weapon and ability descriptions, tutorials, and story.
 
 **Features**
 - Arabic is added as a real 16th language in the in-game settings — no other language is replaced.
@@ -69,7 +69,7 @@
 
 ## Notes
 
-- Steam version. Other mods that replace the same UI widgets (main menu, options, character/inventory screens) may conflict.
+- Steam version. Other mods that replace the same UI widgets (main menu, options, character/inventory, level-up, fast travel, world map, confirmation prompts) may conflict.
 - Steam's "Verify integrity of game files" does not remove the mod (extra files, none replaced).
 - Font: SST Arabic (Samsung), used for non-commercial purposes only.
 - Report any typo, clipped label or mistranslation in [Issues](https://github.com/faisalkindi/MortalShell2-Arabic/issues) — every report is folded into the next version.

@@ -16,7 +16,7 @@ namespace MortalShell2Arabic
 {
     static class Program
     {
-        public const string Version = "1.4.0";
+        public const string Version = "1.4.1";
         const string AppId = "2584270";            // Mortal Shell II (Steam install dir "Sparta")
         static readonly string[] ModFiles =
         {
