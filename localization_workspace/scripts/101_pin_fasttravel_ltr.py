@@ -16,7 +16,9 @@ bars, so the shared delta table cannot change; instead this screen's listener WB
 InterfaceInputs map {NewEnumerator4: IA_Menu_Right_Secondary, NewEnumerator5: IA_Menu_Left_Secondary}. The listener
 broadcasts the map KEY whose value is the triggered action, so LB now sends value 10 (+1, the next tab = leftwards)
 and RB sends 9. The instance is a RawExport (unversioned): header gains a fragment for property #9 (InterfaceInputs;
-#7 is AcceptedInputs) and the map is written as NumKeysToRemove=0, Num=2, (FName key, FPackageIndex value) pairs.
+#7 is AcceptedInputs) and the map is written as NumKeysToRemove=0, Num=2, (FName key, FPackageIndex value) pairs; #41 is the widget's Slot,
+followed by the 4-byte export trailer. Checked by decoding the output beside WBP_InputListener (UAssetGUI only decodes
+BP-class instances when the class asset is present): AcceptedInputs [4, 5], InterfaceInputs as above, Slot unchanged.
 Property-only, same technique as 93b/96/97.
 Usage: 101_pin_fasttravel_ltr.py MS2   (input ft_b25478144/..., output bp_stage_fasttravel_b25478144/...)
 """
@@ -80,13 +82,14 @@ def main(usmap):
     il = next(e for e in j["Exports"] if e.get("ObjectName") == "WBP_IL_FastTravel_Filter")
     assert "RawExport" in il["$type"]
     raw = base64.b64decode(il["Data"])
-    k4, k5, tail = name("EInterfaceInput::NewEnumerator4"), name("EInterfaceInput::NewEnumerator5"), name("FocusToLocation")
-    stock = struct.pack("<HHi", 0x0207, 0x0321, 2) + struct.pack("<ii", k4, 0) + struct.pack("<ii", k5, 0) + struct.pack("<ii", tail, 0)
-    assert raw == stock, "WBP_IL_FastTravel_Filter bytes changed: " + raw.hex()
-    new = (struct.pack("<HHH", 0x0207, 0x0201, 0x031F)                         # #7 AcceptedInputs, #9 InterfaceInputs, #41 (unchanged)
+    k4, k5 = name("EInterfaceInput::NewEnumerator4"), name("EInterfaceInput::NewEnumerator5")
+    stock = struct.pack("<HHi", 0x0207, 0x0321, 2) + struct.pack("<ii", k4, 0) + struct.pack("<ii", k5, 0)
+    assert raw[:24] == stock and len(raw) == 32, "WBP_IL_FastTravel_Filter bytes changed: " + raw.hex()
+    tail = raw[24:]                                                    # #41 Slot (FPackageIndex) + 4-byte export trailer
+    new = (struct.pack("<HHH", 0x0207, 0x0201, 0x031F)                         # #7 AcceptedInputs, #9 InterfaceInputs, #41 Slot
            + struct.pack("<i", 2) + struct.pack("<ii", k4, 0) + struct.pack("<ii", k5, 0)            # AcceptedInputs = [4, 5]
            + struct.pack("<ii", 0, 2) + struct.pack("<iii", k4, 0, ia_right) + struct.pack("<iii", k5, 0, ia_left)
-           + struct.pack("<ii", tail, 0))
+           + tail)
     il["Data"] = base64.b64encode(new).decode()
     for ia in (ia_left, ia_right):
         if ia not in il["CreateBeforeSerializationDependencies"]: il["CreateBeforeSerializationDependencies"].append(ia)
@@ -105,11 +108,11 @@ def main(usmap):
         print(f"verified: {name}.{PROP} = {got[0]['Value']}")
     cil = next(e for e in c["Exports"] if e.get("ObjectName") == "WBP_IL_FastTravel_Filter")
     cb = base64.b64decode(cil["Data"]); cn = c["NameMap"]; ci = c["Imports"]
-    # layout: header 6 | AcceptedInputs count 6, keys 10/18 | map NumKeysToRemove 26, Num 30, (key 34, value 42), (key 46, value 54) | tail 58
+    # layout: header 6 | AcceptedInputs count 6, keys 10/18 | map NumKeysToRemove 26, Num 30, (key 34, value 42), (key 46, value 54) | Slot+trailer 58
     assert len(cb) == 66 and struct.unpack_from("<ii", cb, 26) == (0, 2), cb.hex()
     k4i, k5i, vR, vL = struct.unpack_from("<i", cb, 34)[0], struct.unpack_from("<i", cb, 46)[0], struct.unpack_from("<i", cb, 42)[0], struct.unpack_from("<i", cb, 54)[0]
     assert cn[struct.unpack_from("<i", cb, 10)[0]].endswith("NewEnumerator4") and cn[struct.unpack_from("<i", cb, 18)[0]].endswith("NewEnumerator5")
-    assert cn[k4i].endswith("NewEnumerator4") and cn[k5i].endswith("NewEnumerator5") and cn[struct.unpack_from("<i", cb, 58)[0]] == "FocusToLocation"
+    assert cn[k4i].endswith("NewEnumerator4") and cn[k5i].endswith("NewEnumerator5") and cb[58:] == tail
     print("verified listener map:", cn[k4i], "->", ci[-vR - 1]["ObjectName"], "|", cn[k5i], "->", ci[-vL - 1]["ObjectName"])
     assert ci[-vR - 1]["ObjectName"] == "IA_Menu_Right_Secondary" and ci[-vL - 1]["ObjectName"] == "IA_Menu_Left_Secondary"
     print("uexp", os.path.getsize(os.path.splitext(SRC)[0] + ".uexp"), "->", os.path.getsize(os.path.splitext(OUT)[0] + ".uexp"))
