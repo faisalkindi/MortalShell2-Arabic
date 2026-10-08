@@ -5,12 +5,16 @@ Symptom (Arabic, video 2026-10-07): the map is drawn over half of the menu. Over
 Anim_FadeIn slides the panel in from -500 and the map from +1920; Anim_ToggleMapMode moves RB_Map 1100->800 and the
 panel SB_Left 0->-200). RB_Map overlaps the panel and hides that overlap with its EffectMaterial, a fade mask. Under RTL
 Slate mirrors the layout and the translations, but not the mask texture, so the map's hard edge lands on the menu.
-Fix: ScaleBox_Main (root) = LeftToRight, so frame, slides and mask match English; then hand the three content groups
-that were already right in Arabic back to the culture (RTL) so they stay exactly as before:
-  Overlay_Contents           place list + its scrollbar (rows are RTL inside RetainerBox_FastTravel)
-  ScaleBox_UserScale_Prompts bottom button prompts
-Region tabs: the icon row HorizontalBox_0 [LB][tabs][RB] follows the root (LB left, RB right, as on the controller),
-but the tabs sit in RetainerBox_Filters, whose content lays out RTL regardless of outer pins (first tab on the right).
+Fix: ScaleBox_Main (root) = LeftToRight, so frame, slides and mask match English (panel left, map right); then:
+  VerticalBox_Main_Left      Culture. The panel's column (header, region tabs, place list). English nudges the header
+                             and the list 90 units TOWARD the map (ScaleBox_UserScale_Header/_Content X=+90) because
+                             left-aligned text leaves the right edge empty, and the map's faded edge covers the panel's
+                             right ~200 units. Arabic text starts at the right edge, so with the English nudge the start
+                             of every line sat under the map (v1.4.2 test). Under RTL the column's children get X=-90:
+                             the list moves 180 units away from the map. The list (Overlay_Contents) inherits RTL as before.
+  HorizontalBox_0            LeftToRight. The region-tab icon row [LB][tabs][RB] keeps LB left, RB right.
+  ScaleBox_UserScale_Prompts Culture. Bottom button prompts, as before.
+Region tabs: the tabs sit in RetainerBox_Filters, whose content lays out RTL regardless of outer pins (first tab on the right).
 LB sends EInterfaceInput value 9 (= delta -1) and would step right. Values 9/10 are shared with the Main/Options tab
 bars, so the shared delta table cannot change; instead this screen's listener WBP_IL_FastTravel_Filter gets its own
 InterfaceInputs map {NewEnumerator4: IA_Menu_Right_Secondary, NewEnumerator5: IA_Menu_Left_Secondary}. The listener
@@ -29,7 +33,8 @@ UAG = os.path.join(W, "scripts", "_tools", "UAssetGUI_110", "UAssetGUI.exe")
 REL = os.path.join("MortalShell2", "Content", "Sparta", "UI", "Menu", "LandingArea", "WBP_MGT_FastTravel.uasset")
 SRC, OUT = os.path.join(W, "ft_b25478144", REL), os.path.join(W, "bp_stage_fasttravel_b25478144", REL)
 JS = os.path.join(W, "uag_json")
-TARGETS = {"ScaleBox_Main": "LeftToRight", "Overlay_Contents": "Culture", "ScaleBox_UserScale_Prompts": "Culture"}
+TARGETS = {"ScaleBox_Main": "LeftToRight", "VerticalBox_Main_Left": "Culture", "HorizontalBox_0": "LeftToRight",
+           "ScaleBox_UserScale_Prompts": "Culture"}
 PROP, ENUM = "FlowDirectionPreference", "EFlowDirectionPreference"
 
 def run(a):
