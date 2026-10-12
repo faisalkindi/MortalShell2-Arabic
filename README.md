@@ -69,7 +69,7 @@
 
 ## Notes
 
-- Steam version. Other mods that replace the same UI widgets (main menu, options, character/inventory, level-up, fast travel, world map, confirmation prompts) may conflict.
+- Steam version. Other mods that replace the same UI widgets (main menu, options, character/inventory, level-up, fast travel, world map, confirmation prompts, in-game HUD) may conflict.
 - Steam's "Verify integrity of game files" does not remove the mod (extra files, none replaced).
 - Font: SST Arabic (Samsung), used for non-commercial purposes only.
 - Report any typo, clipped label or mistranslation in [Issues](https://github.com/faisalkindi/MortalShell2-Arabic/issues) — every report is folded into the next version.
