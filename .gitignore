@@ -45,6 +45,8 @@ __pycache__/
 # build 25478144 rebase: game-derived extractions, staging and built payloads (regenerate with the scripts; see PIPELINE.md)
 localization_workspace/src_b25478144/
 localization_workspace/zen_stage_b25478144/
+localization_workspace/zen_stage_v15_b25478144/
+localization_workspace/pak9998_stage_b25478144/
 localization_workspace/settings_bp_patched_b25478144/
 localization_workspace/b25478144_inputs/
 localization_workspace/release_b25478144/

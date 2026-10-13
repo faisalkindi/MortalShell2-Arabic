@@ -24,7 +24,7 @@
 **المميزات**
 - تُضاف العربية كلغة رسمية داخل إعدادات اللعبة (اللغة رقم 16) — لا تستبدل أي لغة أخرى.
 - خط عربي واضح ومناسب لطابع اللعبة، مع إصلاح قصّ الحروف النازلة.
-- واجهة معكوسة من اليمين إلى اليسار في القوائم والمخزون، مع بقاء أزرار التبويب (RB/LB، Z/X) في اتجاهها الطبيعي.
+- النصوص العربية تُكتب من اليمين إلى اليسار وتصطف إلى اليمين، مع بقاء تصميم الشاشات والقوائم والأزرار كما في النسخة الإنجليزية تمامًا.
 - اختيارك للغة يُحفظ ولا يعود إلى الإنجليزية عند كل تشغيل.
 - مصطلحات موحّدة عبر اللعبة كلها (مسرد يضم 200+ مصطلح) ومراجعة لغوية مزدوجة.
 - لا يعدّل أي ملف أصلي من ملفات اللعبة. الإزالة بنقرة واحدة.
@@ -46,7 +46,7 @@
 **Features**
 - Arabic is added as a real 16th language in the in-game settings — no other language is replaced.
 - Custom Arabic font tuned for the game's look, with descender clipping fixed.
-- Right-to-left mirrored layout in menus and inventory; tab controls (RB/LB, Z/X) keep their natural direction.
+- Arabic text reads right to left and is right-aligned; every screen, menu and button keeps the English layout.
 - Your language choice persists across launches.
 - Consistent terminology across the whole game (200+ term glossary) with two-model linguistic review.
 - No original game file is modified. One-click uninstall.
@@ -69,7 +69,7 @@
 
 ## Notes
 
-- Steam version. Other mods that replace the same UI widgets (main menu, options, character/inventory, level-up, fast travel, world map, confirmation prompts, in-game HUD) may conflict.
+- Steam version. Other mods that replace the language option or the settings save, or ship their own `DefaultEngine.ini`, may conflict.
 - Steam's "Verify integrity of game files" does not remove the mod (extra files, none replaced).
 - Font: SST Arabic (Samsung), used for non-commercial purposes only.
 - Report any typo, clipped label or mistranslation in [Issues](https://github.com/faisalkindi/MortalShell2-Arabic/issues) — every report is folded into the next version.
