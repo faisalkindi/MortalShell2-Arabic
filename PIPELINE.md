@@ -44,7 +44,7 @@ Installer: `cd localization_workspace/installer && dotnet publish -c Release -r 
 
 ## Updating after a game patch
 
-The mod overrides two compiled packages (`BP_UIO_Language`, `SpartaSettingsSaveObject`) and ships a copy of `DefaultEngine.ini` (v1.0-v1.4 also overrode up to 16 widget packages to undo layout mirroring; see "No layout mirroring" below). A game patch can change any of them, and a stale copy crashes the game. Last rebased onto build 25478144 (2026-09-25); the previous payload (build 25005568) is kept in `release/payload/`.
+The mod overrides two compiled packages (`BP_UIO_Language`, `SpartaSettingsSaveObject`) and ships a copy of `DefaultEngine.ini` (v1.0-v1.4 also overrode up to 16 widget packages to undo layout mirroring; see "No layout mirroring" below). A game patch can change any of them, and a stale copy crashes the game. Last rebased onto build 26315250 (2026-10-31, v1.6) with `171_update_b26315250.py`: that patch added `GetSaturationValue` to `SpartaSettingsSaveObject`, so the v1.5 copy crashed with `Failed to find function GetSaturationValue`; `BP_UIO_Language` and `Game.locmeta` were unchanged; 400 new strings (photo mode, Ruk map dialogue, Solomon's notes) were translated into `b26315250_inputs/new_strings_b26315250.json`. The previous payload (build 25005568) is kept in `release/payload/`.
 
 1. Hardlink the stock `global`/`pakchunk*` `.utoc/.ucas/.pak` into a scratch folder (so the mod's own files are excluded) and `retoc to-legacy -f <asset> --version UE5_6 --no-shaders` the five assets into `src_<build>/`; the whole folder is needed so `scriptobjects.bin` is produced.
 2. Diff stock vs previous: assets, `Game.locmeta`, `DefaultEngine.ini`, English `Game.locres` keys.

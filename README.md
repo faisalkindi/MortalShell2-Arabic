@@ -20,7 +20,7 @@
 
 ## العربية
 
-**ماذا يعرّب؟** كل نصوص اللعبة (9,767 سطرًا): القوائم، الحوارات، أوصاف الأسلحة والقدرات، الدروس التعليمية، والقصة.
+**ماذا يعرّب؟** كل نصوص اللعبة (10,218 سطرًا): القوائم، الحوارات، أوصاف الأسلحة والقدرات، الدروس التعليمية، والقصة.
 
 **المميزات**
 - تُضاف العربية كلغة رسمية داخل إعدادات اللعبة (اللغة رقم 16) — لا تستبدل أي لغة أخرى.
@@ -42,7 +42,7 @@
 
 ## English
 
-**What it covers.** Every line in the game (9,767 strings): menus, dialogue, weapon and ability descriptions, tutorials, and story.
+**What it covers.** Every line in the game (10,218 strings): menus, dialogue, weapon and ability descriptions, tutorials, and story.
 
 **Features**
 - Arabic is added as a real 16th language in the in-game settings — no other language is replaced.
